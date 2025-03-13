@@ -1,0 +1,108 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+h2 {
+    color: #555;
+    margin-top: 30px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}
+
+#charts-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.chart-wrapper {
+    margin-bottom: 50px;
+    padding: 20px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.chart-container {
+    width: 100%;
+    height: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.node rect {
+    cursor: move;
+    fill-opacity: 0.9;
+    shape-rendering: crispEdges;
+}
+
+.node text {
+    pointer-events: none;
+    text-shadow: 0 1px 0 #fff;
+    font-size: 12px;
+}
+
+.link {
+    fill: none;
+    stroke: #000;
+    stroke-opacity: 0.2;
+}
+
+.link:hover {
+    stroke-opacity: 0.5;
+}
+
+.error {
+    color: #d9534f;
+    padding: 10px;
+    background-color: #f9f2f2;
+    border-radius: 4px;
+}
+
+.link-value {
+    pointer-events: none;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+}
+
+.link-value-rect {
+    fill: white;
+    fill-opacity: 0.9;
+    rx: 3;
+    ry: 3;
+    stroke: #eee;
+    stroke-width: 0.5;
+}
+
+.stage-label {
+    font-family: Arial, sans-serif;
+    fill: #333;
+}
+
+.stage-separator {
+    stroke-width: 1px;
+}
+
+.tooltip {
+    font-size: 14px;
+    line-height: 1.5;
+    z-index: 1000;
+}
+
+.tooltip-custom {
+    margin-top: 8px;
+    padding-top: 8px;
+    border-top: 1px dashed #ccc;
+}
+
+.tooltip-source, .tooltip-target {
+    margin-top: 5px;
+    color: #555;
+} 

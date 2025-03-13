@@ -1,0 +1,25 @@
+{
+  "nodes":[
+    {"name":"SEO 対策", "color":"#ff0000"},
+    {"name":"A", "color":"#00ff00"},
+    {"name":"B", "color":"#0000ff"},
+    {"name":"C", "color":"#ffff00"},
+    {"name":"D", "color":"#ff00ff"},
+    {"name":"E", "color":"#00ffff"},
+    {"name":"F", "color":"#e377c2"},
+    {"name":"G", "color":"#888888"}
+  ],
+  "links":[
+    {"source":0,"target":1,"value":300},
+    {"source":0,"target":2,"value":200},
+    {"source":0,"target":3,"value":100},
+    {"source":1,"target":4,"value":100},
+    {"source":1,"target":5,"value":80},
+    {"source":2,"target":4,"value":50},
+    {"source":2,"target":5,"value":50},
+    {"source":3,"target":5,"value":60},
+    {"source":4,"target":6,"value":60},
+    {"source":5,"target":7,"value":90}
+    
+  ]
+}

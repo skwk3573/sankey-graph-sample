@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>サンキーチャート</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .chart-wrapper {
+            margin-bottom: 50px;
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        .chart-container {
+            width: 100%;
+            overflow-x: auto;
+        }
+        h2 {
+            color: #333;
+        }
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>サンキーチャート分析</h1>
+    <div id="charts-container"></div>
+
+    <!-- D3.jsとサンキーチャートプラグインを読み込み -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/d3-sankey@0.12.3/dist/d3-sankey.min.js"></script>
+    
+    <!-- 自作スクリプトを読み込み（キャッシュ回避のためにタイムスタンプを追加） -->
+    <script src="script.js?v=<?= Date.now() ?>"></script>
+</body>
+</html> 
