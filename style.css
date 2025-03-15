@@ -105,4 +105,23 @@ h2 {
 .tooltip-source, .tooltip-target {
     margin-top: 5px;
     color: #555;
+}
+
+.chart-controls {
+    margin-bottom: 15px;
+    text-align: right;
+}
+
+.toggle-link-width {
+    padding: 8px 12px;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+
+.toggle-link-width:hover {
+    background-color: #eee;
 } 

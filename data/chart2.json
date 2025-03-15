@@ -1,0 +1,111 @@
+{
+    "nodes": [
+        {
+            "name": "SEO検索"
+        },
+        {
+            "name": "URL-A2"
+        },
+        {
+            "name": "URL-A4"
+        },
+        {
+            "name": "URL-B1"
+        },
+        {
+            "name": "URL-B2"
+        },
+        {
+            "name": "URL-C2"
+        },
+        {
+            "name": "URL-C1"
+        },
+        {
+            "name": "URL-mcv1"
+        },
+        {
+            "name": "URL-cv1"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "value": 50,
+            "tooltip": ""
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 90,
+            "tooltip": ""
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 100,
+            "tooltip": ""
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 100,
+            "tooltip": ""
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": 50,
+            "tooltip": ""
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 50,
+            "tooltip": ""
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "value": 90,
+            "tooltip": ""
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "value": 33,
+            "tooltip": ""
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 17,
+            "tooltip": ""
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "value": 75,
+            "tooltip": ""
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 22,
+            "tooltip": ""
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "value": 74,
+            "tooltip": ""
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "value": 32,
+            "tooltip": ""
+        }
+    ]
+}

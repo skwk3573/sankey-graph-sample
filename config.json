@@ -1,6 +1,10 @@
 {
   "dataFiles": [
-    "枝分割あり.json",
-    "枝分割なし.json"
+    "実装確認-2.json",
+    "実装確認.json",
+    "経路分析サンプル-1.json",
+    "経路分析サンプル-2.json",
+    "chart1.json",
+    "chart2.json"
   ]
 } 

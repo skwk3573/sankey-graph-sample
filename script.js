@@ -19,6 +19,23 @@ function drawSankeyChart(data, containerId, title) {
     container.append("h2")
         .text(title);
     
+    // 切り替えボタンを追加
+    const controlDiv = container.append("div")
+        .attr("class", "chart-controls");
+    
+    // 初期状態は均一の太さ
+    let useUniformWidth = true;
+    
+    // 切り替えボタンを追加
+    controlDiv.append("button")
+        .attr("class", "toggle-link-width")
+        .text("経路の太さ: 均一")
+        .on("click", function() {
+            useUniformWidth = !useUniformWidth;
+            d3.select(this).text(`経路の太さ: ${useUniformWidth ? '均一' : '流量比例'}`);
+            updateLinkWidth();
+        });
+    
     // チャート用のdiv要素を追加
     const chartDiv = container.append("div")
         .attr("class", "chart-container");
@@ -115,12 +132,12 @@ function drawSankeyChart(data, containerId, title) {
         .attr("class", "link")
         .attr("d", d3.sankeyLinkHorizontal())
         .attr("stroke", d => color(d.source.name))
-        .attr("stroke-width", 10) // すべての経路を均一の太さに設定 
+        .attr("stroke-width", d => useUniformWidth ? 10 : Math.max(1, d.width))
         .on("mouseover", function(event, d) {
             // リンクをハイライト
             d3.select(this)
                 .attr("stroke-opacity", 0.5)
-                .attr("stroke-width", 7); // ハイライト時は少し太く
+                .attr("stroke-width", useUniformWidth ? 12 : Math.max(1, d.width) + 2);
             
             // 関連するノードをハイライト
             node.filter(n => n === d.source || n === d.target)
@@ -176,7 +193,7 @@ function drawSankeyChart(data, containerId, title) {
             // ハイライトを元に戻す
             d3.select(this)
                 .attr("stroke-opacity", 0.2)
-                .attr("stroke-width", 5); // 元の均一の太さに戻す
+                .attr("stroke-width", useUniformWidth ? 10 : Math.max(1, d.width));
             
             // ノードのハイライトを元に戻す
             node.select("rect")
@@ -185,6 +202,13 @@ function drawSankeyChart(data, containerId, title) {
             // ツールチップを削除
             d3.select(".tooltip").remove();
         });
+
+    // 経路の太さを更新する関数
+    function updateLinkWidth() {
+        link.transition()
+            .duration(500)
+            .attr("stroke-width", d => useUniformWidth ? 10 : Math.max(1, d.width));
+    }
 
     // リンク上に値を表示するテキストを追加
     svg.append("g")
@@ -247,8 +271,7 @@ function drawSankeyChart(data, containerId, title) {
             // 関連するリンクをハイライト
             link.filter(l => l.source === d || l.target === d)
                 .attr("stroke-opacity", 0.5)
-                // .attr("stroke-width", l => Math.max(1, l.width) + 2);
-                .attr("stroke-width", 5);
+                .attr("stroke-width", l => useUniformWidth ? 12 : Math.max(1, l.width) + 2);
         })
         .on("mouseout", function(event, d) {
             // ハイライトを元に戻す
@@ -257,8 +280,7 @@ function drawSankeyChart(data, containerId, title) {
             
             // リンクのハイライトを元に戻す
             link.attr("stroke-opacity", 0.2)
-                // .attr("stroke-width", l => Math.max(1, l.width));
-                .attr("stroke-width", 5);
+                .attr("stroke-width", l => useUniformWidth ? 10 : Math.max(1, l.width));
         });
 
     // ノードにラベルを追加
