@@ -121,6 +121,38 @@ function drawSankeyChart(data, containerId, title) {
     // カラースケールを設定
     const color = d3.scaleOrdinal(d3.schemeCategory10);
 
+    // リンク上に値を表示するテキストを追加
+    const linkLabels = svg.append("g")
+        .attr("class", "link-labels")
+        .selectAll("text")
+        .data(graph.links)
+        .enter().append("text")
+        .attr("class", "link-value")
+        .attr("x", d => (d.source.x1 + d.target.x0) / 2)
+        .attr("y", d => (d.y1 + d.y0) / 2)
+        .attr("dy", "0.35em")
+        .attr("text-anchor", "middle")
+        .attr("font-size", "14px")
+        .attr("font-weight", "bold")
+        .attr("fill", "#000")
+        .attr("pointer-events", "none")
+        .text(d => d.value)
+        .attr("background", "white")
+        .each(function(d) {
+            // テキストの背景を白くするための矩形を追加
+            const bbox = this.getBBox();
+            const padding = 3;
+            
+            d3.select(this.parentNode).insert("rect", "text")
+                .attr("class", "label-background")
+                .attr("x", bbox.x - padding)
+                .attr("y", bbox.y - padding)
+                .attr("width", bbox.width + (padding * 2))
+                .attr("height", bbox.height + (padding * 2))
+                .attr("fill", "white")
+                .attr("fill-opacity", 0.8);
+        });
+
     // リンク（フロー）を描画
     const link = svg.append("g")
         .attr("class", "links")
@@ -146,6 +178,16 @@ function drawSankeyChart(data, containerId, title) {
             node.filter(n => n === d.source || n === d.target)
                 .select("rect")
                 .attr("stroke-width", 3);
+            
+            // すべてのリンクラベルを非表示にする
+            svg.selectAll(".link-value, .label-background").style("opacity", 0);
+            
+            // 選択されたリンクのラベルだけを表示する
+            svg.selectAll(".link-value").filter(l => l === d).style("opacity", 1);
+            svg.selectAll(".label-background").filter(function() {
+                const textElement = d3.select(this.nextSibling);
+                return textElement.datum() === d;
+            }).style("opacity", 0.8);
             
             // ツールチップを表示
             const tooltip = d3.select("body").append("div")
@@ -204,6 +246,9 @@ function drawSankeyChart(data, containerId, title) {
             node.select("rect")
                 .attr("stroke-width", 1);
             
+            // すべてのリンクラベルを表示する
+            svg.selectAll(".link-value, .label-background").style("opacity", 1);
+            
             // ツールチップを削除
             d3.select(".tooltip").remove();
         });
@@ -214,37 +259,6 @@ function drawSankeyChart(data, containerId, title) {
             .duration(500)
             .attr("stroke-width", d => useUniformWidth ? 10 : Math.max(1, d.width));
     }
-
-    // リンク上に値を表示するテキストを追加
-    svg.append("g")
-        .attr("class", "link-labels")
-        .selectAll("text")
-        .data(graph.links)
-        .enter().append("text")
-        .attr("class", "link-value")
-        .attr("x", d => (d.source.x1 + d.target.x0) / 2)
-        .attr("y", d => (d.y1 + d.y0) / 2)
-        .attr("dy", "0.35em")
-        .attr("text-anchor", "middle")
-        .attr("font-size", "14px")
-        .attr("font-weight", "bold")
-        .attr("fill", "#000")
-        .attr("pointer-events", "none")
-        .text(d => d.value)
-        .attr("background", "white")
-        .each(function(d) {
-            // テキストの背景を白くするための矩形を追加
-            const bbox = this.getBBox();
-            const padding = 3;
-            
-            d3.select(this.parentNode).insert("rect", "text")
-                .attr("x", bbox.x - padding)
-                .attr("y", bbox.y - padding)
-                .attr("width", bbox.width + (padding * 2))
-                .attr("height", bbox.height + (padding * 2))
-                .attr("fill", "white")
-                .attr("fill-opacity", 0.8);
-        });
 
     // ノードを描画
     const node = svg.append("g")
@@ -277,9 +291,20 @@ function drawSankeyChart(data, containerId, title) {
             link.attr("stroke-opacity", 0.05);
             
             // 関連するリンクをハイライト
-            link.filter(l => l.source === d || l.target === d)
+            const relatedLinks = link.filter(l => l.source === d || l.target === d)
                 .attr("stroke-opacity", 0.8)
                 .attr("stroke-width", l => useUniformWidth ? 12 : Math.max(1, l.width) + 2);
+                
+            // すべてのリンクラベルを非表示にする
+            svg.selectAll(".link-value, .label-background").style("opacity", 0);
+            
+            // 関連するリンクのラベルだけを表示する
+            svg.selectAll(".link-value").filter(l => l.source === d || l.target === d).style("opacity", 1);
+            svg.selectAll(".label-background").filter(function() {
+                const textElement = d3.select(this.nextSibling);
+                const textData = textElement.datum();
+                return textData.source === d || textData.target === d;
+            }).style("opacity", 0.8);
         })
         .on("mouseout", function(event, d) {
             // ハイライトを元に戻す
@@ -289,6 +314,9 @@ function drawSankeyChart(data, containerId, title) {
             // リンクのハイライトを元に戻す
             link.attr("stroke-opacity", 0.2)
                 .attr("stroke-width", l => useUniformWidth ? 10 : Math.max(1, l.width));
+            
+            // すべてのリンクラベルを表示する
+            svg.selectAll(".link-value, .label-background").style("opacity", 1);
         });
 
     // ノードにラベルを追加
