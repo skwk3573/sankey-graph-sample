@@ -134,9 +134,12 @@ function drawSankeyChart(data, containerId, title) {
         .attr("stroke", d => color(d.source.name))
         .attr("stroke-width", d => useUniformWidth ? 10 : Math.max(1, d.width))
         .on("mouseover", function(event, d) {
-            // リンクをハイライト
+            // すべてのリンクの透明度を下げる
+            link.attr("stroke-opacity", 0.05);
+            
+            // 選択されたリンクをハイライト
             d3.select(this)
-                .attr("stroke-opacity", 0.5)
+                .attr("stroke-opacity", 0.8)
                 .attr("stroke-width", useUniformWidth ? 12 : Math.max(1, d.width) + 2);
             
             // 関連するノードをハイライト
@@ -190,9 +193,11 @@ function drawSankeyChart(data, containerId, title) {
                 .style("top", (event.pageY - 28) + "px");
         })
         .on("mouseout", function(event, d) {
-            // ハイライトを元に戻す
+            // すべてのリンクの透明度を元に戻す
+            link.attr("stroke-opacity", 0.2);
+            
+            // 選択されたリンクのスタイルを元に戻す
             d3.select(this)
-                .attr("stroke-opacity", 0.2)
                 .attr("stroke-width", useUniformWidth ? 10 : Math.max(1, d.width));
             
             // ノードのハイライトを元に戻す
@@ -268,9 +273,12 @@ function drawSankeyChart(data, containerId, title) {
             d3.select(this)
                 .attr("stroke-width", 3);
             
+            // すべてのリンクの透明度を下げる
+            link.attr("stroke-opacity", 0.05);
+            
             // 関連するリンクをハイライト
             link.filter(l => l.source === d || l.target === d)
-                .attr("stroke-opacity", 0.5)
+                .attr("stroke-opacity", 0.8)
                 .attr("stroke-width", l => useUniformWidth ? 12 : Math.max(1, l.width) + 2);
         })
         .on("mouseout", function(event, d) {

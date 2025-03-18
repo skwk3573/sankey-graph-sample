@@ -1,114 +1,384 @@
 {
-
-      "nodes": [
-          {
-              "name": "SEO初心者"
-          },
-          {
-              "name": "URL-A"
-          },
-          {
-              "name": "SEO検索"
-          },
-          {
-              "name": "URL-A2"
-          },
-          {
-              "name": "SEO対策"
-          },
-          {
-              "name": "URL-B"
-          },
-          {
-              "name": "URL-D"
-          },
-          {
-              "name": "URL-G"
-          },
-          {
-              "name": "URL-E"
-          },
-          {
-              "name": "URL-C"
-          },
-          {
-              "name": "URL-F"
-          },
-          {
-              "name": "SEOコンサルタント"
-          }
-      ],
-      "links": [
-          {
-              "source": 0,
-              "target": 1,
-              "value": 100
-          },
-          {
-              "source": 2,
-              "target": 1,
-              "value": 50
-          },
-          {
-              "source": 2,
-              "target": 3,
-              "value": 100
-          },
-          {
-              "source": 4,
-              "target": 3,
-              "value": 200
-          },
-          {
-              "source": 1,
-              "target": 5,
-              "value": 100
-          },
-          {
-              "source": 5,
-              "target": 6,
-              "value": 175
-          },
-          {
-              "source": 6,
-              "target": 7,
-              "value": 335
-          },
-          {
-              "source": 5,
-              "target": 8,
-              "value": 75
-          },
-          {
-              "source": 1,
-              "target": 9,
-              "value": 50
-          },
-          {
-              "source": 9,
-              "target": 10,
-              "value": 40
-          },
-          {
-              "source": 9,
-              "target": 6,
-              "value": 160
-          },
-          {
-              "source": 3,
-              "target": 5,
-              "value": 150
-          },
-          {
-              "source": 3,
-              "target": 9,
-              "value": 150
-          },
-          {
-              "source": 11,
-              "target": 9,
-              "value": 100
-          }
-      ]
-
+    "nodes": [
+        {
+            "name": "SEO対策 初心者"
+        },
+        {
+            "name": "research/article-1"
+        },
+        {
+            "name": "research/article-2"
+        },
+        {
+            "name": "research/article-3"
+        },
+        {
+            "name": "evaluation/product-1"
+        },
+        {
+            "name": "evaluation/product-2"
+        },
+        {
+            "name": "evaluation/product-3"
+        },
+        {
+            "name": "decision/product-1"
+        },
+        {
+            "name": "decision/product-2"
+        },
+        {
+            "name": "decision/product-3"
+        },
+        {
+            "name": "mcv/purchase/product-1"
+        },
+        {
+            "name": "cv/checkout/product-1"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "value": 1802,
+            "tooltip": ""
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "value": 1767,
+            "tooltip": ""
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "value": 1753,
+            "tooltip": ""
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "value": 1762,
+            "tooltip": ""
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "value": 1781,
+            "tooltip": ""
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "value": 1718,
+            "tooltip": ""
+        },
+        {
+            "source": 0,
+            "target": 7,
+            "value": 1726,
+            "tooltip": ""
+        },
+        {
+            "source": 0,
+            "target": 8,
+            "value": 1788,
+            "tooltip": ""
+        },
+        {
+            "source": 0,
+            "target": 9,
+            "value": 1828,
+            "tooltip": ""
+        },
+        {
+            "source": 0,
+            "target": 10,
+            "value": 1638,
+            "tooltip": ""
+        },
+        {
+            "source": 0,
+            "target": 11,
+            "value": 1720,
+            "tooltip": ""
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "value": 42,
+            "tooltip": ""
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "value": 38,
+            "tooltip": ""
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "value": 43,
+            "tooltip": ""
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "value": 41,
+            "tooltip": ""
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "value": 36,
+            "tooltip": ""
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "value": 43,
+            "tooltip": ""
+        },
+        {
+            "source": 2,
+            "target": 10,
+            "value": 38,
+            "tooltip": ""
+        },
+        {
+            "source": 2,
+            "target": 11,
+            "value": 40,
+            "tooltip": ""
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "value": 45,
+            "tooltip": ""
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "value": 36,
+            "tooltip": ""
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "value": 39,
+            "tooltip": ""
+        },
+        {
+            "source": 3,
+            "target": 7,
+            "value": 41,
+            "tooltip": ""
+        },
+        {
+            "source": 3,
+            "target": 8,
+            "value": 42,
+            "tooltip": ""
+        },
+        {
+            "source": 3,
+            "target": 9,
+            "value": 39,
+            "tooltip": ""
+        },
+        {
+            "source": 3,
+            "target": 10,
+            "value": 39,
+            "tooltip": ""
+        },
+        {
+            "source": 3,
+            "target": 11,
+            "value": 44,
+            "tooltip": ""
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "value": 39,
+            "tooltip": ""
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "value": 40,
+            "tooltip": ""
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "value": 43,
+            "tooltip": ""
+        },
+        {
+            "source": 1,
+            "target": 7,
+            "value": 46,
+            "tooltip": ""
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "value": 41,
+            "tooltip": ""
+        },
+        {
+            "source": 1,
+            "target": 9,
+            "value": 42,
+            "tooltip": ""
+        },
+        {
+            "source": 1,
+            "target": 10,
+            "value": 43,
+            "tooltip": ""
+        },
+        {
+            "source": 1,
+            "target": 11,
+            "value": 34,
+            "tooltip": ""
+        },
+        {
+            "source": 4,
+            "target": 7,
+            "value": 44,
+            "tooltip": ""
+        },
+        {
+            "source": 4,
+            "target": 8,
+            "value": 43,
+            "tooltip": ""
+        },
+        {
+            "source": 4,
+            "target": 9,
+            "value": 40,
+            "tooltip": ""
+        },
+        {
+            "source": 4,
+            "target": 10,
+            "value": 41,
+            "tooltip": ""
+        },
+        {
+            "source": 4,
+            "target": 11,
+            "value": 43,
+            "tooltip": ""
+        },
+        {
+            "source": 5,
+            "target": 7,
+            "value": 44,
+            "tooltip": ""
+        },
+        {
+            "source": 5,
+            "target": 8,
+            "value": 48,
+            "tooltip": ""
+        },
+        {
+            "source": 5,
+            "target": 9,
+            "value": 42,
+            "tooltip": ""
+        },
+        {
+            "source": 5,
+            "target": 10,
+            "value": 44,
+            "tooltip": ""
+        },
+        {
+            "source": 5,
+            "target": 11,
+            "value": 41,
+            "tooltip": ""
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "value": 41,
+            "tooltip": ""
+        },
+        {
+            "source": 6,
+            "target": 8,
+            "value": 46,
+            "tooltip": ""
+        },
+        {
+            "source": 6,
+            "target": 9,
+            "value": 42,
+            "tooltip": ""
+        },
+        {
+            "source": 6,
+            "target": 10,
+            "value": 42,
+            "tooltip": ""
+        },
+        {
+            "source": 6,
+            "target": 11,
+            "value": 47,
+            "tooltip": ""
+        },
+        {
+            "source": 7,
+            "target": 10,
+            "value": 43,
+            "tooltip": ""
+        },
+        {
+            "source": 7,
+            "target": 11,
+            "value": 46,
+            "tooltip": ""
+        },
+        {
+            "source": 8,
+            "target": 10,
+            "value": 49,
+            "tooltip": ""
+        },
+        {
+            "source": 8,
+            "target": 11,
+            "value": 42,
+            "tooltip": ""
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "value": 48,
+            "tooltip": ""
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "value": 49,
+            "tooltip": ""
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "value": 46,
+            "tooltip": ""
+        }
+    ]
 }
