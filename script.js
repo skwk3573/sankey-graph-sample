@@ -121,38 +121,6 @@ function drawSankeyChart(data, containerId, title) {
     // カラースケールを設定
     const color = d3.scaleOrdinal(d3.schemeCategory10);
 
-    // リンク上に値を表示するテキストを追加
-    const linkLabels = svg.append("g")
-        .attr("class", "link-labels")
-        .selectAll("text")
-        .data(graph.links)
-        .enter().append("text")
-        .attr("class", "link-value")
-        .attr("x", d => (d.source.x1 + d.target.x0) / 2)
-        .attr("y", d => (d.y1 + d.y0) / 2)
-        .attr("dy", "0.35em")
-        .attr("text-anchor", "middle")
-        .attr("font-size", "14px")
-        .attr("font-weight", "bold")
-        .attr("fill", "#000")
-        .attr("pointer-events", "none")
-        .text(d => d.value)
-        .attr("background", "white")
-        .each(function(d) {
-            // テキストの背景を白くするための矩形を追加
-            const bbox = this.getBBox();
-            const padding = 3;
-            
-            d3.select(this.parentNode).insert("rect", "text")
-                .attr("class", "label-background")
-                .attr("x", bbox.x - padding)
-                .attr("y", bbox.y - padding)
-                .attr("width", bbox.width + (padding * 2))
-                .attr("height", bbox.height + (padding * 2))
-                .attr("fill", "white")
-                .attr("fill-opacity", 0.8);
-        });
-
     // リンク（フロー）を描画
     const link = svg.append("g")
         .attr("class", "links")
@@ -381,6 +349,47 @@ function drawSankeyChart(data, containerId, title) {
             .attr("rx", 5)
             .attr("ry", 5);
     });
+
+    // リンク上に値を表示するテキストを追加（最後に描画して最前面に表示）
+    const linkLabels = svg.append("g")
+        .attr("class", "link-labels")
+        .selectAll("g")
+        .data(graph.links)
+        .enter().append("g");
+        
+    // 背景の矩形を追加
+    linkLabels.append("rect")
+        .attr("class", "label-background")
+        .attr("x", d => {
+            const x = (d.source.x1 + d.target.x0) / 2;
+            const width = String(d.value).length * 8 + 10; // 値の長さに基づいて幅を計算
+            return x - width / 2;
+        })
+        .attr("y", d => (d.y1 + d.y0) / 2 - 10)
+        .attr("width", d => String(d.value).length * 8 + 10) // 値の長さに基づいて幅を計算
+        .attr("height", 20)
+        .attr("fill", "white")
+        .attr("fill-opacity", 1)
+        .attr("rx", 3) // 角を丸くする
+        .attr("ry", 3);
+        
+    // テキストを追加
+    linkLabels.append("text")
+        .attr("class", "link-value")
+        .attr("x", d => (d.source.x1 + d.target.x0) / 2)
+        .attr("y", d => (d.y1 + d.y0) / 2)
+        .attr("dy", "0.35em")
+        .attr("text-anchor", "middle")
+        .attr("font-size", "14px")
+        .attr("font-weight", "bold")
+        .attr("fill", "white")
+        .attr("fill-opacity", "1")
+        .attr("stroke", "black")
+        .attr("stroke-width", "2px")
+        .attr("stroke-opacity", "1")
+        .attr("paint-order", "stroke fill")
+        .attr("pointer-events", "none")
+        .text(d => d.value);
 }
 
 // メイン処理：データファイルを読み込んでチャートを描画
