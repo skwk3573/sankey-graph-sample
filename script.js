@@ -85,8 +85,26 @@ function drawSankeyChart(data, containerId, title) {
     // x座標でソート
     stagePositions.sort((a, b) => a - b);
     
-    // 段階のラベル
-    const stageLabels = ["流入キーワード", "情報収集", "評価検討", "意思決定", "mCV", "CV"];
+    // 段階のラベルを動的に生成
+    let stageLabels = ["流入キーワード", "情報収集", "評価検討", "意思決定"];
+    
+    // 意思決定以降のフェーズ数を計算
+    const decisionPhaseIndex = 3; // 意思決定は4番目（インデックスは3）
+    const postDecisionPhases = stagePositions.length - (decisionPhaseIndex + 1);
+    
+    // 意思決定以降のフェーズラベルを設定
+    if (postDecisionPhases > 0) {
+        if (postDecisionPhases === 1) {
+            // 意思決定以降のフェーズが1つの場合
+            stageLabels.push("CV");
+        } else {
+            // 意思決定以降のフェーズが複数の場合
+            for (let i = 1; i < postDecisionPhases; i++) {
+                stageLabels.push(`mCV${i}`);
+            }
+            stageLabels.push("CV"); // 最後のフェーズは常にCV
+        }
+    }
     
     // 段階ラベルを追加
     for (let i = 0; i < stagePositions.length && i < stageLabels.length; i++) {
