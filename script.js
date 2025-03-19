@@ -66,7 +66,30 @@ function drawSankeyChart(data, containerId, title) {
         });
 
     // データをサンキーレイアウト用に変換
-    const graph = sankey(data);
+    // ノードのidとnameを処理
+    const nodeById = {};
+    
+    // まずノードのマッピングを作成
+    data.nodes.forEach(node => {
+        nodeById[node.id] = { ...node };
+    });
+    
+    // リンクのsourceとtargetをオブジェクト参照に変換
+    const links = data.links.map(link => ({
+        source: nodeById[link.source],
+        target: nodeById[link.target],
+        value: link.value,
+        tooltip: link.tooltip
+    }));
+    
+    // サンキーレイアウト用のデータ構造
+    const sankeyData = {
+        nodes: Object.values(nodeById),
+        links: links
+    };
+    
+    // サンキーレイアウトを適用
+    const graph = sankey(sankeyData);
     
     // ノードの段階を特定（x座標でグループ化）
     const stagePositions = [];
@@ -312,7 +335,7 @@ function drawSankeyChart(data, containerId, title) {
         .attr("dy", "0.35em")
         .attr("text-anchor", "end")
         .text(d => {
-            // グループIDがある場合は表示名を変更
+            // 表示名を使用
             if (d.group && d.path) {
                 return `${d.name} (${d.path})`;
             }
@@ -326,6 +349,9 @@ function drawSankeyChart(data, containerId, title) {
     node.append("title")
         .text(d => {
             let tooltip = `${d.name}\n値: ${d.value}`;
+            if (d.id) {
+                tooltip += `\nID: ${d.id}`;
+            }
             if (d.path) {
                 tooltip += `\n経路: ${d.path}`;
             }
