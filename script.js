@@ -455,7 +455,16 @@ async function loadAndDrawChart(fileName) {
         
         const filePath = `data/${fileName}`;
         
-        // チャートのコンテナを作成
+        // データを読み込む前にレスポンスを確認
+        const response = await fetch(filePath);
+        if (!response.ok) {
+            throw new Error(`ファイル ${fileName} が見つかりません (${response.status})`);
+        }
+        
+        // JSONデータを解析
+        const data = await response.json();
+        
+        // チャートのコンテナを作成（データが正常に読み込めた後に作成）
         const containerId = `chart-${Date.now()}`; // ユニークなIDを生成
         const container = document.createElement('div');
         container.id = containerId;
@@ -472,26 +481,13 @@ async function loadAndDrawChart(fileName) {
         // タイトル用のファイル名（.jsonを除去）
         const title = fileName.replace('.json', '');
         
-        // データを読み込んでチャートを描画
-        const response = await fetch(filePath);
-        if (!response.ok) {
-            throw new Error(`ファイル ${fileName} が見つかりません (${response.status})`);
-        }
-        
-        const data = await response.json();
+        // チャートを描画
         drawSankeyChart(data, containerId, title);
         
         return true;
     } catch (error) {
         console.error(`${fileName}の読み込みに失敗しました:`, error);
         alert(`エラー: ${fileName}の読み込みに失敗しました。\n${error.message}`);
-        
-        // エラーが発生した場合、空のコンテナを削除
-        const container = document.getElementById(containerId);
-        if (container) {
-            container.remove();
-        }
-        
         return false;
     }
 }
