@@ -496,8 +496,91 @@ async function loadAndDrawChart(fileName) {
     }
 }
 
+// オートコンプリート機能を設定する関数
+async function setupAutocomplete() {
+    const input = document.getElementById('chart-filename');
+    const autocompleteList = document.getElementById('autocomplete-list');
+    
+    // 利用可能なデータファイルのリストを取得
+    const dataFiles = await getDataFilesList();
+    
+    // ファイル名から.jsonを除去したリストを作成
+    const fileNames = dataFiles.map(file => file.replace('.json', ''));
+    
+    // 入力フィールドにフォーカスが当たったときにすべての候補を表示
+    input.addEventListener('focus', function() {
+        showAllFiles();
+    });
+    
+    // 入力フィールドの値が変更されたときにフィルタリングされた候補を表示
+    input.addEventListener('input', function() {
+        if (this.value.trim() === '') {
+            showAllFiles();
+        } else {
+            showFilteredFiles(this.value);
+        }
+    });
+    
+    // 入力フィールドからフォーカスが外れたときにリストを非表示（少し遅延させる）
+    input.addEventListener('blur', function() {
+        setTimeout(() => {
+            autocompleteList.style.display = 'none';
+        }, 200);
+    });
+    
+    // すべてのファイル候補を表示する関数
+    function showAllFiles() {
+        autocompleteList.innerHTML = '';
+        
+        if (fileNames.length > 0) {
+            autocompleteList.style.display = 'block';
+            
+            fileNames.forEach(name => {
+                const div = document.createElement('div');
+                div.textContent = name;
+                div.addEventListener('click', function() {
+                    input.value = name;
+                    autocompleteList.style.display = 'none';
+                });
+                autocompleteList.appendChild(div);
+            });
+        } else {
+            autocompleteList.style.display = 'none';
+        }
+    }
+    
+    // 入力値でフィルタリングしたファイル候補を表示する関数
+    function showFilteredFiles(inputValue) {
+        autocompleteList.innerHTML = '';
+        
+        // 入力値に一致するファイル名をフィルタリング
+        const matchingFiles = fileNames.filter(name => 
+            name.toLowerCase().includes(inputValue.toLowerCase())
+        );
+        
+        if (matchingFiles.length > 0) {
+            autocompleteList.style.display = 'block';
+            
+            matchingFiles.forEach(name => {
+                const div = document.createElement('div');
+                div.textContent = name;
+                div.addEventListener('click', function() {
+                    input.value = name;
+                    autocompleteList.style.display = 'none';
+                });
+                autocompleteList.appendChild(div);
+            });
+        } else {
+            autocompleteList.style.display = 'none';
+        }
+    }
+}
+
 // ページ読み込み時の初期化処理
 document.addEventListener('DOMContentLoaded', function() {
+    // オートコンプリート機能を設定
+    setupAutocomplete();
+    
     // フォーム送信イベントを処理
     document.getElementById('add-chart-form').addEventListener('submit', async function(event) {
         event.preventDefault();
