@@ -1,9 +1,14 @@
 {
   "dataFiles": [
     "chart1.json",
-    "経路分析サンプル-1.json",
-    "経路分析サンプル-2.json",
-    "実装確認.json",
-    "実装確認-2.json"
+    "chart2.json",
+    "chart3.json",
+    "chart4.json",
+    "chart5.json",
+    "chart6.json",
+    "chart7.json",
+    "chart8.json",
+    "chart9.json",
+    "chart10.json"
   ]
 } 
