@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "id": "工場勤務 女性 きつい",
+      "name": "工場勤務 女性 きつい"
+    },
+    {
+      "id": "/contents/articles/koujohaken-woman-demerit",
+      "name": "/contents/articles/koujohaken-woman-demerit"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/15188",
+      "name": "/kyujin/15188"
+    },
+    {
+      "id": "/kyujin/17069",
+      "name": "/kyujin/17069"
+    }
+  ],
+  "links": [
+    {
+      "source": "工場勤務 女性 きつい",
+      "target": "/contents/articles/koujohaken-woman-demerit",
+      "value": 4,
+      "tooltip": "工場勤務 女性 きつい -> /contents/articles/koujohaken-woman-demerit"
+    },
+    {
+      "source": "/contents/articles/koujohaken-woman-demerit",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 1,
+      "tooltip": "工場勤務 女性 きつい -> /contents/articles/koujohaken-woman-demerit -> /zenkoku/EC1/FW工場"
+    }
+  ]
+}

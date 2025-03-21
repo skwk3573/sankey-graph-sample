@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "検品検査",
+      "name": "検品検査"
+    },
+    {
+      "id": "/contents/articles/kenpin-muiteiru",
+      "name": "/contents/articles/kenpin-muiteiru"
+    },
+    {
+      "id": "/zenkoku/MC5/EC1",
+      "name": "/zenkoku/MC5/EC1"
+    }
+  ],
+  "links": [
+    {
+      "source": "検品検査",
+      "target": "/contents/articles/kenpin-muiteiru",
+      "value": 1,
+      "tooltip": "検品検査 -> /contents/articles/kenpin-muiteiru"
+    }
+  ]
+}

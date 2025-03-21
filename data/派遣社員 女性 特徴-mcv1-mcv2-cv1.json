@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "id": "派遣社員 女性 特徴",
+      "name": "派遣社員 女性 特徴"
+    },
+    {
+      "id": "/contents/articles/koujohaken-woman-demerit",
+      "name": "/contents/articles/koujohaken-woman-demerit"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/15188",
+      "name": "/kyujin/15188"
+    },
+    {
+      "id": "/kyujin/17069",
+      "name": "/kyujin/17069"
+    }
+  ],
+  "links": [
+    {
+      "source": "派遣社員 女性 特徴",
+      "target": "/contents/articles/koujohaken-woman-demerit",
+      "value": 2,
+      "tooltip": "派遣社員 女性 特徴 -> /contents/articles/koujohaken-woman-demerit"
+    }
+  ]
+}

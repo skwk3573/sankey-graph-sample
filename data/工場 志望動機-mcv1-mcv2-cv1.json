@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "工場 志望動機",
+      "name": "工場 志望動機"
+    },
+    {
+      "id": "/contents/articles/temporary-reasons-applying",
+      "name": "/contents/articles/temporary-reasons-applying"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/15188",
+      "name": "/kyujin/15188"
+    },
+    {
+      "id": "/kyujin/17069",
+      "name": "/kyujin/17069"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "工場 志望動機",
+      "target": "/contents/articles/temporary-reasons-applying",
+      "value": 7,
+      "tooltip": "工場 志望動機 -> /contents/articles/temporary-reasons-applying"
+    },
+    {
+      "source": "/contents/articles/temporary-reasons-applying",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 1,
+      "tooltip": "工場 志望動機 -> /contents/articles/temporary-reasons-applying -> /zenkoku/EC1/FW工場"
+    }
+  ]
+}

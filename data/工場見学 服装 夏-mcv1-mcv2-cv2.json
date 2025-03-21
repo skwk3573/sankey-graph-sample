@@ -1,0 +1,56 @@
+{
+  "nodes": [
+    {
+      "id": "工場見学 服装 夏",
+      "name": "工場見学 服装 夏"
+    },
+    {
+      "id": "/contents/articles/interview-clothes",
+      "name": "/contents/articles/interview-clothes"
+    },
+    {
+      "id": "/zenkoku/MC1",
+      "name": "/zenkoku/MC1"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/16312",
+      "name": "/kyujin/16312"
+    },
+    {
+      "id": "/kyujin/15188",
+      "name": "/kyujin/15188"
+    },
+    {
+      "id": "/kyujin/17069",
+      "name": "/kyujin/17069"
+    },
+    {
+      "id": "/apply/16312",
+      "name": "/apply/16312"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    }
+  ],
+  "links": [
+    {
+      "source": "工場見学 服装 夏",
+      "target": "/contents/articles/interview-clothes",
+      "value": 2,
+      "tooltip": "工場見学 服装 夏 -> /contents/articles/interview-clothes"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "データ入力 仕事",
+      "name": "データ入力 仕事"
+    },
+    {
+      "id": "/kyujin/647",
+      "name": "/kyujin/647"
+    }
+  ],
+  "links": [
+    {
+      "source": "データ入力 仕事",
+      "target": "/kyujin/647",
+      "value": 1,
+      "tooltip": "データ入力 仕事 -> /kyujin/647"
+    }
+  ]
+}

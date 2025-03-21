@@ -1,0 +1,68 @@
+{
+  "nodes": [
+    {
+      "id": "梱包 志望動機 未経験",
+      "name": "梱包 志望動機 未経験"
+    },
+    {
+      "id": "/contents/articles/keisagyo-shiboudouki",
+      "name": "/contents/articles/keisagyo-shiboudouki"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/16981",
+      "name": "/kyujin/16981"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "梱包 志望動機 未経験",
+      "target": "/contents/articles/keisagyo-shiboudouki",
+      "value": 9,
+      "tooltip": "梱包 志望動機 未経験 -> /contents/articles/keisagyo-shiboudouki"
+    },
+    {
+      "source": "/contents/articles/keisagyo-shiboudouki",
+      "target": "/apply/535",
+      "value": 1,
+      "tooltip": "梱包 志望動機 未経験 -> /contents/articles/keisagyo-shiboudouki -> /apply/535"
+    },
+    {
+      "source": "/contents/articles/keisagyo-shiboudouki",
+      "target": "/zenkoku/MC1/EC1",
+      "value": 2,
+      "tooltip": "梱包 志望動機 未経験 -> /contents/articles/keisagyo-shiboudouki -> /zenkoku/MC1/EC1"
+    },
+    {
+      "source": "/apply/535",
+      "target": "/apply/confirm",
+      "value": 1,
+      "tooltip": "梱包 志望動機 未経験 -> /contents/articles/keisagyo-shiboudouki -> /apply/535 -> /apply/confirm"
+    },
+    {
+      "source": "/apply/confirm",
+      "target": "/apply/complete",
+      "value": 1,
+      "tooltip": "梱包 志望動機 未経験 -> /contents/articles/keisagyo-shiboudouki -> /apply/535 -> /apply/confirm -> /apply/complete"
+    }
+  ]
+}

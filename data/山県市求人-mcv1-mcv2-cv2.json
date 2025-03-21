@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "山県市求人",
+      "name": "山県市求人"
+    },
+    {
+      "id": "/kyujin/2542",
+      "name": "/kyujin/2542"
+    }
+  ],
+  "links": [
+    {
+      "source": "山県市求人",
+      "target": "/kyujin/2542",
+      "value": 1,
+      "tooltip": "山県市求人 -> /kyujin/2542"
+    }
+  ]
+}

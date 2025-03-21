@@ -1,0 +1,72 @@
+{
+  "nodes": [
+    {
+      "id": "夜勤 倉庫 きつい",
+      "name": "夜勤 倉庫 きつい"
+    },
+    {
+      "id": "/contents/articles/temporary-picking-hard",
+      "name": "/contents/articles/temporary-picking-hard"
+    },
+    {
+      "id": "/zenkoku/MC7",
+      "name": "/zenkoku/MC7"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/zenkoku/MC7/EC1",
+      "name": "/zenkoku/MC7/EC1"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/10475",
+      "name": "/kyujin/10475"
+    },
+    {
+      "id": "/kyujin/16854",
+      "name": "/kyujin/16854"
+    },
+    {
+      "id": "/kyujin/17013",
+      "name": "/kyujin/17013"
+    },
+    {
+      "id": "/kyujin/16532",
+      "name": "/kyujin/16532"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "夜勤 倉庫 きつい",
+      "target": "/contents/articles/temporary-picking-hard",
+      "value": 4,
+      "tooltip": "夜勤 倉庫 きつい -> /contents/articles/temporary-picking-hard"
+    },
+    {
+      "source": "/contents/articles/temporary-picking-hard",
+      "target": "/zenkoku/MC7",
+      "value": 1,
+      "tooltip": "夜勤 倉庫 きつい -> /contents/articles/temporary-picking-hard -> /zenkoku/MC7"
+    },
+    {
+      "source": "/contents/articles/temporary-picking-hard",
+      "target": "/zenkoku/MC7/EC1",
+      "value": 2,
+      "tooltip": "夜勤 倉庫 きつい -> /contents/articles/temporary-picking-hard -> /zenkoku/MC7/EC1"
+    }
+  ]
+}

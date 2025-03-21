@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "id": "福知山 工場",
+      "name": "福知山 工場"
+    },
+    {
+      "id": "/kyujin/10299",
+      "name": "/kyujin/10299"
+    },
+    {
+      "id": "/kyujin/11442",
+      "name": "/kyujin/11442"
+    },
+    {
+      "id": "/apply/10299",
+      "name": "/apply/10299"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "福知山 工場",
+      "target": "/kyujin/10299",
+      "value": 1,
+      "tooltip": "福知山 工場 -> /kyujin/10299"
+    },
+    {
+      "source": "福知山 工場",
+      "target": "/kyujin/11442",
+      "value": 1,
+      "tooltip": "福知山 工場 -> /kyujin/11442"
+    }
+  ]
+}

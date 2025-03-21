@@ -1,0 +1,64 @@
+{
+  "nodes": [
+    {
+      "id": "倉庫 派遣 きつい",
+      "name": "倉庫 派遣 きつい"
+    },
+    {
+      "id": "/contents/articles/keisagyo-haken-hard",
+      "name": "/contents/articles/keisagyo-haken-hard"
+    },
+    {
+      "id": "/zenkoku/MC1",
+      "name": "/zenkoku/MC1"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/16312",
+      "name": "/kyujin/16312"
+    },
+    {
+      "id": "/kyujin/16981",
+      "name": "/kyujin/16981"
+    },
+    {
+      "id": "/apply/16312",
+      "name": "/apply/16312"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    }
+  ],
+  "links": [
+    {
+      "source": "倉庫 派遣 きつい",
+      "target": "/contents/articles/keisagyo-haken-hard",
+      "value": 5,
+      "tooltip": "倉庫 派遣 きつい -> /contents/articles/keisagyo-haken-hard"
+    },
+    {
+      "source": "/contents/articles/keisagyo-haken-hard",
+      "target": "/zenkoku/MC1",
+      "value": 1,
+      "tooltip": "倉庫 派遣 きつい -> /contents/articles/keisagyo-haken-hard -> /zenkoku/MC1"
+    },
+    {
+      "source": "/contents/articles/keisagyo-haken-hard",
+      "target": "/zenkoku/MC1/EC1",
+      "value": 1,
+      "tooltip": "倉庫 派遣 きつい -> /contents/articles/keisagyo-haken-hard -> /zenkoku/MC1/EC1"
+    }
+  ]
+}

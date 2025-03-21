@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "食品工場 求人 大阪",
+      "name": "食品工場 求人 大阪"
+    },
+    {
+      "id": "/kyujin/16879",
+      "name": "/kyujin/16879"
+    }
+  ],
+  "links": [
+    {
+      "source": "食品工場 求人 大阪",
+      "target": "/kyujin/16879",
+      "value": 1,
+      "tooltip": "食品工場 求人 大阪 -> /kyujin/16879"
+    }
+  ]
+}

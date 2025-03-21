@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "狭山市 工場 求人",
+      "name": "狭山市 工場 求人"
+    },
+    {
+      "id": "/kyujin/11110",
+      "name": "/kyujin/11110"
+    }
+  ],
+  "links": [
+    {
+      "source": "狭山市 工場 求人",
+      "target": "/kyujin/11110",
+      "value": 1,
+      "tooltip": "狭山市 工場 求人 -> /kyujin/11110"
+    }
+  ]
+}

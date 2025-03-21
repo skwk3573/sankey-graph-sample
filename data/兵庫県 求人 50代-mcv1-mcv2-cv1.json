@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "兵庫県 求人 50代",
+      "name": "兵庫県 求人 50代"
+    },
+    {
+      "id": "/kyujin/11580",
+      "name": "/kyujin/11580"
+    }
+  ],
+  "links": [
+    {
+      "source": "兵庫県 求人 50代",
+      "target": "/kyujin/11580",
+      "value": 1,
+      "tooltip": "兵庫県 求人 50代 -> /kyujin/11580"
+    }
+  ]
+}

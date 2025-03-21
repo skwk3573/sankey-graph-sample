@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "図書館求人大阪",
+      "name": "図書館求人大阪"
+    },
+    {
+      "id": "/kyujin/16175",
+      "name": "/kyujin/16175"
+    }
+  ],
+  "links": [
+    {
+      "source": "図書館求人大阪",
+      "target": "/kyujin/16175",
+      "value": 2,
+      "tooltip": "図書館求人大阪 -> /kyujin/16175"
+    }
+  ]
+}

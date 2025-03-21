@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "id": "フォークリフト 教習所 神奈川",
+      "name": "フォークリフト 教習所 神奈川"
+    },
+    {
+      "id": "/contents/articles/koujohaken-forklift-tired",
+      "name": "/contents/articles/koujohaken-forklift-tired"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    }
+  ],
+  "links": [
+    {
+      "source": "フォークリフト 教習所 神奈川",
+      "target": "/contents/articles/koujohaken-forklift-tired",
+      "value": 1,
+      "tooltip": "フォークリフト 教習所 神奈川 -> /contents/articles/koujohaken-forklift-tired"
+    }
+  ]
+}

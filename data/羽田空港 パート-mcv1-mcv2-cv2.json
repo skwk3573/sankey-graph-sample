@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "羽田空港 パート",
+      "name": "羽田空港 パート"
+    },
+    {
+      "id": "/kyujin/9651",
+      "name": "/kyujin/9651"
+    }
+  ],
+  "links": [
+    {
+      "source": "羽田空港 パート",
+      "target": "/kyujin/9651",
+      "value": 1,
+      "tooltip": "羽田空港 パート -> /kyujin/9651"
+    }
+  ]
+}

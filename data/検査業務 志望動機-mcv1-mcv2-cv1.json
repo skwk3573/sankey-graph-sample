@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "検査業務 志望動機",
+      "name": "検査業務 志望動機"
+    },
+    {
+      "id": "/contents/articles/keisagyo-shiboudouki",
+      "name": "/contents/articles/keisagyo-shiboudouki"
+    },
+    {
+      "id": "/contents/articles/kenpin-shibodoki",
+      "name": "/contents/articles/kenpin-shibodoki"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
+    },
+    {
+      "id": "/zenkoku/MC5/FW大阪　派遣",
+      "name": "/zenkoku/MC5/FW大阪　派遣"
+    },
+    {
+      "id": "/zenkoku/MC5/EC1",
+      "name": "/zenkoku/MC5/EC1"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/16981",
+      "name": "/kyujin/16981"
+    },
+    {
+      "id": "/kyujin/16682",
+      "name": "/kyujin/16682"
+    },
+    {
+      "id": "/kyujin/16707",
+      "name": "/kyujin/16707"
+    },
+    {
+      "id": "/kyujin/16714",
+      "name": "/kyujin/16714"
+    },
+    {
+      "id": "/kyujin/16731",
+      "name": "/kyujin/16731"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "検査業務 志望動機",
+      "target": "/contents/articles/keisagyo-shiboudouki",
+      "value": 1,
+      "tooltip": "検査業務 志望動機 -> /contents/articles/keisagyo-shiboudouki"
+    },
+    {
+      "source": "検査業務 志望動機",
+      "target": "/contents/articles/kenpin-shibodoki",
+      "value": 4,
+      "tooltip": "検査業務 志望動機 -> /contents/articles/kenpin-shibodoki"
+    },
+    {
+      "source": "/contents/articles/kenpin-shibodoki",
+      "target": "/zenkoku/MC5/FW大阪　派遣",
+      "value": 3,
+      "tooltip": "検査業務 志望動機 -> /contents/articles/kenpin-shibodoki -> /zenkoku/MC5/FW大阪　派遣"
+    },
+    {
+      "source": "/contents/articles/kenpin-shibodoki",
+      "target": "/zenkoku/MC5/EC1",
+      "value": 1,
+      "tooltip": "検査業務 志望動機 -> /contents/articles/kenpin-shibodoki -> /zenkoku/MC5/EC1"
+    },
+    {
+      "source": "/zenkoku/MC5/FW大阪　派遣",
+      "target": "/kyujin/16682",
+      "value": 1,
+      "tooltip": "検査業務 志望動機 -> /contents/articles/kenpin-shibodoki -> /zenkoku/MC5/FW大阪　派遣 -> /kyujin/16682"
+    },
+    {
+      "source": "/zenkoku/MC5/FW大阪　派遣",
+      "target": "/kyujin/16707",
+      "value": 1,
+      "tooltip": "検査業務 志望動機 -> /contents/articles/kenpin-shibodoki -> /zenkoku/MC5/FW大阪　派遣 -> /kyujin/16707"
+    },
+    {
+      "source": "/zenkoku/MC5/FW大阪　派遣",
+      "target": "/kyujin/16714",
+      "value": 1,
+      "tooltip": "検査業務 志望動機 -> /contents/articles/kenpin-shibodoki -> /zenkoku/MC5/FW大阪　派遣 -> /kyujin/16714"
+    },
+    {
+      "source": "/zenkoku/MC5/FW大阪　派遣",
+      "target": "/kyujin/16731",
+      "value": 1,
+      "tooltip": "検査業務 志望動機 -> /contents/articles/kenpin-shibodoki -> /zenkoku/MC5/FW大阪　派遣 -> /kyujin/16731"
+    }
+  ]
+}

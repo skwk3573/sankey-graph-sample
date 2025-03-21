@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "データ入力 京都",
+      "name": "データ入力 京都"
+    },
+    {
+      "id": "/kyujin/16784",
+      "name": "/kyujin/16784"
+    },
+    {
+      "id": "/apply/16784",
+      "name": "/apply/16784"
+    }
+  ],
+  "links": [
+    {
+      "source": "データ入力 京都",
+      "target": "/kyujin/16784",
+      "value": 1,
+      "tooltip": "データ入力 京都 -> /kyujin/16784"
+    }
+  ]
+}

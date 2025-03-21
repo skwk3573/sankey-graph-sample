@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "近江八幡 事務",
+      "name": "近江八幡 事務"
+    },
+    {
+      "id": "/kyujin/16992",
+      "name": "/kyujin/16992"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "近江八幡 事務",
+      "target": "/kyujin/16992",
+      "value": 1,
+      "tooltip": "近江八幡 事務 -> /kyujin/16992"
+    },
+    {
+      "source": "/kyujin/16992",
+      "target": "/apply/535",
+      "value": 1,
+      "tooltip": "近江八幡 事務 -> /kyujin/16992 -> /apply/535"
+    },
+    {
+      "source": "/apply/535",
+      "target": "/apply/confirm",
+      "value": 1,
+      "tooltip": "近江八幡 事務 -> /kyujin/16992 -> /apply/535 -> /apply/confirm"
+    },
+    {
+      "source": "/apply/confirm",
+      "target": "/apply/complete",
+      "value": 1,
+      "tooltip": "近江八幡 事務 -> /kyujin/16992 -> /apply/535 -> /apply/confirm -> /apply/complete"
+    }
+  ]
+}

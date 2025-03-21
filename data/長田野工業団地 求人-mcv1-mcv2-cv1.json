@@ -1,0 +1,76 @@
+{
+  "nodes": [
+    {
+      "id": "長田野工業団地 求人",
+      "name": "長田野工業団地 求人"
+    },
+    {
+      "id": "/kyujin/6207",
+      "name": "/kyujin/6207"
+    },
+    {
+      "id": "/kyujin/2336",
+      "name": "/kyujin/2336"
+    },
+    {
+      "id": "/kyujin/15656",
+      "name": "/kyujin/15656"
+    },
+    {
+      "id": "/kyujin/888",
+      "name": "/kyujin/888"
+    },
+    {
+      "id": "/kyujin/8618",
+      "name": "/kyujin/8618"
+    },
+    {
+      "id": "/apply/2336",
+      "name": "/apply/2336"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "長田野工業団地 求人",
+      "target": "/kyujin/6207",
+      "value": 1,
+      "tooltip": "長田野工業団地 求人 -> /kyujin/6207"
+    },
+    {
+      "source": "長田野工業団地 求人",
+      "target": "/kyujin/2336",
+      "value": 1,
+      "tooltip": "長田野工業団地 求人 -> /kyujin/2336"
+    },
+    {
+      "source": "長田野工業団地 求人",
+      "target": "/kyujin/15656",
+      "value": 1,
+      "tooltip": "長田野工業団地 求人 -> /kyujin/15656"
+    },
+    {
+      "source": "長田野工業団地 求人",
+      "target": "/kyujin/888",
+      "value": 2,
+      "tooltip": "長田野工業団地 求人 -> /kyujin/888"
+    },
+    {
+      "source": "長田野工業団地 求人",
+      "target": "/kyujin/8618",
+      "value": 1,
+      "tooltip": "長田野工業団地 求人 -> /kyujin/8618"
+    }
+  ]
+}

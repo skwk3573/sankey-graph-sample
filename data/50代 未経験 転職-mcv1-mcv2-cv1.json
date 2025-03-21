@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "50代 未経験 転職",
+      "name": "50代 未経験 転職"
+    },
+    {
+      "id": "/kyujin/11580",
+      "name": "/kyujin/11580"
+    }
+  ],
+  "links": [
+    {
+      "source": "50代 未経験 転職",
+      "target": "/kyujin/11580",
+      "value": 1,
+      "tooltip": "50代 未経験 転職 -> /kyujin/11580"
+    }
+  ]
+}

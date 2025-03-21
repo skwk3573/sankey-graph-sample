@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "食品製造 求人 埼玉",
+      "name": "食品製造 求人 埼玉"
+    },
+    {
+      "id": "/kyujin/17222",
+      "name": "/kyujin/17222"
+    }
+  ],
+  "links": [
+    {
+      "source": "食品製造 求人 埼玉",
+      "target": "/kyujin/17222",
+      "value": 1,
+      "tooltip": "食品製造 求人 埼玉 -> /kyujin/17222"
+    }
+  ]
+}

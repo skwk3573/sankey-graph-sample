@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "ホテル 派遣 大阪",
+      "name": "ホテル 派遣 大阪"
+    },
+    {
+      "id": "/kyujin/15748",
+      "name": "/kyujin/15748"
+    }
+  ],
+  "links": [
+    {
+      "source": "ホテル 派遣 大阪",
+      "target": "/kyujin/15748",
+      "value": 1,
+      "tooltip": "ホテル 派遣 大阪 -> /kyujin/15748"
+    }
+  ]
+}

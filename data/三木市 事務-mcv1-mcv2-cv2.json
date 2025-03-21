@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "三木市 事務",
+      "name": "三木市 事務"
+    },
+    {
+      "id": "/kyujin/13951",
+      "name": "/kyujin/13951"
+    }
+  ],
+  "links": [
+    {
+      "source": "三木市 事務",
+      "target": "/kyujin/13951",
+      "value": 1,
+      "tooltip": "三木市 事務 -> /kyujin/13951"
+    }
+  ]
+}

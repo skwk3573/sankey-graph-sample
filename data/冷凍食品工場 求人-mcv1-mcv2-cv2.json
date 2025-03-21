@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "冷凍食品工場 求人",
+      "name": "冷凍食品工場 求人"
+    },
+    {
+      "id": "/kyujin/16594",
+      "name": "/kyujin/16594"
+    }
+  ],
+  "links": [
+    {
+      "source": "冷凍食品工場 求人",
+      "target": "/kyujin/16594",
+      "value": 1,
+      "tooltip": "冷凍食品工場 求人 -> /kyujin/16594"
+    }
+  ]
+}

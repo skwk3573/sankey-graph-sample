@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "id": "お菓子工場",
+      "name": "お菓子工場"
+    },
+    {
+      "id": "/kyujin/15195",
+      "name": "/kyujin/15195"
+    },
+    {
+      "id": "/apply/15195",
+      "name": "/apply/15195"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "お菓子工場",
+      "target": "/kyujin/15195",
+      "value": 1,
+      "tooltip": "お菓子工場 -> /kyujin/15195"
+    }
+  ]
+}

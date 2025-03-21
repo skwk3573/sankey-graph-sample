@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "id": "中途 入社日 服装",
+      "name": "中途 入社日 服装"
+    },
+    {
+      "id": "/contents/articles/Factory-dispatch-apparel",
+      "name": "/contents/articles/Factory-dispatch-apparel"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/15188",
+      "name": "/kyujin/15188"
+    },
+    {
+      "id": "/kyujin/17069",
+      "name": "/kyujin/17069"
+    }
+  ],
+  "links": [
+    {
+      "source": "中途 入社日 服装",
+      "target": "/contents/articles/Factory-dispatch-apparel",
+      "value": 1,
+      "tooltip": "中途 入社日 服装 -> /contents/articles/Factory-dispatch-apparel"
+    }
+  ]
+}

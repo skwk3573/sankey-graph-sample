@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "近くの工場求人",
+      "name": "近くの工場求人"
+    },
+    {
+      "id": "/kyujin/1874",
+      "name": "/kyujin/1874"
+    },
+    {
+      "id": "/kyujin/3195",
+      "name": "/kyujin/3195"
+    }
+  ],
+  "links": [
+    {
+      "source": "近くの工場求人",
+      "target": "/kyujin/1874",
+      "value": 1,
+      "tooltip": "近くの工場求人 -> /kyujin/1874"
+    },
+    {
+      "source": "近くの工場求人",
+      "target": "/kyujin/3195",
+      "value": 1,
+      "tooltip": "近くの工場求人 -> /kyujin/3195"
+    }
+  ]
+}

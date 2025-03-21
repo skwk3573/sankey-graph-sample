@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "id": "相模原フォークリフト求人",
+      "name": "相模原フォークリフト求人"
+    },
+    {
+      "id": "/kyujin/6822",
+      "name": "/kyujin/6822"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "相模原フォークリフト求人",
+      "target": "/kyujin/6822",
+      "value": 1,
+      "tooltip": "相模原フォークリフト求人 -> /kyujin/6822"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "id": "ペットボトル 仕分け バイト",
+      "name": "ペットボトル 仕分け バイト"
+    },
+    {
+      "id": "/kyujin/10186",
+      "name": "/kyujin/10186"
+    },
+    {
+      "id": "/apply/10186",
+      "name": "/apply/10186"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "ペットボトル 仕分け バイト",
+      "target": "/kyujin/10186",
+      "value": 1,
+      "tooltip": "ペットボトル 仕分け バイト -> /kyujin/10186"
+    }
+  ]
+}

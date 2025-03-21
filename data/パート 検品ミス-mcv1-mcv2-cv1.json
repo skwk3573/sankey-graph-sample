@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "id": "パート 検品ミス",
+      "name": "パート 検品ミス"
+    },
+    {
+      "id": "/contents/articles/kenpin-kotsu",
+      "name": "/contents/articles/kenpin-kotsu"
+    },
+    {
+      "id": "/zenkoku/MC5/EC1",
+      "name": "/zenkoku/MC5/EC1"
+    }
+  ],
+  "links": [
+    {
+      "source": "パート 検品ミス",
+      "target": "/contents/articles/kenpin-kotsu",
+      "value": 1,
+      "tooltip": "パート 検品ミス -> /contents/articles/kenpin-kotsu"
+    }
+  ]
+}

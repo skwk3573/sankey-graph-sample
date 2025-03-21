@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "id": "高崎 工場 求人",
+      "name": "高崎 工場 求人"
+    },
+    {
+      "id": "/kyujin/15195",
+      "name": "/kyujin/15195"
+    },
+    {
+      "id": "/apply/15195",
+      "name": "/apply/15195"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "高崎 工場 求人",
+      "target": "/kyujin/15195",
+      "value": 1,
+      "tooltip": "高崎 工場 求人 -> /kyujin/15195"
+    }
+  ]
+}

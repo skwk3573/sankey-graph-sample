@@ -1,0 +1,56 @@
+{
+  "nodes": [
+    {
+      "id": "野木町 求人",
+      "name": "野木町 求人"
+    },
+    {
+      "id": "/kyujin/7168",
+      "name": "/kyujin/7168"
+    },
+    {
+      "id": "/apply/7168",
+      "name": "/apply/7168"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    }
+  ],
+  "links": [
+    {
+      "source": "野木町 求人",
+      "target": "/kyujin/7168",
+      "value": 3,
+      "tooltip": "野木町 求人 -> /kyujin/7168"
+    },
+    {
+      "source": "/kyujin/7168",
+      "target": "/apply/7168",
+      "value": 1,
+      "tooltip": "野木町 求人 -> /kyujin/7168 -> /apply/7168"
+    },
+    {
+      "source": "/kyujin/7168",
+      "target": "/apply/535",
+      "value": 1,
+      "tooltip": "野木町 求人 -> /kyujin/7168 -> /apply/535"
+    },
+    {
+      "source": "/apply/535",
+      "target": "/apply/confirm",
+      "value": 1,
+      "tooltip": "野木町 求人 -> /kyujin/7168 -> /apply/535 -> /apply/confirm"
+    },
+    {
+      "source": "/apply/7168",
+      "target": "/apply/confirm",
+      "value": 1,
+      "tooltip": "野木町 求人 -> /kyujin/7168 -> /apply/7168 -> /apply/confirm"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "相模原 倉庫 求人",
+      "name": "相模原 倉庫 求人"
+    },
+    {
+      "id": "/kyujin/4863",
+      "name": "/kyujin/4863"
+    }
+  ],
+  "links": [
+    {
+      "source": "相模原 倉庫 求人",
+      "target": "/kyujin/4863",
+      "value": 1,
+      "tooltip": "相模原 倉庫 求人 -> /kyujin/4863"
+    }
+  ]
+}

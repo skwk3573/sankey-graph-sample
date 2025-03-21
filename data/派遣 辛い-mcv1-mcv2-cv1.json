@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "派遣 辛い",
+      "name": "派遣 辛い"
+    },
+    {
+      "id": "/contents/articles/factory-haken-hard",
+      "name": "/contents/articles/factory-haken-hard"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/15188",
+      "name": "/kyujin/15188"
+    },
+    {
+      "id": "/kyujin/17069",
+      "name": "/kyujin/17069"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "派遣 辛い",
+      "target": "/contents/articles/factory-haken-hard",
+      "value": 1,
+      "tooltip": "派遣 辛い -> /contents/articles/factory-haken-hard"
+    }
+  ]
+}

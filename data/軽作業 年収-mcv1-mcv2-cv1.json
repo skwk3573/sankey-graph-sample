@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "軽作業 年収",
+      "name": "軽作業 年収"
+    },
+    {
+      "id": "/contents/articles/keisagyo-highwage",
+      "name": "/contents/articles/keisagyo-highwage"
+    },
+    {
+      "id": "/contents/articles/keisagyowork-hard",
+      "name": "/contents/articles/keisagyowork-hard"
+    },
+    {
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/16981",
+      "name": "/kyujin/16981"
+    }
+  ],
+  "links": [
+    {
+      "source": "軽作業 年収",
+      "target": "/contents/articles/keisagyo-highwage",
+      "value": 3,
+      "tooltip": "軽作業 年収 -> /contents/articles/keisagyo-highwage"
+    },
+    {
+      "source": "軽作業 年収",
+      "target": "/contents/articles/keisagyowork-hard",
+      "value": 1,
+      "tooltip": "軽作業 年収 -> /contents/articles/keisagyowork-hard"
+    },
+    {
+      "source": "/contents/articles/keisagyo-highwage",
+      "target": "/zenkoku/MC1/EC1",
+      "value": 3,
+      "tooltip": "軽作業 年収 -> /contents/articles/keisagyo-highwage -> /zenkoku/MC1/EC1"
+    }
+  ]
+}

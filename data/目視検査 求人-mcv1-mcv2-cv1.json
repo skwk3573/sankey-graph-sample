@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "目視検査 求人",
+      "name": "目視検査 求人"
+    },
+    {
+      "id": "/kyujin/606",
+      "name": "/kyujin/606"
+    }
+  ],
+  "links": [
+    {
+      "source": "目視検査 求人",
+      "target": "/kyujin/606",
+      "value": 2,
+      "tooltip": "目視検査 求人 -> /kyujin/606"
+    }
+  ]
+}

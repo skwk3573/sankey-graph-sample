@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "求人 短期",
+      "name": "求人 短期"
+    },
+    {
+      "id": "/kyujin/15613",
+      "name": "/kyujin/15613"
+    }
+  ],
+  "links": [
+    {
+      "source": "求人 短期",
+      "target": "/kyujin/15613",
+      "value": 2,
+      "tooltip": "求人 短期 -> /kyujin/15613"
+    }
+  ]
+}

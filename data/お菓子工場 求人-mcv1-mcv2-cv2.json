@@ -1,0 +1,58 @@
+{
+  "nodes": [
+    {
+      "id": "お菓子工場 求人",
+      "name": "お菓子工場 求人"
+    },
+    {
+      "id": "/kyujin/16266",
+      "name": "/kyujin/16266"
+    },
+    {
+      "id": "/kyujin/638",
+      "name": "/kyujin/638"
+    },
+    {
+      "id": "/kyujin/16820",
+      "name": "/kyujin/16820"
+    },
+    {
+      "id": "/kyujin/15463",
+      "name": "/kyujin/15463"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    }
+  ],
+  "links": [
+    {
+      "source": "お菓子工場 求人",
+      "target": "/kyujin/16266",
+      "value": 2,
+      "tooltip": "お菓子工場 求人 -> /kyujin/16266"
+    },
+    {
+      "source": "お菓子工場 求人",
+      "target": "/kyujin/638",
+      "value": 3,
+      "tooltip": "お菓子工場 求人 -> /kyujin/638"
+    },
+    {
+      "source": "お菓子工場 求人",
+      "target": "/kyujin/16820",
+      "value": 1,
+      "tooltip": "お菓子工場 求人 -> /kyujin/16820"
+    },
+    {
+      "source": "お菓子工場 求人",
+      "target": "/kyujin/15463",
+      "value": 3,
+      "tooltip": "お菓子工場 求人 -> /kyujin/15463"
+    }
+  ]
+}

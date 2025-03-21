@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "リーチリフト 求人",
+      "name": "リーチリフト 求人"
+    },
+    {
+      "id": "/kyujin/15605",
+      "name": "/kyujin/15605"
+    }
+  ],
+  "links": [
+    {
+      "source": "リーチリフト 求人",
+      "target": "/kyujin/15605",
+      "value": 1,
+      "tooltip": "リーチリフト 求人 -> /kyujin/15605"
+    }
+  ]
+}

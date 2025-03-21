@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "id": "フォークリフト免許",
+      "name": "フォークリフト免許"
+    },
+    {
+      "id": "/contents/articles/koujohaken-forklift-tired",
+      "name": "/contents/articles/koujohaken-forklift-tired"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "フォークリフト免許",
+      "target": "/contents/articles/koujohaken-forklift-tired",
+      "value": 1,
+      "tooltip": "フォークリフト免許 -> /contents/articles/koujohaken-forklift-tired"
+    }
+  ]
+}

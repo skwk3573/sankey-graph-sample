@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "50代仕事",
+      "name": "50代仕事"
+    },
+    {
+      "id": "/kyujin/11580",
+      "name": "/kyujin/11580"
+    }
+  ],
+  "links": [
+    {
+      "source": "50代仕事",
+      "target": "/kyujin/11580",
+      "value": 1,
+      "tooltip": "50代仕事 -> /kyujin/11580"
+    }
+  ]
+}

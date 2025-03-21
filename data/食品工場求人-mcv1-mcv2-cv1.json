@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "食品工場求人",
+      "name": "食品工場求人"
+    },
+    {
+      "id": "/kyujin/16577",
+      "name": "/kyujin/16577"
+    },
+    {
+      "id": "/kyujin/16809",
+      "name": "/kyujin/16809"
+    },
+    {
+      "id": "/apply/16577",
+      "name": "/apply/16577"
+    }
+  ],
+  "links": [
+    {
+      "source": "食品工場求人",
+      "target": "/kyujin/16577",
+      "value": 1,
+      "tooltip": "食品工場求人 -> /kyujin/16577"
+    },
+    {
+      "source": "食品工場求人",
+      "target": "/kyujin/16809",
+      "value": 1,
+      "tooltip": "食品工場求人 -> /kyujin/16809"
+    }
+  ]
+}

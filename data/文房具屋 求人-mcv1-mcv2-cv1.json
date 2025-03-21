@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "文房具屋 求人",
+      "name": "文房具屋 求人"
+    },
+    {
+      "id": "/kyujin/7168",
+      "name": "/kyujin/7168"
+    },
+    {
+      "id": "/apply/7168",
+      "name": "/apply/7168"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "文房具屋 求人",
+      "target": "/kyujin/7168",
+      "value": 2,
+      "tooltip": "文房具屋 求人 -> /kyujin/7168"
+    },
+    {
+      "source": "/kyujin/7168",
+      "target": "/apply/7168",
+      "value": 1,
+      "tooltip": "文房具屋 求人 -> /kyujin/7168 -> /apply/7168"
+    },
+    {
+      "source": "/apply/7168",
+      "target": "/apply/confirm",
+      "value": 1,
+      "tooltip": "文房具屋 求人 -> /kyujin/7168 -> /apply/7168 -> /apply/confirm"
+    },
+    {
+      "source": "/apply/confirm",
+      "target": "/apply/complete",
+      "value": 1,
+      "tooltip": "文房具屋 求人 -> /kyujin/7168 -> /apply/7168 -> /apply/confirm -> /apply/complete"
+    }
+  ]
+}

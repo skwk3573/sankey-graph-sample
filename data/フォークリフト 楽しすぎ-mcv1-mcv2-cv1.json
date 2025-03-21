@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "id": "フォークリフト 楽しすぎ",
+      "name": "フォークリフト 楽しすぎ"
+    },
+    {
+      "id": "/contents/articles/koujohaken-forklift-tired",
+      "name": "/contents/articles/koujohaken-forklift-tired"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "フォークリフト 楽しすぎ",
+      "target": "/contents/articles/koujohaken-forklift-tired",
+      "value": 1,
+      "tooltip": "フォークリフト 楽しすぎ -> /contents/articles/koujohaken-forklift-tired"
+    }
+  ]
+}

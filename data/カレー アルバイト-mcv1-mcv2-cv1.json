@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "カレー アルバイト",
+      "name": "カレー アルバイト"
+    },
+    {
+      "id": "/kyujin/7977",
+      "name": "/kyujin/7977"
+    }
+  ],
+  "links": [
+    {
+      "source": "カレー アルバイト",
+      "target": "/kyujin/7977",
+      "value": 1,
+      "tooltip": "カレー アルバイト -> /kyujin/7977"
+    }
+  ]
+}

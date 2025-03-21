@@ -1,0 +1,38 @@
+{
+  "nodes": [
+    {
+      "id": "軽作業 服装 男",
+      "name": "軽作業 服装 男"
+    },
+    {
+      "id": "/contents/articles/keisagyo-wear",
+      "name": "/contents/articles/keisagyo-wear"
+    },
+    {
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/16981",
+      "name": "/kyujin/16981"
+    }
+  ],
+  "links": [
+    {
+      "source": "軽作業 服装 男",
+      "target": "/contents/articles/keisagyo-wear",
+      "value": 2,
+      "tooltip": "軽作業 服装 男 -> /contents/articles/keisagyo-wear"
+    },
+    {
+      "source": "/contents/articles/keisagyo-wear",
+      "target": "/zenkoku/MC1/EC1",
+      "value": 1,
+      "tooltip": "軽作業 服装 男 -> /contents/articles/keisagyo-wear -> /zenkoku/MC1/EC1"
+    }
+  ]
+}

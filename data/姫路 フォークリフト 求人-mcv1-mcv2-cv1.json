@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "姫路 フォークリフト 求人",
+      "name": "姫路 フォークリフト 求人"
+    },
+    {
+      "id": "/zenkoku/DC28201/MC11",
+      "name": "/zenkoku/DC28201/MC11"
+    },
+    {
+      "id": "/kyujin/16787",
+      "name": "/kyujin/16787"
+    },
+    {
+      "id": "/kyujin/11367",
+      "name": "/kyujin/11367"
+    },
+    {
+      "id": "/apply/16787",
+      "name": "/apply/16787"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "姫路 フォークリフト 求人",
+      "target": "/zenkoku/DC28201/MC11",
+      "value": 1,
+      "tooltip": "姫路 フォークリフト 求人 -> /zenkoku/DC28201/MC11"
+    },
+    {
+      "source": "/zenkoku/DC28201/MC11",
+      "target": "/kyujin/16787",
+      "value": 1,
+      "tooltip": "姫路 フォークリフト 求人 -> /zenkoku/DC28201/MC11 -> /kyujin/16787"
+    }
+  ]
+}

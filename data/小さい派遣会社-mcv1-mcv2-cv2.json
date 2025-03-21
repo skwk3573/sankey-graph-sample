@@ -1,0 +1,44 @@
+{
+  "nodes": [
+    {
+      "id": "小さい派遣会社",
+      "name": "小さい派遣会社"
+    },
+    {
+      "id": "/contents/articles/kojohaken-yametoke",
+      "name": "/contents/articles/kojohaken-yametoke"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/15188",
+      "name": "/kyujin/15188"
+    },
+    {
+      "id": "/kyujin/17069",
+      "name": "/kyujin/17069"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    }
+  ],
+  "links": [
+    {
+      "source": "小さい派遣会社",
+      "target": "/contents/articles/kojohaken-yametoke",
+      "value": 1,
+      "tooltip": "小さい派遣会社 -> /contents/articles/kojohaken-yametoke"
+    }
+  ]
+}

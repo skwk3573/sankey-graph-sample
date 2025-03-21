@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "組立 求人",
+      "name": "組立 求人"
+    },
+    {
+      "id": "/kyujin/16968",
+      "name": "/kyujin/16968"
+    }
+  ],
+  "links": [
+    {
+      "source": "組立 求人",
+      "target": "/kyujin/16968",
+      "value": 1,
+      "tooltip": "組立 求人 -> /kyujin/16968"
+    }
+  ]
+}

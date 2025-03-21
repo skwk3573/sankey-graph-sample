@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "求人 倉庫",
+      "name": "求人 倉庫"
+    },
+    {
+      "id": "/kyujin/15605",
+      "name": "/kyujin/15605"
+    }
+  ],
+  "links": [
+    {
+      "source": "求人 倉庫",
+      "target": "/kyujin/15605",
+      "value": 1,
+      "tooltip": "求人 倉庫 -> /kyujin/15605"
+    }
+  ]
+}

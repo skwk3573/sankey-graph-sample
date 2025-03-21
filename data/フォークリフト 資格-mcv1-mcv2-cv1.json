@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "id": "フォークリフト 資格",
+      "name": "フォークリフト 資格"
+    },
+    {
+      "id": "/contents/articles/koujohaken-forklift-tired",
+      "name": "/contents/articles/koujohaken-forklift-tired"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "フォークリフト 資格",
+      "target": "/contents/articles/koujohaken-forklift-tired",
+      "value": 1,
+      "tooltip": "フォークリフト 資格 -> /contents/articles/koujohaken-forklift-tired"
+    }
+  ]
+}

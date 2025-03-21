@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "id": "短期派遣バイト",
+      "name": "短期派遣バイト"
+    },
+    {
+      "id": "/kyujin/12746",
+      "name": "/kyujin/12746"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    }
+  ],
+  "links": [
+    {
+      "source": "短期派遣バイト",
+      "target": "/kyujin/12746",
+      "value": 1,
+      "tooltip": "短期派遣バイト -> /kyujin/12746"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "id": "宝塚阪急百貨店 求人",
+      "name": "宝塚阪急百貨店 求人"
+    },
+    {
+      "id": "/kyujin/16023",
+      "name": "/kyujin/16023"
+    },
+    {
+      "id": "/apply/16023",
+      "name": "/apply/16023"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "宝塚阪急百貨店 求人",
+      "target": "/kyujin/16023",
+      "value": 2,
+      "tooltip": "宝塚阪急百貨店 求人 -> /kyujin/16023"
+    }
+  ]
+}

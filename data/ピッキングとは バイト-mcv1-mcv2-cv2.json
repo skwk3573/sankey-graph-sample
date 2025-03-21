@@ -1,0 +1,60 @@
+{
+  "nodes": [
+    {
+      "id": "ピッキングとは バイト",
+      "name": "ピッキングとは バイト"
+    },
+    {
+      "id": "/contents/articles/temporary-picking-beginner",
+      "name": "/contents/articles/temporary-picking-beginner"
+    },
+    {
+      "id": "/zenkoku/MC7",
+      "name": "/zenkoku/MC7"
+    },
+    {
+      "id": "/zenkoku/MC7/EC1",
+      "name": "/zenkoku/MC7/EC1"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/10475",
+      "name": "/kyujin/10475"
+    },
+    {
+      "id": "/kyujin/16854",
+      "name": "/kyujin/16854"
+    },
+    {
+      "id": "/kyujin/17013",
+      "name": "/kyujin/17013"
+    },
+    {
+      "id": "/kyujin/16532",
+      "name": "/kyujin/16532"
+    }
+  ],
+  "links": [
+    {
+      "source": "ピッキングとは バイト",
+      "target": "/contents/articles/temporary-picking-beginner",
+      "value": 2,
+      "tooltip": "ピッキングとは バイト -> /contents/articles/temporary-picking-beginner"
+    },
+    {
+      "source": "/contents/articles/temporary-picking-beginner",
+      "target": "/zenkoku/MC7",
+      "value": 1,
+      "tooltip": "ピッキングとは バイト -> /contents/articles/temporary-picking-beginner -> /zenkoku/MC7"
+    },
+    {
+      "source": "/contents/articles/temporary-picking-beginner",
+      "target": "/zenkoku/MC7/EC1",
+      "value": 1,
+      "tooltip": "ピッキングとは バイト -> /contents/articles/temporary-picking-beginner -> /zenkoku/MC7/EC1"
+    }
+  ]
+}

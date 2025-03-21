@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "嵐山町 求人",
+      "name": "嵐山町 求人"
+    },
+    {
+      "id": "/kyujin/16137",
+      "name": "/kyujin/16137"
+    }
+  ],
+  "links": [
+    {
+      "source": "嵐山町 求人",
+      "target": "/kyujin/16137",
+      "value": 1,
+      "tooltip": "嵐山町 求人 -> /kyujin/16137"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "id": "南林間 パート",
+      "name": "南林間 パート"
+    },
+    {
+      "id": "/kyujin/15494",
+      "name": "/kyujin/15494"
+    },
+    {
+      "id": "/apply/15494",
+      "name": "/apply/15494"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "南林間 パート",
+      "target": "/kyujin/15494",
+      "value": 1,
+      "tooltip": "南林間 パート -> /kyujin/15494"
+    }
+  ]
+}

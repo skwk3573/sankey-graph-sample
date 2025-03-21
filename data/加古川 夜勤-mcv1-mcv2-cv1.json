@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "id": "加古川 夜勤",
+      "name": "加古川 夜勤"
+    },
+    {
+      "id": "/kyujin/1916",
+      "name": "/kyujin/1916"
+    },
+    {
+      "id": "/apply/1916",
+      "name": "/apply/1916"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "加古川 夜勤",
+      "target": "/kyujin/1916",
+      "value": 1,
+      "tooltip": "加古川 夜勤 -> /kyujin/1916"
+    }
+  ]
+}

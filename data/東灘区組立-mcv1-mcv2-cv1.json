@@ -1,0 +1,122 @@
+{
+  "nodes": [
+    {
+      "id": "東灘区組立",
+      "name": "東灘区組立"
+    },
+    {
+      "id": "/zenkoku/DC28101",
+      "name": "/zenkoku/DC28101"
+    },
+    {
+      "id": "/kyujin/12566",
+      "name": "/kyujin/12566"
+    },
+    {
+      "id": "/kyujin/12550",
+      "name": "/kyujin/12550"
+    },
+    {
+      "id": "/kyujin/12718",
+      "name": "/kyujin/12718"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/12673",
+      "name": "/kyujin/12673"
+    },
+    {
+      "id": "/kyujin/12465",
+      "name": "/kyujin/12465"
+    },
+    {
+      "id": "/kyujin/15822",
+      "name": "/kyujin/15822"
+    },
+    {
+      "id": "/kyujin/15724",
+      "name": "/kyujin/15724"
+    },
+    {
+      "id": "/kyujin/15728",
+      "name": "/kyujin/15728"
+    },
+    {
+      "id": "/kyujin/16244",
+      "name": "/kyujin/16244"
+    },
+    {
+      "id": "/kyujin/13798",
+      "name": "/kyujin/13798"
+    },
+    {
+      "id": "/kyujin/12606",
+      "name": "/kyujin/12606"
+    },
+    {
+      "id": "/kyujin/16571",
+      "name": "/kyujin/16571"
+    },
+    {
+      "id": "/kyujin/12544",
+      "name": "/kyujin/12544"
+    },
+    {
+      "id": "/kyujin/16577",
+      "name": "/kyujin/16577"
+    },
+    {
+      "id": "/kyujin/16920",
+      "name": "/kyujin/16920"
+    },
+    {
+      "id": "/kyujin/17030",
+      "name": "/kyujin/17030"
+    },
+    {
+      "id": "/kyujin/16594",
+      "name": "/kyujin/16594"
+    },
+    {
+      "id": "/kyujin/12675",
+      "name": "/kyujin/12675"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/apply/12718",
+      "name": "/apply/12718"
+    },
+    {
+      "id": "/apply/16577",
+      "name": "/apply/16577"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "東灘区組立",
+      "target": "/zenkoku/DC28101",
+      "value": 3,
+      "tooltip": "東灘区組立 -> /zenkoku/DC28101"
+    },
+    {
+      "source": "/zenkoku/DC28101",
+      "target": "/kyujin/12465",
+      "value": 1,
+      "tooltip": "東灘区組立 -> /zenkoku/DC28101 -> /kyujin/12465"
+    }
+  ]
+}

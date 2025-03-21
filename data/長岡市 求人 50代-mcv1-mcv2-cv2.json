@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "長岡市 求人 50代",
+      "name": "長岡市 求人 50代"
+    },
+    {
+      "id": "/kyujin/15711",
+      "name": "/kyujin/15711"
+    },
+    {
+      "id": "/kyujin/16346",
+      "name": "/kyujin/16346"
+    }
+  ],
+  "links": [
+    {
+      "source": "長岡市 求人 50代",
+      "target": "/kyujin/15711",
+      "value": 1,
+      "tooltip": "長岡市 求人 50代 -> /kyujin/15711"
+    },
+    {
+      "source": "長岡市 求人 50代",
+      "target": "/kyujin/16346",
+      "value": 1,
+      "tooltip": "長岡市 求人 50代 -> /kyujin/16346"
+    }
+  ]
+}

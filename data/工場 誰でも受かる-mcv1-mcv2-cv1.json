@@ -1,0 +1,148 @@
+{
+  "nodes": [
+    {
+      "id": "工場 誰でも受かる",
+      "name": "工場 誰でも受かる"
+    },
+    {
+      "id": "/contents/articles/koujohaken-daredemo-ukaru",
+      "name": "/contents/articles/koujohaken-daredemo-ukaru"
+    },
+    {
+      "id": "/zenkoku/PC27/FW工場　派遣",
+      "name": "/zenkoku/PC27/FW工場　派遣"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/zenkoku/SC8",
+      "name": "/zenkoku/SC8"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/549",
+      "name": "/kyujin/549"
+    },
+    {
+      "id": "/kyujin/6207",
+      "name": "/kyujin/6207"
+    },
+    {
+      "id": "/kyujin/8126",
+      "name": "/kyujin/8126"
+    },
+    {
+      "id": "/kyujin/16142",
+      "name": "/kyujin/16142"
+    },
+    {
+      "id": "/kyujin/16819",
+      "name": "/kyujin/16819"
+    },
+    {
+      "id": "/kyujin/16023",
+      "name": "/kyujin/16023"
+    },
+    {
+      "id": "/kyujin/15035",
+      "name": "/kyujin/15035"
+    },
+    {
+      "id": "/kyujin/17074",
+      "name": "/kyujin/17074"
+    },
+    {
+      "id": "/kyujin/16775",
+      "name": "/kyujin/16775"
+    },
+    {
+      "id": "/kyujin/16776",
+      "name": "/kyujin/16776"
+    },
+    {
+      "id": "/kyujin/13155",
+      "name": "/kyujin/13155"
+    },
+    {
+      "id": "/kyujin/16899",
+      "name": "/kyujin/16899"
+    },
+    {
+      "id": "/kyujin/17026",
+      "name": "/kyujin/17026"
+    },
+    {
+      "id": "/kyujin/17128",
+      "name": "/kyujin/17128"
+    },
+    {
+      "id": "/kyujin/13458",
+      "name": "/kyujin/13458"
+    },
+    {
+      "id": "/apply/17175",
+      "name": "/apply/17175"
+    },
+    {
+      "id": "/kyujin/16717",
+      "name": "/kyujin/16717"
+    },
+    {
+      "id": "/kyujin/16875",
+      "name": "/kyujin/16875"
+    },
+    {
+      "id": "/kyujin/17094",
+      "name": "/kyujin/17094"
+    },
+    {
+      "id": "/kyujin/9917",
+      "name": "/kyujin/9917"
+    },
+    {
+      "id": "/apply/15035",
+      "name": "/apply/15035"
+    },
+    {
+      "id": "/apply/16023",
+      "name": "/apply/16023"
+    },
+    {
+      "id": "/apply/17026",
+      "name": "/apply/17026"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "工場 誰でも受かる",
+      "target": "/contents/articles/koujohaken-daredemo-ukaru",
+      "value": 2,
+      "tooltip": "工場 誰でも受かる -> /contents/articles/koujohaken-daredemo-ukaru"
+    },
+    {
+      "source": "/contents/articles/koujohaken-daredemo-ukaru",
+      "target": "/zenkoku/PC27/FW工場　派遣",
+      "value": 1,
+      "tooltip": "工場 誰でも受かる -> /contents/articles/koujohaken-daredemo-ukaru -> /zenkoku/PC27/FW工場　派遣"
+    },
+    {
+      "source": "/zenkoku/PC27/FW工場　派遣",
+      "target": "/kyujin/search-detail",
+      "value": 1,
+      "tooltip": "工場 誰でも受かる -> /contents/articles/koujohaken-daredemo-ukaru -> /zenkoku/PC27/FW工場　派遣 -> /kyujin/search-detail"
+    }
+  ]
+}
