@@ -1,1 +1,124 @@
-a
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <script type="text/javascript">
+        var __cdv_site_key = "sample-tracking-key";var i=document.getElementsByTagName("script")[0];var n=document.createElement("script");n.type="text/javascript",n.async=!0,n.src=("https:"===document.location.protocol?"https:":"http:")+"//devcdvtrackingasset.blob.core.windows.net/asset/cdv.min.js";i.parentNode.insertBefore(n,i);
+        </script>
+    <title>経路図分析</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .chart-wrapper {
+            margin-bottom: 50px;
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 5px;
+            position: relative;
+        }
+        .chart-container {
+            width: 100%;
+            overflow-x: auto;
+        }
+        h2 {
+            color: #333;
+        }
+        .error {
+            color: red;
+        }
+        .chart-form {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #f5f5f5;
+            border-radius: 5px;
+        }
+        .chart-form input[type="text"] {
+            padding: 8px;
+            width: 250px;
+            margin-right: 10px;
+        }
+        .chart-form button {
+            padding: 8px 15px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .chart-form button:hover {
+            background-color: #45a049;
+        }
+        .delete-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            padding: 5px 10px;
+            background-color: #f44336;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .delete-btn:hover {
+            background-color: #d32f2f;
+        }
+        /* オートコンプリート用のスタイル */
+        .autocomplete-container {
+            position: relative;
+            display: inline-block;
+        }
+        .autocomplete-items {
+            position: absolute;
+            border: 1px solid #ddd;
+            border-top: none;
+            z-index: 99;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background-color: white;
+            max-height: 200px;
+            overflow-y: auto;
+        }
+        .autocomplete-items div {
+            padding: 10px;
+            cursor: pointer;
+        }
+        .autocomplete-items div:hover {
+            background-color: #e9e9e9;
+        }
+        .autocomplete-active {
+            background-color: #4CAF50 !important;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>経路図分析</h1>
+    
+    <!-- チャート追加フォーム -->
+    <div class="chart-form">
+        <form id="add-chart-form">
+            <div class="autocomplete-container">
+                <input type="text" id="chart-filename" placeholder="ファイル名（例: chart1）" required>
+                <div id="autocomplete-list" class="autocomplete-items" style="display: none;"></div>
+            </div>
+            <button type="submit">チャートを追加</button>
+        </form>
+    </div>
+    
+    <div id="charts-container"></div>
+
+    <!-- D3.jsとサンキーチャートプラグインを読み込み -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/d3-sankey@0.12.3/dist/d3-sankey.min.js"></script>
+    
+    <!-- 自作スクリプトを読み込み（キャッシュ回避のためにタイムスタンプを追加） -->
+    <script src="script.js?v=<?= Date.now() ?>"></script>
+</body>
+</html> 
