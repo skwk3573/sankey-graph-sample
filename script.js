@@ -19,6 +19,15 @@ function drawSankeyChart(data, containerId, title) {
     container.append("h2")
         .text(title);
     
+    // 削除ボタンを追加
+    container.append("button")
+        .attr("class", "delete-btn")
+        .text("削除")
+        .on("click", function() {
+            // チャートコンテナを削除
+            container.remove();
+        });
+    
     // 切り替えボタンを追加
     const controlDiv = container.append("div")
         .attr("class", "chart-controls");
@@ -436,50 +445,70 @@ function drawSankeyChart(data, containerId, title) {
         .text(d => d.value);
 }
 
-// メイン処理：データファイルを読み込んでチャートを描画
-async function initializeCharts() {
+// 指定されたファイル名のJSONデータを読み込んでチャートを描画する関数
+async function loadAndDrawChart(fileName) {
     try {
-        // データファイルのリストを取得
-        const dataFiles = await getDataFilesList();
-        
-        if (dataFiles.length === 0) {
-            document.getElementById('charts-container').innerHTML = 
-                '<p>設定ファイルにデータファイルが見つかりませんでした。</p>';
-            return;
+        // ファイル名に.jsonが含まれていない場合は追加
+        if (!fileName.endsWith('.json')) {
+            fileName += '.json';
         }
         
-        // 各ファイルに対してチャートを作成
-        for (let i = 0; i < dataFiles.length; i++) {
-            const fileName = dataFiles[i];
-            const filePath = `data/${fileName}`;
-            
-            // チャートのコンテナを作成
-            const containerId = `chart-${i}`;
-            const container = document.createElement('div');
-            container.id = containerId;
-            container.className = 'chart-wrapper';
-            document.getElementById('charts-container').appendChild(container);
-            
-            // タイトル用のファイル名（.jsonを除去）
-            const title = fileName.replace('.json', '');
-            
-            // データを読み込んでチャートを描画
-            try {
-                const response = await fetch(filePath);
-                const data = await response.json();
-                drawSankeyChart(data, containerId, title);
-            } catch (error) {
-                console.error(`${fileName}の読み込みに失敗しました:`, error);
-                document.getElementById(containerId).innerHTML = 
-                    `<p class="error">${fileName}の読み込みに失敗しました。</p>`;
-            }
+        const filePath = `data/${fileName}`;
+        
+        // チャートのコンテナを作成
+        const containerId = `chart-${Date.now()}`; // ユニークなIDを生成
+        const container = document.createElement('div');
+        container.id = containerId;
+        container.className = 'chart-wrapper';
+        
+        // コンテナを最上部に追加（既存のチャートの前に）
+        const chartsContainer = document.getElementById('charts-container');
+        if (chartsContainer.firstChild) {
+            chartsContainer.insertBefore(container, chartsContainer.firstChild);
+        } else {
+            chartsContainer.appendChild(container);
         }
+        
+        // タイトル用のファイル名（.jsonを除去）
+        const title = fileName.replace('.json', '');
+        
+        // データを読み込んでチャートを描画
+        const response = await fetch(filePath);
+        if (!response.ok) {
+            throw new Error(`ファイル ${fileName} が見つかりません (${response.status})`);
+        }
+        
+        const data = await response.json();
+        drawSankeyChart(data, containerId, title);
+        
+        return true;
     } catch (error) {
-        console.error('チャートの初期化に失敗しました:', error);
-        document.getElementById('charts-container').innerHTML = 
-            '<p class="error">チャートの初期化に失敗しました。</p>';
+        console.error(`${fileName}の読み込みに失敗しました:`, error);
+        alert(`エラー: ${fileName}の読み込みに失敗しました。\n${error.message}`);
+        
+        // エラーが発生した場合、空のコンテナを削除
+        const container = document.getElementById(containerId);
+        if (container) {
+            container.remove();
+        }
+        
+        return false;
     }
 }
 
-// ページ読み込み時にチャートを初期化
-document.addEventListener('DOMContentLoaded', initializeCharts); 
+// ページ読み込み時の初期化処理
+document.addEventListener('DOMContentLoaded', function() {
+    // フォーム送信イベントを処理
+    document.getElementById('add-chart-form').addEventListener('submit', async function(event) {
+        event.preventDefault();
+        
+        const fileNameInput = document.getElementById('chart-filename');
+        const fileName = fileNameInput.value.trim();
+        
+        if (fileName) {
+            await loadAndDrawChart(fileName);
+            // 入力フィールドをクリア
+            fileNameInput.value = '';
+        }
+    });
+}); 

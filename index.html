@@ -20,6 +20,7 @@
             border: 1px solid #ddd;
             padding: 20px;
             border-radius: 5px;
+            position: relative;
         }
         .chart-container {
             width: 100%;
@@ -31,10 +32,55 @@
         .error {
             color: red;
         }
+        .chart-form {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #f5f5f5;
+            border-radius: 5px;
+        }
+        .chart-form input[type="text"] {
+            padding: 8px;
+            width: 250px;
+            margin-right: 10px;
+        }
+        .chart-form button {
+            padding: 8px 15px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .chart-form button:hover {
+            background-color: #45a049;
+        }
+        .delete-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            padding: 5px 10px;
+            background-color: #f44336;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .delete-btn:hover {
+            background-color: #d32f2f;
+        }
     </style>
 </head>
 <body>
     <h1>サンキーチャート分析</h1>
+    
+    <!-- チャート追加フォーム -->
+    <div class="chart-form">
+        <form id="add-chart-form">
+            <input type="text" id="chart-filename" placeholder="ファイル名（例: chart1）" required>
+            <button type="submit">チャートを追加</button>
+        </form>
+    </div>
+    
     <div id="charts-container"></div>
 
     <!-- D3.jsとサンキーチャートプラグインを読み込み -->
