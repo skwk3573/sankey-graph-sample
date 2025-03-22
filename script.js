@@ -542,6 +542,9 @@ async function setupAutocomplete() {
     const input = document.getElementById('chart-filename');
     const autocompleteList = document.getElementById('autocomplete-list');
     
+    // ブラウザのネイティブオートコンプリートを無効化
+    input.setAttribute('autocomplete', 'off');
+    
     // 利用可能なデータファイルのリストを取得
     const dataFiles = await getDataFilesList();
     
