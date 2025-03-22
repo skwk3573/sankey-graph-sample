@@ -380,7 +380,7 @@ function drawSankeyChart(data, containerId, title) {
         // ノードにラベルを追加
         node.append("text")
             .attr("x", d => d.x0 - 6)
-            .attr("y", d => (d.y1 + d.y0) / 2)
+            .attr("y", d => (d.y1 + d.y0) / 2 - 15)
             .attr("dy", "0.35em")
             .attr("text-anchor", "end")
             .text(d => {
