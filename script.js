@@ -110,6 +110,7 @@ function drawSankeyChart(data, containerId, title) {
             .nodeWidth(15)
             .nodePadding(10)
             .extent([[1, 1], [width - 1, height - 5]])
+            // .nodeAlign(d3.sankeyRight)
             .nodeSort((a, b) => {
                 // 同じグループのノードを近くに配置
                 if (a.group && b.group && a.group === b.group) {
@@ -128,12 +129,23 @@ function drawSankeyChart(data, containerId, title) {
         });
         
         // リンクのsourceとtargetをオブジェクト参照に変換
-        const links = data.links.map(link => ({
-            source: nodeById[link.source],
-            target: nodeById[link.target],
-            value: link.value,
-            tooltip: link.tooltip
-        }));
+        // 表示用の実際の値を保持しつつ、計算用の値を調整
+        const links = data.links.map(link => {
+            // 実際の値を保存
+            const actualValue = link.value;
+            
+            // 計算用の値を調整（例：最小値を設定）
+            // const calculationValue = Math.sqrt(actualValue, 10); // 最小値を10に設定
+            const calculationValue = Math.sqrt(actualValue) * 3; // 平方根を取って5倍
+            
+            return {
+                source: nodeById[link.source],
+                target: nodeById[link.target],
+                value: calculationValue, // 計算用の値
+                actualValue: actualValue, // 実際の値（表示用）
+                tooltip: link.tooltip
+            };
+        });
         
         // サンキーレイアウト用のデータ構造
         const sankeyData = {
@@ -230,7 +242,8 @@ function drawSankeyChart(data, containerId, title) {
                     .style("opacity", 0)
                     .style("z-index", 1000);
                 
-                let tooltipContent = `<strong>値: ${d.value}</strong><br>`;
+                // 実際の値（actualValue）を使用
+                let tooltipContent = `<strong>値: ${d.actualValue || d.value}</strong><br>`;
                 tooltipContent += `<div class="tooltip-source">From: ${d.source.name}</div>`;
                 tooltipContent += `<div class="tooltip-target">To: ${d.target.name}</div>`;
                 
@@ -417,7 +430,7 @@ function drawSankeyChart(data, containerId, title) {
                 .attr("ry", 5);
         });
         
-        // リンク上に値を表示するテキストを追加（最後に描画して最前面に表示）
+        // リンク上に値を表示するテキストを追加する部分を修正
         const linkLabels = svg.append("g")
             .attr("class", "link-labels")
             .selectAll("g")
@@ -456,7 +469,7 @@ function drawSankeyChart(data, containerId, title) {
             .attr("stroke-opacity", "1")
             .attr("paint-order", "stroke fill")
             .attr("pointer-events", "none")
-            .text(d => d.value);
+            .text(d => d.actualValue || d.value); // 実際の値を表示
     }
     
     // 初回描画
