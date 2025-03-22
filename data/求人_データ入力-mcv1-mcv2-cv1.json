@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "求人 データ入力",
+      "name": "求人 データ入力"
+    },
+    {
+      "id": "/kyujin/13444",
+      "name": "/kyujin/13444"
+    }
+  ],
+  "links": [
+    {
+      "source": "求人 データ入力",
+      "target": "/kyujin/13444",
+      "value": 1,
+      "tooltip": "求人 データ入力 > /kyujin/13444"
+    }
+  ]
+}

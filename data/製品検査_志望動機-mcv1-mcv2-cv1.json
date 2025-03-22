@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "製品検査 志望動機",
+      "name": "製品検査 志望動機"
+    },
+    {
+      "id": "/contents/articles/kenpin-shibodoki",
+      "name": "/contents/articles/kenpin-shibodoki"
+    },
+    {
+      "id": "/zenkoku/MC5/FW大阪　派遣",
+      "name": "/zenkoku/MC5/FW大阪　派遣"
+    }
+  ],
+  "links": [
+    {
+      "source": "製品検査 志望動機",
+      "target": "/contents/articles/kenpin-shibodoki",
+      "value": 2,
+      "tooltip": "製品検査 志望動機 > /contents/articles/kenpin-shibodoki"
+    },
+    {
+      "source": "/contents/articles/kenpin-shibodoki",
+      "target": "/zenkoku/MC5/FW大阪　派遣",
+      "value": 2,
+      "tooltip": "製品検査 志望動機 > /contents/articles/kenpin-shibodoki > /zenkoku/MC5/FW大阪　派遣"
+    }
+  ]
+}

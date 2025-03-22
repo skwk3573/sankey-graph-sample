@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "検品バイト きつい",
+      "name": "検品バイト きつい"
+    },
+    {
+      "id": "/contents/articles/keisagyo-haken-hard",
+      "name": "/contents/articles/keisagyo-haken-hard"
+    },
+    {
+      "id": "/contents/articles/kenpinsagyo-kitsui",
+      "name": "/contents/articles/kenpinsagyo-kitsui"
+    },
+    {
+      "id": "/zenkoku/MC5/EC1",
+      "name": "/zenkoku/MC5/EC1"
+    }
+  ],
+  "links": [
+    {
+      "source": "検品バイト きつい",
+      "target": "/contents/articles/keisagyo-haken-hard",
+      "value": 1,
+      "tooltip": "検品バイト きつい > /contents/articles/keisagyo-haken-hard"
+    },
+    {
+      "source": "検品バイト きつい",
+      "target": "/contents/articles/kenpinsagyo-kitsui",
+      "value": 4,
+      "tooltip": "検品バイト きつい > /contents/articles/kenpinsagyo-kitsui"
+    },
+    {
+      "source": "/contents/articles/kenpinsagyo-kitsui",
+      "target": "/zenkoku/MC5/EC1",
+      "value": 1,
+      "tooltip": "検品バイト きつい > /contents/articles/kenpinsagyo-kitsui > /zenkoku/MC5/EC1"
+    }
+  ]
+}

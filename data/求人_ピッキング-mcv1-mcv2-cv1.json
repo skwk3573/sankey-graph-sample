@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "求人 ピッキング",
+      "name": "求人 ピッキング"
+    },
+    {
+      "id": "/kyujin/3828",
+      "name": "/kyujin/3828"
+    }
+  ],
+  "links": [
+    {
+      "source": "求人 ピッキング",
+      "target": "/kyujin/3828",
+      "value": 1,
+      "tooltip": "求人 ピッキング > /kyujin/3828"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "工場 勤め 初めての 50代女性 いま すか",
+      "name": "工場 勤め 初めての 50代女性 いま すか"
+    },
+    {
+      "id": "/contents/articles/koujohaken-woman-demerit",
+      "name": "/contents/articles/koujohaken-woman-demerit"
+    }
+  ],
+  "links": [
+    {
+      "source": "工場 勤め 初めての 50代女性 いま すか",
+      "target": "/contents/articles/koujohaken-woman-demerit",
+      "value": 1,
+      "tooltip": "工場 勤め 初めての 50代女性 いま すか > /contents/articles/koujohaken-woman-demerit"
+    }
+  ]
+}

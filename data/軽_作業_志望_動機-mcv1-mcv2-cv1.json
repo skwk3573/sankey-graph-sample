@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "軽 作業 志望 動機",
+      "name": "軽 作業 志望 動機"
+    },
+    {
+      "id": "/contents/articles/keisagyo-shiboudouki",
+      "name": "/contents/articles/keisagyo-shiboudouki"
+    }
+  ],
+  "links": [
+    {
+      "source": "軽 作業 志望 動機",
+      "target": "/contents/articles/keisagyo-shiboudouki",
+      "value": 1,
+      "tooltip": "軽 作業 志望 動機 > /contents/articles/keisagyo-shiboudouki"
+    }
+  ]
+}

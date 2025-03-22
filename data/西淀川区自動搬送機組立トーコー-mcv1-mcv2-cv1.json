@@ -22,19 +22,19 @@
       "source": "西淀川区自動搬送機組立トーコー",
       "target": "/kyujin/16705",
       "value": 13,
-      "tooltip": "西淀川区自動搬送機組立トーコー -> /kyujin/16705"
+      "tooltip": "西淀川区自動搬送機組立トーコー > /kyujin/16705"
     },
     {
       "source": "西淀川区自動搬送機組立トーコー",
       "target": "/kyujin/16735",
       "value": 4,
-      "tooltip": "西淀川区自動搬送機組立トーコー -> /kyujin/16735"
+      "tooltip": "西淀川区自動搬送機組立トーコー > /kyujin/16735"
     },
     {
       "source": "/kyujin/16705",
       "target": "/apply/16705",
       "value": 4,
-      "tooltip": "西淀川区自動搬送機組立トーコー -> /kyujin/16705 -> /apply/16705"
+      "tooltip": "西淀川区自動搬送機組立トーコー > /kyujin/16705 > /apply/16705"
     }
   ]
 }

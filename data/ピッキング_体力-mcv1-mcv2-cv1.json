@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "ピッキング 体力",
+      "name": "ピッキング 体力"
+    },
+    {
+      "id": "/contents/articles/temporary-picking-hard",
+      "name": "/contents/articles/temporary-picking-hard"
+    },
+    {
+      "id": "/zenkoku/MC7",
+      "name": "/zenkoku/MC7"
+    },
+    {
+      "id": "/zenkoku/MC7/EC1",
+      "name": "/zenkoku/MC7/EC1"
+    }
+  ],
+  "links": [
+    {
+      "source": "ピッキング 体力",
+      "target": "/contents/articles/temporary-picking-hard",
+      "value": 6,
+      "tooltip": "ピッキング 体力 > /contents/articles/temporary-picking-hard"
+    },
+    {
+      "source": "/contents/articles/temporary-picking-hard",
+      "target": "/zenkoku/MC7",
+      "value": 2,
+      "tooltip": "ピッキング 体力 > /contents/articles/temporary-picking-hard > /zenkoku/MC7"
+    },
+    {
+      "source": "/contents/articles/temporary-picking-hard",
+      "target": "/zenkoku/MC7/EC1",
+      "value": 3,
+      "tooltip": "ピッキング 体力 > /contents/articles/temporary-picking-hard > /zenkoku/MC7/EC1"
+    }
+  ]
+}

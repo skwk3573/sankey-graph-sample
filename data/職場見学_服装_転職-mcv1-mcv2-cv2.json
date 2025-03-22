@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "職場見学 服装 転職",
+      "name": "職場見学 服装 転職"
+    },
+    {
+      "id": "/contents/articles/interview-clothes",
+      "name": "/contents/articles/interview-clothes"
+    }
+  ],
+  "links": [
+    {
+      "source": "職場見学 服装 転職",
+      "target": "/contents/articles/interview-clothes",
+      "value": 1,
+      "tooltip": "職場見学 服装 転職 > /contents/articles/interview-clothes"
+    }
+  ]
+}

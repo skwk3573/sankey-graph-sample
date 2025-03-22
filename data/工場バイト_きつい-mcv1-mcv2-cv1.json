@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "工場バイト きつい",
+      "name": "工場バイト きつい"
+    },
+    {
+      "id": "/contents/articles/keisagyo-haken-hard",
+      "name": "/contents/articles/keisagyo-haken-hard"
+    }
+  ],
+  "links": [
+    {
+      "source": "工場バイト きつい",
+      "target": "/contents/articles/keisagyo-haken-hard",
+      "value": 1,
+      "tooltip": "工場バイト きつい > /contents/articles/keisagyo-haken-hard"
+    }
+  ]
+}

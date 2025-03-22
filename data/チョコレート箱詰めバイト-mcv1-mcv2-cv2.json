@@ -7,14 +7,6 @@
     {
       "id": "/kyujin/12746",
       "name": "/kyujin/12746"
-    },
-    {
-      "id": "/apply/535",
-      "name": "/apply/535"
-    },
-    {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
     }
   ],
   "links": [
@@ -22,7 +14,7 @@
       "source": "チョコレート箱詰めバイト",
       "target": "/kyujin/12746",
       "value": 1,
-      "tooltip": "チョコレート箱詰めバイト -> /kyujin/12746"
+      "tooltip": "チョコレート箱詰めバイト > /kyujin/12746"
     }
   ]
 }

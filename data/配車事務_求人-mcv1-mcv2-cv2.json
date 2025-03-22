@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "配車事務 求人",
+      "name": "配車事務 求人"
+    },
+    {
+      "id": "/kyujin/16922",
+      "name": "/kyujin/16922"
+    }
+  ],
+  "links": [
+    {
+      "source": "配車事務 求人",
+      "target": "/kyujin/16922",
+      "value": 1,
+      "tooltip": "配車事務 求人 > /kyujin/16922"
+    }
+  ]
+}

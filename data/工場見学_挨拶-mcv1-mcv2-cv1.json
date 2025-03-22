@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "工場見学 挨拶",
+      "name": "工場見学 挨拶"
+    },
+    {
+      "id": "/contents/articles/factorytour",
+      "name": "/contents/articles/factorytour"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    }
+  ],
+  "links": [
+    {
+      "source": "工場見学 挨拶",
+      "target": "/contents/articles/factorytour",
+      "value": 3,
+      "tooltip": "工場見学 挨拶 > /contents/articles/factorytour"
+    },
+    {
+      "source": "/contents/articles/factorytour",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 1,
+      "tooltip": "工場見学 挨拶 > /contents/articles/factorytour > /zenkoku/EC1/FW工場"
+    }
+  ]
+}

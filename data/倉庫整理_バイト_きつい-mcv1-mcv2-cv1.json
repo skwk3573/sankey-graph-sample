@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "倉庫整理 バイト きつい",
+      "name": "倉庫整理 バイト きつい"
+    },
+    {
+      "id": "/contents/articles/keisagyo-haken-hard",
+      "name": "/contents/articles/keisagyo-haken-hard"
+    },
+    {
+      "id": "/zenkoku/MC1",
+      "name": "/zenkoku/MC1"
+    },
+    {
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
+    }
+  ],
+  "links": [
+    {
+      "source": "倉庫整理 バイト きつい",
+      "target": "/contents/articles/keisagyo-haken-hard",
+      "value": 6,
+      "tooltip": "倉庫整理 バイト きつい > /contents/articles/keisagyo-haken-hard"
+    },
+    {
+      "source": "/contents/articles/keisagyo-haken-hard",
+      "target": "/zenkoku/MC1",
+      "value": 1,
+      "tooltip": "倉庫整理 バイト きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1"
+    },
+    {
+      "source": "/contents/articles/keisagyo-haken-hard",
+      "target": "/zenkoku/MC1/EC1",
+      "value": 2,
+      "tooltip": "倉庫整理 バイト きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "製造 募集",
+      "name": "製造 募集"
+    },
+    {
+      "id": "/kyujin/15634",
+      "name": "/kyujin/15634"
+    }
+  ],
+  "links": [
+    {
+      "source": "製造 募集",
+      "target": "/kyujin/15634",
+      "value": 1,
+      "tooltip": "製造 募集 > /kyujin/15634"
+    }
+  ]
+}

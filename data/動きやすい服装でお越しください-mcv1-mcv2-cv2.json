@@ -7,22 +7,6 @@
     {
       "id": "/contents/articles/Factory-dispatch-apparel",
       "name": "/contents/articles/Factory-dispatch-apparel"
-    },
-    {
-      "id": "/zenkoku/EC1/FW工場",
-      "name": "/zenkoku/EC1/FW工場"
-    },
-    {
-      "id": "/kyujin/search-detail",
-      "name": "/kyujin/search-detail"
-    },
-    {
-      "id": "/kyujin/15188",
-      "name": "/kyujin/15188"
-    },
-    {
-      "id": "/kyujin/17069",
-      "name": "/kyujin/17069"
     }
   ],
   "links": [
@@ -30,7 +14,7 @@
       "source": "動きやすい服装でお越しください",
       "target": "/contents/articles/Factory-dispatch-apparel",
       "value": 2,
-      "tooltip": "動きやすい服装でお越しください -> /contents/articles/Factory-dispatch-apparel"
+      "tooltip": "動きやすい服装でお越しください > /contents/articles/Factory-dispatch-apparel"
     }
   ]
 }

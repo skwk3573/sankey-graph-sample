@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "派遣法 3年",
+      "name": "派遣法 3年"
+    },
+    {
+      "id": "/contents/articles/koujohaken-bakkure-taisho",
+      "name": "/contents/articles/koujohaken-bakkure-taisho"
+    }
+  ],
+  "links": [
+    {
+      "source": "派遣法 3年",
+      "target": "/contents/articles/koujohaken-bakkure-taisho",
+      "value": 1,
+      "tooltip": "派遣法 3年 > /contents/articles/koujohaken-bakkure-taisho"
+    }
+  ]
+}

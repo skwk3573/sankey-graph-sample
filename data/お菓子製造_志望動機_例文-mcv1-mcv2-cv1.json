@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "お菓子製造 志望動機 例文",
+      "name": "お菓子製造 志望動機 例文"
+    },
+    {
+      "id": "/contents/articles/temporary-reasons-applying",
+      "name": "/contents/articles/temporary-reasons-applying"
+    }
+  ],
+  "links": [
+    {
+      "source": "お菓子製造 志望動機 例文",
+      "target": "/contents/articles/temporary-reasons-applying",
+      "value": 1,
+      "tooltip": "お菓子製造 志望動機 例文 > /contents/articles/temporary-reasons-applying"
+    }
+  ]
+}

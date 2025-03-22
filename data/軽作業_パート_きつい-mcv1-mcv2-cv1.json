@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "軽作業 パート きつい",
+      "name": "軽作業 パート きつい"
+    },
+    {
+      "id": "/contents/articles/keisagyo",
+      "name": "/contents/articles/keisagyo"
+    },
+    {
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
+    }
+  ],
+  "links": [
+    {
+      "source": "軽作業 パート きつい",
+      "target": "/contents/articles/keisagyo",
+      "value": 1,
+      "tooltip": "軽作業 パート きつい > /contents/articles/keisagyo"
+    },
+    {
+      "source": "/contents/articles/keisagyo",
+      "target": "/zenkoku/MC1/EC1",
+      "value": 1,
+      "tooltip": "軽作業 パート きつい > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
+    }
+  ]
+}

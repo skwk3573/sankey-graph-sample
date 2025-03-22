@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "綾部市 事務 求人",
+      "name": "綾部市 事務 求人"
+    },
+    {
+      "id": "/kyujin/16784",
+      "name": "/kyujin/16784"
+    }
+  ],
+  "links": [
+    {
+      "source": "綾部市 事務 求人",
+      "target": "/kyujin/16784",
+      "value": 1,
+      "tooltip": "綾部市 事務 求人 > /kyujin/16784"
+    }
+  ]
+}

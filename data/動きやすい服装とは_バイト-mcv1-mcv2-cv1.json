@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "動きやすい服装とは バイト",
+      "name": "動きやすい服装とは バイト"
+    },
+    {
+      "id": "/contents/articles/keisagyo-wear",
+      "name": "/contents/articles/keisagyo-wear"
+    },
+    {
+      "id": "/contents/articles/keisagyou-hukusouwoman",
+      "name": "/contents/articles/keisagyou-hukusouwoman"
+    }
+  ],
+  "links": [
+    {
+      "source": "動きやすい服装とは バイト",
+      "target": "/contents/articles/keisagyo-wear",
+      "value": 1,
+      "tooltip": "動きやすい服装とは バイト > /contents/articles/keisagyo-wear"
+    },
+    {
+      "source": "動きやすい服装とは バイト",
+      "target": "/contents/articles/keisagyou-hukusouwoman",
+      "value": 1,
+      "tooltip": "動きやすい服装とは バイト > /contents/articles/keisagyou-hukusouwoman"
+    }
+  ]
+}

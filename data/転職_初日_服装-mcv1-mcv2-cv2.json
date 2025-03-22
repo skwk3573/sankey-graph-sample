@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "転職 初日 服装",
+      "name": "転職 初日 服装"
+    },
+    {
+      "id": "/contents/articles/Factory-dispatch-apparel",
+      "name": "/contents/articles/Factory-dispatch-apparel"
+    }
+  ],
+  "links": [
+    {
+      "source": "転職 初日 服装",
+      "target": "/contents/articles/Factory-dispatch-apparel",
+      "value": 1,
+      "tooltip": "転職 初日 服装 > /contents/articles/Factory-dispatch-apparel"
+    }
+  ]
+}

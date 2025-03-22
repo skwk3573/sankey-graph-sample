@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "仕事 バックレ",
+      "name": "仕事 バックレ"
+    },
+    {
+      "id": "/contents/articles/koujohaken-bakkure-taisho",
+      "name": "/contents/articles/koujohaken-bakkure-taisho"
+    }
+  ],
+  "links": [
+    {
+      "source": "仕事 バックレ",
+      "target": "/contents/articles/koujohaken-bakkure-taisho",
+      "value": 2,
+      "tooltip": "仕事 バックレ > /contents/articles/koujohaken-bakkure-taisho"
+    }
+  ]
+}

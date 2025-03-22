@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "フォークリフト 向いている人",
+      "name": "フォークリフト 向いている人"
+    },
+    {
+      "id": "/contents/articles/koujohaken-forklift-tired",
+      "name": "/contents/articles/koujohaken-forklift-tired"
+    }
+  ],
+  "links": [
+    {
+      "source": "フォークリフト 向いている人",
+      "target": "/contents/articles/koujohaken-forklift-tired",
+      "value": 1,
+      "tooltip": "フォークリフト 向いている人 > /contents/articles/koujohaken-forklift-tired"
+    }
+  ]
+}

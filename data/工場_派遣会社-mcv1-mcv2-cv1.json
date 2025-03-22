@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "工場 派遣会社",
+      "name": "工場 派遣会社"
+    },
+    {
+      "id": "/contents/articles/kojohaken-yametoke",
+      "name": "/contents/articles/kojohaken-yametoke"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    }
+  ],
+  "links": [
+    {
+      "source": "工場 派遣会社",
+      "target": "/contents/articles/kojohaken-yametoke",
+      "value": 3,
+      "tooltip": "工場 派遣会社 > /contents/articles/kojohaken-yametoke"
+    },
+    {
+      "source": "/contents/articles/kojohaken-yametoke",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 1,
+      "tooltip": "工場 派遣会社 > /contents/articles/kojohaken-yametoke > /zenkoku/EC1/FW工場"
+    }
+  ]
+}

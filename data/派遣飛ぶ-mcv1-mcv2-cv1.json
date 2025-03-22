@@ -7,54 +7,6 @@
     {
       "id": "/contents/articles/koujohaken-bakkure-taisho",
       "name": "/contents/articles/koujohaken-bakkure-taisho"
-    },
-    {
-      "id": "/zenkoku/PC27/FW工場　派遣",
-      "name": "/zenkoku/PC27/FW工場　派遣"
-    },
-    {
-      "id": "/apply/535",
-      "name": "/apply/535"
-    },
-    {
-      "id": "/zenkoku/EC1/FW工場",
-      "name": "/zenkoku/EC1/FW工場"
-    },
-    {
-      "id": "/kyujin/search-detail",
-      "name": "/kyujin/search-detail"
-    },
-    {
-      "id": "/kyujin/15188",
-      "name": "/kyujin/15188"
-    },
-    {
-      "id": "/kyujin/17069",
-      "name": "/kyujin/17069"
-    },
-    {
-      "id": "/kyujin/16717",
-      "name": "/kyujin/16717"
-    },
-    {
-      "id": "/kyujin/16875",
-      "name": "/kyujin/16875"
-    },
-    {
-      "id": "/kyujin/17094",
-      "name": "/kyujin/17094"
-    },
-    {
-      "id": "/kyujin/9917",
-      "name": "/kyujin/9917"
-    },
-    {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
-    },
-    {
-      "id": "/apply/complete",
-      "name": "/apply/complete"
     }
   ],
   "links": [
@@ -62,7 +14,7 @@
       "source": "派遣飛ぶ",
       "target": "/contents/articles/koujohaken-bakkure-taisho",
       "value": 2,
-      "tooltip": "派遣飛ぶ -> /contents/articles/koujohaken-bakkure-taisho"
+      "tooltip": "派遣飛ぶ > /contents/articles/koujohaken-bakkure-taisho"
     }
   ]
 }

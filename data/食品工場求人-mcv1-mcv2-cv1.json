@@ -11,10 +11,6 @@
     {
       "id": "/kyujin/16809",
       "name": "/kyujin/16809"
-    },
-    {
-      "id": "/apply/16577",
-      "name": "/apply/16577"
     }
   ],
   "links": [
@@ -22,13 +18,13 @@
       "source": "食品工場求人",
       "target": "/kyujin/16577",
       "value": 1,
-      "tooltip": "食品工場求人 -> /kyujin/16577"
+      "tooltip": "食品工場求人 > /kyujin/16577"
     },
     {
       "source": "食品工場求人",
       "target": "/kyujin/16809",
       "value": 1,
-      "tooltip": "食品工場求人 -> /kyujin/16809"
+      "tooltip": "食品工場求人 > /kyujin/16809"
     }
   ]
 }

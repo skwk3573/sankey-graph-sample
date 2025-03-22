@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "モノタロウ 倉庫 きつい",
+      "name": "モノタロウ 倉庫 きつい"
+    },
+    {
+      "id": "/contents/articles/keisagyo-haken-hard",
+      "name": "/contents/articles/keisagyo-haken-hard"
+    },
+    {
+      "id": "/zenkoku/MC1",
+      "name": "/zenkoku/MC1"
+    },
+    {
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
+    }
+  ],
+  "links": [
+    {
+      "source": "モノタロウ 倉庫 きつい",
+      "target": "/contents/articles/keisagyo-haken-hard",
+      "value": 12,
+      "tooltip": "モノタロウ 倉庫 きつい > /contents/articles/keisagyo-haken-hard"
+    },
+    {
+      "source": "/contents/articles/keisagyo-haken-hard",
+      "target": "/zenkoku/MC1",
+      "value": 1,
+      "tooltip": "モノタロウ 倉庫 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1"
+    },
+    {
+      "source": "/contents/articles/keisagyo-haken-hard",
+      "target": "/zenkoku/MC1/EC1",
+      "value": 3,
+      "tooltip": "モノタロウ 倉庫 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1"
+    }
+  ]
+}

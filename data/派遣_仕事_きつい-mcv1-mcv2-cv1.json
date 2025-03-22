@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "派遣 仕事 きつい",
+      "name": "派遣 仕事 きつい"
+    },
+    {
+      "id": "/contents/articles/factory-haken-hard",
+      "name": "/contents/articles/factory-haken-hard"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    }
+  ],
+  "links": [
+    {
+      "source": "派遣 仕事 きつい",
+      "target": "/contents/articles/factory-haken-hard",
+      "value": 3,
+      "tooltip": "派遣 仕事 きつい > /contents/articles/factory-haken-hard"
+    },
+    {
+      "source": "/contents/articles/factory-haken-hard",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 1,
+      "tooltip": "派遣 仕事 きつい > /contents/articles/factory-haken-hard > /zenkoku/EC1/FW工場"
+    }
+  ]
+}

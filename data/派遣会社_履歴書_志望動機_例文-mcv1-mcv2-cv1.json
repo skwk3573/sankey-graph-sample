@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "派遣会社 履歴書 志望動機 例文",
+      "name": "派遣会社 履歴書 志望動機 例文"
+    },
+    {
+      "id": "/contents/articles/temporary-reasons-applying",
+      "name": "/contents/articles/temporary-reasons-applying"
+    }
+  ],
+  "links": [
+    {
+      "source": "派遣会社 履歴書 志望動機 例文",
+      "target": "/contents/articles/temporary-reasons-applying",
+      "value": 2,
+      "tooltip": "派遣会社 履歴書 志望動機 例文 > /contents/articles/temporary-reasons-applying"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "東京駅 アルバイト",
+      "name": "東京駅 アルバイト"
+    },
+    {
+      "id": "/kyujin/8975",
+      "name": "/kyujin/8975"
+    }
+  ],
+  "links": [
+    {
+      "source": "東京駅 アルバイト",
+      "target": "/kyujin/8975",
+      "value": 2,
+      "tooltip": "東京駅 アルバイト > /kyujin/8975"
+    }
+  ]
+}

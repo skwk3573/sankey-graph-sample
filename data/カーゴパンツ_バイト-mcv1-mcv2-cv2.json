@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "カーゴパンツ バイト",
+      "name": "カーゴパンツ バイト"
+    },
+    {
+      "id": "/contents/articles/keisagyo-wear",
+      "name": "/contents/articles/keisagyo-wear"
+    }
+  ],
+  "links": [
+    {
+      "source": "カーゴパンツ バイト",
+      "target": "/contents/articles/keisagyo-wear",
+      "value": 1,
+      "tooltip": "カーゴパンツ バイト > /contents/articles/keisagyo-wear"
+    }
+  ]
+}

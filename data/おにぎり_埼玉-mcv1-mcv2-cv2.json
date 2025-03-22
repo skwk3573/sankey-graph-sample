@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "おにぎり 埼玉",
+      "name": "おにぎり 埼玉"
+    },
+    {
+      "id": "/kyujin/14150",
+      "name": "/kyujin/14150"
+    }
+  ],
+  "links": [
+    {
+      "source": "おにぎり 埼玉",
+      "target": "/kyujin/14150",
+      "value": 1,
+      "tooltip": "おにぎり 埼玉 > /kyujin/14150"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "派遣 会社見学 服装",
+      "name": "派遣 会社見学 服装"
+    },
+    {
+      "id": "/contents/articles/interview-clothes",
+      "name": "/contents/articles/interview-clothes"
+    }
+  ],
+  "links": [
+    {
+      "source": "派遣 会社見学 服装",
+      "target": "/contents/articles/interview-clothes",
+      "value": 2,
+      "tooltip": "派遣 会社見学 服装 > /contents/articles/interview-clothes"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "オフィスカジュアル 職場見学",
+      "name": "オフィスカジュアル 職場見学"
+    },
+    {
+      "id": "/contents/articles/interview-clothes",
+      "name": "/contents/articles/interview-clothes"
+    },
+    {
+      "id": "/zenkoku/MC1",
+      "name": "/zenkoku/MC1"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    }
+  ],
+  "links": [
+    {
+      "source": "オフィスカジュアル 職場見学",
+      "target": "/contents/articles/interview-clothes",
+      "value": 5,
+      "tooltip": "オフィスカジュアル 職場見学 > /contents/articles/interview-clothes"
+    },
+    {
+      "source": "/contents/articles/interview-clothes",
+      "target": "/zenkoku/MC1",
+      "value": 1,
+      "tooltip": "オフィスカジュアル 職場見学 > /contents/articles/interview-clothes > /zenkoku/MC1"
+    },
+    {
+      "source": "/contents/articles/interview-clothes",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 1,
+      "tooltip": "オフィスカジュアル 職場見学 > /contents/articles/interview-clothes > /zenkoku/EC1/FW工場"
+    }
+  ]
+}

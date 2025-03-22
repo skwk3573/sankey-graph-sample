@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "軽作業 服装 パーカー",
+      "name": "軽作業 服装 パーカー"
+    },
+    {
+      "id": "/contents/articles/keisagyo-wear",
+      "name": "/contents/articles/keisagyo-wear"
+    },
+    {
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
+    }
+  ],
+  "links": [
+    {
+      "source": "軽作業 服装 パーカー",
+      "target": "/contents/articles/keisagyo-wear",
+      "value": 3,
+      "tooltip": "軽作業 服装 パーカー > /contents/articles/keisagyo-wear"
+    },
+    {
+      "source": "/contents/articles/keisagyo-wear",
+      "target": "/zenkoku/MC1/EC1",
+      "value": 1,
+      "tooltip": "軽作業 服装 パーカー > /contents/articles/keisagyo-wear > /zenkoku/MC1/EC1"
+    }
+  ]
+}

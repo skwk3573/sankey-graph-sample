@@ -11,18 +11,6 @@
     {
       "id": "/kyujin/15638",
       "name": "/kyujin/15638"
-    },
-    {
-      "id": "/apply/15638",
-      "name": "/apply/15638"
-    },
-    {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
-    },
-    {
-      "id": "/apply/complete",
-      "name": "/apply/complete"
     }
   ],
   "links": [
@@ -30,13 +18,13 @@
       "source": "上尾物流センター",
       "target": "/kyujin/11061",
       "value": 1,
-      "tooltip": "上尾物流センター -> /kyujin/11061"
+      "tooltip": "上尾物流センター > /kyujin/11061"
     },
     {
       "source": "上尾物流センター",
       "target": "/kyujin/15638",
       "value": 1,
-      "tooltip": "上尾物流センター -> /kyujin/15638"
+      "tooltip": "上尾物流センター > /kyujin/15638"
     }
   ]
 }

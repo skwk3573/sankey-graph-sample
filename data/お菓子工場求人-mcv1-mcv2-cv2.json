@@ -11,14 +11,6 @@
     {
       "id": "/kyujin/12682",
       "name": "/kyujin/12682"
-    },
-    {
-      "id": "/apply/1438",
-      "name": "/apply/1438"
-    },
-    {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
     }
   ],
   "links": [
@@ -26,13 +18,13 @@
       "source": "お菓子工場求人",
       "target": "/kyujin/1438",
       "value": 1,
-      "tooltip": "お菓子工場求人 -> /kyujin/1438"
+      "tooltip": "お菓子工場求人 > /kyujin/1438"
     },
     {
       "source": "お菓子工場求人",
       "target": "/kyujin/12682",
       "value": 1,
-      "tooltip": "お菓子工場求人 -> /kyujin/12682"
+      "tooltip": "お菓子工場求人 > /kyujin/12682"
     }
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "倉庫 作業 向いて ない人",
+      "name": "倉庫 作業 向いて ない人"
+    },
+    {
+      "id": "/contents/articles/keisagyo-haken-hard",
+      "name": "/contents/articles/keisagyo-haken-hard"
+    }
+  ],
+  "links": [
+    {
+      "source": "倉庫 作業 向いて ない人",
+      "target": "/contents/articles/keisagyo-haken-hard",
+      "value": 1,
+      "tooltip": "倉庫 作業 向いて ない人 > /contents/articles/keisagyo-haken-hard"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "工場 組立 きつい",
+      "name": "工場 組立 きつい"
+    },
+    {
+      "id": "/contents/articles/factory-haken-hard",
+      "name": "/contents/articles/factory-haken-hard"
+    }
+  ],
+  "links": [
+    {
+      "source": "工場 組立 きつい",
+      "target": "/contents/articles/factory-haken-hard",
+      "value": 1,
+      "tooltip": "工場 組立 きつい > /contents/articles/factory-haken-hard"
+    }
+  ]
+}

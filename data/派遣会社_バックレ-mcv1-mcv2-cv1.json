@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "派遣会社 バックレ",
+      "name": "派遣会社 バックレ"
+    },
+    {
+      "id": "/contents/articles/koujohaken-bakkure-taisho",
+      "name": "/contents/articles/koujohaken-bakkure-taisho"
+    }
+  ],
+  "links": [
+    {
+      "source": "派遣会社 バックレ",
+      "target": "/contents/articles/koujohaken-bakkure-taisho",
+      "value": 1,
+      "tooltip": "派遣会社 バックレ > /contents/articles/koujohaken-bakkure-taisho"
+    }
+  ]
+}

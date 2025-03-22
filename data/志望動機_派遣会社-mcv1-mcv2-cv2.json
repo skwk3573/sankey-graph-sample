@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "志望動機 派遣会社",
+      "name": "志望動機 派遣会社"
+    },
+    {
+      "id": "/contents/articles/temporary-reasons-applying",
+      "name": "/contents/articles/temporary-reasons-applying"
+    }
+  ],
+  "links": [
+    {
+      "source": "志望動機 派遣会社",
+      "target": "/contents/articles/temporary-reasons-applying",
+      "value": 1,
+      "tooltip": "志望動機 派遣会社 > /contents/articles/temporary-reasons-applying"
+    }
+  ]
+}

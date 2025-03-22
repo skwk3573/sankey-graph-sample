@@ -25,14 +25,6 @@
       "name": "/kyujin/search-detail"
     },
     {
-      "id": "/kyujin/15188",
-      "name": "/kyujin/15188"
-    },
-    {
-      "id": "/kyujin/17069",
-      "name": "/kyujin/17069"
-    },
-    {
       "id": "/apply/confirm",
       "name": "/apply/confirm"
     }
@@ -42,37 +34,37 @@
       "source": "工場派遣",
       "target": "/contents/articles/factory-haken-hard",
       "value": 38,
-      "tooltip": "工場派遣 -> /contents/articles/factory-haken-hard"
+      "tooltip": "工場派遣 > /contents/articles/factory-haken-hard"
     },
     {
       "source": "工場派遣",
       "target": "/contents/articles/kojohaken-yametoke",
       "value": 1,
-      "tooltip": "工場派遣 -> /contents/articles/kojohaken-yametoke"
+      "tooltip": "工場派遣 > /contents/articles/kojohaken-yametoke"
     },
     {
       "source": "/contents/articles/factory-haken-hard",
       "target": "/zenkoku/EC1/FW工場",
       "value": 6,
-      "tooltip": "工場派遣 -> /contents/articles/factory-haken-hard -> /zenkoku/EC1/FW工場"
+      "tooltip": "工場派遣 > /contents/articles/factory-haken-hard > /zenkoku/EC1/FW工場"
     },
     {
       "source": "/contents/articles/factory-haken-hard",
       "target": "/apply/535",
       "value": 1,
-      "tooltip": "工場派遣 -> /contents/articles/factory-haken-hard -> /apply/535"
+      "tooltip": "工場派遣 > /contents/articles/factory-haken-hard > /apply/535"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/search-detail",
       "value": 1,
-      "tooltip": "工場派遣 -> /contents/articles/factory-haken-hard -> /zenkoku/EC1/FW工場 -> /kyujin/search-detail"
+      "tooltip": "工場派遣 > /contents/articles/factory-haken-hard > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
     },
     {
       "source": "/apply/535",
       "target": "/apply/confirm",
       "value": 1,
-      "tooltip": "工場派遣 -> /contents/articles/factory-haken-hard -> /apply/535 -> /apply/confirm"
+      "tooltip": "工場派遣 > /contents/articles/factory-haken-hard > /apply/535 > /apply/confirm"
     }
   ]
 }

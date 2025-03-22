@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "工場 誰でも受かる",
+      "name": "工場 誰でも受かる"
+    },
+    {
+      "id": "/contents/articles/koujohaken-daredemo-ukaru",
+      "name": "/contents/articles/koujohaken-daredemo-ukaru"
+    },
+    {
+      "id": "/zenkoku/PC27/FW工場　派遣",
+      "name": "/zenkoku/PC27/FW工場　派遣"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    }
+  ],
+  "links": [
+    {
+      "source": "工場 誰でも受かる",
+      "target": "/contents/articles/koujohaken-daredemo-ukaru",
+      "value": 2,
+      "tooltip": "工場 誰でも受かる > /contents/articles/koujohaken-daredemo-ukaru"
+    },
+    {
+      "source": "/contents/articles/koujohaken-daredemo-ukaru",
+      "target": "/zenkoku/PC27/FW工場　派遣",
+      "value": 1,
+      "tooltip": "工場 誰でも受かる > /contents/articles/koujohaken-daredemo-ukaru > /zenkoku/PC27/FW工場　派遣"
+    },
+    {
+      "source": "/zenkoku/PC27/FW工場　派遣",
+      "target": "/kyujin/search-detail",
+      "value": 1,
+      "tooltip": "工場 誰でも受かる > /contents/articles/koujohaken-daredemo-ukaru > /zenkoku/PC27/FW工場　派遣 > /kyujin/search-detail"
+    }
+  ]
+}

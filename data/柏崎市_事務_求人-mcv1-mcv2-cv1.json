@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "柏崎市 事務 求人",
+      "name": "柏崎市 事務 求人"
+    },
+    {
+      "id": "/kyujin/13444",
+      "name": "/kyujin/13444"
+    }
+  ],
+  "links": [
+    {
+      "source": "柏崎市 事務 求人",
+      "target": "/kyujin/13444",
+      "value": 1,
+      "tooltip": "柏崎市 事務 求人 > /kyujin/13444"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "工場 求人",
+      "name": "工場 求人"
+    },
+    {
+      "id": "/kyujin/2618",
+      "name": "/kyujin/2618"
+    },
+    {
+      "id": "/kyujin/4724",
+      "name": "/kyujin/4724"
+    },
+    {
+      "id": "/kyujin/15613",
+      "name": "/kyujin/15613"
+    },
+    {
+      "id": "/kyujin/12453",
+      "name": "/kyujin/12453"
+    },
+    {
+      "id": "/kyujin/3640",
+      "name": "/kyujin/3640"
+    },
+    {
+      "id": "/apply/2618",
+      "name": "/apply/2618"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "工場 求人",
+      "target": "/kyujin/2618",
+      "value": 2,
+      "tooltip": "工場 求人 > /kyujin/2618"
+    },
+    {
+      "source": "工場 求人",
+      "target": "/kyujin/4724",
+      "value": 5,
+      "tooltip": "工場 求人 > /kyujin/4724"
+    },
+    {
+      "source": "工場 求人",
+      "target": "/kyujin/15613",
+      "value": 3,
+      "tooltip": "工場 求人 > /kyujin/15613"
+    },
+    {
+      "source": "工場 求人",
+      "target": "/kyujin/12453",
+      "value": 2,
+      "tooltip": "工場 求人 > /kyujin/12453"
+    },
+    {
+      "source": "工場 求人",
+      "target": "/kyujin/3640",
+      "value": 1,
+      "tooltip": "工場 求人 > /kyujin/3640"
+    },
+    {
+      "source": "/kyujin/2618",
+      "target": "/apply/2618",
+      "value": 1,
+      "tooltip": "工場 求人 > /kyujin/2618 > /apply/2618"
+    },
+    {
+      "source": "/apply/2618",
+      "target": "/apply/confirm",
+      "value": 1,
+      "tooltip": "工場 求人 > /kyujin/2618 > /apply/2618 > /apply/confirm"
+    },
+    {
+      "source": "/apply/confirm",
+      "target": "/apply/complete",
+      "value": 1,
+      "tooltip": "工場 求人 > /kyujin/2618 > /apply/2618 > /apply/confirm > /apply/complete"
+    }
+  ]
+}

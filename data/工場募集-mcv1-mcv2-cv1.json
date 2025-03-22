@@ -11,26 +11,6 @@
     {
       "id": "/kyujin/16699",
       "name": "/kyujin/16699"
-    },
-    {
-      "id": "/apply/3640",
-      "name": "/apply/3640"
-    },
-    {
-      "id": "/apply/535",
-      "name": "/apply/535"
-    },
-    {
-      "id": "/apply/16699",
-      "name": "/apply/16699"
-    },
-    {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
-    },
-    {
-      "id": "/apply/complete",
-      "name": "/apply/complete"
     }
   ],
   "links": [
@@ -38,13 +18,13 @@
       "source": "工場募集",
       "target": "/kyujin/3640",
       "value": 1,
-      "tooltip": "工場募集 -> /kyujin/3640"
+      "tooltip": "工場募集 > /kyujin/3640"
     },
     {
       "source": "工場募集",
       "target": "/kyujin/16699",
       "value": 1,
-      "tooltip": "工場募集 -> /kyujin/16699"
+      "tooltip": "工場募集 > /kyujin/16699"
     }
   ]
 }

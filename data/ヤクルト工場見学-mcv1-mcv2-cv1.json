@@ -7,22 +7,6 @@
     {
       "id": "/contents/articles/factorytour",
       "name": "/contents/articles/factorytour"
-    },
-    {
-      "id": "/zenkoku/EC1/FW工場",
-      "name": "/zenkoku/EC1/FW工場"
-    },
-    {
-      "id": "/kyujin/search-detail",
-      "name": "/kyujin/search-detail"
-    },
-    {
-      "id": "/kyujin/15188",
-      "name": "/kyujin/15188"
-    },
-    {
-      "id": "/kyujin/17069",
-      "name": "/kyujin/17069"
     }
   ],
   "links": [
@@ -30,7 +14,7 @@
       "source": "ヤクルト工場見学",
       "target": "/contents/articles/factorytour",
       "value": 1,
-      "tooltip": "ヤクルト工場見学 -> /contents/articles/factorytour"
+      "tooltip": "ヤクルト工場見学 > /contents/articles/factorytour"
     }
   ]
 }

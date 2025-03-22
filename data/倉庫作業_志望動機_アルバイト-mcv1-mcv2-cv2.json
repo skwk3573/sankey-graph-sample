@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "倉庫作業 志望動機 アルバイト",
+      "name": "倉庫作業 志望動機 アルバイト"
+    },
+    {
+      "id": "/contents/articles/keisagyo-shiboudouki",
+      "name": "/contents/articles/keisagyo-shiboudouki"
+    }
+  ],
+  "links": [
+    {
+      "source": "倉庫作業 志望動機 アルバイト",
+      "target": "/contents/articles/keisagyo-shiboudouki",
+      "value": 1,
+      "tooltip": "倉庫作業 志望動機 アルバイト > /contents/articles/keisagyo-shiboudouki"
+    }
+  ]
+}

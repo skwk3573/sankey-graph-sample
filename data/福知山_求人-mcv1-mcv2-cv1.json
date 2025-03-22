@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "福知山 求人",
+      "name": "福知山 求人"
+    },
+    {
+      "id": "/kyujin/2618",
+      "name": "/kyujin/2618"
+    },
+    {
+      "id": "/apply/2618",
+      "name": "/apply/2618"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "福知山 求人",
+      "target": "/kyujin/2618",
+      "value": 1,
+      "tooltip": "福知山 求人 > /kyujin/2618"
+    },
+    {
+      "source": "/kyujin/2618",
+      "target": "/apply/2618",
+      "value": 1,
+      "tooltip": "福知山 求人 > /kyujin/2618 > /apply/2618"
+    },
+    {
+      "source": "/apply/2618",
+      "target": "/apply/confirm",
+      "value": 1,
+      "tooltip": "福知山 求人 > /kyujin/2618 > /apply/2618 > /apply/confirm"
+    },
+    {
+      "source": "/apply/confirm",
+      "target": "/apply/complete",
+      "value": 1,
+      "tooltip": "福知山 求人 > /kyujin/2618 > /apply/2618 > /apply/confirm > /apply/complete"
+    }
+  ]
+}

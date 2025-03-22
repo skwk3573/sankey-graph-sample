@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "フォークリフト チルトとは",
+      "name": "フォークリフト チルトとは"
+    },
+    {
+      "id": "/contents/articles/koujohaken-forklift-tired",
+      "name": "/contents/articles/koujohaken-forklift-tired"
+    }
+  ],
+  "links": [
+    {
+      "source": "フォークリフト チルトとは",
+      "target": "/contents/articles/koujohaken-forklift-tired",
+      "value": 1,
+      "tooltip": "フォークリフト チルトとは > /contents/articles/koujohaken-forklift-tired"
+    }
+  ]
+}

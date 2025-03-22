@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "フォークリフト免許 茨城",
+      "name": "フォークリフト免許 茨城"
+    },
+    {
+      "id": "/contents/articles/koujohaken-forklift-tired",
+      "name": "/contents/articles/koujohaken-forklift-tired"
+    }
+  ],
+  "links": [
+    {
+      "source": "フォークリフト免許 茨城",
+      "target": "/contents/articles/koujohaken-forklift-tired",
+      "value": 1,
+      "tooltip": "フォークリフト免許 茨城 > /contents/articles/koujohaken-forklift-tired"
+    }
+  ]
+}

@@ -7,50 +7,6 @@
     {
       "id": "/zenkoku/PC10",
       "name": "/zenkoku/PC10"
-    },
-    {
-      "id": "/kyujin/10086",
-      "name": "/kyujin/10086"
-    },
-    {
-      "id": "/kyujin/15195",
-      "name": "/kyujin/15195"
-    },
-    {
-      "id": "/kyujin/13913",
-      "name": "/kyujin/13913"
-    },
-    {
-      "id": "/kyujin/2444",
-      "name": "/kyujin/2444"
-    },
-    {
-      "id": "/kyujin/15731",
-      "name": "/kyujin/15731"
-    },
-    {
-      "id": "/kyujin/16159",
-      "name": "/kyujin/16159"
-    },
-    {
-      "id": "/kyujin/2884",
-      "name": "/kyujin/2884"
-    },
-    {
-      "id": "/kyujin/search-detail",
-      "name": "/kyujin/search-detail"
-    },
-    {
-      "id": "/apply/13913",
-      "name": "/apply/13913"
-    },
-    {
-      "id": "/apply/15195",
-      "name": "/apply/15195"
-    },
-    {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
     }
   ],
   "links": [
@@ -58,7 +14,7 @@
       "source": "群馬県求人",
       "target": "/zenkoku/PC10",
       "value": 1,
-      "tooltip": "群馬県求人 -> /zenkoku/PC10"
+      "tooltip": "群馬県求人 > /zenkoku/PC10"
     }
   ]
 }

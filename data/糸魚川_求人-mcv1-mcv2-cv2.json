@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "糸魚川 求人",
+      "name": "糸魚川 求人"
+    },
+    {
+      "id": "/kyujin/548",
+      "name": "/kyujin/548"
+    }
+  ],
+  "links": [
+    {
+      "source": "糸魚川 求人",
+      "target": "/kyujin/548",
+      "value": 1,
+      "tooltip": "糸魚川 求人 > /kyujin/548"
+    }
+  ]
+}

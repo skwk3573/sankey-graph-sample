@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "検品 きつい",
+      "name": "検品 きつい"
+    },
+    {
+      "id": "/contents/articles/keisagyo-haken-hard",
+      "name": "/contents/articles/keisagyo-haken-hard"
+    },
+    {
+      "id": "/contents/articles/kenpinsagyo-kitsui",
+      "name": "/contents/articles/kenpinsagyo-kitsui"
+    }
+  ],
+  "links": [
+    {
+      "source": "検品 きつい",
+      "target": "/contents/articles/keisagyo-haken-hard",
+      "value": 1,
+      "tooltip": "検品 きつい > /contents/articles/keisagyo-haken-hard"
+    },
+    {
+      "source": "検品 きつい",
+      "target": "/contents/articles/kenpinsagyo-kitsui",
+      "value": 1,
+      "tooltip": "検品 きつい > /contents/articles/kenpinsagyo-kitsui"
+    }
+  ]
+}

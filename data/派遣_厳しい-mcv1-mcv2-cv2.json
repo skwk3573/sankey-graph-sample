@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "派遣 厳しい",
+      "name": "派遣 厳しい"
+    },
+    {
+      "id": "/contents/articles/factory-haken-hard",
+      "name": "/contents/articles/factory-haken-hard"
+    }
+  ],
+  "links": [
+    {
+      "source": "派遣 厳しい",
+      "target": "/contents/articles/factory-haken-hard",
+      "value": 2,
+      "tooltip": "派遣 厳しい > /contents/articles/factory-haken-hard"
+    }
+  ]
+}

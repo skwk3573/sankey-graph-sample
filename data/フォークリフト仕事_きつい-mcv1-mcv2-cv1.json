@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "フォークリフト仕事 きつい",
+      "name": "フォークリフト仕事 きつい"
+    },
+    {
+      "id": "/contents/articles/koujohaken-forklift-tired",
+      "name": "/contents/articles/koujohaken-forklift-tired"
+    }
+  ],
+  "links": [
+    {
+      "source": "フォークリフト仕事 きつい",
+      "target": "/contents/articles/koujohaken-forklift-tired",
+      "value": 1,
+      "tooltip": "フォークリフト仕事 きつい > /contents/articles/koujohaken-forklift-tired"
+    }
+  ]
+}

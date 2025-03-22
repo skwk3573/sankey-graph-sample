@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "倉庫内軽作業 バイト",
+      "name": "倉庫内軽作業 バイト"
+    },
+    {
+      "id": "/contents/articles/keisagyo",
+      "name": "/contents/articles/keisagyo"
+    },
+    {
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
+    }
+  ],
+  "links": [
+    {
+      "source": "倉庫内軽作業 バイト",
+      "target": "/contents/articles/keisagyo",
+      "value": 1,
+      "tooltip": "倉庫内軽作業 バイト > /contents/articles/keisagyo"
+    },
+    {
+      "source": "/contents/articles/keisagyo",
+      "target": "/zenkoku/MC1/EC1",
+      "value": 1,
+      "tooltip": "倉庫内軽作業 バイト > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "取引先 工場見学 服装",
+      "name": "取引先 工場見学 服装"
+    },
+    {
+      "id": "/contents/articles/interview-clothes",
+      "name": "/contents/articles/interview-clothes"
+    }
+  ],
+  "links": [
+    {
+      "source": "取引先 工場見学 服装",
+      "target": "/contents/articles/interview-clothes",
+      "value": 1,
+      "tooltip": "取引先 工場見学 服装 > /contents/articles/interview-clothes"
+    }
+  ]
+}

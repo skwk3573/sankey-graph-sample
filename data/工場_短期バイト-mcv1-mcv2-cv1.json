@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "工場 短期バイト",
+      "name": "工場 短期バイト"
+    },
+    {
+      "id": "/kyujin/12746",
+      "name": "/kyujin/12746"
+    }
+  ],
+  "links": [
+    {
+      "source": "工場 短期バイト",
+      "target": "/kyujin/12746",
+      "value": 1,
+      "tooltip": "工場 短期バイト > /kyujin/12746"
+    }
+  ]
+}

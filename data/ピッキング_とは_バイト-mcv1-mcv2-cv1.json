@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "ピッキング とは バイト",
+      "name": "ピッキング とは バイト"
+    },
+    {
+      "id": "/contents/articles/temporary-picking-beginner",
+      "name": "/contents/articles/temporary-picking-beginner"
+    },
+    {
+      "id": "/zenkoku/MC7",
+      "name": "/zenkoku/MC7"
+    },
+    {
+      "id": "/zenkoku/MC7/EC1",
+      "name": "/zenkoku/MC7/EC1"
+    }
+  ],
+  "links": [
+    {
+      "source": "ピッキング とは バイト",
+      "target": "/contents/articles/temporary-picking-beginner",
+      "value": 3,
+      "tooltip": "ピッキング とは バイト > /contents/articles/temporary-picking-beginner"
+    },
+    {
+      "source": "/contents/articles/temporary-picking-beginner",
+      "target": "/zenkoku/MC7",
+      "value": 2,
+      "tooltip": "ピッキング とは バイト > /contents/articles/temporary-picking-beginner > /zenkoku/MC7"
+    },
+    {
+      "source": "/contents/articles/temporary-picking-beginner",
+      "target": "/zenkoku/MC7/EC1",
+      "value": 1,
+      "tooltip": "ピッキング とは バイト > /contents/articles/temporary-picking-beginner > /zenkoku/MC7/EC1"
+    }
+  ]
+}

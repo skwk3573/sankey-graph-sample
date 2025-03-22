@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "工場見学 服装 男",
+      "name": "工場見学 服装 男"
+    },
+    {
+      "id": "/contents/articles/interview-clothes",
+      "name": "/contents/articles/interview-clothes"
+    },
+    {
+      "id": "/contents/articles/Factory-dispatch-apparel",
+      "name": "/contents/articles/Factory-dispatch-apparel"
+    },
+    {
+      "id": "/zenkoku/MC1",
+      "name": "/zenkoku/MC1"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
+    }
+  ],
+  "links": [
+    {
+      "source": "工場見学 服装 男",
+      "target": "/contents/articles/interview-clothes",
+      "value": 17,
+      "tooltip": "工場見学 服装 男 > /contents/articles/interview-clothes"
+    },
+    {
+      "source": "工場見学 服装 男",
+      "target": "/contents/articles/Factory-dispatch-apparel",
+      "value": 1,
+      "tooltip": "工場見学 服装 男 > /contents/articles/Factory-dispatch-apparel"
+    },
+    {
+      "source": "/contents/articles/interview-clothes",
+      "target": "/zenkoku/MC1",
+      "value": 3,
+      "tooltip": "工場見学 服装 男 > /contents/articles/interview-clothes > /zenkoku/MC1"
+    },
+    {
+      "source": "/contents/articles/interview-clothes",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 2,
+      "tooltip": "工場見学 服装 男 > /contents/articles/interview-clothes > /zenkoku/EC1/FW工場"
+    },
+    {
+      "source": "/contents/articles/interview-clothes",
+      "target": "/apply/535",
+      "value": 1,
+      "tooltip": "工場見学 服装 男 > /contents/articles/interview-clothes > /apply/535"
+    },
+    {
+      "source": "/zenkoku/MC1",
+      "target": "/kyujin/search-detail",
+      "value": 1,
+      "tooltip": "工場見学 服装 男 > /contents/articles/interview-clothes > /zenkoku/MC1 > /kyujin/search-detail"
+    },
+    {
+      "source": "/apply/535",
+      "target": "/apply/confirm",
+      "value": 1,
+      "tooltip": "工場見学 服装 男 > /contents/articles/interview-clothes > /apply/535 > /apply/confirm"
+    },
+    {
+      "source": "/apply/confirm",
+      "target": "/apply/complete",
+      "value": 1,
+      "tooltip": "工場見学 服装 男 > /contents/articles/interview-clothes > /apply/535 > /apply/confirm > /apply/complete"
+    }
+  ]
+}

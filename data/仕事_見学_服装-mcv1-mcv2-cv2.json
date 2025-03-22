@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "仕事 見学 服装",
+      "name": "仕事 見学 服装"
+    },
+    {
+      "id": "/contents/articles/interview-clothes",
+      "name": "/contents/articles/interview-clothes"
+    }
+  ],
+  "links": [
+    {
+      "source": "仕事 見学 服装",
+      "target": "/contents/articles/interview-clothes",
+      "value": 1,
+      "tooltip": "仕事 見学 服装 > /contents/articles/interview-clothes"
+    }
+  ]
+}

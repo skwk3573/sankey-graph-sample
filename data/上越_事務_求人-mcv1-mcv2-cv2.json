@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "上越 事務 求人",
+      "name": "上越 事務 求人"
+    },
+    {
+      "id": "/kyujin/2642",
+      "name": "/kyujin/2642"
+    },
+    {
+      "id": "/kyujin/10599",
+      "name": "/kyujin/10599"
+    }
+  ],
+  "links": [
+    {
+      "source": "上越 事務 求人",
+      "target": "/kyujin/2642",
+      "value": 1,
+      "tooltip": "上越 事務 求人 > /kyujin/2642"
+    },
+    {
+      "source": "上越 事務 求人",
+      "target": "/kyujin/10599",
+      "value": 1,
+      "tooltip": "上越 事務 求人 > /kyujin/10599"
+    }
+  ]
+}

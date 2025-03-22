@@ -7,10 +7,6 @@
     {
       "id": "/kyujin/8567",
       "name": "/kyujin/8567"
-    },
-    {
-      "id": "/apply/8567",
-      "name": "/apply/8567"
     }
   ],
   "links": [
@@ -18,7 +14,7 @@
       "source": "ピッキング求人",
       "target": "/kyujin/8567",
       "value": 1,
-      "tooltip": "ピッキング求人 -> /kyujin/8567"
+      "tooltip": "ピッキング求人 > /kyujin/8567"
     }
   ]
 }

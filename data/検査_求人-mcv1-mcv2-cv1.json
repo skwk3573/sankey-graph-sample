@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "検査 求人",
+      "name": "検査 求人"
+    },
+    {
+      "id": "/kyujin/5861",
+      "name": "/kyujin/5861"
+    }
+  ],
+  "links": [
+    {
+      "source": "検査 求人",
+      "target": "/kyujin/5861",
+      "value": 1,
+      "tooltip": "検査 求人 > /kyujin/5861"
+    }
+  ]
+}

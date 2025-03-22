@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "フォークリフト運転者 資格",
+      "name": "フォークリフト運転者 資格"
+    },
+    {
+      "id": "/contents/articles/koujohaken-forklift-tired",
+      "name": "/contents/articles/koujohaken-forklift-tired"
+    }
+  ],
+  "links": [
+    {
+      "source": "フォークリフト運転者 資格",
+      "target": "/contents/articles/koujohaken-forklift-tired",
+      "value": 1,
+      "tooltip": "フォークリフト運転者 資格 > /contents/articles/koujohaken-forklift-tired"
+    }
+  ]
+}

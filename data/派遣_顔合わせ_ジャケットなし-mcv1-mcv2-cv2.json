@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "派遣 顔合わせ ジャケットなし",
+      "name": "派遣 顔合わせ ジャケットなし"
+    },
+    {
+      "id": "/contents/articles/interview-clothes",
+      "name": "/contents/articles/interview-clothes"
+    }
+  ],
+  "links": [
+    {
+      "source": "派遣 顔合わせ ジャケットなし",
+      "target": "/contents/articles/interview-clothes",
+      "value": 1,
+      "tooltip": "派遣 顔合わせ ジャケットなし > /contents/articles/interview-clothes"
+    }
+  ]
+}

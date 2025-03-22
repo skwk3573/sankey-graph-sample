@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "派遣 バックレ 警察",
+      "name": "派遣 バックレ 警察"
+    },
+    {
+      "id": "/contents/articles/koujohaken-bakkure-taisho",
+      "name": "/contents/articles/koujohaken-bakkure-taisho"
+    }
+  ],
+  "links": [
+    {
+      "source": "派遣 バックレ 警察",
+      "target": "/contents/articles/koujohaken-bakkure-taisho",
+      "value": 1,
+      "tooltip": "派遣 バックレ 警察 > /contents/articles/koujohaken-bakkure-taisho"
+    }
+  ]
+}

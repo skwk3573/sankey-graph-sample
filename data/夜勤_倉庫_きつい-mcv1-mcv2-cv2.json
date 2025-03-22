@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "夜勤 倉庫 きつい",
+      "name": "夜勤 倉庫 きつい"
+    },
+    {
+      "id": "/contents/articles/temporary-picking-hard",
+      "name": "/contents/articles/temporary-picking-hard"
+    },
+    {
+      "id": "/zenkoku/MC7",
+      "name": "/zenkoku/MC7"
+    },
+    {
+      "id": "/zenkoku/MC7/EC1",
+      "name": "/zenkoku/MC7/EC1"
+    }
+  ],
+  "links": [
+    {
+      "source": "夜勤 倉庫 きつい",
+      "target": "/contents/articles/temporary-picking-hard",
+      "value": 4,
+      "tooltip": "夜勤 倉庫 きつい > /contents/articles/temporary-picking-hard"
+    },
+    {
+      "source": "/contents/articles/temporary-picking-hard",
+      "target": "/zenkoku/MC7",
+      "value": 1,
+      "tooltip": "夜勤 倉庫 きつい > /contents/articles/temporary-picking-hard > /zenkoku/MC7"
+    },
+    {
+      "source": "/contents/articles/temporary-picking-hard",
+      "target": "/zenkoku/MC7/EC1",
+      "value": 2,
+      "tooltip": "夜勤 倉庫 きつい > /contents/articles/temporary-picking-hard > /zenkoku/MC7/EC1"
+    }
+  ]
+}

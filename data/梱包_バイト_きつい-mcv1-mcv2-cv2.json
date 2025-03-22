@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "梱包 バイト きつい",
+      "name": "梱包 バイト きつい"
+    },
+    {
+      "id": "/contents/articles/keisagyo-haken-hard",
+      "name": "/contents/articles/keisagyo-haken-hard"
+    }
+  ],
+  "links": [
+    {
+      "source": "梱包 バイト きつい",
+      "target": "/contents/articles/keisagyo-haken-hard",
+      "value": 1,
+      "tooltip": "梱包 バイト きつい > /contents/articles/keisagyo-haken-hard"
+    }
+  ]
+}

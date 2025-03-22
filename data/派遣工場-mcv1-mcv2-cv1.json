@@ -15,30 +15,6 @@
     {
       "id": "/zenkoku/EC1/FW工場",
       "name": "/zenkoku/EC1/FW工場"
-    },
-    {
-      "id": "/apply/535",
-      "name": "/apply/535"
-    },
-    {
-      "id": "/kyujin/search-detail",
-      "name": "/kyujin/search-detail"
-    },
-    {
-      "id": "/kyujin/15188",
-      "name": "/kyujin/15188"
-    },
-    {
-      "id": "/kyujin/17069",
-      "name": "/kyujin/17069"
-    },
-    {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
-    },
-    {
-      "id": "/apply/complete",
-      "name": "/apply/complete"
     }
   ],
   "links": [
@@ -46,19 +22,19 @@
       "source": "派遣工場",
       "target": "/contents/articles/factorytour",
       "value": 1,
-      "tooltip": "派遣工場 -> /contents/articles/factorytour"
+      "tooltip": "派遣工場 > /contents/articles/factorytour"
     },
     {
       "source": "派遣工場",
       "target": "/contents/articles/factory-haken-hard",
       "value": 5,
-      "tooltip": "派遣工場 -> /contents/articles/factory-haken-hard"
+      "tooltip": "派遣工場 > /contents/articles/factory-haken-hard"
     },
     {
       "source": "/contents/articles/factory-haken-hard",
       "target": "/zenkoku/EC1/FW工場",
       "value": 1,
-      "tooltip": "派遣工場 -> /contents/articles/factory-haken-hard -> /zenkoku/EC1/FW工場"
+      "tooltip": "派遣工場 > /contents/articles/factory-haken-hard > /zenkoku/EC1/FW工場"
     }
   ]
 }

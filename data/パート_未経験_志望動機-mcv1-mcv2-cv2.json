@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "パート 未経験 志望動機",
+      "name": "パート 未経験 志望動機"
+    },
+    {
+      "id": "/contents/articles/keisagyo-shiboudouki",
+      "name": "/contents/articles/keisagyo-shiboudouki"
+    }
+  ],
+  "links": [
+    {
+      "source": "パート 未経験 志望動機",
+      "target": "/contents/articles/keisagyo-shiboudouki",
+      "value": 2,
+      "tooltip": "パート 未経験 志望動機 > /contents/articles/keisagyo-shiboudouki"
+    }
+  ]
+}

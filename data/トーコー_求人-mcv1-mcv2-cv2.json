@@ -1,0 +1,190 @@
+{
+  "nodes": [
+    {
+      "id": "トーコー 求人",
+      "name": "トーコー 求人"
+    },
+    {
+      "id": "/",
+      "name": "/"
+    },
+    {
+      "id": "/zenkoku/PC27,28,26,29,25,30",
+      "name": "/zenkoku/PC27,28,26,29,25,30"
+    },
+    {
+      "id": "/zenkoku/SC16",
+      "name": "/zenkoku/SC16"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/zenkoku/DC28201",
+      "name": "/zenkoku/DC28201"
+    },
+    {
+      "id": "/zenkoku/PM151",
+      "name": "/zenkoku/PM151"
+    },
+    {
+      "id": "/zenkoku/SC21",
+      "name": "/zenkoku/SC21"
+    },
+    {
+      "id": "/keep",
+      "name": "/keep"
+    },
+    {
+      "id": "/zenkoku/PC10,9,8,13,14,12,11",
+      "name": "/zenkoku/PC10,9,8,13,14,12,11"
+    },
+    {
+      "id": "/zenkoku/DC27207",
+      "name": "/zenkoku/DC27207"
+    },
+    {
+      "id": "/zenkoku/SC19",
+      "name": "/zenkoku/SC19"
+    },
+    {
+      "id": "/zenkoku/search-result",
+      "name": "/zenkoku/search-result"
+    },
+    {
+      "id": "/zenkoku/PC15",
+      "name": "/zenkoku/PC15"
+    },
+    {
+      "id": "/zenkoku/DC26201",
+      "name": "/zenkoku/DC26201"
+    },
+    {
+      "id": "/zenkoku/PM159",
+      "name": "/zenkoku/PM159"
+    },
+    {
+      "id": "/zenkoku/PM150",
+      "name": "/zenkoku/PM150"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    }
+  ],
+  "links": [
+    {
+      "source": "トーコー 求人",
+      "target": "/",
+      "value": 78,
+      "tooltip": "トーコー 求人 > /"
+    },
+    {
+      "source": "/",
+      "target": "/zenkoku/PC27,28,26,29,25,30",
+      "value": 2,
+      "tooltip": "トーコー 求人 > / > /zenkoku/PC27,28,26,29,25,30"
+    },
+    {
+      "source": "/",
+      "target": "/zenkoku/SC16",
+      "value": 2,
+      "tooltip": "トーコー 求人 > / > /zenkoku/SC16"
+    },
+    {
+      "source": "/",
+      "target": "/apply/535",
+      "value": 1,
+      "tooltip": "トーコー 求人 > / > /apply/535"
+    },
+    {
+      "source": "/",
+      "target": "/kyujin/search-detail",
+      "value": 2,
+      "tooltip": "トーコー 求人 > / > /kyujin/search-detail"
+    },
+    {
+      "source": "/",
+      "target": "/zenkoku/DC28201",
+      "value": 1,
+      "tooltip": "トーコー 求人 > / > /zenkoku/DC28201"
+    },
+    {
+      "source": "/",
+      "target": "/zenkoku/PM151",
+      "value": 1,
+      "tooltip": "トーコー 求人 > / > /zenkoku/PM151"
+    },
+    {
+      "source": "/",
+      "target": "/zenkoku/SC21",
+      "value": 1,
+      "tooltip": "トーコー 求人 > / > /zenkoku/SC21"
+    },
+    {
+      "source": "/",
+      "target": "/keep",
+      "value": 2,
+      "tooltip": "トーコー 求人 > / > /keep"
+    },
+    {
+      "source": "/",
+      "target": "/zenkoku/PC10,9,8,13,14,12,11",
+      "value": 1,
+      "tooltip": "トーコー 求人 > / > /zenkoku/PC10,9,8,13,14,12,11"
+    },
+    {
+      "source": "/",
+      "target": "/zenkoku/DC27207",
+      "value": 1,
+      "tooltip": "トーコー 求人 > / > /zenkoku/DC27207"
+    },
+    {
+      "source": "/",
+      "target": "/zenkoku/SC19",
+      "value": 1,
+      "tooltip": "トーコー 求人 > / > /zenkoku/SC19"
+    },
+    {
+      "source": "/",
+      "target": "/zenkoku/search-result",
+      "value": 1,
+      "tooltip": "トーコー 求人 > / > /zenkoku/search-result"
+    },
+    {
+      "source": "/",
+      "target": "/zenkoku/PC15",
+      "value": 1,
+      "tooltip": "トーコー 求人 > / > /zenkoku/PC15"
+    },
+    {
+      "source": "/",
+      "target": "/zenkoku/DC26201",
+      "value": 1,
+      "tooltip": "トーコー 求人 > / > /zenkoku/DC26201"
+    },
+    {
+      "source": "/",
+      "target": "/zenkoku/PM159",
+      "value": 1,
+      "tooltip": "トーコー 求人 > / > /zenkoku/PM159"
+    },
+    {
+      "source": "/",
+      "target": "/zenkoku/PM150",
+      "value": 1,
+      "tooltip": "トーコー 求人 > / > /zenkoku/PM150"
+    },
+    {
+      "source": "/apply/535",
+      "target": "/apply/confirm",
+      "value": 1,
+      "tooltip": "トーコー 求人 > / > /apply/535 > /apply/confirm"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "タイミー 動きやすい服装",
+      "name": "タイミー 動きやすい服装"
+    },
+    {
+      "id": "/contents/articles/keisagyo-wear",
+      "name": "/contents/articles/keisagyo-wear"
+    },
+    {
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
+    }
+  ],
+  "links": [
+    {
+      "source": "タイミー 動きやすい服装",
+      "target": "/contents/articles/keisagyo-wear",
+      "value": 2,
+      "tooltip": "タイミー 動きやすい服装 > /contents/articles/keisagyo-wear"
+    },
+    {
+      "source": "/contents/articles/keisagyo-wear",
+      "target": "/zenkoku/MC1/EC1",
+      "value": 1,
+      "tooltip": "タイミー 動きやすい服装 > /contents/articles/keisagyo-wear > /zenkoku/MC1/EC1"
+    }
+  ]
+}

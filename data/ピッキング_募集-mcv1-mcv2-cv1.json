@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "ピッキング 募集",
+      "name": "ピッキング 募集"
+    },
+    {
+      "id": "/kyujin/15605",
+      "name": "/kyujin/15605"
+    }
+  ],
+  "links": [
+    {
+      "source": "ピッキング 募集",
+      "target": "/kyujin/15605",
+      "value": 1,
+      "tooltip": "ピッキング 募集 > /kyujin/15605"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "バイト 作業",
+      "name": "バイト 作業"
+    },
+    {
+      "id": "/contents/articles/keisagyo",
+      "name": "/contents/articles/keisagyo"
+    },
+    {
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
+    }
+  ],
+  "links": [
+    {
+      "source": "バイト 作業",
+      "target": "/contents/articles/keisagyo",
+      "value": 1,
+      "tooltip": "バイト 作業 > /contents/articles/keisagyo"
+    },
+    {
+      "source": "/contents/articles/keisagyo",
+      "target": "/zenkoku/MC1/EC1",
+      "value": 1,
+      "tooltip": "バイト 作業 > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "冷蔵庫 バイト きつい",
+      "name": "冷蔵庫 バイト きつい"
+    },
+    {
+      "id": "/contents/articles/keisagyo-haken-hard",
+      "name": "/contents/articles/keisagyo-haken-hard"
+    }
+  ],
+  "links": [
+    {
+      "source": "冷蔵庫 バイト きつい",
+      "target": "/contents/articles/keisagyo-haken-hard",
+      "value": 1,
+      "tooltip": "冷蔵庫 バイト きつい > /contents/articles/keisagyo-haken-hard"
+    }
+  ]
+}

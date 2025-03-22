@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "月半分休み 仕事",
+      "name": "月半分休み 仕事"
+    },
+    {
+      "id": "/kyujin/549",
+      "name": "/kyujin/549"
+    }
+  ],
+  "links": [
+    {
+      "source": "月半分休み 仕事",
+      "target": "/kyujin/549",
+      "value": 2,
+      "tooltip": "月半分休み 仕事 > /kyujin/549"
+    }
+  ]
+}

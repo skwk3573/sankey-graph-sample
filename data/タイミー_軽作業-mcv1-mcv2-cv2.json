@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "タイミー 軽作業",
+      "name": "タイミー 軽作業"
+    },
+    {
+      "id": "/contents/articles/keisagyo-shiboudouki",
+      "name": "/contents/articles/keisagyo-shiboudouki"
+    }
+  ],
+  "links": [
+    {
+      "source": "タイミー 軽作業",
+      "target": "/contents/articles/keisagyo-shiboudouki",
+      "value": 1,
+      "tooltip": "タイミー 軽作業 > /contents/articles/keisagyo-shiboudouki"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "物流倉庫 きつい",
+      "name": "物流倉庫 きつい"
+    },
+    {
+      "id": "/contents/articles/keisagyo-haken-hard",
+      "name": "/contents/articles/keisagyo-haken-hard"
+    }
+  ],
+  "links": [
+    {
+      "source": "物流倉庫 きつい",
+      "target": "/contents/articles/keisagyo-haken-hard",
+      "value": 1,
+      "tooltip": "物流倉庫 きつい > /contents/articles/keisagyo-haken-hard"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "高級料理店 バイト",
+      "name": "高級料理店 バイト"
+    },
+    {
+      "id": "/kyujin/14127",
+      "name": "/kyujin/14127"
+    }
+  ],
+  "links": [
+    {
+      "source": "高級料理店 バイト",
+      "target": "/kyujin/14127",
+      "value": 1,
+      "tooltip": "高級料理店 バイト > /kyujin/14127"
+    }
+  ]
+}

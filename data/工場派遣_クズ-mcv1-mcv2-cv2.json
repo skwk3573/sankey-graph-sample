@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "工場派遣 クズ",
+      "name": "工場派遣 クズ"
+    },
+    {
+      "id": "/contents/articles/factory-haken-hard",
+      "name": "/contents/articles/factory-haken-hard"
+    },
+    {
+      "id": "/contents/articles/kojohaken-yametoke",
+      "name": "/contents/articles/kojohaken-yametoke"
+    }
+  ],
+  "links": [
+    {
+      "source": "工場派遣 クズ",
+      "target": "/contents/articles/factory-haken-hard",
+      "value": 1,
+      "tooltip": "工場派遣 クズ > /contents/articles/factory-haken-hard"
+    },
+    {
+      "source": "工場派遣 クズ",
+      "target": "/contents/articles/kojohaken-yametoke",
+      "value": 1,
+      "tooltip": "工場派遣 クズ > /contents/articles/kojohaken-yametoke"
+    }
+  ]
+}

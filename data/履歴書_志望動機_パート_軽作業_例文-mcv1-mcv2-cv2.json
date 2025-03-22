@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "履歴書 志望動機 パート 軽作業 例文",
+      "name": "履歴書 志望動機 パート 軽作業 例文"
+    },
+    {
+      "id": "/contents/articles/keisagyo-shiboudouki",
+      "name": "/contents/articles/keisagyo-shiboudouki"
+    }
+  ],
+  "links": [
+    {
+      "source": "履歴書 志望動機 パート 軽作業 例文",
+      "target": "/contents/articles/keisagyo-shiboudouki",
+      "value": 1,
+      "tooltip": "履歴書 志望動機 パート 軽作業 例文 > /contents/articles/keisagyo-shiboudouki"
+    }
+  ]
+}

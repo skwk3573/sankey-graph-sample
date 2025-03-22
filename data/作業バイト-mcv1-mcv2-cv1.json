@@ -9,40 +9,8 @@
       "name": "/contents/articles/keisagyo"
     },
     {
-      "id": "/zenkoku/MC1",
-      "name": "/zenkoku/MC1"
-    },
-    {
       "id": "/zenkoku/MC1/EC1",
       "name": "/zenkoku/MC1/EC1"
-    },
-    {
-      "id": "/apply/535",
-      "name": "/apply/535"
-    },
-    {
-      "id": "/kyujin/search-detail",
-      "name": "/kyujin/search-detail"
-    },
-    {
-      "id": "/kyujin/16312",
-      "name": "/kyujin/16312"
-    },
-    {
-      "id": "/kyujin/16981",
-      "name": "/kyujin/16981"
-    },
-    {
-      "id": "/apply/16312",
-      "name": "/apply/16312"
-    },
-    {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
-    },
-    {
-      "id": "/apply/complete",
-      "name": "/apply/complete"
     }
   ],
   "links": [
@@ -50,13 +18,13 @@
       "source": "作業バイト",
       "target": "/contents/articles/keisagyo",
       "value": 1,
-      "tooltip": "作業バイト -> /contents/articles/keisagyo"
+      "tooltip": "作業バイト > /contents/articles/keisagyo"
     },
     {
       "source": "/contents/articles/keisagyo",
       "target": "/zenkoku/MC1/EC1",
       "value": 1,
-      "tooltip": "作業バイト -> /contents/articles/keisagyo -> /zenkoku/MC1/EC1"
+      "tooltip": "作業バイト > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
     }
   ]
 }

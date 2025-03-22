@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "座間 工場 求人",
+      "name": "座間 工場 求人"
+    },
+    {
+      "id": "/kyujin/11604",
+      "name": "/kyujin/11604"
+    }
+  ],
+  "links": [
+    {
+      "source": "座間 工場 求人",
+      "target": "/kyujin/11604",
+      "value": 1,
+      "tooltip": "座間 工場 求人 > /kyujin/11604"
+    }
+  ]
+}

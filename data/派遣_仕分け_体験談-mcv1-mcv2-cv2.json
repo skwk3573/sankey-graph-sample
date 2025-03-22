@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "派遣 仕分け 体験談",
+      "name": "派遣 仕分け 体験談"
+    },
+    {
+      "id": "/contents/articles/keisagyo-haken-hard",
+      "name": "/contents/articles/keisagyo-haken-hard"
+    }
+  ],
+  "links": [
+    {
+      "source": "派遣 仕分け 体験談",
+      "target": "/contents/articles/keisagyo-haken-hard",
+      "value": 1,
+      "tooltip": "派遣 仕分け 体験談 > /contents/articles/keisagyo-haken-hard"
+    }
+  ]
+}

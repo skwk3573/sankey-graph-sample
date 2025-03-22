@@ -1,0 +1,60 @@
+{
+  "nodes": [
+    {
+      "id": "派遣 バックレ",
+      "name": "派遣 バックレ"
+    },
+    {
+      "id": "/contents/articles/koujohaken-bakkure-taisho",
+      "name": "/contents/articles/koujohaken-bakkure-taisho"
+    },
+    {
+      "id": "/zenkoku/PC27/FW工場　派遣",
+      "name": "/zenkoku/PC27/FW工場　派遣"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    }
+  ],
+  "links": [
+    {
+      "source": "派遣 バックレ",
+      "target": "/contents/articles/koujohaken-bakkure-taisho",
+      "value": 11,
+      "tooltip": "派遣 バックレ > /contents/articles/koujohaken-bakkure-taisho"
+    },
+    {
+      "source": "/contents/articles/koujohaken-bakkure-taisho",
+      "target": "/zenkoku/PC27/FW工場　派遣",
+      "value": 1,
+      "tooltip": "派遣 バックレ > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/PC27/FW工場　派遣"
+    },
+    {
+      "source": "/contents/articles/koujohaken-bakkure-taisho",
+      "target": "/apply/535",
+      "value": 1,
+      "tooltip": "派遣 バックレ > /contents/articles/koujohaken-bakkure-taisho > /apply/535"
+    },
+    {
+      "source": "/contents/articles/koujohaken-bakkure-taisho",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 3,
+      "tooltip": "派遣 バックレ > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/EC1/FW工場"
+    },
+    {
+      "source": "/apply/535",
+      "target": "/apply/confirm",
+      "value": 1,
+      "tooltip": "派遣 バックレ > /contents/articles/koujohaken-bakkure-taisho > /apply/535 > /apply/confirm"
+    }
+  ]
+}

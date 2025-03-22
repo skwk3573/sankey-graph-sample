@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "工場見学 私服",
+      "name": "工場見学 私服"
+    },
+    {
+      "id": "/contents/articles/interview-clothes",
+      "name": "/contents/articles/interview-clothes"
+    },
+    {
+      "id": "/zenkoku/MC1",
+      "name": "/zenkoku/MC1"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    }
+  ],
+  "links": [
+    {
+      "source": "工場見学 私服",
+      "target": "/contents/articles/interview-clothes",
+      "value": 5,
+      "tooltip": "工場見学 私服 > /contents/articles/interview-clothes"
+    },
+    {
+      "source": "/contents/articles/interview-clothes",
+      "target": "/zenkoku/MC1",
+      "value": 1,
+      "tooltip": "工場見学 私服 > /contents/articles/interview-clothes > /zenkoku/MC1"
+    },
+    {
+      "source": "/contents/articles/interview-clothes",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 1,
+      "tooltip": "工場見学 私服 > /contents/articles/interview-clothes > /zenkoku/EC1/FW工場"
+    }
+  ]
+}

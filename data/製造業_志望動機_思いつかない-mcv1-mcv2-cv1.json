@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "製造業 志望動機 思いつかない",
+      "name": "製造業 志望動機 思いつかない"
+    },
+    {
+      "id": "/contents/articles/temporary-reasons-applying",
+      "name": "/contents/articles/temporary-reasons-applying"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    }
+  ],
+  "links": [
+    {
+      "source": "製造業 志望動機 思いつかない",
+      "target": "/contents/articles/temporary-reasons-applying",
+      "value": 7,
+      "tooltip": "製造業 志望動機 思いつかない > /contents/articles/temporary-reasons-applying"
+    },
+    {
+      "source": "/contents/articles/temporary-reasons-applying",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 1,
+      "tooltip": "製造業 志望動機 思いつかない > /contents/articles/temporary-reasons-applying > /zenkoku/EC1/FW工場"
+    }
+  ]
+}

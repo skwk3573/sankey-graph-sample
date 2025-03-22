@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "3勤3休 半導体",
+      "name": "3勤3休 半導体"
+    },
+    {
+      "id": "/kyujin/549",
+      "name": "/kyujin/549"
+    }
+  ],
+  "links": [
+    {
+      "source": "3勤3休 半導体",
+      "target": "/kyujin/549",
+      "value": 1,
+      "tooltip": "3勤3休 半導体 > /kyujin/549"
+    }
+  ]
+}

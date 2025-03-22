@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "動きやすい服装 女性",
+      "name": "動きやすい服装 女性"
+    },
+    {
+      "id": "/contents/articles/keisagyou-hukusouwoman",
+      "name": "/contents/articles/keisagyou-hukusouwoman"
+    },
+    {
+      "id": "/keep",
+      "name": "/keep"
+    }
+  ],
+  "links": [
+    {
+      "source": "動きやすい服装 女性",
+      "target": "/contents/articles/keisagyou-hukusouwoman",
+      "value": 12,
+      "tooltip": "動きやすい服装 女性 > /contents/articles/keisagyou-hukusouwoman"
+    },
+    {
+      "source": "/contents/articles/keisagyou-hukusouwoman",
+      "target": "/keep",
+      "value": 2,
+      "tooltip": "動きやすい服装 女性 > /contents/articles/keisagyou-hukusouwoman > /keep"
+    }
+  ]
+}

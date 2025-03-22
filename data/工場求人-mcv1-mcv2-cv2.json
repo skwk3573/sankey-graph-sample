@@ -18,13 +18,13 @@
       "source": "工場求人",
       "target": "/kyujin/15613",
       "value": 2,
-      "tooltip": "工場求人 -> /kyujin/15613"
+      "tooltip": "工場求人 > /kyujin/15613"
     },
     {
       "source": "工場求人",
       "target": "/kyujin/3677",
       "value": 1,
-      "tooltip": "工場求人 -> /kyujin/3677"
+      "tooltip": "工場求人 > /kyujin/3677"
     }
   ]
 }

@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "工場派遣 やめとけ",
+      "name": "工場派遣 やめとけ"
+    },
+    {
+      "id": "/contents/articles/kojohaken-yametoke",
+      "name": "/contents/articles/kojohaken-yametoke"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    }
+  ],
+  "links": [
+    {
+      "source": "工場派遣 やめとけ",
+      "target": "/contents/articles/kojohaken-yametoke",
+      "value": 14,
+      "tooltip": "工場派遣 やめとけ > /contents/articles/kojohaken-yametoke"
+    },
+    {
+      "source": "/contents/articles/kojohaken-yametoke",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 4,
+      "tooltip": "工場派遣 やめとけ > /contents/articles/kojohaken-yametoke > /zenkoku/EC1/FW工場"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/search-detail",
+      "value": 1,
+      "tooltip": "工場派遣 やめとけ > /contents/articles/kojohaken-yametoke > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "加古川 夜勤",
+      "name": "加古川 夜勤"
+    },
+    {
+      "id": "/kyujin/1916",
+      "name": "/kyujin/1916"
+    }
+  ],
+  "links": [
+    {
+      "source": "加古川 夜勤",
+      "target": "/kyujin/1916",
+      "value": 1,
+      "tooltip": "加古川 夜勤 > /kyujin/1916"
+    }
+  ]
+}

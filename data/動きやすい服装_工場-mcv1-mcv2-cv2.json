@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "動きやすい服装 工場",
+      "name": "動きやすい服装 工場"
+    },
+    {
+      "id": "/contents/articles/Factory-dispatch-apparel",
+      "name": "/contents/articles/Factory-dispatch-apparel"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    }
+  ],
+  "links": [
+    {
+      "source": "動きやすい服装 工場",
+      "target": "/contents/articles/Factory-dispatch-apparel",
+      "value": 29,
+      "tooltip": "動きやすい服装 工場 > /contents/articles/Factory-dispatch-apparel"
+    },
+    {
+      "source": "/contents/articles/Factory-dispatch-apparel",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 4,
+      "tooltip": "動きやすい服装 工場 > /contents/articles/Factory-dispatch-apparel > /zenkoku/EC1/FW工場"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/search-detail",
+      "value": 1,
+      "tooltip": "動きやすい服装 工場 > /contents/articles/Factory-dispatch-apparel > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
+    }
+  ]
+}

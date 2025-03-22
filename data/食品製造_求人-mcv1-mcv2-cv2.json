@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "食品製造 求人",
+      "name": "食品製造 求人"
+    },
+    {
+      "id": "/kyujin/13770",
+      "name": "/kyujin/13770"
+    },
+    {
+      "id": "/kyujin/16699",
+      "name": "/kyujin/16699"
+    }
+  ],
+  "links": [
+    {
+      "source": "食品製造 求人",
+      "target": "/kyujin/13770",
+      "value": 3,
+      "tooltip": "食品製造 求人 > /kyujin/13770"
+    },
+    {
+      "source": "食品製造 求人",
+      "target": "/kyujin/16699",
+      "value": 1,
+      "tooltip": "食品製造 求人 > /kyujin/16699"
+    }
+  ]
+}

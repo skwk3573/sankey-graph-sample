@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "半導体 バイト",
+      "name": "半導体 バイト"
+    },
+    {
+      "id": "/kyujin/15056",
+      "name": "/kyujin/15056"
+    }
+  ],
+  "links": [
+    {
+      "source": "半導体 バイト",
+      "target": "/kyujin/15056",
+      "value": 1,
+      "tooltip": "半導体 バイト > /kyujin/15056"
+    }
+  ]
+}

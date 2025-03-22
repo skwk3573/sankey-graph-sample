@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "仕事着 女性 動きやすい",
+      "name": "仕事着 女性 動きやすい"
+    },
+    {
+      "id": "/contents/articles/keisagyou-hukusouwoman",
+      "name": "/contents/articles/keisagyou-hukusouwoman"
+    },
+    {
+      "id": "/keep",
+      "name": "/keep"
+    }
+  ],
+  "links": [
+    {
+      "source": "仕事着 女性 動きやすい",
+      "target": "/contents/articles/keisagyou-hukusouwoman",
+      "value": 19,
+      "tooltip": "仕事着 女性 動きやすい > /contents/articles/keisagyou-hukusouwoman"
+    },
+    {
+      "source": "/contents/articles/keisagyou-hukusouwoman",
+      "target": "/keep",
+      "value": 3,
+      "tooltip": "仕事着 女性 動きやすい > /contents/articles/keisagyou-hukusouwoman > /keep"
+    }
+  ]
+}

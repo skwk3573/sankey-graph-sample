@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "会社訪問 服装",
+      "name": "会社訪問 服装"
+    },
+    {
+      "id": "/contents/articles/interview-clothes",
+      "name": "/contents/articles/interview-clothes"
+    }
+  ],
+  "links": [
+    {
+      "source": "会社訪問 服装",
+      "target": "/contents/articles/interview-clothes",
+      "value": 1,
+      "tooltip": "会社訪問 服装 > /contents/articles/interview-clothes"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "倉庫作業 服装 女",
+      "name": "倉庫作業 服装 女"
+    },
+    {
+      "id": "/contents/articles/keisagyou-hukusouwoman",
+      "name": "/contents/articles/keisagyou-hukusouwoman"
+    },
+    {
+      "id": "/keep",
+      "name": "/keep"
+    }
+  ],
+  "links": [
+    {
+      "source": "倉庫作業 服装 女",
+      "target": "/contents/articles/keisagyou-hukusouwoman",
+      "value": 10,
+      "tooltip": "倉庫作業 服装 女 > /contents/articles/keisagyou-hukusouwoman"
+    },
+    {
+      "source": "/contents/articles/keisagyou-hukusouwoman",
+      "target": "/keep",
+      "value": 2,
+      "tooltip": "倉庫作業 服装 女 > /contents/articles/keisagyou-hukusouwoman > /keep"
+    }
+  ]
+}

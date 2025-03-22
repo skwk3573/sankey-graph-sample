@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "現場 バイト きつい",
+      "name": "現場 バイト きつい"
+    },
+    {
+      "id": "/contents/articles/keisagyo",
+      "name": "/contents/articles/keisagyo"
+    },
+    {
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
+    }
+  ],
+  "links": [
+    {
+      "source": "現場 バイト きつい",
+      "target": "/contents/articles/keisagyo",
+      "value": 1,
+      "tooltip": "現場 バイト きつい > /contents/articles/keisagyo"
+    },
+    {
+      "source": "/contents/articles/keisagyo",
+      "target": "/zenkoku/MC1/EC1",
+      "value": 1,
+      "tooltip": "現場 バイト きつい > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
+    }
+  ]
+}

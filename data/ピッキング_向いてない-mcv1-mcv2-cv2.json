@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "ピッキング 向いてない",
+      "name": "ピッキング 向いてない"
+    },
+    {
+      "id": "/contents/articles/temporary-picking-hard",
+      "name": "/contents/articles/temporary-picking-hard"
+    },
+    {
+      "id": "/zenkoku/MC7/EC1",
+      "name": "/zenkoku/MC7/EC1"
+    }
+  ],
+  "links": [
+    {
+      "source": "ピッキング 向いてない",
+      "target": "/contents/articles/temporary-picking-hard",
+      "value": 1,
+      "tooltip": "ピッキング 向いてない > /contents/articles/temporary-picking-hard"
+    },
+    {
+      "source": "/contents/articles/temporary-picking-hard",
+      "target": "/zenkoku/MC7/EC1",
+      "value": 1,
+      "tooltip": "ピッキング 向いてない > /contents/articles/temporary-picking-hard > /zenkoku/MC7/EC1"
+    }
+  ]
+}

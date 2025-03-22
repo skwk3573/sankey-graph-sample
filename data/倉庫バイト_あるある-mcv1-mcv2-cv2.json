@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "倉庫バイト あるある",
+      "name": "倉庫バイト あるある"
+    },
+    {
+      "id": "/contents/articles/keisagyo-haken-hard",
+      "name": "/contents/articles/keisagyo-haken-hard"
+    }
+  ],
+  "links": [
+    {
+      "source": "倉庫バイト あるある",
+      "target": "/contents/articles/keisagyo-haken-hard",
+      "value": 1,
+      "tooltip": "倉庫バイト あるある > /contents/articles/keisagyo-haken-hard"
+    }
+  ]
+}

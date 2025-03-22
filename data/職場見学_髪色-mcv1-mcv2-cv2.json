@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "職場見学 髪色",
+      "name": "職場見学 髪色"
+    },
+    {
+      "id": "/contents/articles/interview-clothes",
+      "name": "/contents/articles/interview-clothes"
+    }
+  ],
+  "links": [
+    {
+      "source": "職場見学 髪色",
+      "target": "/contents/articles/interview-clothes",
+      "value": 1,
+      "tooltip": "職場見学 髪色 > /contents/articles/interview-clothes"
+    }
+  ]
+}

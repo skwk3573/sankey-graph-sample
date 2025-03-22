@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "熊谷市妻沼 求人",
+      "name": "熊谷市妻沼 求人"
+    },
+    {
+      "id": "/kyujin/1438",
+      "name": "/kyujin/1438"
+    }
+  ],
+  "links": [
+    {
+      "source": "熊谷市妻沼 求人",
+      "target": "/kyujin/1438",
+      "value": 1,
+      "tooltip": "熊谷市妻沼 求人 > /kyujin/1438"
+    }
+  ]
+}

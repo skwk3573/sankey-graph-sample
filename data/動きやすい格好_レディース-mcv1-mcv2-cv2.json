@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "動きやすい格好 レディース",
+      "name": "動きやすい格好 レディース"
+    },
+    {
+      "id": "/contents/articles/keisagyou-hukusouwoman",
+      "name": "/contents/articles/keisagyou-hukusouwoman"
+    }
+  ],
+  "links": [
+    {
+      "source": "動きやすい格好 レディース",
+      "target": "/contents/articles/keisagyou-hukusouwoman",
+      "value": 1,
+      "tooltip": "動きやすい格好 レディース > /contents/articles/keisagyou-hukusouwoman"
+    }
+  ]
+}

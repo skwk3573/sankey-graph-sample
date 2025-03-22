@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "福知山市 求人",
+      "name": "福知山市 求人"
+    },
+    {
+      "id": "/kyujin/1329",
+      "name": "/kyujin/1329"
+    }
+  ],
+  "links": [
+    {
+      "source": "福知山市 求人",
+      "target": "/kyujin/1329",
+      "value": 1,
+      "tooltip": "福知山市 求人 > /kyujin/1329"
+    }
+  ]
+}

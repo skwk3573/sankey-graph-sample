@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "単純作業 仕事 女性",
+      "name": "単純作業 仕事 女性"
+    },
+    {
+      "id": "/contents/articles/koujohaken-woman-demerit",
+      "name": "/contents/articles/koujohaken-woman-demerit"
+    }
+  ],
+  "links": [
+    {
+      "source": "単純作業 仕事 女性",
+      "target": "/contents/articles/koujohaken-woman-demerit",
+      "value": 1,
+      "tooltip": "単純作業 仕事 女性 > /contents/articles/koujohaken-woman-demerit"
+    }
+  ]
+}

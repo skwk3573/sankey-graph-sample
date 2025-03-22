@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "オフィスカジュアル 工場",
+      "name": "オフィスカジュアル 工場"
+    },
+    {
+      "id": "/contents/articles/interview-clothes",
+      "name": "/contents/articles/interview-clothes"
+    },
+    {
+      "id": "/zenkoku/MC1",
+      "name": "/zenkoku/MC1"
+    }
+  ],
+  "links": [
+    {
+      "source": "オフィスカジュアル 工場",
+      "target": "/contents/articles/interview-clothes",
+      "value": 4,
+      "tooltip": "オフィスカジュアル 工場 > /contents/articles/interview-clothes"
+    },
+    {
+      "source": "/contents/articles/interview-clothes",
+      "target": "/zenkoku/MC1",
+      "value": 1,
+      "tooltip": "オフィスカジュアル 工場 > /contents/articles/interview-clothes > /zenkoku/MC1"
+    }
+  ]
+}

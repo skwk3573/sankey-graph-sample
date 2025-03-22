@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "バックレ 損害賠償",
+      "name": "バックレ 損害賠償"
+    },
+    {
+      "id": "/contents/articles/koujohaken-bakkure-taisho",
+      "name": "/contents/articles/koujohaken-bakkure-taisho"
+    }
+  ],
+  "links": [
+    {
+      "source": "バックレ 損害賠償",
+      "target": "/contents/articles/koujohaken-bakkure-taisho",
+      "value": 2,
+      "tooltip": "バックレ 損害賠償 > /contents/articles/koujohaken-bakkure-taisho"
+    }
+  ]
+}

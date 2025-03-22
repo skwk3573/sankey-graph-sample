@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "工場勤務 女性 デメリット",
+      "name": "工場勤務 女性 デメリット"
+    },
+    {
+      "id": "/contents/articles/koujohaken-woman-demerit",
+      "name": "/contents/articles/koujohaken-woman-demerit"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    }
+  ],
+  "links": [
+    {
+      "source": "工場勤務 女性 デメリット",
+      "target": "/contents/articles/koujohaken-woman-demerit",
+      "value": 28,
+      "tooltip": "工場勤務 女性 デメリット > /contents/articles/koujohaken-woman-demerit"
+    },
+    {
+      "source": "/contents/articles/koujohaken-woman-demerit",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 5,
+      "tooltip": "工場勤務 女性 デメリット > /contents/articles/koujohaken-woman-demerit > /zenkoku/EC1/FW工場"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/search-detail",
+      "value": 1,
+      "tooltip": "工場勤務 女性 デメリット > /contents/articles/koujohaken-woman-demerit > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
+    }
+  ]
+}

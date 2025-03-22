@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "cadオペレーター 求人 埼玉",
+      "name": "cadオペレーター 求人 埼玉"
+    },
+    {
+      "id": "/kyujin/16137",
+      "name": "/kyujin/16137"
+    }
+  ],
+  "links": [
+    {
+      "source": "cadオペレーター 求人 埼玉",
+      "target": "/kyujin/16137",
+      "value": 2,
+      "tooltip": "cadオペレーター 求人 埼玉 > /kyujin/16137"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "派遣 工場 服装",
+      "name": "派遣 工場 服装"
+    },
+    {
+      "id": "/contents/articles/Factory-dispatch-apparel",
+      "name": "/contents/articles/Factory-dispatch-apparel"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    }
+  ],
+  "links": [
+    {
+      "source": "派遣 工場 服装",
+      "target": "/contents/articles/Factory-dispatch-apparel",
+      "value": 6,
+      "tooltip": "派遣 工場 服装 > /contents/articles/Factory-dispatch-apparel"
+    },
+    {
+      "source": "/contents/articles/Factory-dispatch-apparel",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 1,
+      "tooltip": "派遣 工場 服装 > /contents/articles/Factory-dispatch-apparel > /zenkoku/EC1/FW工場"
+    }
+  ]
+}

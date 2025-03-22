@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "倉庫作業 冬 服装",
+      "name": "倉庫作業 冬 服装"
+    },
+    {
+      "id": "/contents/articles/keisagyou-hukusouwoman",
+      "name": "/contents/articles/keisagyou-hukusouwoman"
+    }
+  ],
+  "links": [
+    {
+      "source": "倉庫作業 冬 服装",
+      "target": "/contents/articles/keisagyou-hukusouwoman",
+      "value": 1,
+      "tooltip": "倉庫作業 冬 服装 > /contents/articles/keisagyou-hukusouwoman"
+    }
+  ]
+}

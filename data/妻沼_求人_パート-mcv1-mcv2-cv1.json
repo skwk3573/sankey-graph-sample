@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "妻沼 求人 パート",
+      "name": "妻沼 求人 パート"
+    },
+    {
+      "id": "/kyujin/1438",
+      "name": "/kyujin/1438"
+    },
+    {
+      "id": "/kyujin/1443",
+      "name": "/kyujin/1443"
+    }
+  ],
+  "links": [
+    {
+      "source": "妻沼 求人 パート",
+      "target": "/kyujin/1438",
+      "value": 2,
+      "tooltip": "妻沼 求人 パート > /kyujin/1438"
+    },
+    {
+      "source": "妻沼 求人 パート",
+      "target": "/kyujin/1443",
+      "value": 1,
+      "tooltip": "妻沼 求人 パート > /kyujin/1443"
+    }
+  ]
+}

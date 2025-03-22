@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "動きやすい 服装",
+      "name": "動きやすい 服装"
+    },
+    {
+      "id": "/contents/articles/Factory-dispatch-apparel",
+      "name": "/contents/articles/Factory-dispatch-apparel"
+    }
+  ],
+  "links": [
+    {
+      "source": "動きやすい 服装",
+      "target": "/contents/articles/Factory-dispatch-apparel",
+      "value": 1,
+      "tooltip": "動きやすい 服装 > /contents/articles/Factory-dispatch-apparel"
+    }
+  ]
+}

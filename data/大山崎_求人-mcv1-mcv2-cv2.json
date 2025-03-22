@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "大山崎 求人",
+      "name": "大山崎 求人"
+    },
+    {
+      "id": "/zenkoku/DC26303",
+      "name": "/zenkoku/DC26303"
+    }
+  ],
+  "links": [
+    {
+      "source": "大山崎 求人",
+      "target": "/zenkoku/DC26303",
+      "value": 1,
+      "tooltip": "大山崎 求人 > /zenkoku/DC26303"
+    }
+  ]
+}

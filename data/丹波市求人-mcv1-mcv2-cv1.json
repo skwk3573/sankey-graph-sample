@@ -7,18 +7,6 @@
     {
       "id": "/kyujin/2459",
       "name": "/kyujin/2459"
-    },
-    {
-      "id": "/apply/2459",
-      "name": "/apply/2459"
-    },
-    {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
-    },
-    {
-      "id": "/apply/complete",
-      "name": "/apply/complete"
     }
   ],
   "links": [
@@ -26,7 +14,7 @@
       "source": "丹波市求人",
       "target": "/kyujin/2459",
       "value": 1,
-      "tooltip": "丹波市求人 -> /kyujin/2459"
+      "tooltip": "丹波市求人 > /kyujin/2459"
     }
   ]
 }

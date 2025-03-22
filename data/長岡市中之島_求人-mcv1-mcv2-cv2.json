@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {
+      "id": "長岡市中之島 求人",
+      "name": "長岡市中之島 求人"
+    },
+    {
+      "id": "/kyujin/15192",
+      "name": "/kyujin/15192"
+    },
+    {
+      "id": "/kyujin/16308",
+      "name": "/kyujin/16308"
+    }
+  ],
+  "links": [
+    {
+      "source": "長岡市中之島 求人",
+      "target": "/kyujin/15192",
+      "value": 1,
+      "tooltip": "長岡市中之島 求人 > /kyujin/15192"
+    },
+    {
+      "source": "長岡市中之島 求人",
+      "target": "/kyujin/16308",
+      "value": 1,
+      "tooltip": "長岡市中之島 求人 > /kyujin/16308"
+    }
+  ]
+}

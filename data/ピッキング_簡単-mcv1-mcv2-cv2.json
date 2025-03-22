@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "ピッキング 簡単",
+      "name": "ピッキング 簡単"
+    },
+    {
+      "id": "/contents/articles/temporary-picking-beginner",
+      "name": "/contents/articles/temporary-picking-beginner"
+    },
+    {
+      "id": "/zenkoku/MC7",
+      "name": "/zenkoku/MC7"
+    },
+    {
+      "id": "/zenkoku/MC7/EC1",
+      "name": "/zenkoku/MC7/EC1"
+    }
+  ],
+  "links": [
+    {
+      "source": "ピッキング 簡単",
+      "target": "/contents/articles/temporary-picking-beginner",
+      "value": 7,
+      "tooltip": "ピッキング 簡単 > /contents/articles/temporary-picking-beginner"
+    },
+    {
+      "source": "/contents/articles/temporary-picking-beginner",
+      "target": "/zenkoku/MC7",
+      "value": 4,
+      "tooltip": "ピッキング 簡単 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7"
+    },
+    {
+      "source": "/contents/articles/temporary-picking-beginner",
+      "target": "/zenkoku/MC7/EC1",
+      "value": 2,
+      "tooltip": "ピッキング 簡単 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7/EC1"
+    }
+  ]
+}
