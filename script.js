@@ -437,30 +437,30 @@ function drawSankeyChart(data, containerId, title) {
             .data(graph.links)
             .enter().append("g");
             
-        // 背景の矩形を追加
+        // 背景の矩形を透明化
         linkLabels.append("rect")
             .attr("class", "label-background")
             .attr("x", d => {
                 const x = (d.source.x1 + d.target.x0) / 2;
-                const width = String(d.value).length * 8 + 10; // 値の長さに基づいて幅を計算
+                const width = String(d.actualValue || d.value).length * 8 + 10; // 元のサイズを維持
                 return x - width / 2;
             })
-            .attr("y", d => (d.y1 + d.y0) / 2 - 10)
-            .attr("width", d => String(d.value).length * 8 + 10) // 値の長さに基づいて幅を計算
-            .attr("height", 20)
+            .attr("y", d => (d.y1 + d.y0) / 2 - 10) // 元のサイズを維持
+            .attr("width", d => String(d.actualValue || d.value).length * 8 + 10) // 元のサイズを維持
+            .attr("height", 20) // 元のサイズを維持
             .attr("fill", "white")
-            .attr("fill-opacity", 1)
+            .attr("fill-opacity", 0.5) // 透明度を上げる
             .attr("rx", 3) // 角を丸くする
             .attr("ry", 3);
             
-        // テキストを追加
+        // テキストは元のサイズと設定を維持
         linkLabels.append("text")
             .attr("class", "link-value")
             .attr("x", d => (d.source.x1 + d.target.x0) / 2)
             .attr("y", d => (d.y1 + d.y0) / 2)
             .attr("dy", "0.35em")
             .attr("text-anchor", "middle")
-            .attr("font-size", "14px")
+            .attr("font-size", "14px") // 元のサイズを維持
             .attr("font-weight", "bold")
             .attr("fill", "white")
             .attr("fill-opacity", "1")
