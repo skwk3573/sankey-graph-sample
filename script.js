@@ -340,7 +340,26 @@ function drawSankeyChart(data, containerId, title) {
                     .style("opacity", 0)
                     .style("z-index", 1000);
                 
-                let tooltipContent = `<strong>${d.name}</strong><br>値: ${d.value}`;
+                // ノードの実際の値を計算（入力リンクまたは出力リンクの合計）
+                let nodeValue = 0;
+                
+                // 入力リンクの合計（実際の値を使用）
+                graph.links.forEach(link => {
+                    if (link.target === d) {
+                        nodeValue += (link.actualValue !== undefined) ? link.actualValue : link.value;
+                    }
+                });
+                
+                // 出力リンクの合計（実際の値を使用）
+                if (nodeValue === 0) {
+                    graph.links.forEach(link => {
+                        if (link.source === d) {
+                            nodeValue += (link.actualValue !== undefined) ? link.actualValue : link.value;
+                        }
+                    });
+                }
+                
+                let tooltipContent = `<strong>${d.name}</strong><br>値: ${nodeValue}`;
                 if (d.id) {
                     tooltipContent += `<br>ID: ${d.id}`;
                 }
