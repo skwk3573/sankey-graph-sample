@@ -390,6 +390,20 @@ function drawSankeyChart(data, containerId, title) {
                 }
                 return d.name;
             })
+            .attr("font-size", function(d) {
+                // テキストの長さに基づいて文字サイズを調整
+                const textLength = this.getComputedTextLength();
+                const availableSpace = d.x0 < width / 2 
+                    ? width - d.x1 - 12  // 右側表示の場合
+                    : d.x0 - 12;         // 左側表示の場合
+                
+                // 利用可能なスペースが少ない場合、文字サイズを縮小
+                if (textLength > availableSpace) {
+                    const ratio = availableSpace / textLength;
+                    return Math.max(8, Math.floor(12 * ratio)) + "px"; // 最小8px、標準12px
+                }
+                return "12px"; // デフォルトのフォントサイズ
+            })
             .filter(d => d.x0 < width / 2)
             .attr("x", d => d.x1 + 6)
             .attr("text-anchor", "start");
