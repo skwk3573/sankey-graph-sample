@@ -212,28 +212,10 @@ function drawSankeyChart(data, containerId, title) {
             .attr("stroke", d => color(d.source.name))
             .attr("stroke-width", d => useUniformWidth ? 10 : Math.max(1, d.width))
             .on("mouseover", function(event, d) {
-                // すべてのリンクの透明度を下げる
-                link.attr("stroke-opacity", 0.05);
-                
-                // 選択されたリンクをハイライト
+                // リンクをハイライト
                 d3.select(this)
                     .attr("stroke-opacity", 0.8)
                     .attr("stroke-width", useUniformWidth ? 12 : Math.max(1, d.width) + 2);
-                
-                // 関連するノードをハイライト
-                node.filter(n => n === d.source || n === d.target)
-                    .select("rect")
-                    .attr("stroke-width", 3);
-                
-                // すべてのリンクラベルを非表示にする
-                svg.selectAll(".link-value, .label-background").style("opacity", 0);
-                
-                // 選択されたリンクのラベルだけを表示する
-                svg.selectAll(".link-value").filter(l => l === d).style("opacity", 1);
-                svg.selectAll(".label-background").filter(function() {
-                    const textElement = d3.select(this.nextSibling);
-                    return textElement.datum() === d;
-                }).style("opacity", 0.8);
                 
                 // ツールチップを表示
                 const tooltip = d3.select("body").append("div")
@@ -245,55 +227,35 @@ function drawSankeyChart(data, containerId, title) {
                     .style("border-radius", "5px")
                     .style("box-shadow", "0 2px 4px rgba(0,0,0,0.1)")
                     .style("pointer-events", "none")
-                    .style("opacity", 0);
-                    
-                // ツールチップの内容を作成
-                let tooltipContent = `
-                    <div><strong>元ノード:</strong> ${d.source.name}</div>
-                    <div><strong>先ノード:</strong> ${d.target.name}</div>
-                    <div><strong>流量:</strong> ${d.value}</div>
-                `;
+                    .style("opacity", 0)
+                    .style("z-index", 1000);
                 
-                // JSONに追加情報がある場合は表示
+                let tooltipContent = `<strong>値: ${d.value}</strong><br>`;
+                tooltipContent += `<div class="tooltip-source">From: ${d.source.name}</div>`;
+                tooltipContent += `<div class="tooltip-target">To: ${d.target.name}</div>`;
+                
                 if (d.tooltip) {
                     tooltipContent += `<div class="tooltip-custom">${d.tooltip}</div>`;
                 }
                 
-                // ソースノードに追加情報がある場合
-                if (d.source.tooltip) {
-                    tooltipContent += `<div class="tooltip-source"><strong>元ノード情報:</strong> ${d.source.tooltip}</div>`;
-                }
-                
-                // ターゲットノードに追加情報がある場合
-                if (d.target.tooltip) {
-                    tooltipContent += `<div class="tooltip-target"><strong>先ノード情報:</strong> ${d.target.tooltip}</div>`;
-                }
-                
                 tooltip.html(tooltipContent)
-                    .style("left", (event.pageX + 10) + "px")
+                    .style("left", (event.pageX + 15) + "px")
                     .style("top", (event.pageY - 28) + "px")
+                    .transition()
+                    .duration(200)
                     .style("opacity", 1);
             })
             .on("mousemove", function(event) {
                 // ツールチップの位置を更新
                 d3.select(".tooltip")
-                    .style("left", (event.pageX + 10) + "px")
+                    .style("left", (event.pageX + 15) + "px")
                     .style("top", (event.pageY - 28) + "px");
             })
-            .on("mouseout", function(event, d) {
-                // すべてのリンクの透明度を元に戻す
-                link.attr("stroke-opacity", 0.2);
-                
-                // 選択されたリンクのスタイルを元に戻す
+            .on("mouseout", function() {
+                // ハイライトを元に戻す
                 d3.select(this)
-                    .attr("stroke-width", useUniformWidth ? 10 : Math.max(1, d.width));
-                
-                // ノードのハイライトを元に戻す
-                node.select("rect")
-                    .attr("stroke-width", 1);
-                
-                // すべてのリンクラベルを表示する
-                svg.selectAll(".link-value, .label-background").style("opacity", 1);
+                    .attr("stroke-opacity", 0.2)
+                    .attr("stroke-width", d => useUniformWidth ? 10 : Math.max(1, d.width));
                 
                 // ツールチップを削除
                 d3.select(".tooltip").remove();
@@ -351,6 +313,40 @@ function drawSankeyChart(data, containerId, title) {
                     const textData = textElement.datum();
                     return textData.source === d || textData.target === d;
                 }).style("opacity", 0.8);
+                
+                // ツールチップを表示
+                const tooltip = d3.select("body").append("div")
+                    .attr("class", "tooltip")
+                    .style("position", "absolute")
+                    .style("background", "rgba(255, 255, 255, 0.9)")
+                    .style("padding", "10px")
+                    .style("border", "1px solid #ddd")
+                    .style("border-radius", "5px")
+                    .style("box-shadow", "0 2px 4px rgba(0,0,0,0.1)")
+                    .style("pointer-events", "none")
+                    .style("opacity", 0)
+                    .style("z-index", 1000);
+                
+                let tooltipContent = `<strong>${d.name}</strong><br>値: ${d.value}`;
+                if (d.id) {
+                    tooltipContent += `<br>ID: ${d.id}`;
+                }
+                if (d.path) {
+                    tooltipContent += `<br>経路: ${d.path}`;
+                }
+                
+                tooltip.html(tooltipContent)
+                    .style("left", (event.pageX + 15) + "px")
+                    .style("top", (event.pageY - 28) + "px")
+                    .transition()
+                    .duration(200)
+                    .style("opacity", 1);
+            })
+            .on("mousemove", function(event) {
+                // ツールチップの位置を更新
+                d3.select(".tooltip")
+                    .style("left", (event.pageX + 15) + "px")
+                    .style("top", (event.pageY - 28) + "px");
             })
             .on("mouseout", function(event, d) {
                 // ハイライトを元に戻す
@@ -363,6 +359,9 @@ function drawSankeyChart(data, containerId, title) {
                 
                 // すべてのリンクラベルを表示する
                 svg.selectAll(".link-value, .label-background").style("opacity", 1);
+                
+                // ツールチップを削除
+                d3.select(".tooltip").remove();
             });
         
         // ノードにラベルを追加
@@ -381,19 +380,6 @@ function drawSankeyChart(data, containerId, title) {
             .filter(d => d.x0 < width / 2)
             .attr("x", d => d.x1 + 6)
             .attr("text-anchor", "start");
-        
-        // ノードにホバー時のツールチップを追加
-        node.append("title")
-            .text(d => {
-                let tooltip = `${d.name}\n値: ${d.value}`;
-                if (d.id) {
-                    tooltip += `\nID: ${d.id}`;
-                }
-                if (d.path) {
-                    tooltip += `\n経路: ${d.path}`;
-                }
-                return tooltip;
-            });
         
         // グループの背景を追加
         const groups = {};
