@@ -52,7 +52,7 @@ function drawSankeyChart(data, containerId, title) {
         .text("グラフの高さ: ");
     
     // 初期高さ
-    let chartHeight = 1000;
+    let chartHeight = 500;
     
     // スライダーを追加
     controlDiv.append("input")
