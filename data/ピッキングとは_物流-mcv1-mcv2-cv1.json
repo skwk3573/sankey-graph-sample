@@ -5,46 +5,56 @@
       "name": "ピッキングとは 物流"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner",
-      "name": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner"
+      "id": "/contents/articles/temporary-picking-beginner",
+      "name": "/contents/articles/temporary-picking-beginner"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/MC7",
-      "name": "https://www.shigotomo.jp/zenkoku/MC7"
+      "id": "/zenkoku/MC7",
+      "name": "/zenkoku/MC7"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/MC7/EC1",
-      "name": "https://www.shigotomo.jp/zenkoku/MC7/EC1"
+      "id": "/zenkoku/MC7/EC1",
+      "name": "/zenkoku/MC7/EC1"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/search-detail",
-      "name": "https://www.shigotomo.jp/kyujin/search-detail"
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/16532",
+      "name": "/kyujin/16532"
     }
   ],
   "links": [
     {
       "source": "ピッキングとは 物流",
-      "target": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner",
+      "target": "/contents/articles/temporary-picking-beginner",
       "value": 6,
       "tooltip": "ピッキングとは 物流 > /contents/articles/temporary-picking-beginner"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner",
-      "target": "https://www.shigotomo.jp/zenkoku/MC7",
+      "source": "/contents/articles/temporary-picking-beginner",
+      "target": "/zenkoku/MC7",
       "value": 3.75,
       "tooltip": "ピッキングとは 物流 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner",
-      "target": "https://www.shigotomo.jp/zenkoku/MC7/EC1",
+      "source": "/contents/articles/temporary-picking-beginner",
+      "target": "/zenkoku/MC7/EC1",
       "value": 0.75,
       "tooltip": "ピッキングとは 物流 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7/EC1"
     },
     {
-      "source": "https://www.shigotomo.jp/zenkoku/MC7",
-      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "source": "/zenkoku/MC7",
+      "target": "/kyujin/search-detail",
       "value": 0.54,
       "tooltip": "ピッキングとは 物流 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7 > /kyujin/search-detail"
+    },
+    {
+      "source": "/zenkoku/MC7/EC1",
+      "target": "/kyujin/16532",
+      "value": 0.13,
+      "tooltip": "ピッキングとは 物流 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7/EC1 > /kyujin/16532"
     }
   ]
 }

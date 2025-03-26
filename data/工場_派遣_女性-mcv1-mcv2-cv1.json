@@ -5,26 +5,46 @@
       "name": "工場 派遣 女性"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/factory-haken-woman",
-      "name": "https://www.shigotomo.jp/contents/articles/factory-haken-woman"
+      "id": "/contents/articles/factory-haken-woman",
+      "name": "/contents/articles/factory-haken-woman"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
-      "name": "https://www.shigotomo.jp/zenkoku/EC1/FW工場"
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/17069",
+      "name": "/kyujin/17069"
     }
   ],
   "links": [
     {
       "source": "工場 派遣 女性",
-      "target": "https://www.shigotomo.jp/contents/articles/factory-haken-woman",
+      "target": "/contents/articles/factory-haken-woman",
       "value": 3,
       "tooltip": "工場 派遣 女性 > /contents/articles/factory-haken-woman"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/factory-haken-woman",
-      "target": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "source": "/contents/articles/factory-haken-woman",
+      "target": "/zenkoku/EC1/FW工場",
       "value": 1,
       "tooltip": "工場 派遣 女性 > /contents/articles/factory-haken-woman > /zenkoku/EC1/FW工場"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/search-detail",
+      "value": 0.21,
+      "tooltip": "工場 派遣 女性 > /contents/articles/factory-haken-woman > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/17069",
+      "value": 0.03,
+      "tooltip": "工場 派遣 女性 > /contents/articles/factory-haken-woman > /zenkoku/EC1/FW工場 > /kyujin/17069"
     }
   ]
 }

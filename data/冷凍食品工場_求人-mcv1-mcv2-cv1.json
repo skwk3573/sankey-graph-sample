@@ -5,14 +5,14 @@
       "name": "冷凍食品工場 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16594",
-      "name": "https://www.shigotomo.jp/kyujin/16594"
+      "id": "/kyujin/16594",
+      "name": "/kyujin/16594"
     }
   ],
   "links": [
     {
       "source": "冷凍食品工場 求人",
-      "target": "https://www.shigotomo.jp/kyujin/16594",
+      "target": "/kyujin/16594",
       "value": 1,
       "tooltip": "冷凍食品工場 求人 > /kyujin/16594"
     }

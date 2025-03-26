@@ -5,14 +5,14 @@
       "name": "松原市 事務 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16175",
-      "name": "https://www.shigotomo.jp/kyujin/16175"
+      "id": "/kyujin/16175",
+      "name": "/kyujin/16175"
     }
   ],
   "links": [
     {
       "source": "松原市 事務 求人",
-      "target": "https://www.shigotomo.jp/kyujin/16175",
+      "target": "/kyujin/16175",
       "value": 1,
       "tooltip": "松原市 事務 求人 > /kyujin/16175"
     }

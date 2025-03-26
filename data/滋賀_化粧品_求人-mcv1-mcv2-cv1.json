@@ -5,14 +5,14 @@
       "name": "滋賀 化粧品 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16954",
-      "name": "https://www.shigotomo.jp/kyujin/16954"
+      "id": "/kyujin/16954",
+      "name": "/kyujin/16954"
     }
   ],
   "links": [
     {
       "source": "滋賀 化粧品 求人",
-      "target": "https://www.shigotomo.jp/kyujin/16954",
+      "target": "/kyujin/16954",
       "value": 1,
       "tooltip": "滋賀 化粧品 求人 > /kyujin/16954"
     }

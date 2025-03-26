@@ -5,14 +5,14 @@
       "name": "高崎市新町 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/13913",
-      "name": "https://www.shigotomo.jp/kyujin/13913"
+      "id": "/kyujin/13913",
+      "name": "/kyujin/13913"
     }
   ],
   "links": [
     {
       "source": "高崎市新町 求人",
-      "target": "https://www.shigotomo.jp/kyujin/13913",
+      "target": "/kyujin/13913",
       "value": 5,
       "tooltip": "高崎市新町 求人 > /kyujin/13913"
     }

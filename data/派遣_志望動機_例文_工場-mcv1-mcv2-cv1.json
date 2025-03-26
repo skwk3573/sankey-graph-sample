@@ -5,36 +5,46 @@
       "name": "派遣 志望動機 例文 工場"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/temporary-reasons-applying",
-      "name": "https://www.shigotomo.jp/contents/articles/temporary-reasons-applying"
+      "id": "/contents/articles/temporary-reasons-applying",
+      "name": "/contents/articles/temporary-reasons-applying"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
-      "name": "https://www.shigotomo.jp/zenkoku/EC1/FW工場"
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/search-detail",
-      "name": "https://www.shigotomo.jp/kyujin/search-detail"
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/17069",
+      "name": "/kyujin/17069"
     }
   ],
   "links": [
     {
       "source": "派遣 志望動機 例文 工場",
-      "target": "https://www.shigotomo.jp/contents/articles/temporary-reasons-applying",
+      "target": "/contents/articles/temporary-reasons-applying",
       "value": 107,
       "tooltip": "派遣 志望動機 例文 工場 > /contents/articles/temporary-reasons-applying"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/temporary-reasons-applying",
-      "target": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "source": "/contents/articles/temporary-reasons-applying",
+      "target": "/zenkoku/EC1/FW工場",
       "value": 9.73,
       "tooltip": "派遣 志望動機 例文 工場 > /contents/articles/temporary-reasons-applying > /zenkoku/EC1/FW工場"
     },
     {
-      "source": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
-      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/search-detail",
       "value": 2,
       "tooltip": "派遣 志望動機 例文 工場 > /contents/articles/temporary-reasons-applying > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/17069",
+      "value": 0.29,
+      "tooltip": "派遣 志望動機 例文 工場 > /contents/articles/temporary-reasons-applying > /zenkoku/EC1/FW工場 > /kyujin/17069"
     }
   ]
 }

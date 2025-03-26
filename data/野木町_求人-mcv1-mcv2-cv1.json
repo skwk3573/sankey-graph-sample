@@ -5,14 +5,14 @@
       "name": "野木町 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/7168",
-      "name": "https://www.shigotomo.jp/kyujin/7168"
+      "id": "/kyujin/7168",
+      "name": "/kyujin/7168"
     }
   ],
   "links": [
     {
       "source": "野木町 求人",
-      "target": "https://www.shigotomo.jp/kyujin/7168",
+      "target": "/kyujin/7168",
       "value": 3,
       "tooltip": "野木町 求人 > /kyujin/7168"
     }

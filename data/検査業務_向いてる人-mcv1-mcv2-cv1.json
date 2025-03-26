@@ -5,16 +5,26 @@
       "name": "検査業務 向いてる人"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/kenpin-muiteiru",
-      "name": "https://www.shigotomo.jp/contents/articles/kenpin-muiteiru"
+      "id": "/contents/articles/kenpin-muiteiru",
+      "name": "/contents/articles/kenpin-muiteiru"
+    },
+    {
+      "id": "/zenkoku/MC5/EC1",
+      "name": "/zenkoku/MC5/EC1"
     }
   ],
   "links": [
     {
       "source": "検査業務 向いてる人",
-      "target": "https://www.shigotomo.jp/contents/articles/kenpin-muiteiru",
+      "target": "/contents/articles/kenpin-muiteiru",
       "value": 1,
       "tooltip": "検査業務 向いてる人 > /contents/articles/kenpin-muiteiru"
+    },
+    {
+      "source": "/contents/articles/kenpin-muiteiru",
+      "target": "/zenkoku/MC5/EC1",
+      "value": 0.11,
+      "tooltip": "検査業務 向いてる人 > /contents/articles/kenpin-muiteiru > /zenkoku/MC5/EC1"
     }
   ]
 }

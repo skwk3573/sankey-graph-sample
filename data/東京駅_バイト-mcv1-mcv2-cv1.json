@@ -5,14 +5,14 @@
       "name": "東京駅 バイト"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/8975",
-      "name": "https://www.shigotomo.jp/kyujin/8975"
+      "id": "/kyujin/8975",
+      "name": "/kyujin/8975"
     }
   ],
   "links": [
     {
       "source": "東京駅 バイト",
-      "target": "https://www.shigotomo.jp/kyujin/8975",
+      "target": "/kyujin/8975",
       "value": 3,
       "tooltip": "東京駅 バイト > /kyujin/8975"
     }

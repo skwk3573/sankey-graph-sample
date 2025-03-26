@@ -5,26 +5,56 @@
       "name": "ピッキング 改善事例"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner",
-      "name": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner"
+      "id": "/contents/articles/temporary-picking-beginner",
+      "name": "/contents/articles/temporary-picking-beginner"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/MC7",
-      "name": "https://www.shigotomo.jp/zenkoku/MC7"
+      "id": "/zenkoku/MC7",
+      "name": "/zenkoku/MC7"
+    },
+    {
+      "id": "/zenkoku/MC7/EC1",
+      "name": "/zenkoku/MC7/EC1"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/16532",
+      "name": "/kyujin/16532"
     }
   ],
   "links": [
     {
       "source": "ピッキング 改善事例",
-      "target": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner",
+      "target": "/contents/articles/temporary-picking-beginner",
       "value": 1,
       "tooltip": "ピッキング 改善事例 > /contents/articles/temporary-picking-beginner"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner",
-      "target": "https://www.shigotomo.jp/zenkoku/MC7",
+      "source": "/contents/articles/temporary-picking-beginner",
+      "target": "/zenkoku/MC7",
       "value": 0.63,
       "tooltip": "ピッキング 改善事例 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7"
+    },
+    {
+      "source": "/contents/articles/temporary-picking-beginner",
+      "target": "/zenkoku/MC7/EC1",
+      "value": 0.13,
+      "tooltip": "ピッキング 改善事例 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7/EC1"
+    },
+    {
+      "source": "/zenkoku/MC7",
+      "target": "/kyujin/search-detail",
+      "value": 0.09,
+      "tooltip": "ピッキング 改善事例 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7 > /kyujin/search-detail"
+    },
+    {
+      "source": "/zenkoku/MC7/EC1",
+      "target": "/kyujin/16532",
+      "value": 0.02,
+      "tooltip": "ピッキング 改善事例 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7/EC1 > /kyujin/16532"
     }
   ]
 }

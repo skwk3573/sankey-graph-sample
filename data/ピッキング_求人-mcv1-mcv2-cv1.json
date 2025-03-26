@@ -5,44 +5,44 @@
       "name": "ピッキング 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/3828",
-      "name": "https://www.shigotomo.jp/kyujin/3828"
+      "id": "/kyujin/3828",
+      "name": "/kyujin/3828"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/15036",
-      "name": "https://www.shigotomo.jp/kyujin/15036"
+      "id": "/kyujin/15036",
+      "name": "/kyujin/15036"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16124",
-      "name": "https://www.shigotomo.jp/kyujin/16124"
+      "id": "/kyujin/16124",
+      "name": "/kyujin/16124"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/15712",
-      "name": "https://www.shigotomo.jp/kyujin/15712"
+      "id": "/kyujin/15712",
+      "name": "/kyujin/15712"
     }
   ],
   "links": [
     {
       "source": "ピッキング 求人",
-      "target": "https://www.shigotomo.jp/kyujin/3828",
+      "target": "/kyujin/3828",
       "value": 1,
       "tooltip": "ピッキング 求人 > /kyujin/3828"
     },
     {
       "source": "ピッキング 求人",
-      "target": "https://www.shigotomo.jp/kyujin/15036",
+      "target": "/kyujin/15036",
       "value": 1,
       "tooltip": "ピッキング 求人 > /kyujin/15036"
     },
     {
       "source": "ピッキング 求人",
-      "target": "https://www.shigotomo.jp/kyujin/16124",
+      "target": "/kyujin/16124",
       "value": 1,
       "tooltip": "ピッキング 求人 > /kyujin/16124"
     },
     {
       "source": "ピッキング 求人",
-      "target": "https://www.shigotomo.jp/kyujin/15712",
+      "target": "/kyujin/15712",
       "value": 1,
       "tooltip": "ピッキング 求人 > /kyujin/15712"
     }

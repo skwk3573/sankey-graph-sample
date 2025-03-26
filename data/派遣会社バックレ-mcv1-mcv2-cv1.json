@@ -5,26 +5,76 @@
       "name": "派遣会社バックレ"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho",
-      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho"
+      "id": "/contents/articles/koujohaken-bakkure-taisho",
+      "name": "/contents/articles/koujohaken-bakkure-taisho"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
-      "name": "https://www.shigotomo.jp/zenkoku/EC1/FW工場"
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/17069",
+      "name": "/kyujin/17069"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
     }
   ],
   "links": [
     {
       "source": "派遣会社バックレ",
-      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho",
+      "target": "/contents/articles/koujohaken-bakkure-taisho",
       "value": 2,
       "tooltip": "派遣会社バックレ > /contents/articles/koujohaken-bakkure-taisho"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho",
-      "target": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "source": "/contents/articles/koujohaken-bakkure-taisho",
+      "target": "/apply/535",
+      "value": 0.33,
+      "tooltip": "派遣会社バックレ > /contents/articles/koujohaken-bakkure-taisho > /apply/535"
+    },
+    {
+      "source": "/contents/articles/koujohaken-bakkure-taisho",
+      "target": "/zenkoku/EC1/FW工場",
       "value": 1,
       "tooltip": "派遣会社バックレ > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/EC1/FW工場"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/search-detail",
+      "value": 0.21,
+      "tooltip": "派遣会社バックレ > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/17069",
+      "value": 0.03,
+      "tooltip": "派遣会社バックレ > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/EC1/FW工場 > /kyujin/17069"
+    },
+    {
+      "source": "/apply/535",
+      "target": "/apply/confirm",
+      "value": 0.33,
+      "tooltip": "派遣会社バックレ > /contents/articles/koujohaken-bakkure-taisho > /apply/535 > /apply/confirm"
+    },
+    {
+      "source": "/apply/confirm",
+      "target": "/apply/complete",
+      "value": 0.25,
+      "tooltip": "派遣会社バックレ > /contents/articles/koujohaken-bakkure-taisho > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]
 }

@@ -5,14 +5,14 @@
       "name": "土日 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/13517",
-      "name": "https://www.shigotomo.jp/kyujin/13517"
+      "id": "/kyujin/13517",
+      "name": "/kyujin/13517"
     }
   ],
   "links": [
     {
       "source": "土日 求人",
-      "target": "https://www.shigotomo.jp/kyujin/13517",
+      "target": "/kyujin/13517",
       "value": 1,
       "tooltip": "土日 求人 > /kyujin/13517"
     }

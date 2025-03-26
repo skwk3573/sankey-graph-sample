@@ -5,14 +5,14 @@
       "name": "冷凍食品 おにぎり"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16775",
-      "name": "https://www.shigotomo.jp/kyujin/16775"
+      "id": "/kyujin/16775",
+      "name": "/kyujin/16775"
     }
   ],
   "links": [
     {
       "source": "冷凍食品 おにぎり",
-      "target": "https://www.shigotomo.jp/kyujin/16775",
+      "target": "/kyujin/16775",
       "value": 1,
       "tooltip": "冷凍食品 おにぎり > /kyujin/16775"
     }

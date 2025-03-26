@@ -5,14 +5,14 @@
       "name": "滋賀県 在宅ワーク シール貼り"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16962",
-      "name": "https://www.shigotomo.jp/kyujin/16962"
+      "id": "/kyujin/16962",
+      "name": "/kyujin/16962"
     }
   ],
   "links": [
     {
       "source": "滋賀県 在宅ワーク シール貼り",
-      "target": "https://www.shigotomo.jp/kyujin/16962",
+      "target": "/kyujin/16962",
       "value": 1,
       "tooltip": "滋賀県 在宅ワーク シール貼り > /kyujin/16962"
     }

@@ -5,54 +5,54 @@
       "name": "検品作業 きつい"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/kenpinsagyo-kitsui",
-      "name": "https://www.shigotomo.jp/contents/articles/kenpinsagyo-kitsui"
+      "id": "/contents/articles/kenpinsagyo-kitsui",
+      "name": "/contents/articles/kenpinsagyo-kitsui"
     },
     {
-      "id": "https://www.shigotomo.jp/apply/535",
-      "name": "https://www.shigotomo.jp/apply/535"
+      "id": "/apply/535",
+      "name": "/apply/535"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/MC5/EC1",
-      "name": "https://www.shigotomo.jp/zenkoku/MC5/EC1"
+      "id": "/zenkoku/MC5/EC1",
+      "name": "/zenkoku/MC5/EC1"
     },
     {
-      "id": "https://www.shigotomo.jp/apply/confirm",
-      "name": "https://www.shigotomo.jp/apply/confirm"
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
     },
     {
-      "id": "https://www.shigotomo.jp/apply/complete",
-      "name": "https://www.shigotomo.jp/apply/complete"
+      "id": "/apply/complete",
+      "name": "/apply/complete"
     }
   ],
   "links": [
     {
       "source": "検品作業 きつい",
-      "target": "https://www.shigotomo.jp/contents/articles/kenpinsagyo-kitsui",
+      "target": "/contents/articles/kenpinsagyo-kitsui",
       "value": 14,
       "tooltip": "検品作業 きつい > /contents/articles/kenpinsagyo-kitsui"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/kenpinsagyo-kitsui",
-      "target": "https://www.shigotomo.jp/apply/535",
+      "source": "/contents/articles/kenpinsagyo-kitsui",
+      "target": "/apply/535",
       "value": 1.75,
       "tooltip": "検品作業 きつい > /contents/articles/kenpinsagyo-kitsui > /apply/535"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/kenpinsagyo-kitsui",
-      "target": "https://www.shigotomo.jp/zenkoku/MC5/EC1",
+      "source": "/contents/articles/kenpinsagyo-kitsui",
+      "target": "/zenkoku/MC5/EC1",
       "value": 1.75,
       "tooltip": "検品作業 きつい > /contents/articles/kenpinsagyo-kitsui > /zenkoku/MC5/EC1"
     },
     {
-      "source": "https://www.shigotomo.jp/apply/535",
-      "target": "https://www.shigotomo.jp/apply/confirm",
+      "source": "/apply/535",
+      "target": "/apply/confirm",
       "value": 1.75,
       "tooltip": "検品作業 きつい > /contents/articles/kenpinsagyo-kitsui > /apply/535 > /apply/confirm"
     },
     {
-      "source": "https://www.shigotomo.jp/apply/confirm",
-      "target": "https://www.shigotomo.jp/apply/complete",
+      "source": "/apply/confirm",
+      "target": "/apply/complete",
       "value": 1.3,
       "tooltip": "検品作業 きつい > /contents/articles/kenpinsagyo-kitsui > /apply/535 > /apply/confirm > /apply/complete"
     }

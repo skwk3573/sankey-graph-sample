@@ -5,54 +5,54 @@
       "name": "上尾 物流センター 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/6320",
-      "name": "https://www.shigotomo.jp/kyujin/6320"
+      "id": "/kyujin/6320",
+      "name": "/kyujin/6320"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/15638",
-      "name": "https://www.shigotomo.jp/kyujin/15638"
+      "id": "/kyujin/15638",
+      "name": "/kyujin/15638"
     },
     {
-      "id": "https://www.shigotomo.jp/apply/6320",
-      "name": "https://www.shigotomo.jp/apply/6320"
+      "id": "/apply/6320",
+      "name": "/apply/6320"
     },
     {
-      "id": "https://www.shigotomo.jp/apply/confirm",
-      "name": "https://www.shigotomo.jp/apply/confirm"
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
     },
     {
-      "id": "https://www.shigotomo.jp/apply/complete",
-      "name": "https://www.shigotomo.jp/apply/complete"
+      "id": "/apply/complete",
+      "name": "/apply/complete"
     }
   ],
   "links": [
     {
       "source": "上尾 物流センター 求人",
-      "target": "https://www.shigotomo.jp/kyujin/6320",
+      "target": "/kyujin/6320",
       "value": 2,
       "tooltip": "上尾 物流センター 求人 > /kyujin/6320"
     },
     {
       "source": "上尾 物流センター 求人",
-      "target": "https://www.shigotomo.jp/kyujin/15638",
+      "target": "/kyujin/15638",
       "value": 1,
       "tooltip": "上尾 物流センター 求人 > /kyujin/15638"
     },
     {
-      "source": "https://www.shigotomo.jp/kyujin/6320",
-      "target": "https://www.shigotomo.jp/apply/6320",
+      "source": "/kyujin/6320",
+      "target": "/apply/6320",
       "value": 0.8,
       "tooltip": "上尾 物流センター 求人 > /kyujin/6320 > /apply/6320"
     },
     {
-      "source": "https://www.shigotomo.jp/apply/6320",
-      "target": "https://www.shigotomo.jp/apply/confirm",
+      "source": "/apply/6320",
+      "target": "/apply/confirm",
       "value": 0.8,
       "tooltip": "上尾 物流センター 求人 > /kyujin/6320 > /apply/6320 > /apply/confirm"
     },
     {
-      "source": "https://www.shigotomo.jp/apply/confirm",
-      "target": "https://www.shigotomo.jp/apply/complete",
+      "source": "/apply/confirm",
+      "target": "/apply/complete",
       "value": 0.59,
       "tooltip": "上尾 物流センター 求人 > /kyujin/6320 > /apply/6320 > /apply/confirm > /apply/complete"
     }

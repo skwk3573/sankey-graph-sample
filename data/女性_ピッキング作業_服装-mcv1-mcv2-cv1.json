@@ -5,14 +5,14 @@
       "name": "女性 ピッキング作業 服装"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
-      "name": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman"
+      "id": "/contents/articles/keisagyou-hukusouwoman",
+      "name": "/contents/articles/keisagyou-hukusouwoman"
     }
   ],
   "links": [
     {
       "source": "女性 ピッキング作業 服装",
-      "target": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
+      "target": "/contents/articles/keisagyou-hukusouwoman",
       "value": 2,
       "tooltip": "女性 ピッキング作業 服装 > /contents/articles/keisagyou-hukusouwoman"
     }

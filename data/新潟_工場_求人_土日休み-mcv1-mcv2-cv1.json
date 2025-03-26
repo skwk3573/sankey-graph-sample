@@ -5,14 +5,14 @@
       "name": "新潟 工場 求人 土日休み"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16820",
-      "name": "https://www.shigotomo.jp/kyujin/16820"
+      "id": "/kyujin/16820",
+      "name": "/kyujin/16820"
     }
   ],
   "links": [
     {
       "source": "新潟 工場 求人 土日休み",
-      "target": "https://www.shigotomo.jp/kyujin/16820",
+      "target": "/kyujin/16820",
       "value": 1,
       "tooltip": "新潟 工場 求人 土日休み > /kyujin/16820"
     }

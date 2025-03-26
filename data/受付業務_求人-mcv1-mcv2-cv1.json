@@ -5,14 +5,14 @@
       "name": "受付業務 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/17064",
-      "name": "https://www.shigotomo.jp/kyujin/17064"
+      "id": "/kyujin/17064",
+      "name": "/kyujin/17064"
     }
   ],
   "links": [
     {
       "source": "受付業務 求人",
-      "target": "https://www.shigotomo.jp/kyujin/17064",
+      "target": "/kyujin/17064",
       "value": 1,
       "tooltip": "受付業務 求人 > /kyujin/17064"
     }

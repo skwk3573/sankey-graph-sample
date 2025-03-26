@@ -5,14 +5,14 @@
       "name": "短期 工場 バイト"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/15613",
-      "name": "https://www.shigotomo.jp/kyujin/15613"
+      "id": "/kyujin/15613",
+      "name": "/kyujin/15613"
     }
   ],
   "links": [
     {
       "source": "短期 工場 バイト",
-      "target": "https://www.shigotomo.jp/kyujin/15613",
+      "target": "/kyujin/15613",
       "value": 1,
       "tooltip": "短期 工場 バイト > /kyujin/15613"
     }

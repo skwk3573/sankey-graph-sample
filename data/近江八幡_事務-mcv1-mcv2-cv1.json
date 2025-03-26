@@ -5,14 +5,14 @@
       "name": "近江八幡 事務"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16992",
-      "name": "https://www.shigotomo.jp/kyujin/16992"
+      "id": "/kyujin/16992",
+      "name": "/kyujin/16992"
     }
   ],
   "links": [
     {
       "source": "近江八幡 事務",
-      "target": "https://www.shigotomo.jp/kyujin/16992",
+      "target": "/kyujin/16992",
       "value": 1,
       "tooltip": "近江八幡 事務 > /kyujin/16992"
     }

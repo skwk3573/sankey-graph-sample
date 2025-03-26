@@ -5,24 +5,24 @@
       "name": "東灘区組立"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/DC28101",
-      "name": "https://www.shigotomo.jp/zenkoku/DC28101"
+      "id": "/zenkoku/DC28101",
+      "name": "/zenkoku/DC28101"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/12673",
-      "name": "https://www.shigotomo.jp/kyujin/12673"
+      "id": "/kyujin/12673",
+      "name": "/kyujin/12673"
     }
   ],
   "links": [
     {
       "source": "東灘区組立",
-      "target": "https://www.shigotomo.jp/zenkoku/DC28101",
+      "target": "/zenkoku/DC28101",
       "value": 3,
       "tooltip": "東灘区組立 > /zenkoku/DC28101"
     },
     {
-      "source": "https://www.shigotomo.jp/zenkoku/DC28101",
-      "target": "https://www.shigotomo.jp/kyujin/12673",
+      "source": "/zenkoku/DC28101",
+      "target": "/kyujin/12673",
       "value": 3,
       "tooltip": "東灘区組立 > /zenkoku/DC28101 > /kyujin/12673"
     }

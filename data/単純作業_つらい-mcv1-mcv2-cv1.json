@@ -5,52 +5,72 @@
       "name": "単純作業 つらい"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/keisagyo",
-      "name": "https://www.shigotomo.jp/contents/articles/keisagyo"
+      "id": "/contents/articles/keisagyo",
+      "name": "/contents/articles/keisagyo"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/MC1",
-      "name": "https://www.shigotomo.jp/zenkoku/MC1"
+      "id": "/zenkoku/MC1",
+      "name": "/zenkoku/MC1"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
-      "name": "https://www.shigotomo.jp/zenkoku/MC1/EC1"
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/search-detail",
-      "name": "https://www.shigotomo.jp/kyujin/search-detail"
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/16312",
+      "name": "/kyujin/16312"
+    },
+    {
+      "id": "/apply/16312",
+      "name": "/apply/16312"
     }
   ],
   "links": [
     {
       "source": "単純作業 つらい",
-      "target": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "target": "/contents/articles/keisagyo",
       "value": 9,
       "tooltip": "単純作業 つらい > /contents/articles/keisagyo"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/keisagyo",
-      "target": "https://www.shigotomo.jp/zenkoku/MC1",
+      "source": "/contents/articles/keisagyo",
+      "target": "/zenkoku/MC1",
       "value": 2.3,
       "tooltip": "単純作業 つらい > /contents/articles/keisagyo > /zenkoku/MC1"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/keisagyo",
-      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "source": "/contents/articles/keisagyo",
+      "target": "/zenkoku/MC1/EC1",
       "value": 5.94,
       "tooltip": "単純作業 つらい > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
     },
     {
-      "source": "https://www.shigotomo.jp/zenkoku/MC1",
-      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "source": "/zenkoku/MC1",
+      "target": "/kyujin/search-detail",
       "value": 0.92,
       "tooltip": "単純作業 つらい > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/search-detail"
     },
     {
-      "source": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
-      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "source": "/zenkoku/MC1",
+      "target": "/kyujin/16312",
+      "value": 0.18,
+      "tooltip": "単純作業 つらい > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/16312"
+    },
+    {
+      "source": "/zenkoku/MC1/EC1",
+      "target": "/kyujin/search-detail",
       "value": 1.26,
       "tooltip": "単純作業 つらい > /contents/articles/keisagyo > /zenkoku/MC1/EC1 > /kyujin/search-detail"
+    },
+    {
+      "source": "/kyujin/16312",
+      "target": "/apply/16312",
+      "value": 0.18,
+      "tooltip": "単純作業 つらい > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
     }
   ]
 }

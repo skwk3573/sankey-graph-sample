@@ -5,46 +5,66 @@
       "name": "仕分け作業 志望動機 例文"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
-      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki"
+      "id": "/contents/articles/keisagyo-shiboudouki",
+      "name": "/contents/articles/keisagyo-shiboudouki"
     },
     {
-      "id": "https://www.shigotomo.jp/apply/535",
-      "name": "https://www.shigotomo.jp/apply/535"
+      "id": "/apply/535",
+      "name": "/apply/535"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
-      "name": "https://www.shigotomo.jp/zenkoku/MC1/EC1"
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
     },
     {
-      "id": "https://www.shigotomo.jp/apply/confirm",
-      "name": "https://www.shigotomo.jp/apply/confirm"
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
     }
   ],
   "links": [
     {
       "source": "仕分け作業 志望動機 例文",
-      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
+      "target": "/contents/articles/keisagyo-shiboudouki",
       "value": 6,
       "tooltip": "仕分け作業 志望動機 例文 > /contents/articles/keisagyo-shiboudouki"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
-      "target": "https://www.shigotomo.jp/apply/535",
+      "source": "/contents/articles/keisagyo-shiboudouki",
+      "target": "/apply/535",
       "value": 0.5,
       "tooltip": "仕分け作業 志望動機 例文 > /contents/articles/keisagyo-shiboudouki > /apply/535"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
-      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "source": "/contents/articles/keisagyo-shiboudouki",
+      "target": "/zenkoku/MC1/EC1",
       "value": 0.5,
       "tooltip": "仕分け作業 志望動機 例文 > /contents/articles/keisagyo-shiboudouki > /zenkoku/MC1/EC1"
     },
     {
-      "source": "https://www.shigotomo.jp/apply/535",
-      "target": "https://www.shigotomo.jp/apply/confirm",
+      "source": "/zenkoku/MC1/EC1",
+      "target": "/kyujin/search-detail",
+      "value": 0.11,
+      "tooltip": "仕分け作業 志望動機 例文 > /contents/articles/keisagyo-shiboudouki > /zenkoku/MC1/EC1 > /kyujin/search-detail"
+    },
+    {
+      "source": "/apply/535",
+      "target": "/apply/confirm",
       "value": 0.5,
       "tooltip": "仕分け作業 志望動機 例文 > /contents/articles/keisagyo-shiboudouki > /apply/535 > /apply/confirm"
+    },
+    {
+      "source": "/apply/confirm",
+      "target": "/apply/complete",
+      "value": 0.37,
+      "tooltip": "仕分け作業 志望動機 例文 > /contents/articles/keisagyo-shiboudouki > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]
 }

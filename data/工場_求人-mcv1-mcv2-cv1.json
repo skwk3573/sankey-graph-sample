@@ -5,54 +5,54 @@
       "name": "工場 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/2618",
-      "name": "https://www.shigotomo.jp/kyujin/2618"
+      "id": "/kyujin/2618",
+      "name": "/kyujin/2618"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/4724",
-      "name": "https://www.shigotomo.jp/kyujin/4724"
+      "id": "/kyujin/4724",
+      "name": "/kyujin/4724"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/15613",
-      "name": "https://www.shigotomo.jp/kyujin/15613"
+      "id": "/kyujin/15613",
+      "name": "/kyujin/15613"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/12453",
-      "name": "https://www.shigotomo.jp/kyujin/12453"
+      "id": "/kyujin/12453",
+      "name": "/kyujin/12453"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/3640",
-      "name": "https://www.shigotomo.jp/kyujin/3640"
+      "id": "/kyujin/3640",
+      "name": "/kyujin/3640"
     }
   ],
   "links": [
     {
       "source": "工場 求人",
-      "target": "https://www.shigotomo.jp/kyujin/2618",
+      "target": "/kyujin/2618",
       "value": 2,
       "tooltip": "工場 求人 > /kyujin/2618"
     },
     {
       "source": "工場 求人",
-      "target": "https://www.shigotomo.jp/kyujin/4724",
+      "target": "/kyujin/4724",
       "value": 5,
       "tooltip": "工場 求人 > /kyujin/4724"
     },
     {
       "source": "工場 求人",
-      "target": "https://www.shigotomo.jp/kyujin/15613",
+      "target": "/kyujin/15613",
       "value": 3,
       "tooltip": "工場 求人 > /kyujin/15613"
     },
     {
       "source": "工場 求人",
-      "target": "https://www.shigotomo.jp/kyujin/12453",
+      "target": "/kyujin/12453",
       "value": 2,
       "tooltip": "工場 求人 > /kyujin/12453"
     },
     {
       "source": "工場 求人",
-      "target": "https://www.shigotomo.jp/kyujin/3640",
+      "target": "/kyujin/3640",
       "value": 1,
       "tooltip": "工場 求人 > /kyujin/3640"
     }

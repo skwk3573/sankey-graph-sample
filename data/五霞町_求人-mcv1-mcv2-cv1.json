@@ -5,14 +5,14 @@
       "name": "五霞町 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/13156",
-      "name": "https://www.shigotomo.jp/kyujin/13156"
+      "id": "/kyujin/13156",
+      "name": "/kyujin/13156"
     }
   ],
   "links": [
     {
       "source": "五霞町 求人",
-      "target": "https://www.shigotomo.jp/kyujin/13156",
+      "target": "/kyujin/13156",
       "value": 1,
       "tooltip": "五霞町 求人 > /kyujin/13156"
     }

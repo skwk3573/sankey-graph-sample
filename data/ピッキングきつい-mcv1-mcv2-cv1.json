@@ -5,36 +5,56 @@
       "name": "ピッキングきつい"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard",
-      "name": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard"
+      "id": "/contents/articles/temporary-picking-hard",
+      "name": "/contents/articles/temporary-picking-hard"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/MC7",
-      "name": "https://www.shigotomo.jp/zenkoku/MC7"
+      "id": "/zenkoku/MC7",
+      "name": "/zenkoku/MC7"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/MC7/EC1",
-      "name": "https://www.shigotomo.jp/zenkoku/MC7/EC1"
+      "id": "/zenkoku/MC7/EC1",
+      "name": "/zenkoku/MC7/EC1"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/16532",
+      "name": "/kyujin/16532"
     }
   ],
   "links": [
     {
       "source": "ピッキングきつい",
-      "target": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard",
+      "target": "/contents/articles/temporary-picking-hard",
       "value": 3,
       "tooltip": "ピッキングきつい > /contents/articles/temporary-picking-hard"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard",
-      "target": "https://www.shigotomo.jp/zenkoku/MC7",
+      "source": "/contents/articles/temporary-picking-hard",
+      "target": "/zenkoku/MC7",
       "value": 1,
       "tooltip": "ピッキングきつい > /contents/articles/temporary-picking-hard > /zenkoku/MC7"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard",
-      "target": "https://www.shigotomo.jp/zenkoku/MC7/EC1",
+      "source": "/contents/articles/temporary-picking-hard",
+      "target": "/zenkoku/MC7/EC1",
       "value": 1.33,
       "tooltip": "ピッキングきつい > /contents/articles/temporary-picking-hard > /zenkoku/MC7/EC1"
+    },
+    {
+      "source": "/zenkoku/MC7",
+      "target": "/kyujin/search-detail",
+      "value": 0.14,
+      "tooltip": "ピッキングきつい > /contents/articles/temporary-picking-hard > /zenkoku/MC7 > /kyujin/search-detail"
+    },
+    {
+      "source": "/zenkoku/MC7/EC1",
+      "target": "/kyujin/16532",
+      "value": 0.22,
+      "tooltip": "ピッキングきつい > /contents/articles/temporary-picking-hard > /zenkoku/MC7/EC1 > /kyujin/16532"
     }
   ]
 }

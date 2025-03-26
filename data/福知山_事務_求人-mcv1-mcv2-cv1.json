@@ -5,14 +5,14 @@
       "name": "福知山 事務 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/1329",
-      "name": "https://www.shigotomo.jp/kyujin/1329"
+      "id": "/kyujin/1329",
+      "name": "/kyujin/1329"
     }
   ],
   "links": [
     {
       "source": "福知山 事務 求人",
-      "target": "https://www.shigotomo.jp/kyujin/1329",
+      "target": "/kyujin/1329",
       "value": 5,
       "tooltip": "福知山 事務 求人 > /kyujin/1329"
     }

@@ -5,14 +5,14 @@
       "name": "上越 工場 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/5481",
-      "name": "https://www.shigotomo.jp/kyujin/5481"
+      "id": "/kyujin/5481",
+      "name": "/kyujin/5481"
     }
   ],
   "links": [
     {
       "source": "上越 工場 求人",
-      "target": "https://www.shigotomo.jp/kyujin/5481",
+      "target": "/kyujin/5481",
       "value": 2,
       "tooltip": "上越 工場 求人 > /kyujin/5481"
     }

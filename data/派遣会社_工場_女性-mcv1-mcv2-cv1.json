@@ -5,36 +5,74 @@
       "name": "派遣会社 工場 女性"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/factory-haken-woman",
-      "name": "https://www.shigotomo.jp/contents/articles/factory-haken-woman"
+      "id": "/contents/articles/factory-haken-woman",
+      "name": "/contents/articles/factory-haken-woman"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-woman-demerit",
-      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-woman-demerit"
+      "id": "/contents/articles/koujohaken-woman-demerit",
+      "name": "/contents/articles/koujohaken-woman-demerit"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
-      "name": "https://www.shigotomo.jp/zenkoku/EC1/FW工場"
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/17069",
+      "name": "/kyujin/17069"
     }
   ],
   "links": [
     {
       "source": "派遣会社 工場 女性",
-      "target": "https://www.shigotomo.jp/contents/articles/factory-haken-woman",
+      "target": "/contents/articles/factory-haken-woman",
       "value": 6,
       "tooltip": "派遣会社 工場 女性 > /contents/articles/factory-haken-woman"
     },
     {
       "source": "派遣会社 工場 女性",
-      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-woman-demerit",
+      "target": "/contents/articles/koujohaken-woman-demerit",
       "value": 1,
       "tooltip": "派遣会社 工場 女性 > /contents/articles/koujohaken-woman-demerit"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/factory-haken-woman",
-      "target": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "source": "/contents/articles/factory-haken-woman",
+      "target": "/zenkoku/EC1/FW工場",
       "value": 2,
       "tooltip": "派遣会社 工場 女性 > /contents/articles/factory-haken-woman > /zenkoku/EC1/FW工場"
+    },
+    {
+      "source": "/contents/articles/koujohaken-woman-demerit",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 0.22,
+      "tooltip": "派遣会社 工場 女性 > /contents/articles/koujohaken-woman-demerit > /zenkoku/EC1/FW工場"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/search-detail",
+      "value": 0.41,
+      "tooltip": "派遣会社 工場 女性 > /contents/articles/factory-haken-woman > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/search-detail",
+      "value": 0.05,
+      "tooltip": "派遣会社 工場 女性 > /contents/articles/koujohaken-woman-demerit > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/17069",
+      "value": 0.06,
+      "tooltip": "派遣会社 工場 女性 > /contents/articles/factory-haken-woman > /zenkoku/EC1/FW工場 > /kyujin/17069"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/17069",
+      "value": 0.01,
+      "tooltip": "派遣会社 工場 女性 > /contents/articles/koujohaken-woman-demerit > /zenkoku/EC1/FW工場 > /kyujin/17069"
     }
   ]
 }

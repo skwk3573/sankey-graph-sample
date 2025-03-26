@@ -5,24 +5,24 @@
       "name": "綾部市求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/879",
-      "name": "https://www.shigotomo.jp/kyujin/879"
+      "id": "/kyujin/879",
+      "name": "/kyujin/879"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16784",
-      "name": "https://www.shigotomo.jp/kyujin/16784"
+      "id": "/kyujin/16784",
+      "name": "/kyujin/16784"
     }
   ],
   "links": [
     {
       "source": "綾部市求人",
-      "target": "https://www.shigotomo.jp/kyujin/879",
+      "target": "/kyujin/879",
       "value": 5,
       "tooltip": "綾部市求人 > /kyujin/879"
     },
     {
       "source": "綾部市求人",
-      "target": "https://www.shigotomo.jp/kyujin/16784",
+      "target": "/kyujin/16784",
       "value": 5,
       "tooltip": "綾部市求人 > /kyujin/16784"
     }

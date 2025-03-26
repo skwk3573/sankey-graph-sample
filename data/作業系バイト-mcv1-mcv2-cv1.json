@@ -5,26 +5,72 @@
       "name": "作業系バイト"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/keisagyo",
-      "name": "https://www.shigotomo.jp/contents/articles/keisagyo"
+      "id": "/contents/articles/keisagyo",
+      "name": "/contents/articles/keisagyo"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
-      "name": "https://www.shigotomo.jp/zenkoku/MC1/EC1"
+      "id": "/zenkoku/MC1",
+      "name": "/zenkoku/MC1"
+    },
+    {
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/16312",
+      "name": "/kyujin/16312"
+    },
+    {
+      "id": "/apply/16312",
+      "name": "/apply/16312"
     }
   ],
   "links": [
     {
       "source": "作業系バイト",
-      "target": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "target": "/contents/articles/keisagyo",
       "value": 1,
       "tooltip": "作業系バイト > /contents/articles/keisagyo"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/keisagyo",
-      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "source": "/contents/articles/keisagyo",
+      "target": "/zenkoku/MC1",
+      "value": 0.26,
+      "tooltip": "作業系バイト > /contents/articles/keisagyo > /zenkoku/MC1"
+    },
+    {
+      "source": "/contents/articles/keisagyo",
+      "target": "/zenkoku/MC1/EC1",
       "value": 0.66,
       "tooltip": "作業系バイト > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
+    },
+    {
+      "source": "/zenkoku/MC1",
+      "target": "/kyujin/search-detail",
+      "value": 0.1,
+      "tooltip": "作業系バイト > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/search-detail"
+    },
+    {
+      "source": "/zenkoku/MC1",
+      "target": "/kyujin/16312",
+      "value": 0.02,
+      "tooltip": "作業系バイト > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/16312"
+    },
+    {
+      "source": "/zenkoku/MC1/EC1",
+      "target": "/kyujin/search-detail",
+      "value": 0.14,
+      "tooltip": "作業系バイト > /contents/articles/keisagyo > /zenkoku/MC1/EC1 > /kyujin/search-detail"
+    },
+    {
+      "source": "/kyujin/16312",
+      "target": "/apply/16312",
+      "value": 0.02,
+      "tooltip": "作業系バイト > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
     }
   ]
 }

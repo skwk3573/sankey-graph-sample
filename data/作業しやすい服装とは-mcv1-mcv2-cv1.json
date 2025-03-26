@@ -5,14 +5,14 @@
       "name": "作業しやすい服装とは"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-wear",
-      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-wear"
+      "id": "/contents/articles/keisagyo-wear",
+      "name": "/contents/articles/keisagyo-wear"
     }
   ],
   "links": [
     {
       "source": "作業しやすい服装とは",
-      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-wear",
+      "target": "/contents/articles/keisagyo-wear",
       "value": 2,
       "tooltip": "作業しやすい服装とは > /contents/articles/keisagyo-wear"
     }

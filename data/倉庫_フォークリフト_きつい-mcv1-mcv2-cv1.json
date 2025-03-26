@@ -5,36 +5,46 @@
       "name": "倉庫 フォークリフト きつい"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired",
-      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired"
+      "id": "/contents/articles/koujohaken-forklift-tired",
+      "name": "/contents/articles/koujohaken-forklift-tired"
     },
     {
-      "id": "https://www.shigotomo.jp/apply/535",
-      "name": "https://www.shigotomo.jp/apply/535"
+      "id": "/apply/535",
+      "name": "/apply/535"
     },
     {
-      "id": "https://www.shigotomo.jp/apply/confirm",
-      "name": "https://www.shigotomo.jp/apply/confirm"
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
     }
   ],
   "links": [
     {
       "source": "倉庫 フォークリフト きつい",
-      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired",
+      "target": "/contents/articles/koujohaken-forklift-tired",
       "value": 2,
       "tooltip": "倉庫 フォークリフト きつい > /contents/articles/koujohaken-forklift-tired"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired",
-      "target": "https://www.shigotomo.jp/apply/535",
+      "source": "/contents/articles/koujohaken-forklift-tired",
+      "target": "/apply/535",
       "value": 0.67,
       "tooltip": "倉庫 フォークリフト きつい > /contents/articles/koujohaken-forklift-tired > /apply/535"
     },
     {
-      "source": "https://www.shigotomo.jp/apply/535",
-      "target": "https://www.shigotomo.jp/apply/confirm",
+      "source": "/apply/535",
+      "target": "/apply/confirm",
       "value": 0.67,
       "tooltip": "倉庫 フォークリフト きつい > /contents/articles/koujohaken-forklift-tired > /apply/535 > /apply/confirm"
+    },
+    {
+      "source": "/apply/confirm",
+      "target": "/apply/complete",
+      "value": 0.49,
+      "tooltip": "倉庫 フォークリフト きつい > /contents/articles/koujohaken-forklift-tired > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]
 }

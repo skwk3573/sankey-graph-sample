@@ -5,26 +5,56 @@
       "name": "仕事 動きやすい服装"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/Factory-dispatch-apparel",
-      "name": "https://www.shigotomo.jp/contents/articles/Factory-dispatch-apparel"
+      "id": "/contents/articles/Factory-dispatch-apparel",
+      "name": "/contents/articles/Factory-dispatch-apparel"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
-      "name": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman"
+      "id": "/contents/articles/keisagyou-hukusouwoman",
+      "name": "/contents/articles/keisagyou-hukusouwoman"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/17069",
+      "name": "/kyujin/17069"
     }
   ],
   "links": [
     {
       "source": "仕事 動きやすい服装",
-      "target": "https://www.shigotomo.jp/contents/articles/Factory-dispatch-apparel",
+      "target": "/contents/articles/Factory-dispatch-apparel",
       "value": 1,
       "tooltip": "仕事 動きやすい服装 > /contents/articles/Factory-dispatch-apparel"
     },
     {
       "source": "仕事 動きやすい服装",
-      "target": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
+      "target": "/contents/articles/keisagyou-hukusouwoman",
       "value": 5,
       "tooltip": "仕事 動きやすい服装 > /contents/articles/keisagyou-hukusouwoman"
+    },
+    {
+      "source": "/contents/articles/Factory-dispatch-apparel",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 0.13,
+      "tooltip": "仕事 動きやすい服装 > /contents/articles/Factory-dispatch-apparel > /zenkoku/EC1/FW工場"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/search-detail",
+      "value": 0.03,
+      "tooltip": "仕事 動きやすい服装 > /contents/articles/Factory-dispatch-apparel > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/17069",
+      "value": 0,
+      "tooltip": "仕事 動きやすい服装 > /contents/articles/Factory-dispatch-apparel > /zenkoku/EC1/FW工場 > /kyujin/17069"
     }
   ]
 }

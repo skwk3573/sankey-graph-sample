@@ -5,14 +5,14 @@
       "name": "工場 辞める人 多い"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-wantto-resign",
-      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-wantto-resign"
+      "id": "/contents/articles/koujohaken-wantto-resign",
+      "name": "/contents/articles/koujohaken-wantto-resign"
     }
   ],
   "links": [
     {
       "source": "工場 辞める人 多い",
-      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-wantto-resign",
+      "target": "/contents/articles/koujohaken-wantto-resign",
       "value": 2,
       "tooltip": "工場 辞める人 多い > /contents/articles/koujohaken-wantto-resign"
     }

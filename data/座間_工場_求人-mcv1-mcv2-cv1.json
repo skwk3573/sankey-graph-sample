@@ -5,14 +5,14 @@
       "name": "座間 工場 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/11604",
-      "name": "https://www.shigotomo.jp/kyujin/11604"
+      "id": "/kyujin/11604",
+      "name": "/kyujin/11604"
     }
   ],
   "links": [
     {
       "source": "座間 工場 求人",
-      "target": "https://www.shigotomo.jp/kyujin/11604",
+      "target": "/kyujin/11604",
       "value": 1,
       "tooltip": "座間 工場 求人 > /kyujin/11604"
     }

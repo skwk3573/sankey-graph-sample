@@ -5,44 +5,44 @@
       "name": "フォークリフト 仕事 きつい"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired",
-      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired"
+      "id": "/contents/articles/koujohaken-forklift-tired",
+      "name": "/contents/articles/koujohaken-forklift-tired"
     },
     {
-      "id": "https://www.shigotomo.jp/apply/535",
-      "name": "https://www.shigotomo.jp/apply/535"
+      "id": "/apply/535",
+      "name": "/apply/535"
     },
     {
-      "id": "https://www.shigotomo.jp/apply/confirm",
-      "name": "https://www.shigotomo.jp/apply/confirm"
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
     },
     {
-      "id": "https://www.shigotomo.jp/apply/complete",
-      "name": "https://www.shigotomo.jp/apply/complete"
+      "id": "/apply/complete",
+      "name": "/apply/complete"
     }
   ],
   "links": [
     {
       "source": "フォークリフト 仕事 きつい",
-      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired",
+      "target": "/contents/articles/koujohaken-forklift-tired",
       "value": 8,
       "tooltip": "フォークリフト 仕事 きつい > /contents/articles/koujohaken-forklift-tired"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired",
-      "target": "https://www.shigotomo.jp/apply/535",
+      "source": "/contents/articles/koujohaken-forklift-tired",
+      "target": "/apply/535",
       "value": 2.67,
       "tooltip": "フォークリフト 仕事 きつい > /contents/articles/koujohaken-forklift-tired > /apply/535"
     },
     {
-      "source": "https://www.shigotomo.jp/apply/535",
-      "target": "https://www.shigotomo.jp/apply/confirm",
+      "source": "/apply/535",
+      "target": "/apply/confirm",
       "value": 2.67,
       "tooltip": "フォークリフト 仕事 きつい > /contents/articles/koujohaken-forklift-tired > /apply/535 > /apply/confirm"
     },
     {
-      "source": "https://www.shigotomo.jp/apply/confirm",
-      "target": "https://www.shigotomo.jp/apply/complete",
+      "source": "/apply/confirm",
+      "target": "/apply/complete",
       "value": 1.98,
       "tooltip": "フォークリフト 仕事 きつい > /contents/articles/koujohaken-forklift-tired > /apply/535 > /apply/confirm > /apply/complete"
     }

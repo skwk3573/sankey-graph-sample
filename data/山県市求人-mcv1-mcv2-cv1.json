@@ -5,14 +5,14 @@
       "name": "山県市求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/2542",
-      "name": "https://www.shigotomo.jp/kyujin/2542"
+      "id": "/kyujin/2542",
+      "name": "/kyujin/2542"
     }
   ],
   "links": [
     {
       "source": "山県市求人",
-      "target": "https://www.shigotomo.jp/kyujin/2542",
+      "target": "/kyujin/2542",
       "value": 1,
       "tooltip": "山県市求人 > /kyujin/2542"
     }

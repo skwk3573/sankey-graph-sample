@@ -5,16 +5,82 @@
       "name": "派遣 職場見学 服装 40代"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/interview-clothes",
-      "name": "https://www.shigotomo.jp/contents/articles/interview-clothes"
+      "id": "/contents/articles/interview-clothes",
+      "name": "/contents/articles/interview-clothes"
+    },
+    {
+      "id": "/zenkoku/MC1",
+      "name": "/zenkoku/MC1"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/16312",
+      "name": "/kyujin/16312"
+    },
+    {
+      "id": "/kyujin/17069",
+      "name": "/kyujin/17069"
+    },
+    {
+      "id": "/apply/16312",
+      "name": "/apply/16312"
     }
   ],
   "links": [
     {
       "source": "派遣 職場見学 服装 40代",
-      "target": "https://www.shigotomo.jp/contents/articles/interview-clothes",
+      "target": "/contents/articles/interview-clothes",
       "value": 1,
       "tooltip": "派遣 職場見学 服装 40代 > /contents/articles/interview-clothes"
+    },
+    {
+      "source": "/contents/articles/interview-clothes",
+      "target": "/zenkoku/MC1",
+      "value": 0.21,
+      "tooltip": "派遣 職場見学 服装 40代 > /contents/articles/interview-clothes > /zenkoku/MC1"
+    },
+    {
+      "source": "/contents/articles/interview-clothes",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 0.05,
+      "tooltip": "派遣 職場見学 服装 40代 > /contents/articles/interview-clothes > /zenkoku/EC1/FW工場"
+    },
+    {
+      "source": "/zenkoku/MC1",
+      "target": "/kyujin/search-detail",
+      "value": 0.08,
+      "tooltip": "派遣 職場見学 服装 40代 > /contents/articles/interview-clothes > /zenkoku/MC1 > /kyujin/search-detail"
+    },
+    {
+      "source": "/zenkoku/MC1",
+      "target": "/kyujin/16312",
+      "value": 0.02,
+      "tooltip": "派遣 職場見学 服装 40代 > /contents/articles/interview-clothes > /zenkoku/MC1 > /kyujin/16312"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/search-detail",
+      "value": 0.01,
+      "tooltip": "派遣 職場見学 服装 40代 > /contents/articles/interview-clothes > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/17069",
+      "value": 0,
+      "tooltip": "派遣 職場見学 服装 40代 > /contents/articles/interview-clothes > /zenkoku/EC1/FW工場 > /kyujin/17069"
+    },
+    {
+      "source": "/kyujin/16312",
+      "target": "/apply/16312",
+      "value": 0.02,
+      "tooltip": "派遣 職場見学 服装 40代 > /contents/articles/interview-clothes > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
     }
   ]
 }

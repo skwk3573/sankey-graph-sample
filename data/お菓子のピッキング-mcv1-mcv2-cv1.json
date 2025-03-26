@@ -5,14 +5,14 @@
       "name": "お菓子のピッキング"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/11206",
-      "name": "https://www.shigotomo.jp/kyujin/11206"
+      "id": "/kyujin/11206",
+      "name": "/kyujin/11206"
     }
   ],
   "links": [
     {
       "source": "お菓子のピッキング",
-      "target": "https://www.shigotomo.jp/kyujin/11206",
+      "target": "/kyujin/11206",
       "value": 4,
       "tooltip": "お菓子のピッキング > /kyujin/11206"
     }

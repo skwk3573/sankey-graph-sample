@@ -5,26 +5,46 @@
       "name": "派遣社員 志望動機 例文"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/temporary-reasons-applying",
-      "name": "https://www.shigotomo.jp/contents/articles/temporary-reasons-applying"
+      "id": "/contents/articles/temporary-reasons-applying",
+      "name": "/contents/articles/temporary-reasons-applying"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
-      "name": "https://www.shigotomo.jp/zenkoku/EC1/FW工場"
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/17069",
+      "name": "/kyujin/17069"
     }
   ],
   "links": [
     {
       "source": "派遣社員 志望動機 例文",
-      "target": "https://www.shigotomo.jp/contents/articles/temporary-reasons-applying",
+      "target": "/contents/articles/temporary-reasons-applying",
       "value": 8,
       "tooltip": "派遣社員 志望動機 例文 > /contents/articles/temporary-reasons-applying"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/temporary-reasons-applying",
-      "target": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "source": "/contents/articles/temporary-reasons-applying",
+      "target": "/zenkoku/EC1/FW工場",
       "value": 0.73,
       "tooltip": "派遣社員 志望動機 例文 > /contents/articles/temporary-reasons-applying > /zenkoku/EC1/FW工場"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/search-detail",
+      "value": 0.15,
+      "tooltip": "派遣社員 志望動機 例文 > /contents/articles/temporary-reasons-applying > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/17069",
+      "value": 0.02,
+      "tooltip": "派遣社員 志望動機 例文 > /contents/articles/temporary-reasons-applying > /zenkoku/EC1/FW工場 > /kyujin/17069"
     }
   ]
 }

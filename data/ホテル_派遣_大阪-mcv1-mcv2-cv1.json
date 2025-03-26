@@ -5,14 +5,14 @@
       "name": "ホテル 派遣 大阪"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/15748",
-      "name": "https://www.shigotomo.jp/kyujin/15748"
+      "id": "/kyujin/15748",
+      "name": "/kyujin/15748"
     }
   ],
   "links": [
     {
       "source": "ホテル 派遣 大阪",
-      "target": "https://www.shigotomo.jp/kyujin/15748",
+      "target": "/kyujin/15748",
       "value": 1,
       "tooltip": "ホテル 派遣 大阪 > /kyujin/15748"
     }

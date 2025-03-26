@@ -5,24 +5,24 @@
       "name": "食品工場求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16577",
-      "name": "https://www.shigotomo.jp/kyujin/16577"
+      "id": "/kyujin/16577",
+      "name": "/kyujin/16577"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16809",
-      "name": "https://www.shigotomo.jp/kyujin/16809"
+      "id": "/kyujin/16809",
+      "name": "/kyujin/16809"
     }
   ],
   "links": [
     {
       "source": "食品工場求人",
-      "target": "https://www.shigotomo.jp/kyujin/16577",
+      "target": "/kyujin/16577",
       "value": 1,
       "tooltip": "食品工場求人 > /kyujin/16577"
     },
     {
       "source": "食品工場求人",
-      "target": "https://www.shigotomo.jp/kyujin/16809",
+      "target": "/kyujin/16809",
       "value": 1,
       "tooltip": "食品工場求人 > /kyujin/16809"
     }

@@ -5,14 +5,14 @@
       "name": "派遣工 年収"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-annual-income",
-      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-annual-income"
+      "id": "/contents/articles/koujohaken-annual-income",
+      "name": "/contents/articles/koujohaken-annual-income"
     }
   ],
   "links": [
     {
       "source": "派遣工 年収",
-      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-annual-income",
+      "target": "/contents/articles/koujohaken-annual-income",
       "value": 1,
       "tooltip": "派遣工 年収 > /contents/articles/koujohaken-annual-income"
     }

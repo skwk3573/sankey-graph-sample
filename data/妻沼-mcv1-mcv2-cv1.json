@@ -5,14 +5,14 @@
       "name": "妻沼"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/1438",
-      "name": "https://www.shigotomo.jp/kyujin/1438"
+      "id": "/kyujin/1438",
+      "name": "/kyujin/1438"
     }
   ],
   "links": [
     {
       "source": "妻沼",
-      "target": "https://www.shigotomo.jp/kyujin/1438",
+      "target": "/kyujin/1438",
       "value": 1,
       "tooltip": "妻沼 > /kyujin/1438"
     }

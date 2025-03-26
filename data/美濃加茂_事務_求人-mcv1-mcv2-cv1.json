@@ -5,14 +5,14 @@
       "name": "美濃加茂 事務 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16821",
-      "name": "https://www.shigotomo.jp/kyujin/16821"
+      "id": "/kyujin/16821",
+      "name": "/kyujin/16821"
     }
   ],
   "links": [
     {
       "source": "美濃加茂 事務 求人",
-      "target": "https://www.shigotomo.jp/kyujin/16821",
+      "target": "/kyujin/16821",
       "value": 1,
       "tooltip": "美濃加茂 事務 求人 > /kyujin/16821"
     }

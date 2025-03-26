@@ -5,14 +5,14 @@
       "name": "動きやすい服装 仕事 女"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
-      "name": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman"
+      "id": "/contents/articles/keisagyou-hukusouwoman",
+      "name": "/contents/articles/keisagyou-hukusouwoman"
     }
   ],
   "links": [
     {
       "source": "動きやすい服装 仕事 女",
-      "target": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
+      "target": "/contents/articles/keisagyou-hukusouwoman",
       "value": 28,
       "tooltip": "動きやすい服装 仕事 女 > /contents/articles/keisagyou-hukusouwoman"
     }

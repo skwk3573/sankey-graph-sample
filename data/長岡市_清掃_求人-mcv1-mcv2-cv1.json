@@ -5,14 +5,14 @@
       "name": "長岡市 清掃 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16308",
-      "name": "https://www.shigotomo.jp/kyujin/16308"
+      "id": "/kyujin/16308",
+      "name": "/kyujin/16308"
     }
   ],
   "links": [
     {
       "source": "長岡市 清掃 求人",
-      "target": "https://www.shigotomo.jp/kyujin/16308",
+      "target": "/kyujin/16308",
       "value": 1,
       "tooltip": "長岡市 清掃 求人 > /kyujin/16308"
     }

@@ -5,34 +5,34 @@
       "name": "姫路 フォークリフト 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/DC28201/MC11",
-      "name": "https://www.shigotomo.jp/zenkoku/DC28201/MC11"
+      "id": "/zenkoku/DC28201/MC11",
+      "name": "/zenkoku/DC28201/MC11"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16787",
-      "name": "https://www.shigotomo.jp/kyujin/16787"
+      "id": "/kyujin/16787",
+      "name": "/kyujin/16787"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/11367",
-      "name": "https://www.shigotomo.jp/kyujin/11367"
+      "id": "/kyujin/11367",
+      "name": "/kyujin/11367"
     }
   ],
   "links": [
     {
       "source": "姫路 フォークリフト 求人",
-      "target": "https://www.shigotomo.jp/zenkoku/DC28201/MC11",
+      "target": "/zenkoku/DC28201/MC11",
       "value": 1,
       "tooltip": "姫路 フォークリフト 求人 > /zenkoku/DC28201/MC11"
     },
     {
-      "source": "https://www.shigotomo.jp/zenkoku/DC28201/MC11",
-      "target": "https://www.shigotomo.jp/kyujin/16787",
+      "source": "/zenkoku/DC28201/MC11",
+      "target": "/kyujin/16787",
       "value": 0.5,
       "tooltip": "姫路 フォークリフト 求人 > /zenkoku/DC28201/MC11 > /kyujin/16787"
     },
     {
-      "source": "https://www.shigotomo.jp/zenkoku/DC28201/MC11",
-      "target": "https://www.shigotomo.jp/kyujin/11367",
+      "source": "/zenkoku/DC28201/MC11",
+      "target": "/kyujin/11367",
       "value": 0.5,
       "tooltip": "姫路 フォークリフト 求人 > /zenkoku/DC28201/MC11 > /kyujin/11367"
     }

@@ -5,14 +5,14 @@
       "name": "上越市 派遣"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/1919",
-      "name": "https://www.shigotomo.jp/kyujin/1919"
+      "id": "/kyujin/1919",
+      "name": "/kyujin/1919"
     }
   ],
   "links": [
     {
       "source": "上越市 派遣",
-      "target": "https://www.shigotomo.jp/kyujin/1919",
+      "target": "/kyujin/1919",
       "value": 2,
       "tooltip": "上越市 派遣 > /kyujin/1919"
     }

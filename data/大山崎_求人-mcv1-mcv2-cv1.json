@@ -5,14 +5,14 @@
       "name": "大山崎 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/DC26303",
-      "name": "https://www.shigotomo.jp/zenkoku/DC26303"
+      "id": "/zenkoku/DC26303",
+      "name": "/zenkoku/DC26303"
     }
   ],
   "links": [
     {
       "source": "大山崎 求人",
-      "target": "https://www.shigotomo.jp/zenkoku/DC26303",
+      "target": "/zenkoku/DC26303",
       "value": 1,
       "tooltip": "大山崎 求人 > /zenkoku/DC26303"
     }

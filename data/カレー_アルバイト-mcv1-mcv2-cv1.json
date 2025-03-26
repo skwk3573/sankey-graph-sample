@@ -5,14 +5,14 @@
       "name": "カレー アルバイト"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/7977",
-      "name": "https://www.shigotomo.jp/kyujin/7977"
+      "id": "/kyujin/7977",
+      "name": "/kyujin/7977"
     }
   ],
   "links": [
     {
       "source": "カレー アルバイト",
-      "target": "https://www.shigotomo.jp/kyujin/7977",
+      "target": "/kyujin/7977",
       "value": 1,
       "tooltip": "カレー アルバイト > /kyujin/7977"
     }

@@ -5,14 +5,14 @@
       "name": "測定 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16525",
-      "name": "https://www.shigotomo.jp/kyujin/16525"
+      "id": "/kyujin/16525",
+      "name": "/kyujin/16525"
     }
   ],
   "links": [
     {
       "source": "測定 求人",
-      "target": "https://www.shigotomo.jp/kyujin/16525",
+      "target": "/kyujin/16525",
       "value": 1,
       "tooltip": "測定 求人 > /kyujin/16525"
     }

@@ -5,14 +5,14 @@
       "name": "大阪 雑貨屋 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16693",
-      "name": "https://www.shigotomo.jp/kyujin/16693"
+      "id": "/kyujin/16693",
+      "name": "/kyujin/16693"
     }
   ],
   "links": [
     {
       "source": "大阪 雑貨屋 求人",
-      "target": "https://www.shigotomo.jp/kyujin/16693",
+      "target": "/kyujin/16693",
       "value": 2,
       "tooltip": "大阪 雑貨屋 求人 > /kyujin/16693"
     }

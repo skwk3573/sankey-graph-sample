@@ -5,14 +5,14 @@
       "name": "プラスチック はめ込み"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/14573",
-      "name": "https://www.shigotomo.jp/kyujin/14573"
+      "id": "/kyujin/14573",
+      "name": "/kyujin/14573"
     }
   ],
   "links": [
     {
       "source": "プラスチック はめ込み",
-      "target": "https://www.shigotomo.jp/kyujin/14573",
+      "target": "/kyujin/14573",
       "value": 1,
       "tooltip": "プラスチック はめ込み > /kyujin/14573"
     }

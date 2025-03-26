@@ -5,14 +5,14 @@
       "name": "派遣 工場見学 質問"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/factorytour",
-      "name": "https://www.shigotomo.jp/contents/articles/factorytour"
+      "id": "/contents/articles/factorytour",
+      "name": "/contents/articles/factorytour"
     }
   ],
   "links": [
     {
       "source": "派遣 工場見学 質問",
-      "target": "https://www.shigotomo.jp/contents/articles/factorytour",
+      "target": "/contents/articles/factorytour",
       "value": 13,
       "tooltip": "派遣 工場見学 質問 > /contents/articles/factorytour"
     }

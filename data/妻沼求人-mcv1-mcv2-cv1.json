@@ -5,24 +5,24 @@
       "name": "妻沼求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/1443",
-      "name": "https://www.shigotomo.jp/kyujin/1443"
+      "id": "/kyujin/1443",
+      "name": "/kyujin/1443"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/1438",
-      "name": "https://www.shigotomo.jp/kyujin/1438"
+      "id": "/kyujin/1438",
+      "name": "/kyujin/1438"
     }
   ],
   "links": [
     {
       "source": "妻沼求人",
-      "target": "https://www.shigotomo.jp/kyujin/1443",
+      "target": "/kyujin/1443",
       "value": 1,
       "tooltip": "妻沼求人 > /kyujin/1443"
     },
     {
       "source": "妻沼求人",
-      "target": "https://www.shigotomo.jp/kyujin/1438",
+      "target": "/kyujin/1438",
       "value": 1,
       "tooltip": "妻沼求人 > /kyujin/1438"
     }

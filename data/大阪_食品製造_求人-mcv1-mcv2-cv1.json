@@ -5,14 +5,14 @@
       "name": "大阪 食品製造 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16699",
-      "name": "https://www.shigotomo.jp/kyujin/16699"
+      "id": "/kyujin/16699",
+      "name": "/kyujin/16699"
     }
   ],
   "links": [
     {
       "source": "大阪 食品製造 求人",
-      "target": "https://www.shigotomo.jp/kyujin/16699",
+      "target": "/kyujin/16699",
       "value": 1,
       "tooltip": "大阪 食品製造 求人 > /kyujin/16699"
     }

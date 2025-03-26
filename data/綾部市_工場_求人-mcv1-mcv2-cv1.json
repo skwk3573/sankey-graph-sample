@@ -5,14 +5,14 @@
       "name": "綾部市 工場 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/879",
-      "name": "https://www.shigotomo.jp/kyujin/879"
+      "id": "/kyujin/879",
+      "name": "/kyujin/879"
     }
   ],
   "links": [
     {
       "source": "綾部市 工場 求人",
-      "target": "https://www.shigotomo.jp/kyujin/879",
+      "target": "/kyujin/879",
       "value": 1,
       "tooltip": "綾部市 工場 求人 > /kyujin/879"
     }

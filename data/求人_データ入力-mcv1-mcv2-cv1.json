@@ -5,14 +5,14 @@
       "name": "求人 データ入力"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/13444",
-      "name": "https://www.shigotomo.jp/kyujin/13444"
+      "id": "/kyujin/13444",
+      "name": "/kyujin/13444"
     }
   ],
   "links": [
     {
       "source": "求人 データ入力",
-      "target": "https://www.shigotomo.jp/kyujin/13444",
+      "target": "/kyujin/13444",
       "value": 1,
       "tooltip": "求人 データ入力 > /kyujin/13444"
     }

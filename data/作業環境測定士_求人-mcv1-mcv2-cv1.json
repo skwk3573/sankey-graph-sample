@@ -5,14 +5,14 @@
       "name": "作業環境測定士 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16738",
-      "name": "https://www.shigotomo.jp/kyujin/16738"
+      "id": "/kyujin/16738",
+      "name": "/kyujin/16738"
     }
   ],
   "links": [
     {
       "source": "作業環境測定士 求人",
-      "target": "https://www.shigotomo.jp/kyujin/16738",
+      "target": "/kyujin/16738",
       "value": 2,
       "tooltip": "作業環境測定士 求人 > /kyujin/16738"
     }

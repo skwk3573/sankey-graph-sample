@@ -5,14 +5,14 @@
       "name": "リーチリフト 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/15605",
-      "name": "https://www.shigotomo.jp/kyujin/15605"
+      "id": "/kyujin/15605",
+      "name": "/kyujin/15605"
     }
   ],
   "links": [
     {
       "source": "リーチリフト 求人",
-      "target": "https://www.shigotomo.jp/kyujin/15605",
+      "target": "/kyujin/15605",
       "value": 1,
       "tooltip": "リーチリフト 求人 > /kyujin/15605"
     }

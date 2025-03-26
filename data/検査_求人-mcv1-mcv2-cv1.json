@@ -5,14 +5,14 @@
       "name": "検査 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/5861",
-      "name": "https://www.shigotomo.jp/kyujin/5861"
+      "id": "/kyujin/5861",
+      "name": "/kyujin/5861"
     }
   ],
   "links": [
     {
       "source": "検査 求人",
-      "target": "https://www.shigotomo.jp/kyujin/5861",
+      "target": "/kyujin/5861",
       "value": 1,
       "tooltip": "検査 求人 > /kyujin/5861"
     }

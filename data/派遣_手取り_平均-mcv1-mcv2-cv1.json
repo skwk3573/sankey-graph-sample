@@ -5,14 +5,14 @@
       "name": "派遣 手取り 平均"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-annual-income",
-      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-annual-income"
+      "id": "/contents/articles/koujohaken-annual-income",
+      "name": "/contents/articles/koujohaken-annual-income"
     }
   ],
   "links": [
     {
       "source": "派遣 手取り 平均",
-      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-annual-income",
+      "target": "/contents/articles/koujohaken-annual-income",
       "value": 1,
       "tooltip": "派遣 手取り 平均 > /contents/articles/koujohaken-annual-income"
     }

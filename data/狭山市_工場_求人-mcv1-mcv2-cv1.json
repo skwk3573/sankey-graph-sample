@@ -5,14 +5,14 @@
       "name": "狭山市 工場 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/11110",
-      "name": "https://www.shigotomo.jp/kyujin/11110"
+      "id": "/kyujin/11110",
+      "name": "/kyujin/11110"
     }
   ],
   "links": [
     {
       "source": "狭山市 工場 求人",
-      "target": "https://www.shigotomo.jp/kyujin/11110",
+      "target": "/kyujin/11110",
       "value": 1,
       "tooltip": "狭山市 工場 求人 > /kyujin/11110"
     }

@@ -5,14 +5,14 @@
       "name": "丹波市求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/2459",
-      "name": "https://www.shigotomo.jp/kyujin/2459"
+      "id": "/kyujin/2459",
+      "name": "/kyujin/2459"
     }
   ],
   "links": [
     {
       "source": "丹波市求人",
-      "target": "https://www.shigotomo.jp/kyujin/2459",
+      "target": "/kyujin/2459",
       "value": 1,
       "tooltip": "丹波市求人 > /kyujin/2459"
     }

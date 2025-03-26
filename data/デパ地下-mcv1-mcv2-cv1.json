@@ -5,24 +5,24 @@
       "name": "デパ地下"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/13282",
-      "name": "https://www.shigotomo.jp/kyujin/13282"
+      "id": "/kyujin/13282",
+      "name": "/kyujin/13282"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/8863",
-      "name": "https://www.shigotomo.jp/kyujin/8863"
+      "id": "/kyujin/8863",
+      "name": "/kyujin/8863"
     }
   ],
   "links": [
     {
       "source": "デパ地下",
-      "target": "https://www.shigotomo.jp/kyujin/13282",
+      "target": "/kyujin/13282",
       "value": 1,
       "tooltip": "デパ地下 > /kyujin/13282"
     },
     {
       "source": "デパ地下",
-      "target": "https://www.shigotomo.jp/kyujin/8863",
+      "target": "/kyujin/8863",
       "value": 1,
       "tooltip": "デパ地下 > /kyujin/8863"
     }

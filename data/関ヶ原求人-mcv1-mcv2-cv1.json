@@ -5,14 +5,14 @@
       "name": "関ヶ原求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/8336",
-      "name": "https://www.shigotomo.jp/kyujin/8336"
+      "id": "/kyujin/8336",
+      "name": "/kyujin/8336"
     }
   ],
   "links": [
     {
       "source": "関ヶ原求人",
-      "target": "https://www.shigotomo.jp/kyujin/8336",
+      "target": "/kyujin/8336",
       "value": 1,
       "tooltip": "関ヶ原求人 > /kyujin/8336"
     }

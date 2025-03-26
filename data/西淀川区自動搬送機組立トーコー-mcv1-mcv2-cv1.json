@@ -5,24 +5,24 @@
       "name": "西淀川区自動搬送機組立トーコー"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16705",
-      "name": "https://www.shigotomo.jp/kyujin/16705"
+      "id": "/kyujin/16705",
+      "name": "/kyujin/16705"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16735",
-      "name": "https://www.shigotomo.jp/kyujin/16735"
+      "id": "/kyujin/16735",
+      "name": "/kyujin/16735"
     }
   ],
   "links": [
     {
       "source": "西淀川区自動搬送機組立トーコー",
-      "target": "https://www.shigotomo.jp/kyujin/16705",
+      "target": "/kyujin/16705",
       "value": 13,
       "tooltip": "西淀川区自動搬送機組立トーコー > /kyujin/16705"
     },
     {
       "source": "西淀川区自動搬送機組立トーコー",
-      "target": "https://www.shigotomo.jp/kyujin/16735",
+      "target": "/kyujin/16735",
       "value": 4,
       "tooltip": "西淀川区自動搬送機組立トーコー > /kyujin/16735"
     }

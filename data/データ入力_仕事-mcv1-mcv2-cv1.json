@@ -5,14 +5,14 @@
       "name": "データ入力 仕事"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/647",
-      "name": "https://www.shigotomo.jp/kyujin/647"
+      "id": "/kyujin/647",
+      "name": "/kyujin/647"
     }
   ],
   "links": [
     {
       "source": "データ入力 仕事",
-      "target": "https://www.shigotomo.jp/kyujin/647",
+      "target": "/kyujin/647",
       "value": 1,
       "tooltip": "データ入力 仕事 > /kyujin/647"
     }

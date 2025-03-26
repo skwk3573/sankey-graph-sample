@@ -5,14 +5,14 @@
       "name": "ピッキング 募集"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/15605",
-      "name": "https://www.shigotomo.jp/kyujin/15605"
+      "id": "/kyujin/15605",
+      "name": "/kyujin/15605"
     }
   ],
   "links": [
     {
       "source": "ピッキング 募集",
-      "target": "https://www.shigotomo.jp/kyujin/15605",
+      "target": "/kyujin/15605",
       "value": 1,
       "tooltip": "ピッキング 募集 > /kyujin/15605"
     }

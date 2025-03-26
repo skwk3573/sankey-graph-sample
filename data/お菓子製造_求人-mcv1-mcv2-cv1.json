@@ -5,14 +5,14 @@
       "name": "お菓子製造 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/5194",
-      "name": "https://www.shigotomo.jp/kyujin/5194"
+      "id": "/kyujin/5194",
+      "name": "/kyujin/5194"
     }
   ],
   "links": [
     {
       "source": "お菓子製造 求人",
-      "target": "https://www.shigotomo.jp/kyujin/5194",
+      "target": "/kyujin/5194",
       "value": 1,
       "tooltip": "お菓子製造 求人 > /kyujin/5194"
     }

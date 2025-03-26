@@ -5,14 +5,14 @@
       "name": "半導体 バイト"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/15056",
-      "name": "https://www.shigotomo.jp/kyujin/15056"
+      "id": "/kyujin/15056",
+      "name": "/kyujin/15056"
     }
   ],
   "links": [
     {
       "source": "半導体 バイト",
-      "target": "https://www.shigotomo.jp/kyujin/15056",
+      "target": "/kyujin/15056",
       "value": 1,
       "tooltip": "半導体 バイト > /kyujin/15056"
     }

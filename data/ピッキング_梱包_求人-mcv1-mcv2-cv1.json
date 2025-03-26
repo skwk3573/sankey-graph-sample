@@ -5,14 +5,14 @@
       "name": "ピッキング 梱包 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/15036",
-      "name": "https://www.shigotomo.jp/kyujin/15036"
+      "id": "/kyujin/15036",
+      "name": "/kyujin/15036"
     }
   ],
   "links": [
     {
       "source": "ピッキング 梱包 求人",
-      "target": "https://www.shigotomo.jp/kyujin/15036",
+      "target": "/kyujin/15036",
       "value": 1,
       "tooltip": "ピッキング 梱包 求人 > /kyujin/15036"
     }

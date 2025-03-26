@@ -5,14 +5,14 @@
       "name": "時給2000円"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/13517",
-      "name": "https://www.shigotomo.jp/kyujin/13517"
+      "id": "/kyujin/13517",
+      "name": "/kyujin/13517"
     }
   ],
   "links": [
     {
       "source": "時給2000円",
-      "target": "https://www.shigotomo.jp/kyujin/13517",
+      "target": "/kyujin/13517",
       "value": 4,
       "tooltip": "時給2000円 > /kyujin/13517"
     }

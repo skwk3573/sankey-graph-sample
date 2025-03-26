@@ -5,26 +5,56 @@
       "name": "派遣工場"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/factorytour",
-      "name": "https://www.shigotomo.jp/contents/articles/factorytour"
+      "id": "/contents/articles/factorytour",
+      "name": "/contents/articles/factorytour"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/factory-haken-hard",
-      "name": "https://www.shigotomo.jp/contents/articles/factory-haken-hard"
+      "id": "/contents/articles/factory-haken-hard",
+      "name": "/contents/articles/factory-haken-hard"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/17069",
+      "name": "/kyujin/17069"
     }
   ],
   "links": [
     {
       "source": "派遣工場",
-      "target": "https://www.shigotomo.jp/contents/articles/factorytour",
+      "target": "/contents/articles/factorytour",
       "value": 1,
       "tooltip": "派遣工場 > /contents/articles/factorytour"
     },
     {
       "source": "派遣工場",
-      "target": "https://www.shigotomo.jp/contents/articles/factory-haken-hard",
+      "target": "/contents/articles/factory-haken-hard",
       "value": 5,
       "tooltip": "派遣工場 > /contents/articles/factory-haken-hard"
+    },
+    {
+      "source": "/contents/articles/factory-haken-hard",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 0.22,
+      "tooltip": "派遣工場 > /contents/articles/factory-haken-hard > /zenkoku/EC1/FW工場"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/search-detail",
+      "value": 0.04,
+      "tooltip": "派遣工場 > /contents/articles/factory-haken-hard > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/17069",
+      "value": 0.01,
+      "tooltip": "派遣工場 > /contents/articles/factory-haken-hard > /zenkoku/EC1/FW工場 > /kyujin/17069"
     }
   ]
 }

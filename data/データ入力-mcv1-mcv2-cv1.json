@@ -5,14 +5,14 @@
       "name": "データ入力"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/645",
-      "name": "https://www.shigotomo.jp/kyujin/645"
+      "id": "/kyujin/645",
+      "name": "/kyujin/645"
     }
   ],
   "links": [
     {
       "source": "データ入力",
-      "target": "https://www.shigotomo.jp/kyujin/645",
+      "target": "/kyujin/645",
       "value": 1,
       "tooltip": "データ入力 > /kyujin/645"
     }

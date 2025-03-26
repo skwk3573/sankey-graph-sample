@@ -5,14 +5,14 @@
       "name": "和菓子屋 求人 大阪"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16711",
-      "name": "https://www.shigotomo.jp/kyujin/16711"
+      "id": "/kyujin/16711",
+      "name": "/kyujin/16711"
     }
   ],
   "links": [
     {
       "source": "和菓子屋 求人 大阪",
-      "target": "https://www.shigotomo.jp/kyujin/16711",
+      "target": "/kyujin/16711",
       "value": 1,
       "tooltip": "和菓子屋 求人 大阪 > /kyujin/16711"
     }

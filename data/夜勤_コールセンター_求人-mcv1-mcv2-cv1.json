@@ -5,14 +5,14 @@
       "name": "夜勤 コールセンター 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/13826",
-      "name": "https://www.shigotomo.jp/kyujin/13826"
+      "id": "/kyujin/13826",
+      "name": "/kyujin/13826"
     }
   ],
   "links": [
     {
       "source": "夜勤 コールセンター 求人",
-      "target": "https://www.shigotomo.jp/kyujin/13826",
+      "target": "/kyujin/13826",
       "value": 1,
       "tooltip": "夜勤 コールセンター 求人 > /kyujin/13826"
     }

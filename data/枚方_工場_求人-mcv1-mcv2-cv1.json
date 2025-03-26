@@ -5,14 +5,14 @@
       "name": "枚方 工場 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/15623",
-      "name": "https://www.shigotomo.jp/kyujin/15623"
+      "id": "/kyujin/15623",
+      "name": "/kyujin/15623"
     }
   ],
   "links": [
     {
       "source": "枚方 工場 求人",
-      "target": "https://www.shigotomo.jp/kyujin/15623",
+      "target": "/kyujin/15623",
       "value": 2,
       "tooltip": "枚方 工場 求人 > /kyujin/15623"
     }

@@ -5,14 +5,14 @@
       "name": "福知山 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/2618",
-      "name": "https://www.shigotomo.jp/kyujin/2618"
+      "id": "/kyujin/2618",
+      "name": "/kyujin/2618"
     }
   ],
   "links": [
     {
       "source": "福知山 求人",
-      "target": "https://www.shigotomo.jp/kyujin/2618",
+      "target": "/kyujin/2618",
       "value": 1,
       "tooltip": "福知山 求人 > /kyujin/2618"
     }

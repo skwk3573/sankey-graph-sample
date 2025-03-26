@@ -5,14 +5,14 @@
       "name": "志望動機 検査"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/kenpin-shibodoki",
-      "name": "https://www.shigotomo.jp/contents/articles/kenpin-shibodoki"
+      "id": "/contents/articles/kenpin-shibodoki",
+      "name": "/contents/articles/kenpin-shibodoki"
     }
   ],
   "links": [
     {
       "source": "志望動機 検査",
-      "target": "https://www.shigotomo.jp/contents/articles/kenpin-shibodoki",
+      "target": "/contents/articles/kenpin-shibodoki",
       "value": 4,
       "tooltip": "志望動機 検査 > /contents/articles/kenpin-shibodoki"
     }

@@ -5,14 +5,14 @@
       "name": "群馬県求人"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/PC10",
-      "name": "https://www.shigotomo.jp/zenkoku/PC10"
+      "id": "/zenkoku/PC10",
+      "name": "/zenkoku/PC10"
     }
   ],
   "links": [
     {
       "source": "群馬県求人",
-      "target": "https://www.shigotomo.jp/zenkoku/PC10",
+      "target": "/zenkoku/PC10",
       "value": 1,
       "tooltip": "群馬県求人 > /zenkoku/PC10"
     }

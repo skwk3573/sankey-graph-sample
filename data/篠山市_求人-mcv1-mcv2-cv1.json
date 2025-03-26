@@ -5,14 +5,14 @@
       "name": "篠山市 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/15146",
-      "name": "https://www.shigotomo.jp/kyujin/15146"
+      "id": "/kyujin/15146",
+      "name": "/kyujin/15146"
     }
   ],
   "links": [
     {
       "source": "篠山市 求人",
-      "target": "https://www.shigotomo.jp/kyujin/15146",
+      "target": "/kyujin/15146",
       "value": 1,
       "tooltip": "篠山市 求人 > /kyujin/15146"
     }

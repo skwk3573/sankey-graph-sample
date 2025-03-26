@@ -5,14 +5,14 @@
       "name": "派遣会社 短期"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/12746",
-      "name": "https://www.shigotomo.jp/kyujin/12746"
+      "id": "/kyujin/12746",
+      "name": "/kyujin/12746"
     }
   ],
   "links": [
     {
       "source": "派遣会社 短期",
-      "target": "https://www.shigotomo.jp/kyujin/12746",
+      "target": "/kyujin/12746",
       "value": 1,
       "tooltip": "派遣会社 短期 > /kyujin/12746"
     }

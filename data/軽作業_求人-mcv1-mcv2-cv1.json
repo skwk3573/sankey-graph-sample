@@ -5,34 +5,34 @@
       "name": "軽作業 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16699",
-      "name": "https://www.shigotomo.jp/kyujin/16699"
+      "id": "/kyujin/16699",
+      "name": "/kyujin/16699"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/12426",
-      "name": "https://www.shigotomo.jp/kyujin/12426"
+      "id": "/kyujin/12426",
+      "name": "/kyujin/12426"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/7168",
-      "name": "https://www.shigotomo.jp/kyujin/7168"
+      "id": "/kyujin/7168",
+      "name": "/kyujin/7168"
     }
   ],
   "links": [
     {
       "source": "軽作業 求人",
-      "target": "https://www.shigotomo.jp/kyujin/16699",
+      "target": "/kyujin/16699",
       "value": 3,
       "tooltip": "軽作業 求人 > /kyujin/16699"
     },
     {
       "source": "軽作業 求人",
-      "target": "https://www.shigotomo.jp/kyujin/12426",
+      "target": "/kyujin/12426",
       "value": 1,
       "tooltip": "軽作業 求人 > /kyujin/12426"
     },
     {
       "source": "軽作業 求人",
-      "target": "https://www.shigotomo.jp/kyujin/7168",
+      "target": "/kyujin/7168",
       "value": 1,
       "tooltip": "軽作業 求人 > /kyujin/7168"
     }

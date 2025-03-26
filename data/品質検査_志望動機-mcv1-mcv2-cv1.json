@@ -5,14 +5,14 @@
       "name": "品質検査 志望動機"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/kenpin-shibodoki",
-      "name": "https://www.shigotomo.jp/contents/articles/kenpin-shibodoki"
+      "id": "/contents/articles/kenpin-shibodoki",
+      "name": "/contents/articles/kenpin-shibodoki"
     }
   ],
   "links": [
     {
       "source": "品質検査 志望動機",
-      "target": "https://www.shigotomo.jp/contents/articles/kenpin-shibodoki",
+      "target": "/contents/articles/kenpin-shibodoki",
       "value": 1,
       "tooltip": "品質検査 志望動機 > /contents/articles/kenpin-shibodoki"
     }

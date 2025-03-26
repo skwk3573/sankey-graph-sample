@@ -5,24 +5,24 @@
       "name": "コールセンター 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/13826",
-      "name": "https://www.shigotomo.jp/kyujin/13826"
+      "id": "/kyujin/13826",
+      "name": "/kyujin/13826"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/7361",
-      "name": "https://www.shigotomo.jp/kyujin/7361"
+      "id": "/kyujin/7361",
+      "name": "/kyujin/7361"
     }
   ],
   "links": [
     {
       "source": "コールセンター 求人",
-      "target": "https://www.shigotomo.jp/kyujin/13826",
+      "target": "/kyujin/13826",
       "value": 4,
       "tooltip": "コールセンター 求人 > /kyujin/13826"
     },
     {
       "source": "コールセンター 求人",
-      "target": "https://www.shigotomo.jp/kyujin/7361",
+      "target": "/kyujin/7361",
       "value": 3,
       "tooltip": "コールセンター 求人 > /kyujin/7361"
     }

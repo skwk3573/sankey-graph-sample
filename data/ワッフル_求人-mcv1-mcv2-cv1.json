@@ -5,14 +5,14 @@
       "name": "ワッフル 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16683",
-      "name": "https://www.shigotomo.jp/kyujin/16683"
+      "id": "/kyujin/16683",
+      "name": "/kyujin/16683"
     }
   ],
   "links": [
     {
       "source": "ワッフル 求人",
-      "target": "https://www.shigotomo.jp/kyujin/16683",
+      "target": "/kyujin/16683",
       "value": 1,
       "tooltip": "ワッフル 求人 > /kyujin/16683"
     }

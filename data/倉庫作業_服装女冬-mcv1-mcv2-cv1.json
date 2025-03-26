@@ -5,14 +5,14 @@
       "name": "倉庫作業 服装女冬"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
-      "name": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman"
+      "id": "/contents/articles/keisagyou-hukusouwoman",
+      "name": "/contents/articles/keisagyou-hukusouwoman"
     }
   ],
   "links": [
     {
       "source": "倉庫作業 服装女冬",
-      "target": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
+      "target": "/contents/articles/keisagyou-hukusouwoman",
       "value": 13,
       "tooltip": "倉庫作業 服装女冬 > /contents/articles/keisagyou-hukusouwoman"
     }

@@ -5,14 +5,14 @@
       "name": "工場 バイト 服装"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-wear",
-      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-wear"
+      "id": "/contents/articles/keisagyo-wear",
+      "name": "/contents/articles/keisagyo-wear"
     }
   ],
   "links": [
     {
       "source": "工場 バイト 服装",
-      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-wear",
+      "target": "/contents/articles/keisagyo-wear",
       "value": 1,
       "tooltip": "工場 バイト 服装 > /contents/articles/keisagyo-wear"
     }

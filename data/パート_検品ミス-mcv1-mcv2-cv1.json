@@ -5,16 +5,26 @@
       "name": "パート 検品ミス"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/kenpin-kotsu",
-      "name": "https://www.shigotomo.jp/contents/articles/kenpin-kotsu"
+      "id": "/contents/articles/kenpin-kotsu",
+      "name": "/contents/articles/kenpin-kotsu"
+    },
+    {
+      "id": "/zenkoku/MC5/EC1",
+      "name": "/zenkoku/MC5/EC1"
     }
   ],
   "links": [
     {
       "source": "パート 検品ミス",
-      "target": "https://www.shigotomo.jp/contents/articles/kenpin-kotsu",
+      "target": "/contents/articles/kenpin-kotsu",
       "value": 1,
       "tooltip": "パート 検品ミス > /contents/articles/kenpin-kotsu"
+    },
+    {
+      "source": "/contents/articles/kenpin-kotsu",
+      "target": "/zenkoku/MC5/EC1",
+      "value": 0.17,
+      "tooltip": "パート 検品ミス > /contents/articles/kenpin-kotsu > /zenkoku/MC5/EC1"
     }
   ]
 }

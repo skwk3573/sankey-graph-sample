@@ -5,24 +5,24 @@
       "name": "作業しやすい服装"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
-      "name": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman"
+      "id": "/contents/articles/keisagyou-hukusouwoman",
+      "name": "/contents/articles/keisagyou-hukusouwoman"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-wear",
-      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-wear"
+      "id": "/contents/articles/keisagyo-wear",
+      "name": "/contents/articles/keisagyo-wear"
     }
   ],
   "links": [
     {
       "source": "作業しやすい服装",
-      "target": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
+      "target": "/contents/articles/keisagyou-hukusouwoman",
       "value": 1,
       "tooltip": "作業しやすい服装 > /contents/articles/keisagyou-hukusouwoman"
     },
     {
       "source": "作業しやすい服装",
-      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-wear",
+      "target": "/contents/articles/keisagyo-wear",
       "value": 2,
       "tooltip": "作業しやすい服装 > /contents/articles/keisagyo-wear"
     }

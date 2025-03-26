@@ -5,16 +5,46 @@
       "name": "フォークリフト 後輪操舵"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired",
-      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired"
+      "id": "/contents/articles/koujohaken-forklift-tired",
+      "name": "/contents/articles/koujohaken-forklift-tired"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
     }
   ],
   "links": [
     {
       "source": "フォークリフト 後輪操舵",
-      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired",
+      "target": "/contents/articles/koujohaken-forklift-tired",
       "value": 1,
       "tooltip": "フォークリフト 後輪操舵 > /contents/articles/koujohaken-forklift-tired"
+    },
+    {
+      "source": "/contents/articles/koujohaken-forklift-tired",
+      "target": "/apply/535",
+      "value": 0.33,
+      "tooltip": "フォークリフト 後輪操舵 > /contents/articles/koujohaken-forklift-tired > /apply/535"
+    },
+    {
+      "source": "/apply/535",
+      "target": "/apply/confirm",
+      "value": 0.33,
+      "tooltip": "フォークリフト 後輪操舵 > /contents/articles/koujohaken-forklift-tired > /apply/535 > /apply/confirm"
+    },
+    {
+      "source": "/apply/confirm",
+      "target": "/apply/complete",
+      "value": 0.25,
+      "tooltip": "フォークリフト 後輪操舵 > /contents/articles/koujohaken-forklift-tired > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]
 }

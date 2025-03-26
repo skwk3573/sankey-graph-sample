@@ -5,14 +5,14 @@
       "name": "パート 能勢町"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16755",
-      "name": "https://www.shigotomo.jp/kyujin/16755"
+      "id": "/kyujin/16755",
+      "name": "/kyujin/16755"
     }
   ],
   "links": [
     {
       "source": "パート 能勢町",
-      "target": "https://www.shigotomo.jp/kyujin/16755",
+      "target": "/kyujin/16755",
       "value": 1,
       "tooltip": "パート 能勢町 > /kyujin/16755"
     }

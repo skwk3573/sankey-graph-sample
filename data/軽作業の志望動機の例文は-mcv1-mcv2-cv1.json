@@ -5,64 +5,64 @@
       "name": "軽作業の志望動機の例文は"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
-      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki"
+      "id": "/contents/articles/keisagyo-shiboudouki",
+      "name": "/contents/articles/keisagyo-shiboudouki"
     },
     {
-      "id": "https://www.shigotomo.jp/apply/535",
-      "name": "https://www.shigotomo.jp/apply/535"
+      "id": "/apply/535",
+      "name": "/apply/535"
     },
     {
-      "id": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
-      "name": "https://www.shigotomo.jp/zenkoku/MC1/EC1"
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/search-detail",
-      "name": "https://www.shigotomo.jp/kyujin/search-detail"
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
     },
     {
-      "id": "https://www.shigotomo.jp/apply/confirm",
-      "name": "https://www.shigotomo.jp/apply/confirm"
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
     },
     {
-      "id": "https://www.shigotomo.jp/apply/complete",
-      "name": "https://www.shigotomo.jp/apply/complete"
+      "id": "/apply/complete",
+      "name": "/apply/complete"
     }
   ],
   "links": [
     {
       "source": "軽作業の志望動機の例文は",
-      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
+      "target": "/contents/articles/keisagyo-shiboudouki",
       "value": 37,
       "tooltip": "軽作業の志望動機の例文は > /contents/articles/keisagyo-shiboudouki"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
-      "target": "https://www.shigotomo.jp/apply/535",
+      "source": "/contents/articles/keisagyo-shiboudouki",
+      "target": "/apply/535",
       "value": 3.08,
       "tooltip": "軽作業の志望動機の例文は > /contents/articles/keisagyo-shiboudouki > /apply/535"
     },
     {
-      "source": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
-      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "source": "/contents/articles/keisagyo-shiboudouki",
+      "target": "/zenkoku/MC1/EC1",
       "value": 3.08,
       "tooltip": "軽作業の志望動機の例文は > /contents/articles/keisagyo-shiboudouki > /zenkoku/MC1/EC1"
     },
     {
-      "source": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
-      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "source": "/zenkoku/MC1/EC1",
+      "target": "/kyujin/search-detail",
       "value": 0.66,
       "tooltip": "軽作業の志望動機の例文は > /contents/articles/keisagyo-shiboudouki > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     },
     {
-      "source": "https://www.shigotomo.jp/apply/535",
-      "target": "https://www.shigotomo.jp/apply/confirm",
+      "source": "/apply/535",
+      "target": "/apply/confirm",
       "value": 3.08,
       "tooltip": "軽作業の志望動機の例文は > /contents/articles/keisagyo-shiboudouki > /apply/535 > /apply/confirm"
     },
     {
-      "source": "https://www.shigotomo.jp/apply/confirm",
-      "target": "https://www.shigotomo.jp/apply/complete",
+      "source": "/apply/confirm",
+      "target": "/apply/complete",
       "value": 2.28,
       "tooltip": "軽作業の志望動機の例文は > /contents/articles/keisagyo-shiboudouki > /apply/535 > /apply/confirm > /apply/complete"
     }

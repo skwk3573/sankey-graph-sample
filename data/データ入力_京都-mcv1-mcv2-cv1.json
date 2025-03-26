@@ -5,14 +5,14 @@
       "name": "データ入力 京都"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/16784",
-      "name": "https://www.shigotomo.jp/kyujin/16784"
+      "id": "/kyujin/16784",
+      "name": "/kyujin/16784"
     }
   ],
   "links": [
     {
       "source": "データ入力 京都",
-      "target": "https://www.shigotomo.jp/kyujin/16784",
+      "target": "/kyujin/16784",
       "value": 1,
       "tooltip": "データ入力 京都 > /kyujin/16784"
     }

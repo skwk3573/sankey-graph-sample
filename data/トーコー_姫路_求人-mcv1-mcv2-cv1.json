@@ -5,36 +5,66 @@
       "name": "トーコー 姫路 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/5029",
-      "name": "https://www.shigotomo.jp/kyujin/5029"
+      "id": "/kyujin/5029",
+      "name": "/kyujin/5029"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/14235",
-      "name": "https://www.shigotomo.jp/kyujin/14235"
+      "id": "/kyujin/14235",
+      "name": "/kyujin/14235"
     },
     {
-      "id": "https://www.shigotomo.jp/apply/5029",
-      "name": "https://www.shigotomo.jp/apply/5029"
+      "id": "/apply/5029",
+      "name": "/apply/5029"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
     }
   ],
   "links": [
     {
       "source": "トーコー 姫路 求人",
-      "target": "https://www.shigotomo.jp/kyujin/5029",
+      "target": "/kyujin/5029",
       "value": 1,
       "tooltip": "トーコー 姫路 求人 > /kyujin/5029"
     },
     {
       "source": "トーコー 姫路 求人",
-      "target": "https://www.shigotomo.jp/kyujin/14235",
+      "target": "/kyujin/14235",
       "value": 2,
       "tooltip": "トーコー 姫路 求人 > /kyujin/14235"
     },
     {
-      "source": "https://www.shigotomo.jp/kyujin/5029",
-      "target": "https://www.shigotomo.jp/apply/5029",
+      "source": "/kyujin/5029",
+      "target": "/apply/5029",
       "value": 0.83,
       "tooltip": "トーコー 姫路 求人 > /kyujin/5029 > /apply/5029"
+    },
+    {
+      "source": "/kyujin/5029",
+      "target": "/apply/535",
+      "value": 0.17,
+      "tooltip": "トーコー 姫路 求人 > /kyujin/5029 > /apply/535"
+    },
+    {
+      "source": "/apply/535",
+      "target": "/apply/confirm",
+      "value": 0.17,
+      "tooltip": "トーコー 姫路 求人 > /kyujin/5029 > /apply/535 > /apply/confirm"
+    },
+    {
+      "source": "/apply/confirm",
+      "target": "/apply/complete",
+      "value": 0.12,
+      "tooltip": "トーコー 姫路 求人 > /kyujin/5029 > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]
 }

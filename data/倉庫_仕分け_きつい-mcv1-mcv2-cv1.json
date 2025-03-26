@@ -5,16 +5,102 @@
       "name": "倉庫 仕分け きつい"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
-      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard"
+      "id": "/contents/articles/keisagyo-haken-hard",
+      "name": "/contents/articles/keisagyo-haken-hard"
+    },
+    {
+      "id": "/zenkoku/MC1",
+      "name": "/zenkoku/MC1"
+    },
+    {
+      "id": "/apply/535",
+      "name": "/apply/535"
+    },
+    {
+      "id": "/zenkoku/MC1/EC1",
+      "name": "/zenkoku/MC1/EC1"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/16312",
+      "name": "/kyujin/16312"
+    },
+    {
+      "id": "/apply/16312",
+      "name": "/apply/16312"
+    },
+    {
+      "id": "/apply/confirm",
+      "name": "/apply/confirm"
+    },
+    {
+      "id": "/apply/complete",
+      "name": "/apply/complete"
     }
   ],
   "links": [
     {
       "source": "倉庫 仕分け きつい",
-      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "target": "/contents/articles/keisagyo-haken-hard",
       "value": 1,
       "tooltip": "倉庫 仕分け きつい > /contents/articles/keisagyo-haken-hard"
+    },
+    {
+      "source": "/contents/articles/keisagyo-haken-hard",
+      "target": "/zenkoku/MC1",
+      "value": 0.09,
+      "tooltip": "倉庫 仕分け きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1"
+    },
+    {
+      "source": "/contents/articles/keisagyo-haken-hard",
+      "target": "/apply/535",
+      "value": 0.03,
+      "tooltip": "倉庫 仕分け きつい > /contents/articles/keisagyo-haken-hard > /apply/535"
+    },
+    {
+      "source": "/contents/articles/keisagyo-haken-hard",
+      "target": "/zenkoku/MC1/EC1",
+      "value": 0.27,
+      "tooltip": "倉庫 仕分け きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1"
+    },
+    {
+      "source": "/zenkoku/MC1",
+      "target": "/kyujin/search-detail",
+      "value": 0.04,
+      "tooltip": "倉庫 仕分け きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/search-detail"
+    },
+    {
+      "source": "/zenkoku/MC1",
+      "target": "/kyujin/16312",
+      "value": 0.01,
+      "tooltip": "倉庫 仕分け きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/16312"
+    },
+    {
+      "source": "/zenkoku/MC1/EC1",
+      "target": "/kyujin/search-detail",
+      "value": 0.06,
+      "tooltip": "倉庫 仕分け きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1 > /kyujin/search-detail"
+    },
+    {
+      "source": "/kyujin/16312",
+      "target": "/apply/16312",
+      "value": 0.01,
+      "tooltip": "倉庫 仕分け きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
+    },
+    {
+      "source": "/apply/535",
+      "target": "/apply/confirm",
+      "value": 0.03,
+      "tooltip": "倉庫 仕分け きつい > /contents/articles/keisagyo-haken-hard > /apply/535 > /apply/confirm"
+    },
+    {
+      "source": "/apply/confirm",
+      "target": "/apply/complete",
+      "value": 0.02,
+      "tooltip": "倉庫 仕分け きつい > /contents/articles/keisagyo-haken-hard > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]
 }

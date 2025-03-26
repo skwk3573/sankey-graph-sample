@@ -5,14 +5,14 @@
       "name": "コールセンター"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/13826",
-      "name": "https://www.shigotomo.jp/kyujin/13826"
+      "id": "/kyujin/13826",
+      "name": "/kyujin/13826"
     }
   ],
   "links": [
     {
       "source": "コールセンター",
-      "target": "https://www.shigotomo.jp/kyujin/13826",
+      "target": "/kyujin/13826",
       "value": 2,
       "tooltip": "コールセンター > /kyujin/13826"
     }

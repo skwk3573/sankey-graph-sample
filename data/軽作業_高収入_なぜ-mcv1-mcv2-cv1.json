@@ -5,14 +5,14 @@
       "name": "軽作業 高収入 なぜ"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-highwage",
-      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-highwage"
+      "id": "/contents/articles/keisagyo-highwage",
+      "name": "/contents/articles/keisagyo-highwage"
     }
   ],
   "links": [
     {
       "source": "軽作業 高収入 なぜ",
-      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-highwage",
+      "target": "/contents/articles/keisagyo-highwage",
       "value": 1,
       "tooltip": "軽作業 高収入 なぜ > /contents/articles/keisagyo-highwage"
     }

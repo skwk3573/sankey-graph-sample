@@ -5,14 +5,14 @@
       "name": "製菓工場 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/15195",
-      "name": "https://www.shigotomo.jp/kyujin/15195"
+      "id": "/kyujin/15195",
+      "name": "/kyujin/15195"
     }
   ],
   "links": [
     {
       "source": "製菓工場 求人",
-      "target": "https://www.shigotomo.jp/kyujin/15195",
+      "target": "/kyujin/15195",
       "value": 1,
       "tooltip": "製菓工場 求人 > /kyujin/15195"
     }

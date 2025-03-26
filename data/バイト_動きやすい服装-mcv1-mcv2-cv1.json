@@ -5,24 +5,24 @@
       "name": "バイト 動きやすい服装"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-wear",
-      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-wear"
+      "id": "/contents/articles/keisagyo-wear",
+      "name": "/contents/articles/keisagyo-wear"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
-      "name": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman"
+      "id": "/contents/articles/keisagyou-hukusouwoman",
+      "name": "/contents/articles/keisagyou-hukusouwoman"
     }
   ],
   "links": [
     {
       "source": "バイト 動きやすい服装",
-      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-wear",
+      "target": "/contents/articles/keisagyo-wear",
       "value": 5,
       "tooltip": "バイト 動きやすい服装 > /contents/articles/keisagyo-wear"
     },
     {
       "source": "バイト 動きやすい服装",
-      "target": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
+      "target": "/contents/articles/keisagyou-hukusouwoman",
       "value": 1,
       "tooltip": "バイト 動きやすい服装 > /contents/articles/keisagyou-hukusouwoman"
     }

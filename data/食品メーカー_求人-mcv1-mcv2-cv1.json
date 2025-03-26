@@ -5,14 +5,14 @@
       "name": "食品メーカー 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/12719",
-      "name": "https://www.shigotomo.jp/kyujin/12719"
+      "id": "/kyujin/12719",
+      "name": "/kyujin/12719"
     }
   ],
   "links": [
     {
       "source": "食品メーカー 求人",
-      "target": "https://www.shigotomo.jp/kyujin/12719",
+      "target": "/kyujin/12719",
       "value": 1,
       "tooltip": "食品メーカー 求人 > /kyujin/12719"
     }

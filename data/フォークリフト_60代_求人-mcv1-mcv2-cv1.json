@@ -5,14 +5,14 @@
       "name": "フォークリフト 60代 求人"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/4095",
-      "name": "https://www.shigotomo.jp/kyujin/4095"
+      "id": "/kyujin/4095",
+      "name": "/kyujin/4095"
     }
   ],
   "links": [
     {
       "source": "フォークリフト 60代 求人",
-      "target": "https://www.shigotomo.jp/kyujin/4095",
+      "target": "/kyujin/4095",
       "value": 1,
       "tooltip": "フォークリフト 60代 求人 > /kyujin/4095"
     }

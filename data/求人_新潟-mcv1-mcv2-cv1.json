@@ -5,14 +5,14 @@
       "name": "求人 新潟"
     },
     {
-      "id": "https://www.shigotomo.jp/kyujin/894",
-      "name": "https://www.shigotomo.jp/kyujin/894"
+      "id": "/kyujin/894",
+      "name": "/kyujin/894"
     }
   ],
   "links": [
     {
       "source": "求人 新潟",
-      "target": "https://www.shigotomo.jp/kyujin/894",
+      "target": "/kyujin/894",
       "value": 1,
       "tooltip": "求人 新潟 > /kyujin/894"
     }

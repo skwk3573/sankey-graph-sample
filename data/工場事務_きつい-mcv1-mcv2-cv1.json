@@ -5,16 +5,46 @@
       "name": "工場事務 きつい"
     },
     {
-      "id": "https://www.shigotomo.jp/contents/articles/factory-haken-hard",
-      "name": "https://www.shigotomo.jp/contents/articles/factory-haken-hard"
+      "id": "/contents/articles/factory-haken-hard",
+      "name": "/contents/articles/factory-haken-hard"
+    },
+    {
+      "id": "/zenkoku/EC1/FW工場",
+      "name": "/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "/kyujin/search-detail",
+      "name": "/kyujin/search-detail"
+    },
+    {
+      "id": "/kyujin/17069",
+      "name": "/kyujin/17069"
     }
   ],
   "links": [
     {
       "source": "工場事務 きつい",
-      "target": "https://www.shigotomo.jp/contents/articles/factory-haken-hard",
+      "target": "/contents/articles/factory-haken-hard",
       "value": 1,
       "tooltip": "工場事務 きつい > /contents/articles/factory-haken-hard"
+    },
+    {
+      "source": "/contents/articles/factory-haken-hard",
+      "target": "/zenkoku/EC1/FW工場",
+      "value": 0.04,
+      "tooltip": "工場事務 きつい > /contents/articles/factory-haken-hard > /zenkoku/EC1/FW工場"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/search-detail",
+      "value": 0.01,
+      "tooltip": "工場事務 きつい > /contents/articles/factory-haken-hard > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
+    },
+    {
+      "source": "/zenkoku/EC1/FW工場",
+      "target": "/kyujin/17069",
+      "value": 0,
+      "tooltip": "工場事務 きつい > /contents/articles/factory-haken-hard > /zenkoku/EC1/FW工場 > /kyujin/17069"
     }
   ]
 }
