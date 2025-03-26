@@ -5,14 +5,14 @@
       "name": "就活 私服で構いません"
     },
     {
-      "id": "/contents/articles/interview-clothes",
-      "name": "/contents/articles/interview-clothes"
+      "id": "https://www.shigotomo.jp/contents/articles/interview-clothes",
+      "name": "https://www.shigotomo.jp/contents/articles/interview-clothes"
     }
   ],
   "links": [
     {
       "source": "就活 私服で構いません",
-      "target": "/contents/articles/interview-clothes",
+      "target": "https://www.shigotomo.jp/contents/articles/interview-clothes",
       "value": 1,
       "tooltip": "就活 私服で構いません > /contents/articles/interview-clothes"
     }

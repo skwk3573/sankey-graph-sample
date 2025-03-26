@@ -5,45 +5,35 @@
       "name": "倉庫 ピッキング 派遣"
     },
     {
-      "id": "/contents/articles/temporary-picking-beginner",
-      "name": "/contents/articles/temporary-picking-beginner"
+      "id": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner",
+      "name": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner"
     },
     {
-      "id": "/contents/articles/temporary-picking-hard",
-      "name": "/contents/articles/temporary-picking-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard"
     },
     {
-      "id": "/zenkoku/MC7/EC1",
-      "name": "/zenkoku/MC7/EC1"
-    },
-    {
-      "id": "/zenkoku/MC7",
-      "name": "/zenkoku/MC7"
+      "id": "https://www.shigotomo.jp/zenkoku/MC7",
+      "name": "https://www.shigotomo.jp/zenkoku/MC7"
     }
   ],
   "links": [
     {
       "source": "倉庫 ピッキング 派遣",
-      "target": "/contents/articles/temporary-picking-beginner",
+      "target": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner",
       "value": 1,
       "tooltip": "倉庫 ピッキング 派遣 > /contents/articles/temporary-picking-beginner"
     },
     {
       "source": "倉庫 ピッキング 派遣",
-      "target": "/contents/articles/temporary-picking-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard",
       "value": 1,
       "tooltip": "倉庫 ピッキング 派遣 > /contents/articles/temporary-picking-hard"
     },
     {
-      "source": "/contents/articles/temporary-picking-hard",
-      "target": "/zenkoku/MC7/EC1",
-      "value": 1,
-      "tooltip": "倉庫 ピッキング 派遣 > /contents/articles/temporary-picking-hard > /zenkoku/MC7/EC1"
-    },
-    {
-      "source": "/contents/articles/temporary-picking-beginner",
-      "target": "/zenkoku/MC7",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner",
+      "target": "https://www.shigotomo.jp/zenkoku/MC7",
+      "value": 0.63,
       "tooltip": "倉庫 ピッキング 派遣 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7"
     }
   ]

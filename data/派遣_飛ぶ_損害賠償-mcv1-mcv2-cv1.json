@@ -5,26 +5,46 @@
       "name": "派遣 飛ぶ 損害賠償"
     },
     {
-      "id": "/contents/articles/koujohaken-bakkure-taisho",
-      "name": "/contents/articles/koujohaken-bakkure-taisho"
+      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho",
+      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho"
     },
     {
-      "id": "/zenkoku/EC1/FW工場",
-      "name": "/zenkoku/EC1/FW工場"
+      "id": "https://www.shigotomo.jp/apply/535",
+      "name": "https://www.shigotomo.jp/apply/535"
+    },
+    {
+      "id": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "name": "https://www.shigotomo.jp/zenkoku/EC1/FW工場"
+    },
+    {
+      "id": "https://www.shigotomo.jp/apply/confirm",
+      "name": "https://www.shigotomo.jp/apply/confirm"
     }
   ],
   "links": [
     {
       "source": "派遣 飛ぶ 損害賠償",
-      "target": "/contents/articles/koujohaken-bakkure-taisho",
+      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho",
       "value": 3,
       "tooltip": "派遣 飛ぶ 損害賠償 > /contents/articles/koujohaken-bakkure-taisho"
     },
     {
-      "source": "/contents/articles/koujohaken-bakkure-taisho",
-      "target": "/zenkoku/EC1/FW工場",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho",
+      "target": "https://www.shigotomo.jp/apply/535",
+      "value": 0.5,
+      "tooltip": "派遣 飛ぶ 損害賠償 > /contents/articles/koujohaken-bakkure-taisho > /apply/535"
+    },
+    {
+      "source": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho",
+      "target": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "value": 1.5,
       "tooltip": "派遣 飛ぶ 損害賠償 > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/EC1/FW工場"
+    },
+    {
+      "source": "https://www.shigotomo.jp/apply/535",
+      "target": "https://www.shigotomo.jp/apply/confirm",
+      "value": 0.5,
+      "tooltip": "派遣 飛ぶ 損害賠償 > /contents/articles/koujohaken-bakkure-taisho > /apply/535 > /apply/confirm"
     }
   ]
 }

@@ -5,14 +5,14 @@
       "name": "50代求人"
     },
     {
-      "id": "/kyujin/11580",
-      "name": "/kyujin/11580"
+      "id": "https://www.shigotomo.jp/kyujin/11580",
+      "name": "https://www.shigotomo.jp/kyujin/11580"
     }
   ],
   "links": [
     {
       "source": "50代求人",
-      "target": "/kyujin/11580",
+      "target": "https://www.shigotomo.jp/kyujin/11580",
       "value": 1,
       "tooltip": "50代求人 > /kyujin/11580"
     }

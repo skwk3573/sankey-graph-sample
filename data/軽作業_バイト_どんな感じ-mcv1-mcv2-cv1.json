@@ -5,72 +5,72 @@
       "name": "軽作業 バイト どんな感じ"
     },
     {
-      "id": "/contents/articles/keisagyo",
-      "name": "/contents/articles/keisagyo"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo"
     },
     {
-      "id": "/zenkoku/MC1",
-      "name": "/zenkoku/MC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1"
     },
     {
-      "id": "/zenkoku/MC1/EC1",
-      "name": "/zenkoku/MC1/EC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1/EC1"
     },
     {
-      "id": "/apply/535",
-      "name": "/apply/535"
+      "id": "https://www.shigotomo.jp/kyujin/search-detail",
+      "name": "https://www.shigotomo.jp/kyujin/search-detail"
     },
     {
-      "id": "/kyujin/search-detail",
-      "name": "/kyujin/search-detail"
+      "id": "https://www.shigotomo.jp/kyujin/16312",
+      "name": "https://www.shigotomo.jp/kyujin/16312"
     },
     {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
+      "id": "https://www.shigotomo.jp/apply/16312",
+      "name": "https://www.shigotomo.jp/apply/16312"
     }
   ],
   "links": [
     {
       "source": "軽作業 バイト どんな感じ",
-      "target": "/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo",
       "value": 37,
       "tooltip": "軽作業 バイト どんな感じ > /contents/articles/keisagyo"
     },
     {
-      "source": "/contents/articles/keisagyo",
-      "target": "/zenkoku/MC1",
-      "value": 9,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1",
+      "value": 9.45,
       "tooltip": "軽作業 バイト どんな感じ > /contents/articles/keisagyo > /zenkoku/MC1"
     },
     {
-      "source": "/contents/articles/keisagyo",
-      "target": "/zenkoku/MC1/EC1",
-      "value": 19,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "value": 24.4,
       "tooltip": "軽作業 バイト どんな感じ > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
     },
     {
-      "source": "/contents/articles/keisagyo",
-      "target": "/apply/535",
-      "value": 1,
-      "tooltip": "軽作業 バイト どんな感じ > /contents/articles/keisagyo > /apply/535"
-    },
-    {
-      "source": "/zenkoku/MC1",
-      "target": "/kyujin/search-detail",
-      "value": 3,
+      "source": "https://www.shigotomo.jp/zenkoku/MC1",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 3.78,
       "tooltip": "軽作業 バイト どんな感じ > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/search-detail"
     },
     {
-      "source": "/zenkoku/MC1/EC1",
-      "target": "/kyujin/search-detail",
-      "value": 3,
+      "source": "https://www.shigotomo.jp/zenkoku/MC1",
+      "target": "https://www.shigotomo.jp/kyujin/16312",
+      "value": 0.76,
+      "tooltip": "軽作業 バイト どんな感じ > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/16312"
+    },
+    {
+      "source": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 5.19,
       "tooltip": "軽作業 バイト どんな感じ > /contents/articles/keisagyo > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     },
     {
-      "source": "/apply/535",
-      "target": "/apply/confirm",
-      "value": 1,
-      "tooltip": "軽作業 バイト どんな感じ > /contents/articles/keisagyo > /apply/535 > /apply/confirm"
+      "source": "https://www.shigotomo.jp/kyujin/16312",
+      "target": "https://www.shigotomo.jp/apply/16312",
+      "value": 0.76,
+      "tooltip": "軽作業 バイト どんな感じ > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
     }
   ]
 }

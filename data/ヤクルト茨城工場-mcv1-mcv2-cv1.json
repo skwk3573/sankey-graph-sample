@@ -5,14 +5,14 @@
       "name": "ヤクルト茨城工場"
     },
     {
-      "id": "/contents/articles/factorytour",
-      "name": "/contents/articles/factorytour"
+      "id": "https://www.shigotomo.jp/contents/articles/factorytour",
+      "name": "https://www.shigotomo.jp/contents/articles/factorytour"
     }
   ],
   "links": [
     {
       "source": "ヤクルト茨城工場",
-      "target": "/contents/articles/factorytour",
+      "target": "https://www.shigotomo.jp/contents/articles/factorytour",
       "value": 1,
       "tooltip": "ヤクルト茨城工場 > /contents/articles/factorytour"
     }

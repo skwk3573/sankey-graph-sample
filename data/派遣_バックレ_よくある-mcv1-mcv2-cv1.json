@@ -5,81 +5,65 @@
       "name": "派遣 バックレ よくある"
     },
     {
-      "id": "/contents/articles/koujohaken-bakkure-taisho",
-      "name": "/contents/articles/koujohaken-bakkure-taisho"
+      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho",
+      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho"
     },
     {
-      "id": "/zenkoku/PC27/FW工場　派遣",
-      "name": "/zenkoku/PC27/FW工場　派遣"
+      "id": "https://www.shigotomo.jp/apply/535",
+      "name": "https://www.shigotomo.jp/apply/535"
     },
     {
-      "id": "/apply/535",
-      "name": "/apply/535"
+      "id": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "name": "https://www.shigotomo.jp/zenkoku/EC1/FW工場"
     },
     {
-      "id": "/zenkoku/EC1/FW工場",
-      "name": "/zenkoku/EC1/FW工場"
+      "id": "https://www.shigotomo.jp/kyujin/search-detail",
+      "name": "https://www.shigotomo.jp/kyujin/search-detail"
     },
     {
-      "id": "/kyujin/search-detail",
-      "name": "/kyujin/search-detail"
+      "id": "https://www.shigotomo.jp/apply/confirm",
+      "name": "https://www.shigotomo.jp/apply/confirm"
     },
     {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
-    },
-    {
-      "id": "/apply/complete",
-      "name": "/apply/complete"
+      "id": "https://www.shigotomo.jp/apply/complete",
+      "name": "https://www.shigotomo.jp/apply/complete"
     }
   ],
   "links": [
     {
       "source": "派遣 バックレ よくある",
-      "target": "/contents/articles/koujohaken-bakkure-taisho",
+      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho",
       "value": 20,
       "tooltip": "派遣 バックレ よくある > /contents/articles/koujohaken-bakkure-taisho"
     },
     {
-      "source": "/contents/articles/koujohaken-bakkure-taisho",
-      "target": "/zenkoku/PC27/FW工場　派遣",
-      "value": 2,
-      "tooltip": "派遣 バックレ よくある > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/PC27/FW工場　派遣"
-    },
-    {
-      "source": "/contents/articles/koujohaken-bakkure-taisho",
-      "target": "/apply/535",
-      "value": 2,
+      "source": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho",
+      "target": "https://www.shigotomo.jp/apply/535",
+      "value": 3.33,
       "tooltip": "派遣 バックレ よくある > /contents/articles/koujohaken-bakkure-taisho > /apply/535"
     },
     {
-      "source": "/contents/articles/koujohaken-bakkure-taisho",
-      "target": "/zenkoku/EC1/FW工場",
-      "value": 5,
+      "source": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho",
+      "target": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "value": 10,
       "tooltip": "派遣 バックレ よくある > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/EC1/FW工場"
     },
     {
-      "source": "/zenkoku/EC1/FW工場",
-      "target": "/kyujin/search-detail",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 2.06,
       "tooltip": "派遣 バックレ よくある > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
     },
     {
-      "source": "/zenkoku/PC27/FW工場　派遣",
-      "target": "/kyujin/search-detail",
-      "value": 1,
-      "tooltip": "派遣 バックレ よくある > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/PC27/FW工場　派遣 > /kyujin/search-detail"
-    },
-    {
-      "source": "/apply/535",
-      "target": "/apply/confirm",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/apply/535",
+      "target": "https://www.shigotomo.jp/apply/confirm",
+      "value": 3.33,
       "tooltip": "派遣 バックレ よくある > /contents/articles/koujohaken-bakkure-taisho > /apply/535 > /apply/confirm"
     },
     {
-      "source": "/apply/confirm",
-      "target": "/apply/complete",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/apply/confirm",
+      "target": "https://www.shigotomo.jp/apply/complete",
+      "value": 2.47,
       "tooltip": "派遣 バックレ よくある > /contents/articles/koujohaken-bakkure-taisho > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]

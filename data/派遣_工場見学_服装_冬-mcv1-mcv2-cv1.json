@@ -5,36 +5,26 @@
       "name": "派遣 工場見学 服装 冬"
     },
     {
-      "id": "/contents/articles/interview-clothes",
-      "name": "/contents/articles/interview-clothes"
+      "id": "https://www.shigotomo.jp/contents/articles/interview-clothes",
+      "name": "https://www.shigotomo.jp/contents/articles/interview-clothes"
     },
     {
-      "id": "/zenkoku/MC1",
-      "name": "/zenkoku/MC1"
-    },
-    {
-      "id": "/zenkoku/EC1/FW工場",
-      "name": "/zenkoku/EC1/FW工場"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1"
     }
   ],
   "links": [
     {
       "source": "派遣 工場見学 服装 冬",
-      "target": "/contents/articles/interview-clothes",
+      "target": "https://www.shigotomo.jp/contents/articles/interview-clothes",
       "value": 5,
       "tooltip": "派遣 工場見学 服装 冬 > /contents/articles/interview-clothes"
     },
     {
-      "source": "/contents/articles/interview-clothes",
-      "target": "/zenkoku/MC1",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/interview-clothes",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1",
+      "value": 1.05,
       "tooltip": "派遣 工場見学 服装 冬 > /contents/articles/interview-clothes > /zenkoku/MC1"
-    },
-    {
-      "source": "/contents/articles/interview-clothes",
-      "target": "/zenkoku/EC1/FW工場",
-      "value": 1,
-      "tooltip": "派遣 工場見学 服装 冬 > /contents/articles/interview-clothes > /zenkoku/EC1/FW工場"
     }
   ]
 }

@@ -5,14 +5,14 @@
       "name": "チョコレート製造 求人"
     },
     {
-      "id": "/kyujin/16875",
-      "name": "/kyujin/16875"
+      "id": "https://www.shigotomo.jp/kyujin/16875",
+      "name": "https://www.shigotomo.jp/kyujin/16875"
     }
   ],
   "links": [
     {
       "source": "チョコレート製造 求人",
-      "target": "/kyujin/16875",
+      "target": "https://www.shigotomo.jp/kyujin/16875",
       "value": 1,
       "tooltip": "チョコレート製造 求人 > /kyujin/16875"
     }

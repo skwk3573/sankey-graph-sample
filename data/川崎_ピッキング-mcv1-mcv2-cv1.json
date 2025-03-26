@@ -5,14 +5,14 @@
       "name": "川崎 ピッキング"
     },
     {
-      "id": "/kyujin/11008",
-      "name": "/kyujin/11008"
+      "id": "https://www.shigotomo.jp/kyujin/11008",
+      "name": "https://www.shigotomo.jp/kyujin/11008"
     }
   ],
   "links": [
     {
       "source": "川崎 ピッキング",
-      "target": "/kyujin/11008",
+      "target": "https://www.shigotomo.jp/kyujin/11008",
       "value": 1,
       "tooltip": "川崎 ピッキング > /kyujin/11008"
     }

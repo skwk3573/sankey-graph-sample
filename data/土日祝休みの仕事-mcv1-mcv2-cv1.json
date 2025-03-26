@@ -5,14 +5,14 @@
       "name": "土日祝休みの仕事"
     },
     {
-      "id": "/kyujin/13517",
-      "name": "/kyujin/13517"
+      "id": "https://www.shigotomo.jp/kyujin/13517",
+      "name": "https://www.shigotomo.jp/kyujin/13517"
     }
   ],
   "links": [
     {
       "source": "土日祝休みの仕事",
-      "target": "/kyujin/13517",
+      "target": "https://www.shigotomo.jp/kyujin/13517",
       "value": 1,
       "tooltip": "土日祝休みの仕事 > /kyujin/13517"
     }

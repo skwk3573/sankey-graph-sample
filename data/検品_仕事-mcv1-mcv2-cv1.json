@@ -5,14 +5,14 @@
       "name": "検品 仕事"
     },
     {
-      "id": "/kyujin/9776",
-      "name": "/kyujin/9776"
+      "id": "https://www.shigotomo.jp/kyujin/9776",
+      "name": "https://www.shigotomo.jp/kyujin/9776"
     }
   ],
   "links": [
     {
       "source": "検品 仕事",
-      "target": "/kyujin/9776",
+      "target": "https://www.shigotomo.jp/kyujin/9776",
       "value": 1,
       "tooltip": "検品 仕事 > /kyujin/9776"
     }

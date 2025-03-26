@@ -5,24 +5,24 @@
       "name": "鮮魚 スーパー 求人"
     },
     {
-      "id": "/kyujin/17155",
-      "name": "/kyujin/17155"
+      "id": "https://www.shigotomo.jp/kyujin/17155",
+      "name": "https://www.shigotomo.jp/kyujin/17155"
     },
     {
-      "id": "/kyujin/17153",
-      "name": "/kyujin/17153"
+      "id": "https://www.shigotomo.jp/kyujin/17153",
+      "name": "https://www.shigotomo.jp/kyujin/17153"
     }
   ],
   "links": [
     {
       "source": "鮮魚 スーパー 求人",
-      "target": "/kyujin/17155",
+      "target": "https://www.shigotomo.jp/kyujin/17155",
       "value": 1,
       "tooltip": "鮮魚 スーパー 求人 > /kyujin/17155"
     },
     {
       "source": "鮮魚 スーパー 求人",
-      "target": "/kyujin/17153",
+      "target": "https://www.shigotomo.jp/kyujin/17153",
       "value": 1,
       "tooltip": "鮮魚 スーパー 求人 > /kyujin/17153"
     }

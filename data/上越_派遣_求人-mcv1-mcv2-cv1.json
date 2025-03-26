@@ -5,14 +5,14 @@
       "name": "上越 派遣 求人"
     },
     {
-      "id": "/kyujin/6539",
-      "name": "/kyujin/6539"
+      "id": "https://www.shigotomo.jp/kyujin/6539",
+      "name": "https://www.shigotomo.jp/kyujin/6539"
     }
   ],
   "links": [
     {
       "source": "上越 派遣 求人",
-      "target": "/kyujin/6539",
+      "target": "https://www.shigotomo.jp/kyujin/6539",
       "value": 1,
       "tooltip": "上越 派遣 求人 > /kyujin/6539"
     }

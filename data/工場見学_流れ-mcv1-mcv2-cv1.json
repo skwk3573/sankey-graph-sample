@@ -5,36 +5,16 @@
       "name": "工場見学 流れ"
     },
     {
-      "id": "/contents/articles/factorytour",
-      "name": "/contents/articles/factorytour"
-    },
-    {
-      "id": "/zenkoku/EC1/FW工場",
-      "name": "/zenkoku/EC1/FW工場"
-    },
-    {
-      "id": "/kyujin/search-detail",
-      "name": "/kyujin/search-detail"
+      "id": "https://www.shigotomo.jp/contents/articles/factorytour",
+      "name": "https://www.shigotomo.jp/contents/articles/factorytour"
     }
   ],
   "links": [
     {
       "source": "工場見学 流れ",
-      "target": "/contents/articles/factorytour",
+      "target": "https://www.shigotomo.jp/contents/articles/factorytour",
       "value": 14,
       "tooltip": "工場見学 流れ > /contents/articles/factorytour"
-    },
-    {
-      "source": "/contents/articles/factorytour",
-      "target": "/zenkoku/EC1/FW工場",
-      "value": 4,
-      "tooltip": "工場見学 流れ > /contents/articles/factorytour > /zenkoku/EC1/FW工場"
-    },
-    {
-      "source": "/zenkoku/EC1/FW工場",
-      "target": "/kyujin/search-detail",
-      "value": 1,
-      "tooltip": "工場見学 流れ > /contents/articles/factorytour > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
     }
   ]
 }

@@ -5,35 +5,35 @@
       "name": "工場勤務 女性 デメリット"
     },
     {
-      "id": "/contents/articles/koujohaken-woman-demerit",
-      "name": "/contents/articles/koujohaken-woman-demerit"
+      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-woman-demerit",
+      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-woman-demerit"
     },
     {
-      "id": "/zenkoku/EC1/FW工場",
-      "name": "/zenkoku/EC1/FW工場"
+      "id": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "name": "https://www.shigotomo.jp/zenkoku/EC1/FW工場"
     },
     {
-      "id": "/kyujin/search-detail",
-      "name": "/kyujin/search-detail"
+      "id": "https://www.shigotomo.jp/kyujin/search-detail",
+      "name": "https://www.shigotomo.jp/kyujin/search-detail"
     }
   ],
   "links": [
     {
       "source": "工場勤務 女性 デメリット",
-      "target": "/contents/articles/koujohaken-woman-demerit",
+      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-woman-demerit",
       "value": 28,
       "tooltip": "工場勤務 女性 デメリット > /contents/articles/koujohaken-woman-demerit"
     },
     {
-      "source": "/contents/articles/koujohaken-woman-demerit",
-      "target": "/zenkoku/EC1/FW工場",
-      "value": 5,
+      "source": "https://www.shigotomo.jp/contents/articles/koujohaken-woman-demerit",
+      "target": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "value": 6.22,
       "tooltip": "工場勤務 女性 デメリット > /contents/articles/koujohaken-woman-demerit > /zenkoku/EC1/FW工場"
     },
     {
-      "source": "/zenkoku/EC1/FW工場",
-      "target": "/kyujin/search-detail",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 1.28,
       "tooltip": "工場勤務 女性 デメリット > /contents/articles/koujohaken-woman-demerit > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
     }
   ]

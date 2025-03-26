@@ -5,14 +5,14 @@
       "name": "ライン作業 辞めたい"
     },
     {
-      "id": "/contents/articles/koujohaken-wantto-resign",
-      "name": "/contents/articles/koujohaken-wantto-resign"
+      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-wantto-resign",
+      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-wantto-resign"
     }
   ],
   "links": [
     {
       "source": "ライン作業 辞めたい",
-      "target": "/contents/articles/koujohaken-wantto-resign",
+      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-wantto-resign",
       "value": 1,
       "tooltip": "ライン作業 辞めたい > /contents/articles/koujohaken-wantto-resign"
     }

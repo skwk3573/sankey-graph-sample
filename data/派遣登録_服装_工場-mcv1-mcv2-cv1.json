@@ -5,25 +5,25 @@
       "name": "派遣登録 服装 工場"
     },
     {
-      "id": "/contents/articles/Factory-dispatch-apparel",
-      "name": "/contents/articles/Factory-dispatch-apparel"
+      "id": "https://www.shigotomo.jp/contents/articles/Factory-dispatch-apparel",
+      "name": "https://www.shigotomo.jp/contents/articles/Factory-dispatch-apparel"
     },
     {
-      "id": "/zenkoku/EC1/FW工場",
-      "name": "/zenkoku/EC1/FW工場"
+      "id": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "name": "https://www.shigotomo.jp/zenkoku/EC1/FW工場"
     }
   ],
   "links": [
     {
       "source": "派遣登録 服装 工場",
-      "target": "/contents/articles/Factory-dispatch-apparel",
+      "target": "https://www.shigotomo.jp/contents/articles/Factory-dispatch-apparel",
       "value": 4,
       "tooltip": "派遣登録 服装 工場 > /contents/articles/Factory-dispatch-apparel"
     },
     {
-      "source": "/contents/articles/Factory-dispatch-apparel",
-      "target": "/zenkoku/EC1/FW工場",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/Factory-dispatch-apparel",
+      "target": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "value": 0.52,
       "tooltip": "派遣登録 服装 工場 > /contents/articles/Factory-dispatch-apparel > /zenkoku/EC1/FW工場"
     }
   ]

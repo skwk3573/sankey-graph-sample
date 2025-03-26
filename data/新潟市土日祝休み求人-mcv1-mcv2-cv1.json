@@ -5,14 +5,14 @@
       "name": "新潟市土日祝休み求人"
     },
     {
-      "id": "/kyujin/15496",
-      "name": "/kyujin/15496"
+      "id": "https://www.shigotomo.jp/kyujin/15496",
+      "name": "https://www.shigotomo.jp/kyujin/15496"
     }
   ],
   "links": [
     {
       "source": "新潟市土日祝休み求人",
-      "target": "/kyujin/15496",
+      "target": "https://www.shigotomo.jp/kyujin/15496",
       "value": 1,
       "tooltip": "新潟市土日祝休み求人 > /kyujin/15496"
     }

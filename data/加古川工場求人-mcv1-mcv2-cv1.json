@@ -5,14 +5,14 @@
       "name": "加古川工場求人"
     },
     {
-      "id": "/kyujin/860",
-      "name": "/kyujin/860"
+      "id": "https://www.shigotomo.jp/kyujin/860",
+      "name": "https://www.shigotomo.jp/kyujin/860"
     }
   ],
   "links": [
     {
       "source": "加古川工場求人",
-      "target": "/kyujin/860",
+      "target": "https://www.shigotomo.jp/kyujin/860",
       "value": 1,
       "tooltip": "加古川工場求人 > /kyujin/860"
     }

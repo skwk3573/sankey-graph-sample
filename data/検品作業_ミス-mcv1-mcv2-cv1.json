@@ -5,14 +5,14 @@
       "name": "検品作業 ミス"
     },
     {
-      "id": "/contents/articles/kenpin-kotsu",
-      "name": "/contents/articles/kenpin-kotsu"
+      "id": "https://www.shigotomo.jp/contents/articles/kenpin-kotsu",
+      "name": "https://www.shigotomo.jp/contents/articles/kenpin-kotsu"
     }
   ],
   "links": [
     {
       "source": "検品作業 ミス",
-      "target": "/contents/articles/kenpin-kotsu",
+      "target": "https://www.shigotomo.jp/contents/articles/kenpin-kotsu",
       "value": 1,
       "tooltip": "検品作業 ミス > /contents/articles/kenpin-kotsu"
     }

@@ -5,25 +5,25 @@
       "name": "荷物仕分け バイト きつい"
     },
     {
-      "id": "/contents/articles/keisagyo-haken-hard",
-      "name": "/contents/articles/keisagyo-haken-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard"
     },
     {
-      "id": "/zenkoku/MC1/EC1",
-      "name": "/zenkoku/MC1/EC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1/EC1"
     }
   ],
   "links": [
     {
       "source": "荷物仕分け バイト きつい",
-      "target": "/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
       "value": 2,
       "tooltip": "荷物仕分け バイト きつい > /contents/articles/keisagyo-haken-hard"
     },
     {
-      "source": "/contents/articles/keisagyo-haken-hard",
-      "target": "/zenkoku/MC1/EC1",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "value": 0.54,
       "tooltip": "荷物仕分け バイト きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1"
     }
   ]

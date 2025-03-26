@@ -5,14 +5,14 @@
       "name": "検品 バイト きつい"
     },
     {
-      "id": "/contents/articles/kenpinsagyo-kitsui",
-      "name": "/contents/articles/kenpinsagyo-kitsui"
+      "id": "https://www.shigotomo.jp/contents/articles/kenpinsagyo-kitsui",
+      "name": "https://www.shigotomo.jp/contents/articles/kenpinsagyo-kitsui"
     }
   ],
   "links": [
     {
       "source": "検品 バイト きつい",
-      "target": "/contents/articles/kenpinsagyo-kitsui",
+      "target": "https://www.shigotomo.jp/contents/articles/kenpinsagyo-kitsui",
       "value": 1,
       "tooltip": "検品 バイト きつい > /contents/articles/kenpinsagyo-kitsui"
     }

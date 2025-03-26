@@ -5,14 +5,14 @@
       "name": "スーパー お惣菜 バイト"
     },
     {
-      "id": "/kyujin/16117",
-      "name": "/kyujin/16117"
+      "id": "https://www.shigotomo.jp/kyujin/16117",
+      "name": "https://www.shigotomo.jp/kyujin/16117"
     }
   ],
   "links": [
     {
       "source": "スーパー お惣菜 バイト",
-      "target": "/kyujin/16117",
+      "target": "https://www.shigotomo.jp/kyujin/16117",
       "value": 1,
       "tooltip": "スーパー お惣菜 バイト > /kyujin/16117"
     }

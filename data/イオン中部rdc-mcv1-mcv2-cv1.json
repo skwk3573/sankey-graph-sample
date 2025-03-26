@@ -5,14 +5,14 @@
       "name": "イオン中部rdc"
     },
     {
-      "id": "/kyujin/2717",
-      "name": "/kyujin/2717"
+      "id": "https://www.shigotomo.jp/kyujin/2717",
+      "name": "https://www.shigotomo.jp/kyujin/2717"
     }
   ],
   "links": [
     {
       "source": "イオン中部rdc",
-      "target": "/kyujin/2717",
+      "target": "https://www.shigotomo.jp/kyujin/2717",
       "value": 5,
       "tooltip": "イオン中部rdc > /kyujin/2717"
     }

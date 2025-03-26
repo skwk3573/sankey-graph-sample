@@ -5,14 +5,14 @@
       "name": "派遣バイト きつい"
     },
     {
-      "id": "/contents/articles/keisagyo-haken-hard",
-      "name": "/contents/articles/keisagyo-haken-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard"
     }
   ],
   "links": [
     {
       "source": "派遣バイト きつい",
-      "target": "/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
       "value": 1,
       "tooltip": "派遣バイト きつい > /contents/articles/keisagyo-haken-hard"
     }

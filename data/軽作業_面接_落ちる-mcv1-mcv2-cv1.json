@@ -5,26 +5,16 @@
       "name": "軽作業 面接 落ちる"
     },
     {
-      "id": "/contents/articles/keisagyo-shiboudouki",
-      "name": "/contents/articles/keisagyo-shiboudouki"
-    },
-    {
-      "id": "/zenkoku/MC1/EC1",
-      "name": "/zenkoku/MC1/EC1"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki"
     }
   ],
   "links": [
     {
       "source": "軽作業 面接 落ちる",
-      "target": "/contents/articles/keisagyo-shiboudouki",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
       "value": 3,
       "tooltip": "軽作業 面接 落ちる > /contents/articles/keisagyo-shiboudouki"
-    },
-    {
-      "source": "/contents/articles/keisagyo-shiboudouki",
-      "target": "/zenkoku/MC1/EC1",
-      "value": 1,
-      "tooltip": "軽作業 面接 落ちる > /contents/articles/keisagyo-shiboudouki > /zenkoku/MC1/EC1"
     }
   ]
 }

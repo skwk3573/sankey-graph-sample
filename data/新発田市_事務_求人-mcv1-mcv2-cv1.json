@@ -5,14 +5,14 @@
       "name": "新発田市 事務 求人"
     },
     {
-      "id": "/kyujin/17033",
-      "name": "/kyujin/17033"
+      "id": "https://www.shigotomo.jp/kyujin/17033",
+      "name": "https://www.shigotomo.jp/kyujin/17033"
     }
   ],
   "links": [
     {
       "source": "新発田市 事務 求人",
-      "target": "/kyujin/17033",
+      "target": "https://www.shigotomo.jp/kyujin/17033",
       "value": 1,
       "tooltip": "新発田市 事務 求人 > /kyujin/17033"
     }

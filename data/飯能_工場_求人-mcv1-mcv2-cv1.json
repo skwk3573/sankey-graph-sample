@@ -5,14 +5,14 @@
       "name": "飯能 工場 求人"
     },
     {
-      "id": "/kyujin/11110",
-      "name": "/kyujin/11110"
+      "id": "https://www.shigotomo.jp/kyujin/11110",
+      "name": "https://www.shigotomo.jp/kyujin/11110"
     }
   ],
   "links": [
     {
       "source": "飯能 工場 求人",
-      "target": "/kyujin/11110",
+      "target": "https://www.shigotomo.jp/kyujin/11110",
       "value": 1,
       "tooltip": "飯能 工場 求人 > /kyujin/11110"
     }

@@ -5,14 +5,14 @@
       "name": "工場 組立 きつい"
     },
     {
-      "id": "/contents/articles/factory-haken-hard",
-      "name": "/contents/articles/factory-haken-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/factory-haken-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/factory-haken-hard"
     }
   ],
   "links": [
     {
       "source": "工場 組立 きつい",
-      "target": "/contents/articles/factory-haken-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/factory-haken-hard",
       "value": 1,
       "tooltip": "工場 組立 きつい > /contents/articles/factory-haken-hard"
     }

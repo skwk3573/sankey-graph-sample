@@ -5,14 +5,14 @@
       "name": "北葛飾郡杉戸町 求人"
     },
     {
-      "id": "/kyujin/11206",
-      "name": "/kyujin/11206"
+      "id": "https://www.shigotomo.jp/kyujin/11206",
+      "name": "https://www.shigotomo.jp/kyujin/11206"
     }
   ],
   "links": [
     {
       "source": "北葛飾郡杉戸町 求人",
-      "target": "/kyujin/11206",
+      "target": "https://www.shigotomo.jp/kyujin/11206",
       "value": 1,
       "tooltip": "北葛飾郡杉戸町 求人 > /kyujin/11206"
     }

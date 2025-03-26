@@ -5,14 +5,14 @@
       "name": "伊丹市 オープニングスタッフ"
     },
     {
-      "id": "/kyujin/16927",
-      "name": "/kyujin/16927"
+      "id": "https://www.shigotomo.jp/kyujin/16927",
+      "name": "https://www.shigotomo.jp/kyujin/16927"
     }
   ],
   "links": [
     {
       "source": "伊丹市 オープニングスタッフ",
-      "target": "/kyujin/16927",
+      "target": "https://www.shigotomo.jp/kyujin/16927",
       "value": 1,
       "tooltip": "伊丹市 オープニングスタッフ > /kyujin/16927"
     }

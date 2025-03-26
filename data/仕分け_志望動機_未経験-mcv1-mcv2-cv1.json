@@ -5,55 +5,55 @@
       "name": "仕分け 志望動機 未経験"
     },
     {
-      "id": "/contents/articles/keisagyo-shiboudouki",
-      "name": "/contents/articles/keisagyo-shiboudouki"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki"
     },
     {
-      "id": "/apply/535",
-      "name": "/apply/535"
+      "id": "https://www.shigotomo.jp/apply/535",
+      "name": "https://www.shigotomo.jp/apply/535"
     },
     {
-      "id": "/zenkoku/MC1/EC1",
-      "name": "/zenkoku/MC1/EC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1/EC1"
     },
     {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
+      "id": "https://www.shigotomo.jp/apply/confirm",
+      "name": "https://www.shigotomo.jp/apply/confirm"
     },
     {
-      "id": "/apply/complete",
-      "name": "/apply/complete"
+      "id": "https://www.shigotomo.jp/apply/complete",
+      "name": "https://www.shigotomo.jp/apply/complete"
     }
   ],
   "links": [
     {
       "source": "仕分け 志望動機 未経験",
-      "target": "/contents/articles/keisagyo-shiboudouki",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
       "value": 16,
       "tooltip": "仕分け 志望動機 未経験 > /contents/articles/keisagyo-shiboudouki"
     },
     {
-      "source": "/contents/articles/keisagyo-shiboudouki",
-      "target": "/apply/535",
-      "value": 2,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
+      "target": "https://www.shigotomo.jp/apply/535",
+      "value": 1.33,
       "tooltip": "仕分け 志望動機 未経験 > /contents/articles/keisagyo-shiboudouki > /apply/535"
     },
     {
-      "source": "/contents/articles/keisagyo-shiboudouki",
-      "target": "/zenkoku/MC1/EC1",
-      "value": 3,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "value": 1.33,
       "tooltip": "仕分け 志望動機 未経験 > /contents/articles/keisagyo-shiboudouki > /zenkoku/MC1/EC1"
     },
     {
-      "source": "/apply/535",
-      "target": "/apply/confirm",
-      "value": 2,
+      "source": "https://www.shigotomo.jp/apply/535",
+      "target": "https://www.shigotomo.jp/apply/confirm",
+      "value": 1.33,
       "tooltip": "仕分け 志望動機 未経験 > /contents/articles/keisagyo-shiboudouki > /apply/535 > /apply/confirm"
     },
     {
-      "source": "/apply/confirm",
-      "target": "/apply/complete",
-      "value": 2,
+      "source": "https://www.shigotomo.jp/apply/confirm",
+      "target": "https://www.shigotomo.jp/apply/complete",
+      "value": 0.99,
       "tooltip": "仕分け 志望動機 未経験 > /contents/articles/keisagyo-shiboudouki > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]

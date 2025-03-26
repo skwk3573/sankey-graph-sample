@@ -5,14 +5,14 @@
       "name": "新発田市 求人 土日休み"
     },
     {
-      "id": "/kyujin/15326",
-      "name": "/kyujin/15326"
+      "id": "https://www.shigotomo.jp/kyujin/15326",
+      "name": "https://www.shigotomo.jp/kyujin/15326"
     }
   ],
   "links": [
     {
       "source": "新発田市 求人 土日休み",
-      "target": "/kyujin/15326",
+      "target": "https://www.shigotomo.jp/kyujin/15326",
       "value": 1,
       "tooltip": "新発田市 求人 土日休み > /kyujin/15326"
     }

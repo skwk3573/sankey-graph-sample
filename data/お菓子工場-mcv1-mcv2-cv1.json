@@ -5,14 +5,14 @@
       "name": "お菓子工場"
     },
     {
-      "id": "/kyujin/15195",
-      "name": "/kyujin/15195"
+      "id": "https://www.shigotomo.jp/kyujin/15195",
+      "name": "https://www.shigotomo.jp/kyujin/15195"
     }
   ],
   "links": [
     {
       "source": "お菓子工場",
-      "target": "/kyujin/15195",
+      "target": "https://www.shigotomo.jp/kyujin/15195",
       "value": 1,
       "tooltip": "お菓子工場 > /kyujin/15195"
     }

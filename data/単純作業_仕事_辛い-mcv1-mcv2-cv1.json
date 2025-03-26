@@ -5,25 +5,25 @@
       "name": "単純作業 仕事 辛い"
     },
     {
-      "id": "/contents/articles/keisagyo",
-      "name": "/contents/articles/keisagyo"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo"
     },
     {
-      "id": "/zenkoku/MC1/EC1",
-      "name": "/zenkoku/MC1/EC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1/EC1"
     }
   ],
   "links": [
     {
       "source": "単純作業 仕事 辛い",
-      "target": "/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo",
       "value": 1,
       "tooltip": "単純作業 仕事 辛い > /contents/articles/keisagyo"
     },
     {
-      "source": "/contents/articles/keisagyo",
-      "target": "/zenkoku/MC1/EC1",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "value": 0.66,
       "tooltip": "単純作業 仕事 辛い > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
     }
   ]

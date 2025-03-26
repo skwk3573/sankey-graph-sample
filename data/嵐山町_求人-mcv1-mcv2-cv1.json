@@ -5,14 +5,14 @@
       "name": "嵐山町 求人"
     },
     {
-      "id": "/kyujin/16137",
-      "name": "/kyujin/16137"
+      "id": "https://www.shigotomo.jp/kyujin/16137",
+      "name": "https://www.shigotomo.jp/kyujin/16137"
     }
   ],
   "links": [
     {
       "source": "嵐山町 求人",
-      "target": "/kyujin/16137",
+      "target": "https://www.shigotomo.jp/kyujin/16137",
       "value": 1,
       "tooltip": "嵐山町 求人 > /kyujin/16137"
     }

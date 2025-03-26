@@ -5,14 +5,14 @@
       "name": "就活 工場見学 服装 女子"
     },
     {
-      "id": "/contents/articles/interview-clothes",
-      "name": "/contents/articles/interview-clothes"
+      "id": "https://www.shigotomo.jp/contents/articles/interview-clothes",
+      "name": "https://www.shigotomo.jp/contents/articles/interview-clothes"
     }
   ],
   "links": [
     {
       "source": "就活 工場見学 服装 女子",
-      "target": "/contents/articles/interview-clothes",
+      "target": "https://www.shigotomo.jp/contents/articles/interview-clothes",
       "value": 2,
       "tooltip": "就活 工場見学 服装 女子 > /contents/articles/interview-clothes"
     }

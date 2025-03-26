@@ -5,36 +5,46 @@
       "name": "モノタロウ 倉庫 きつい"
     },
     {
-      "id": "/contents/articles/keisagyo-haken-hard",
-      "name": "/contents/articles/keisagyo-haken-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard"
     },
     {
-      "id": "/zenkoku/MC1",
-      "name": "/zenkoku/MC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1"
     },
     {
-      "id": "/zenkoku/MC1/EC1",
-      "name": "/zenkoku/MC1/EC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1/EC1"
+    },
+    {
+      "id": "https://www.shigotomo.jp/kyujin/search-detail",
+      "name": "https://www.shigotomo.jp/kyujin/search-detail"
     }
   ],
   "links": [
     {
       "source": "モノタロウ 倉庫 きつい",
-      "target": "/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
       "value": 12,
       "tooltip": "モノタロウ 倉庫 きつい > /contents/articles/keisagyo-haken-hard"
     },
     {
-      "source": "/contents/articles/keisagyo-haken-hard",
-      "target": "/zenkoku/MC1",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1",
+      "value": 1.11,
       "tooltip": "モノタロウ 倉庫 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1"
     },
     {
-      "source": "/contents/articles/keisagyo-haken-hard",
-      "target": "/zenkoku/MC1/EC1",
-      "value": 3,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "value": 3.22,
       "tooltip": "モノタロウ 倉庫 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1"
+    },
+    {
+      "source": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 0.68,
+      "tooltip": "モノタロウ 倉庫 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     }
   ]
 }

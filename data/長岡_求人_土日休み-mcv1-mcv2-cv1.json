@@ -5,14 +5,14 @@
       "name": "長岡 求人 土日休み"
     },
     {
-      "id": "/kyujin/15636",
-      "name": "/kyujin/15636"
+      "id": "https://www.shigotomo.jp/kyujin/15636",
+      "name": "https://www.shigotomo.jp/kyujin/15636"
     }
   ],
   "links": [
     {
       "source": "長岡 求人 土日休み",
-      "target": "/kyujin/15636",
+      "target": "https://www.shigotomo.jp/kyujin/15636",
       "value": 1,
       "tooltip": "長岡 求人 土日休み > /kyujin/15636"
     }

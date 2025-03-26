@@ -5,16 +5,26 @@
       "name": "派遣"
     },
     {
-      "id": "/contents/articles/koujohaken-bakkure-taisho",
-      "name": "/contents/articles/koujohaken-bakkure-taisho"
+      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho",
+      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho"
+    },
+    {
+      "id": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "name": "https://www.shigotomo.jp/zenkoku/EC1/FW工場"
     }
   ],
   "links": [
     {
       "source": "派遣",
-      "target": "/contents/articles/koujohaken-bakkure-taisho",
+      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho",
       "value": 1,
       "tooltip": "派遣 > /contents/articles/koujohaken-bakkure-taisho"
+    },
+    {
+      "source": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho",
+      "target": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "value": 0.5,
+      "tooltip": "派遣 > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/EC1/FW工場"
     }
   ]
 }

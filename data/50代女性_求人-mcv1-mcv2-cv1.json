@@ -5,14 +5,14 @@
       "name": "50代女性 求人"
     },
     {
-      "id": "/kyujin/16931",
-      "name": "/kyujin/16931"
+      "id": "https://www.shigotomo.jp/kyujin/16931",
+      "name": "https://www.shigotomo.jp/kyujin/16931"
     }
   ],
   "links": [
     {
       "source": "50代女性 求人",
-      "target": "/kyujin/16931",
+      "target": "https://www.shigotomo.jp/kyujin/16931",
       "value": 1,
       "tooltip": "50代女性 求人 > /kyujin/16931"
     }

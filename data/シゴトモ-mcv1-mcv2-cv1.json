@@ -5,82 +5,56 @@
       "name": "シゴトモ"
     },
     {
-      "id": "/",
-      "name": "/"
+      "id": "https://www.shigotomo.jp/",
+      "name": "https://www.shigotomo.jp/"
     },
     {
-      "id": "/zenkoku/SC16",
-      "name": "/zenkoku/SC16"
+      "id": "https://www.shigotomo.jp/zenkoku/SC16",
+      "name": "https://www.shigotomo.jp/zenkoku/SC16"
     },
     {
-      "id": "/zenkoku/PC27,28,26,29,25,30",
-      "name": "/zenkoku/PC27,28,26,29,25,30"
+      "id": "https://www.shigotomo.jp/kyujin/search-detail",
+      "name": "https://www.shigotomo.jp/kyujin/search-detail"
     },
     {
-      "id": "/kyujin/search-detail",
-      "name": "/kyujin/search-detail"
+      "id": "https://www.shigotomo.jp/zenkoku/PC15",
+      "name": "https://www.shigotomo.jp/zenkoku/PC15"
     },
     {
-      "id": "/zenkoku/DC28201",
-      "name": "/zenkoku/DC28201"
-    },
-    {
-      "id": "/keep",
-      "name": "/keep"
-    },
-    {
-      "id": "/zenkoku/PC15",
-      "name": "/zenkoku/PC15"
+      "id": "https://www.shigotomo.jp/zenkoku/PC27,28,26,29,25,30",
+      "name": "https://www.shigotomo.jp/zenkoku/PC27,28,26,29,25,30"
     }
   ],
   "links": [
     {
       "source": "シゴトモ",
-      "target": "/",
+      "target": "https://www.shigotomo.jp/",
       "value": 41,
       "tooltip": "シゴトモ > /"
     },
     {
       "source": "シゴトモ",
-      "target": "/zenkoku/SC16",
+      "target": "https://www.shigotomo.jp/zenkoku/SC16",
       "value": 4,
       "tooltip": "シゴトモ > /zenkoku/SC16"
     },
     {
-      "source": "/",
-      "target": "/zenkoku/PC27,28,26,29,25,30",
-      "value": 1,
-      "tooltip": "シゴトモ > / > /zenkoku/PC27,28,26,29,25,30"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/SC16",
-      "value": 1,
-      "tooltip": "シゴトモ > / > /zenkoku/SC16"
-    },
-    {
-      "source": "/",
-      "target": "/kyujin/search-detail",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 0.54,
       "tooltip": "シゴトモ > / > /kyujin/search-detail"
     },
     {
-      "source": "/",
-      "target": "/zenkoku/DC28201",
-      "value": 1,
-      "tooltip": "シゴトモ > / > /zenkoku/DC28201"
-    },
-    {
-      "source": "/",
-      "target": "/keep",
-      "value": 1,
-      "tooltip": "シゴトモ > / > /keep"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/PC15",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/PC15",
+      "value": 1.67,
       "tooltip": "シゴトモ > / > /zenkoku/PC15"
+    },
+    {
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/PC27,28,26,29,25,30",
+      "value": 0.7,
+      "tooltip": "シゴトモ > / > /zenkoku/PC27,28,26,29,25,30"
     }
   ]
 }

@@ -5,26 +5,16 @@
       "name": "派遣 工場 女性"
     },
     {
-      "id": "/contents/articles/factory-haken-woman",
-      "name": "/contents/articles/factory-haken-woman"
-    },
-    {
-      "id": "/zenkoku/EC1/FW工場",
-      "name": "/zenkoku/EC1/FW工場"
+      "id": "https://www.shigotomo.jp/contents/articles/factory-haken-woman",
+      "name": "https://www.shigotomo.jp/contents/articles/factory-haken-woman"
     }
   ],
   "links": [
     {
       "source": "派遣 工場 女性",
-      "target": "/contents/articles/factory-haken-woman",
+      "target": "https://www.shigotomo.jp/contents/articles/factory-haken-woman",
       "value": 1,
       "tooltip": "派遣 工場 女性 > /contents/articles/factory-haken-woman"
-    },
-    {
-      "source": "/contents/articles/factory-haken-woman",
-      "target": "/zenkoku/EC1/FW工場",
-      "value": 1,
-      "tooltip": "派遣 工場 女性 > /contents/articles/factory-haken-woman > /zenkoku/EC1/FW工場"
     }
   ]
 }

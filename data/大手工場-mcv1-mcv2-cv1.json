@@ -5,14 +5,14 @@
       "name": "大手工場"
     },
     {
-      "id": "/kyujin/3195",
-      "name": "/kyujin/3195"
+      "id": "https://www.shigotomo.jp/kyujin/3195",
+      "name": "https://www.shigotomo.jp/kyujin/3195"
     }
   ],
   "links": [
     {
       "source": "大手工場",
-      "target": "/kyujin/3195",
+      "target": "https://www.shigotomo.jp/kyujin/3195",
       "value": 1,
       "tooltip": "大手工場 > /kyujin/3195"
     }

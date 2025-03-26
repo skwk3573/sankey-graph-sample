@@ -5,14 +5,14 @@
       "name": "軽作業バイト 服装"
     },
     {
-      "id": "/contents/articles/keisagyou-hukusouwoman",
-      "name": "/contents/articles/keisagyou-hukusouwoman"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman"
     }
   ],
   "links": [
     {
       "source": "軽作業バイト 服装",
-      "target": "/contents/articles/keisagyou-hukusouwoman",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
       "value": 1,
       "tooltip": "軽作業バイト 服装 > /contents/articles/keisagyou-hukusouwoman"
     }

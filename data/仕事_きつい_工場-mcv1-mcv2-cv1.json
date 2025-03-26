@@ -5,14 +5,14 @@
       "name": "仕事 きつい 工場"
     },
     {
-      "id": "/contents/articles/factory-haken-hard",
-      "name": "/contents/articles/factory-haken-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/factory-haken-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/factory-haken-hard"
     }
   ],
   "links": [
     {
       "source": "仕事 きつい 工場",
-      "target": "/contents/articles/factory-haken-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/factory-haken-hard",
       "value": 2,
       "tooltip": "仕事 きつい 工場 > /contents/articles/factory-haken-hard"
     }

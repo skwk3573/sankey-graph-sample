@@ -5,16 +5,26 @@
       "name": "仕事バックレる"
     },
     {
-      "id": "/contents/articles/koujohaken-bakkure-taisho",
-      "name": "/contents/articles/koujohaken-bakkure-taisho"
+      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho",
+      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho"
+    },
+    {
+      "id": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "name": "https://www.shigotomo.jp/zenkoku/EC1/FW工場"
     }
   ],
   "links": [
     {
       "source": "仕事バックレる",
-      "target": "/contents/articles/koujohaken-bakkure-taisho",
+      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho",
       "value": 2,
       "tooltip": "仕事バックレる > /contents/articles/koujohaken-bakkure-taisho"
+    },
+    {
+      "source": "https://www.shigotomo.jp/contents/articles/koujohaken-bakkure-taisho",
+      "target": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "value": 1,
+      "tooltip": "仕事バックレる > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/EC1/FW工場"
     }
   ]
 }

@@ -5,14 +5,14 @@
       "name": "コールセンター 夜勤"
     },
     {
-      "id": "/kyujin/13826",
-      "name": "/kyujin/13826"
+      "id": "https://www.shigotomo.jp/kyujin/13826",
+      "name": "https://www.shigotomo.jp/kyujin/13826"
     }
   ],
   "links": [
     {
       "source": "コールセンター 夜勤",
-      "target": "/kyujin/13826",
+      "target": "https://www.shigotomo.jp/kyujin/13826",
       "value": 2,
       "tooltip": "コールセンター 夜勤 > /kyujin/13826"
     }

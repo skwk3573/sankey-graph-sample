@@ -5,61 +5,67 @@
       "name": "倉庫作業 きつい"
     },
     {
-      "id": "/contents/articles/keisagyo-haken-hard",
-      "name": "/contents/articles/keisagyo-haken-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard"
     },
     {
-      "id": "/contents/articles/keisagyo",
-      "name": "/contents/articles/keisagyo"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo"
     },
     {
-      "id": "/zenkoku/MC1/EC1",
-      "name": "/zenkoku/MC1/EC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1"
     },
     {
-      "id": "/zenkoku/MC1",
-      "name": "/zenkoku/MC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1/EC1"
     },
     {
-      "id": "/kyujin/search-detail",
-      "name": "/kyujin/search-detail"
+      "id": "https://www.shigotomo.jp/kyujin/search-detail",
+      "name": "https://www.shigotomo.jp/kyujin/search-detail"
     }
   ],
   "links": [
     {
       "source": "倉庫作業 きつい",
-      "target": "/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
       "value": 14,
       "tooltip": "倉庫作業 きつい > /contents/articles/keisagyo-haken-hard"
     },
     {
       "source": "倉庫作業 きつい",
-      "target": "/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo",
       "value": 1,
       "tooltip": "倉庫作業 きつい > /contents/articles/keisagyo"
     },
     {
-      "source": "/contents/articles/keisagyo",
-      "target": "/zenkoku/MC1/EC1",
-      "value": 1,
-      "tooltip": "倉庫作業 きつい > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
-    },
-    {
-      "source": "/contents/articles/keisagyo-haken-hard",
-      "target": "/zenkoku/MC1",
-      "value": 2,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1",
+      "value": 1.3,
       "tooltip": "倉庫作業 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1"
     },
     {
-      "source": "/contents/articles/keisagyo-haken-hard",
-      "target": "/zenkoku/MC1/EC1",
-      "value": 4,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "value": 3.75,
       "tooltip": "倉庫作業 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1"
     },
     {
-      "source": "/zenkoku/MC1/EC1",
-      "target": "/kyujin/search-detail",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "value": 0.66,
+      "tooltip": "倉庫作業 きつい > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
+    },
+    {
+      "source": "https://www.shigotomo.jp/zenkoku/MC1",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 0.52,
+      "tooltip": "倉庫作業 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/search-detail"
+    },
+    {
+      "source": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 0.8,
       "tooltip": "倉庫作業 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     }
   ]

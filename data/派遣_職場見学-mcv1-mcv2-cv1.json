@@ -5,14 +5,14 @@
       "name": "派遣 職場見学"
     },
     {
-      "id": "/contents/articles/factorytour",
-      "name": "/contents/articles/factorytour"
+      "id": "https://www.shigotomo.jp/contents/articles/factorytour",
+      "name": "https://www.shigotomo.jp/contents/articles/factorytour"
     }
   ],
   "links": [
     {
       "source": "派遣 職場見学",
-      "target": "/contents/articles/factorytour",
+      "target": "https://www.shigotomo.jp/contents/articles/factorytour",
       "value": 1,
       "tooltip": "派遣 職場見学 > /contents/articles/factorytour"
     }

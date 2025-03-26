@@ -5,14 +5,14 @@
       "name": "加東市南山 求人"
     },
     {
-      "id": "/kyujin/16918",
-      "name": "/kyujin/16918"
+      "id": "https://www.shigotomo.jp/kyujin/16918",
+      "name": "https://www.shigotomo.jp/kyujin/16918"
     }
   ],
   "links": [
     {
       "source": "加東市南山 求人",
-      "target": "/kyujin/16918",
+      "target": "https://www.shigotomo.jp/kyujin/16918",
       "value": 2,
       "tooltip": "加東市南山 求人 > /kyujin/16918"
     }

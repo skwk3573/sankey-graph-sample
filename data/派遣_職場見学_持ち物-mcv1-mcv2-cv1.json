@@ -5,46 +5,36 @@
       "name": "派遣 職場見学 持ち物"
     },
     {
-      "id": "/contents/articles/interview-clothes",
-      "name": "/contents/articles/interview-clothes"
+      "id": "https://www.shigotomo.jp/contents/articles/interview-clothes",
+      "name": "https://www.shigotomo.jp/contents/articles/interview-clothes"
     },
     {
-      "id": "/zenkoku/MC1",
-      "name": "/zenkoku/MC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1"
     },
     {
-      "id": "/zenkoku/EC1/FW工場",
-      "name": "/zenkoku/EC1/FW工場"
-    },
-    {
-      "id": "/apply/535",
-      "name": "/apply/535"
+      "id": "https://www.shigotomo.jp/kyujin/search-detail",
+      "name": "https://www.shigotomo.jp/kyujin/search-detail"
     }
   ],
   "links": [
     {
       "source": "派遣 職場見学 持ち物",
-      "target": "/contents/articles/interview-clothes",
+      "target": "https://www.shigotomo.jp/contents/articles/interview-clothes",
       "value": 7,
       "tooltip": "派遣 職場見学 持ち物 > /contents/articles/interview-clothes"
     },
     {
-      "source": "/contents/articles/interview-clothes",
-      "target": "/zenkoku/MC1",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/interview-clothes",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1",
+      "value": 1.47,
       "tooltip": "派遣 職場見学 持ち物 > /contents/articles/interview-clothes > /zenkoku/MC1"
     },
     {
-      "source": "/contents/articles/interview-clothes",
-      "target": "/zenkoku/EC1/FW工場",
-      "value": 1,
-      "tooltip": "派遣 職場見学 持ち物 > /contents/articles/interview-clothes > /zenkoku/EC1/FW工場"
-    },
-    {
-      "source": "/contents/articles/interview-clothes",
-      "target": "/apply/535",
-      "value": 1,
-      "tooltip": "派遣 職場見学 持ち物 > /contents/articles/interview-clothes > /apply/535"
+      "source": "https://www.shigotomo.jp/zenkoku/MC1",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 0.59,
+      "tooltip": "派遣 職場見学 持ち物 > /contents/articles/interview-clothes > /zenkoku/MC1 > /kyujin/search-detail"
     }
   ]
 }

@@ -5,14 +5,14 @@
       "name": "雑貨屋 求人"
     },
     {
-      "id": "/kyujin/16339",
-      "name": "/kyujin/16339"
+      "id": "https://www.shigotomo.jp/kyujin/16339",
+      "name": "https://www.shigotomo.jp/kyujin/16339"
     }
   ],
   "links": [
     {
       "source": "雑貨屋 求人",
-      "target": "/kyujin/16339",
+      "target": "https://www.shigotomo.jp/kyujin/16339",
       "value": 5,
       "tooltip": "雑貨屋 求人 > /kyujin/16339"
     }

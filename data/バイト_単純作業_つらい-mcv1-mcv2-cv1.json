@@ -5,36 +5,46 @@
       "name": "バイト 単純作業 つらい"
     },
     {
-      "id": "/contents/articles/keisagyo",
-      "name": "/contents/articles/keisagyo"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo"
     },
     {
-      "id": "/zenkoku/MC1",
-      "name": "/zenkoku/MC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1"
     },
     {
-      "id": "/zenkoku/MC1/EC1",
-      "name": "/zenkoku/MC1/EC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1/EC1"
+    },
+    {
+      "id": "https://www.shigotomo.jp/kyujin/search-detail",
+      "name": "https://www.shigotomo.jp/kyujin/search-detail"
     }
   ],
   "links": [
     {
       "source": "バイト 単純作業 つらい",
-      "target": "/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo",
       "value": 4,
       "tooltip": "バイト 単純作業 つらい > /contents/articles/keisagyo"
     },
     {
-      "source": "/contents/articles/keisagyo",
-      "target": "/zenkoku/MC1",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1",
+      "value": 1.02,
       "tooltip": "バイト 単純作業 つらい > /contents/articles/keisagyo > /zenkoku/MC1"
     },
     {
-      "source": "/contents/articles/keisagyo",
-      "target": "/zenkoku/MC1/EC1",
-      "value": 2,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "value": 2.64,
       "tooltip": "バイト 単純作業 つらい > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
+    },
+    {
+      "source": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 0.56,
+      "tooltip": "バイト 単純作業 つらい > /contents/articles/keisagyo > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     }
   ]
 }

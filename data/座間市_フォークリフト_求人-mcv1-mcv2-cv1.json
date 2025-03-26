@@ -5,14 +5,14 @@
       "name": "座間市 フォークリフト 求人"
     },
     {
-      "id": "/kyujin/9878",
-      "name": "/kyujin/9878"
+      "id": "https://www.shigotomo.jp/kyujin/9878",
+      "name": "https://www.shigotomo.jp/kyujin/9878"
     }
   ],
   "links": [
     {
       "source": "座間市 フォークリフト 求人",
-      "target": "/kyujin/9878",
+      "target": "https://www.shigotomo.jp/kyujin/9878",
       "value": 5,
       "tooltip": "座間市 フォークリフト 求人 > /kyujin/9878"
     }

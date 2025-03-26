@@ -5,36 +5,26 @@
       "name": "派遣 コミュニケーション能力 低い"
     },
     {
-      "id": "/contents/articles/koujohaken-daredemo-ukaru",
-      "name": "/contents/articles/koujohaken-daredemo-ukaru"
+      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-daredemo-ukaru",
+      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-daredemo-ukaru"
     },
     {
-      "id": "/zenkoku/PC27/FW工場　派遣",
-      "name": "/zenkoku/PC27/FW工場　派遣"
-    },
-    {
-      "id": "/kyujin/search-detail",
-      "name": "/kyujin/search-detail"
+      "id": "https://www.shigotomo.jp/zenkoku/PC27/FW工場　派遣",
+      "name": "https://www.shigotomo.jp/zenkoku/PC27/FW工場　派遣"
     }
   ],
   "links": [
     {
       "source": "派遣 コミュニケーション能力 低い",
-      "target": "/contents/articles/koujohaken-daredemo-ukaru",
+      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-daredemo-ukaru",
       "value": 2,
       "tooltip": "派遣 コミュニケーション能力 低い > /contents/articles/koujohaken-daredemo-ukaru"
     },
     {
-      "source": "/contents/articles/koujohaken-daredemo-ukaru",
-      "target": "/zenkoku/PC27/FW工場　派遣",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/koujohaken-daredemo-ukaru",
+      "target": "https://www.shigotomo.jp/zenkoku/PC27/FW工場　派遣",
+      "value": 1.09,
       "tooltip": "派遣 コミュニケーション能力 低い > /contents/articles/koujohaken-daredemo-ukaru > /zenkoku/PC27/FW工場　派遣"
-    },
-    {
-      "source": "/zenkoku/PC27/FW工場　派遣",
-      "target": "/kyujin/search-detail",
-      "value": 1,
-      "tooltip": "派遣 コミュニケーション能力 低い > /contents/articles/koujohaken-daredemo-ukaru > /zenkoku/PC27/FW工場　派遣 > /kyujin/search-detail"
     }
   ]
 }

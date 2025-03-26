@@ -5,24 +5,24 @@
       "name": "箱詰め 求人"
     },
     {
-      "id": "/kyujin/3828",
-      "name": "/kyujin/3828"
+      "id": "https://www.shigotomo.jp/kyujin/3828",
+      "name": "https://www.shigotomo.jp/kyujin/3828"
     },
     {
-      "id": "/kyujin/1880",
-      "name": "/kyujin/1880"
+      "id": "https://www.shigotomo.jp/kyujin/1880",
+      "name": "https://www.shigotomo.jp/kyujin/1880"
     }
   ],
   "links": [
     {
       "source": "箱詰め 求人",
-      "target": "/kyujin/3828",
+      "target": "https://www.shigotomo.jp/kyujin/3828",
       "value": 1,
       "tooltip": "箱詰め 求人 > /kyujin/3828"
     },
     {
       "source": "箱詰め 求人",
-      "target": "/kyujin/1880",
+      "target": "https://www.shigotomo.jp/kyujin/1880",
       "value": 1,
       "tooltip": "箱詰め 求人 > /kyujin/1880"
     }

@@ -5,56 +5,46 @@
       "name": "西淀川区組立トーコー"
     },
     {
-      "id": "/kyujin/16735",
-      "name": "/kyujin/16735"
+      "id": "https://www.shigotomo.jp/kyujin/16735",
+      "name": "https://www.shigotomo.jp/kyujin/16735"
     },
     {
-      "id": "/kyujin/16705",
-      "name": "/kyujin/16705"
+      "id": "https://www.shigotomo.jp/kyujin/16705",
+      "name": "https://www.shigotomo.jp/kyujin/16705"
     },
     {
-      "id": "/zenkoku/PC27",
-      "name": "/zenkoku/PC27"
+      "id": "https://www.shigotomo.jp/zenkoku/PC27",
+      "name": "https://www.shigotomo.jp/zenkoku/PC27"
     },
     {
-      "id": "/kyujin/16731",
-      "name": "/kyujin/16731"
-    },
-    {
-      "id": "/apply/16705",
-      "name": "/apply/16705"
+      "id": "https://www.shigotomo.jp/kyujin/16731",
+      "name": "https://www.shigotomo.jp/kyujin/16731"
     }
   ],
   "links": [
     {
       "source": "西淀川区組立トーコー",
-      "target": "/kyujin/16735",
+      "target": "https://www.shigotomo.jp/kyujin/16735",
       "value": 3,
       "tooltip": "西淀川区組立トーコー > /kyujin/16735"
     },
     {
       "source": "西淀川区組立トーコー",
-      "target": "/kyujin/16705",
+      "target": "https://www.shigotomo.jp/kyujin/16705",
       "value": 8,
       "tooltip": "西淀川区組立トーコー > /kyujin/16705"
     },
     {
       "source": "西淀川区組立トーコー",
-      "target": "/zenkoku/PC27",
+      "target": "https://www.shigotomo.jp/zenkoku/PC27",
       "value": 1,
       "tooltip": "西淀川区組立トーコー > /zenkoku/PC27"
     },
     {
       "source": "西淀川区組立トーコー",
-      "target": "/kyujin/16731",
+      "target": "https://www.shigotomo.jp/kyujin/16731",
       "value": 1,
       "tooltip": "西淀川区組立トーコー > /kyujin/16731"
-    },
-    {
-      "source": "/kyujin/16705",
-      "target": "/apply/16705",
-      "value": 3,
-      "tooltip": "西淀川区組立トーコー > /kyujin/16705 > /apply/16705"
     }
   ]
 }

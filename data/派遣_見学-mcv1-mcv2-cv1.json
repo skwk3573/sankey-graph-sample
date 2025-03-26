@@ -5,26 +5,16 @@
       "name": "派遣 見学"
     },
     {
-      "id": "/contents/articles/factorytour",
-      "name": "/contents/articles/factorytour"
-    },
-    {
-      "id": "/zenkoku/EC1/FW工場",
-      "name": "/zenkoku/EC1/FW工場"
+      "id": "https://www.shigotomo.jp/contents/articles/factorytour",
+      "name": "https://www.shigotomo.jp/contents/articles/factorytour"
     }
   ],
   "links": [
     {
       "source": "派遣 見学",
-      "target": "/contents/articles/factorytour",
+      "target": "https://www.shigotomo.jp/contents/articles/factorytour",
       "value": 4,
       "tooltip": "派遣 見学 > /contents/articles/factorytour"
-    },
-    {
-      "source": "/contents/articles/factorytour",
-      "target": "/zenkoku/EC1/FW工場",
-      "value": 1,
-      "tooltip": "派遣 見学 > /contents/articles/factorytour > /zenkoku/EC1/FW工場"
     }
   ]
 }

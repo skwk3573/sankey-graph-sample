@@ -5,14 +5,14 @@
       "name": "株式会社トーコー やばい"
     },
     {
-      "id": "/contents/articles/factory-haken-hard",
-      "name": "/contents/articles/factory-haken-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/factory-haken-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/factory-haken-hard"
     }
   ],
   "links": [
     {
       "source": "株式会社トーコー やばい",
-      "target": "/contents/articles/factory-haken-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/factory-haken-hard",
       "value": 1,
       "tooltip": "株式会社トーコー やばい > /contents/articles/factory-haken-hard"
     }

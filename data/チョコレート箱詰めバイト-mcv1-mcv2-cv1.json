@@ -5,14 +5,14 @@
       "name": "チョコレート箱詰めバイト"
     },
     {
-      "id": "/kyujin/12746",
-      "name": "/kyujin/12746"
+      "id": "https://www.shigotomo.jp/kyujin/12746",
+      "name": "https://www.shigotomo.jp/kyujin/12746"
     }
   ],
   "links": [
     {
       "source": "チョコレート箱詰めバイト",
-      "target": "/kyujin/12746",
+      "target": "https://www.shigotomo.jp/kyujin/12746",
       "value": 1,
       "tooltip": "チョコレート箱詰めバイト > /kyujin/12746"
     }

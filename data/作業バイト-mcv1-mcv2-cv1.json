@@ -5,25 +5,25 @@
       "name": "作業バイト"
     },
     {
-      "id": "/contents/articles/keisagyo",
-      "name": "/contents/articles/keisagyo"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo"
     },
     {
-      "id": "/zenkoku/MC1/EC1",
-      "name": "/zenkoku/MC1/EC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1/EC1"
     }
   ],
   "links": [
     {
       "source": "作業バイト",
-      "target": "/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo",
       "value": 1,
       "tooltip": "作業バイト > /contents/articles/keisagyo"
     },
     {
-      "source": "/contents/articles/keisagyo",
-      "target": "/zenkoku/MC1/EC1",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "value": 0.66,
       "tooltip": "作業バイト > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
     }
   ]

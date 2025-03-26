@@ -5,46 +5,16 @@
       "name": "お菓子のピッキング"
     },
     {
-      "id": "/kyujin/11206",
-      "name": "/kyujin/11206"
-    },
-    {
-      "id": "/apply/11206",
-      "name": "/apply/11206"
-    },
-    {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
-    },
-    {
-      "id": "/apply/complete",
-      "name": "/apply/complete"
+      "id": "https://www.shigotomo.jp/kyujin/11206",
+      "name": "https://www.shigotomo.jp/kyujin/11206"
     }
   ],
   "links": [
     {
       "source": "お菓子のピッキング",
-      "target": "/kyujin/11206",
+      "target": "https://www.shigotomo.jp/kyujin/11206",
       "value": 4,
       "tooltip": "お菓子のピッキング > /kyujin/11206"
-    },
-    {
-      "source": "/kyujin/11206",
-      "target": "/apply/11206",
-      "value": 1,
-      "tooltip": "お菓子のピッキング > /kyujin/11206 > /apply/11206"
-    },
-    {
-      "source": "/apply/11206",
-      "target": "/apply/confirm",
-      "value": 1,
-      "tooltip": "お菓子のピッキング > /kyujin/11206 > /apply/11206 > /apply/confirm"
-    },
-    {
-      "source": "/apply/confirm",
-      "target": "/apply/complete",
-      "value": 1,
-      "tooltip": "お菓子のピッキング > /kyujin/11206 > /apply/11206 > /apply/confirm > /apply/complete"
     }
   ]
 }

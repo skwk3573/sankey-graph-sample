@@ -5,14 +5,14 @@
       "name": "求人 短期"
     },
     {
-      "id": "/kyujin/15613",
-      "name": "/kyujin/15613"
+      "id": "https://www.shigotomo.jp/kyujin/15613",
+      "name": "https://www.shigotomo.jp/kyujin/15613"
     }
   ],
   "links": [
     {
       "source": "求人 短期",
-      "target": "/kyujin/15613",
+      "target": "https://www.shigotomo.jp/kyujin/15613",
       "value": 2,
       "tooltip": "求人 短期 > /kyujin/15613"
     }

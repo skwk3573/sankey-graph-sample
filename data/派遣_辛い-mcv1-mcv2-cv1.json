@@ -5,14 +5,14 @@
       "name": "派遣 辛い"
     },
     {
-      "id": "/contents/articles/factory-haken-hard",
-      "name": "/contents/articles/factory-haken-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/factory-haken-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/factory-haken-hard"
     }
   ],
   "links": [
     {
       "source": "派遣 辛い",
-      "target": "/contents/articles/factory-haken-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/factory-haken-hard",
       "value": 1,
       "tooltip": "派遣 辛い > /contents/articles/factory-haken-hard"
     }

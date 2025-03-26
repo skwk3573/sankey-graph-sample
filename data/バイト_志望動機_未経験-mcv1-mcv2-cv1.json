@@ -5,14 +5,14 @@
       "name": "バイト 志望動機 未経験"
     },
     {
-      "id": "/contents/articles/keisagyo-shiboudouki",
-      "name": "/contents/articles/keisagyo-shiboudouki"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki"
     }
   ],
   "links": [
     {
       "source": "バイト 志望動機 未経験",
-      "target": "/contents/articles/keisagyo-shiboudouki",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
       "value": 1,
       "tooltip": "バイト 志望動機 未経験 > /contents/articles/keisagyo-shiboudouki"
     }

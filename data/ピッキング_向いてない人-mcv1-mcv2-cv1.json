@@ -5,55 +5,65 @@
       "name": "ピッキング 向いてない人"
     },
     {
-      "id": "/contents/articles/temporary-picking-hard",
-      "name": "/contents/articles/temporary-picking-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard"
     },
     {
-      "id": "/contents/articles/keisagyo",
-      "name": "/contents/articles/keisagyo"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo"
     },
     {
-      "id": "/zenkoku/MC1/EC1",
-      "name": "/zenkoku/MC1/EC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1"
     },
     {
-      "id": "/zenkoku/MC7",
-      "name": "/zenkoku/MC7"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1/EC1"
     },
     {
-      "id": "/zenkoku/MC7/EC1",
-      "name": "/zenkoku/MC7/EC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC7",
+      "name": "https://www.shigotomo.jp/zenkoku/MC7"
+    },
+    {
+      "id": "https://www.shigotomo.jp/zenkoku/MC7/EC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC7/EC1"
     }
   ],
   "links": [
     {
       "source": "ピッキング 向いてない人",
-      "target": "/contents/articles/temporary-picking-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard",
       "value": 6,
       "tooltip": "ピッキング 向いてない人 > /contents/articles/temporary-picking-hard"
     },
     {
       "source": "ピッキング 向いてない人",
-      "target": "/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo",
       "value": 2,
       "tooltip": "ピッキング 向いてない人 > /contents/articles/keisagyo"
     },
     {
-      "source": "/contents/articles/keisagyo",
-      "target": "/zenkoku/MC1/EC1",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1",
+      "value": 0.51,
+      "tooltip": "ピッキング 向いてない人 > /contents/articles/keisagyo > /zenkoku/MC1"
+    },
+    {
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "value": 1.32,
       "tooltip": "ピッキング 向いてない人 > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
     },
     {
-      "source": "/contents/articles/temporary-picking-hard",
-      "target": "/zenkoku/MC7",
+      "source": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard",
+      "target": "https://www.shigotomo.jp/zenkoku/MC7",
       "value": 2,
       "tooltip": "ピッキング 向いてない人 > /contents/articles/temporary-picking-hard > /zenkoku/MC7"
     },
     {
-      "source": "/contents/articles/temporary-picking-hard",
-      "target": "/zenkoku/MC7/EC1",
-      "value": 3,
+      "source": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard",
+      "target": "https://www.shigotomo.jp/zenkoku/MC7/EC1",
+      "value": 2.67,
       "tooltip": "ピッキング 向いてない人 > /contents/articles/temporary-picking-hard > /zenkoku/MC7/EC1"
     }
   ]

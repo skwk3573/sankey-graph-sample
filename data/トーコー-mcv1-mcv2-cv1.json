@@ -5,14 +5,14 @@
       "name": "トーコー"
     },
     {
-      "id": "/",
-      "name": "/"
+      "id": "https://www.shigotomo.jp/",
+      "name": "https://www.shigotomo.jp/"
     }
   ],
   "links": [
     {
       "source": "トーコー",
-      "target": "/",
+      "target": "https://www.shigotomo.jp/",
       "value": 11,
       "tooltip": "トーコー > /"
     }

@@ -5,45 +5,45 @@
       "name": "フォークリフト 未経験 厳しい"
     },
     {
-      "id": "/contents/articles/koujohaken-forklift-tired",
-      "name": "/contents/articles/koujohaken-forklift-tired"
+      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired",
+      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired"
     },
     {
-      "id": "/apply/535",
-      "name": "/apply/535"
+      "id": "https://www.shigotomo.jp/apply/535",
+      "name": "https://www.shigotomo.jp/apply/535"
     },
     {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
+      "id": "https://www.shigotomo.jp/apply/confirm",
+      "name": "https://www.shigotomo.jp/apply/confirm"
     },
     {
-      "id": "/apply/complete",
-      "name": "/apply/complete"
+      "id": "https://www.shigotomo.jp/apply/complete",
+      "name": "https://www.shigotomo.jp/apply/complete"
     }
   ],
   "links": [
     {
       "source": "フォークリフト 未経験 厳しい",
-      "target": "/contents/articles/koujohaken-forklift-tired",
+      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired",
       "value": 3,
       "tooltip": "フォークリフト 未経験 厳しい > /contents/articles/koujohaken-forklift-tired"
     },
     {
-      "source": "/contents/articles/koujohaken-forklift-tired",
-      "target": "/apply/535",
+      "source": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired",
+      "target": "https://www.shigotomo.jp/apply/535",
       "value": 1,
       "tooltip": "フォークリフト 未経験 厳しい > /contents/articles/koujohaken-forklift-tired > /apply/535"
     },
     {
-      "source": "/apply/535",
-      "target": "/apply/confirm",
+      "source": "https://www.shigotomo.jp/apply/535",
+      "target": "https://www.shigotomo.jp/apply/confirm",
       "value": 1,
       "tooltip": "フォークリフト 未経験 厳しい > /contents/articles/koujohaken-forklift-tired > /apply/535 > /apply/confirm"
     },
     {
-      "source": "/apply/confirm",
-      "target": "/apply/complete",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/apply/confirm",
+      "target": "https://www.shigotomo.jp/apply/complete",
+      "value": 0.74,
       "tooltip": "フォークリフト 未経験 厳しい > /contents/articles/koujohaken-forklift-tired > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]

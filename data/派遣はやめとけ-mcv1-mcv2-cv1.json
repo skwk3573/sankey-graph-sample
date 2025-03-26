@@ -5,25 +5,25 @@
       "name": "派遣はやめとけ"
     },
     {
-      "id": "/contents/articles/kojohaken-yametoke",
-      "name": "/contents/articles/kojohaken-yametoke"
+      "id": "https://www.shigotomo.jp/contents/articles/kojohaken-yametoke",
+      "name": "https://www.shigotomo.jp/contents/articles/kojohaken-yametoke"
     },
     {
-      "id": "/zenkoku/EC1/FW工場",
-      "name": "/zenkoku/EC1/FW工場"
+      "id": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "name": "https://www.shigotomo.jp/zenkoku/EC1/FW工場"
     }
   ],
   "links": [
     {
       "source": "派遣はやめとけ",
-      "target": "/contents/articles/kojohaken-yametoke",
+      "target": "https://www.shigotomo.jp/contents/articles/kojohaken-yametoke",
       "value": 2,
       "tooltip": "派遣はやめとけ > /contents/articles/kojohaken-yametoke"
     },
     {
-      "source": "/contents/articles/kojohaken-yametoke",
-      "target": "/zenkoku/EC1/FW工場",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/kojohaken-yametoke",
+      "target": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "value": 0.53,
       "tooltip": "派遣はやめとけ > /contents/articles/kojohaken-yametoke > /zenkoku/EC1/FW工場"
     }
   ]

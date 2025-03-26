@@ -5,35 +5,35 @@
       "name": "ピッキングとは"
     },
     {
-      "id": "/contents/articles/temporary-picking-hard",
-      "name": "/contents/articles/temporary-picking-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard"
     },
     {
-      "id": "/zenkoku/MC7",
-      "name": "/zenkoku/MC7"
+      "id": "https://www.shigotomo.jp/zenkoku/MC7",
+      "name": "https://www.shigotomo.jp/zenkoku/MC7"
     },
     {
-      "id": "/zenkoku/MC7/EC1",
-      "name": "/zenkoku/MC7/EC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC7/EC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC7/EC1"
     }
   ],
   "links": [
     {
       "source": "ピッキングとは",
-      "target": "/contents/articles/temporary-picking-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard",
       "value": 3,
       "tooltip": "ピッキングとは > /contents/articles/temporary-picking-hard"
     },
     {
-      "source": "/contents/articles/temporary-picking-hard",
-      "target": "/zenkoku/MC7",
+      "source": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard",
+      "target": "https://www.shigotomo.jp/zenkoku/MC7",
       "value": 1,
       "tooltip": "ピッキングとは > /contents/articles/temporary-picking-hard > /zenkoku/MC7"
     },
     {
-      "source": "/contents/articles/temporary-picking-hard",
-      "target": "/zenkoku/MC7/EC1",
-      "value": 2,
+      "source": "https://www.shigotomo.jp/contents/articles/temporary-picking-hard",
+      "target": "https://www.shigotomo.jp/zenkoku/MC7/EC1",
+      "value": 1.33,
       "tooltip": "ピッキングとは > /contents/articles/temporary-picking-hard > /zenkoku/MC7/EC1"
     }
   ]

@@ -5,14 +5,14 @@
       "name": "トコトコランド トーコー"
     },
     {
-      "id": "/contents/merit/1",
-      "name": "/contents/merit/1"
+      "id": "https://www.shigotomo.jp/contents/merit/1",
+      "name": "https://www.shigotomo.jp/contents/merit/1"
     }
   ],
   "links": [
     {
       "source": "トコトコランド トーコー",
-      "target": "/contents/merit/1",
+      "target": "https://www.shigotomo.jp/contents/merit/1",
       "value": 1,
       "tooltip": "トコトコランド トーコー > /contents/merit/1"
     }

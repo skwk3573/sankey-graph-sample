@@ -5,14 +5,14 @@
       "name": "バイト 動きやすい服装 冬"
     },
     {
-      "id": "/contents/articles/keisagyou-hukusouwoman",
-      "name": "/contents/articles/keisagyou-hukusouwoman"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman"
     }
   ],
   "links": [
     {
       "source": "バイト 動きやすい服装 冬",
-      "target": "/contents/articles/keisagyou-hukusouwoman",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
       "value": 1,
       "tooltip": "バイト 動きやすい服装 冬 > /contents/articles/keisagyou-hukusouwoman"
     }

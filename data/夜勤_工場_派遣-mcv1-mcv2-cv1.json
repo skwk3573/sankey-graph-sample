@@ -5,14 +5,14 @@
       "name": "夜勤 工場 派遣"
     },
     {
-      "id": "/kyujin/12453",
-      "name": "/kyujin/12453"
+      "id": "https://www.shigotomo.jp/kyujin/12453",
+      "name": "https://www.shigotomo.jp/kyujin/12453"
     }
   ],
   "links": [
     {
       "source": "夜勤 工場 派遣",
-      "target": "/kyujin/12453",
+      "target": "https://www.shigotomo.jp/kyujin/12453",
       "value": 1,
       "tooltip": "夜勤 工場 派遣 > /kyujin/12453"
     }

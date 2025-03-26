@@ -5,14 +5,14 @@
       "name": "お菓子の箱詰め パート"
     },
     {
-      "id": "/kyujin/15613",
-      "name": "/kyujin/15613"
+      "id": "https://www.shigotomo.jp/kyujin/15613",
+      "name": "https://www.shigotomo.jp/kyujin/15613"
     }
   ],
   "links": [
     {
       "source": "お菓子の箱詰め パート",
-      "target": "/kyujin/15613",
+      "target": "https://www.shigotomo.jp/kyujin/15613",
       "value": 1,
       "tooltip": "お菓子の箱詰め パート > /kyujin/15613"
     }

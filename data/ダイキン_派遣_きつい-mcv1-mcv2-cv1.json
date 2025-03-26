@@ -5,14 +5,14 @@
       "name": "ダイキン 派遣 きつい"
     },
     {
-      "id": "/contents/articles/factory-haken-hard",
-      "name": "/contents/articles/factory-haken-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/factory-haken-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/factory-haken-hard"
     }
   ],
   "links": [
     {
       "source": "ダイキン 派遣 きつい",
-      "target": "/contents/articles/factory-haken-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/factory-haken-hard",
       "value": 1,
       "tooltip": "ダイキン 派遣 きつい > /contents/articles/factory-haken-hard"
     }

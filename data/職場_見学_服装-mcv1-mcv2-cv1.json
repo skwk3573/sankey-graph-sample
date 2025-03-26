@@ -5,14 +5,14 @@
       "name": "職場 見学 服装"
     },
     {
-      "id": "/contents/articles/interview-clothes",
-      "name": "/contents/articles/interview-clothes"
+      "id": "https://www.shigotomo.jp/contents/articles/interview-clothes",
+      "name": "https://www.shigotomo.jp/contents/articles/interview-clothes"
     }
   ],
   "links": [
     {
       "source": "職場 見学 服装",
-      "target": "/contents/articles/interview-clothes",
+      "target": "https://www.shigotomo.jp/contents/articles/interview-clothes",
       "value": 1,
       "tooltip": "職場 見学 服装 > /contents/articles/interview-clothes"
     }

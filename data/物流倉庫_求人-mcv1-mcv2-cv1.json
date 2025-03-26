@@ -5,14 +5,14 @@
       "name": "物流倉庫 求人"
     },
     {
-      "id": "/kyujin/15605",
-      "name": "/kyujin/15605"
+      "id": "https://www.shigotomo.jp/kyujin/15605",
+      "name": "https://www.shigotomo.jp/kyujin/15605"
     }
   ],
   "links": [
     {
       "source": "物流倉庫 求人",
-      "target": "/kyujin/15605",
+      "target": "https://www.shigotomo.jp/kyujin/15605",
       "value": 2,
       "tooltip": "物流倉庫 求人 > /kyujin/15605"
     }

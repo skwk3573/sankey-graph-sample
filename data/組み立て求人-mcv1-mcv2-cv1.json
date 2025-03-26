@@ -5,14 +5,14 @@
       "name": "組み立て求人"
     },
     {
-      "id": "/kyujin/7168",
-      "name": "/kyujin/7168"
+      "id": "https://www.shigotomo.jp/kyujin/7168",
+      "name": "https://www.shigotomo.jp/kyujin/7168"
     }
   ],
   "links": [
     {
       "source": "組み立て求人",
-      "target": "/kyujin/7168",
+      "target": "https://www.shigotomo.jp/kyujin/7168",
       "value": 1,
       "tooltip": "組み立て求人 > /kyujin/7168"
     }

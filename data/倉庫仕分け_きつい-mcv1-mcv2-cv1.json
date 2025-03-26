@@ -5,25 +5,25 @@
       "name": "倉庫仕分け きつい"
     },
     {
-      "id": "/contents/articles/keisagyo-haken-hard",
-      "name": "/contents/articles/keisagyo-haken-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard"
     },
     {
-      "id": "/zenkoku/MC1/EC1",
-      "name": "/zenkoku/MC1/EC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1/EC1"
     }
   ],
   "links": [
     {
       "source": "倉庫仕分け きつい",
-      "target": "/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
       "value": 3,
       "tooltip": "倉庫仕分け きつい > /contents/articles/keisagyo-haken-hard"
     },
     {
-      "source": "/contents/articles/keisagyo-haken-hard",
-      "target": "/zenkoku/MC1/EC1",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "value": 0.8,
       "tooltip": "倉庫仕分け きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1"
     }
   ]

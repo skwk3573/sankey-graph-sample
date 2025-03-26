@@ -5,26 +5,16 @@
       "name": "工場 仕事 楽"
     },
     {
-      "id": "/contents/articles/koujohaken-raku",
-      "name": "/contents/articles/koujohaken-raku"
-    },
-    {
-      "id": "/zenkoku/EC1/FW工場",
-      "name": "/zenkoku/EC1/FW工場"
+      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-raku",
+      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-raku"
     }
   ],
   "links": [
     {
       "source": "工場 仕事 楽",
-      "target": "/contents/articles/koujohaken-raku",
+      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-raku",
       "value": 1,
       "tooltip": "工場 仕事 楽 > /contents/articles/koujohaken-raku"
-    },
-    {
-      "source": "/contents/articles/koujohaken-raku",
-      "target": "/zenkoku/EC1/FW工場",
-      "value": 1,
-      "tooltip": "工場 仕事 楽 > /contents/articles/koujohaken-raku > /zenkoku/EC1/FW工場"
     }
   ]
 }

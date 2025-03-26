@@ -5,14 +5,14 @@
       "name": "フォークリフト 前が見えない"
     },
     {
-      "id": "/contents/articles/koujohaken-forklift-tired",
-      "name": "/contents/articles/koujohaken-forklift-tired"
+      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired",
+      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired"
     }
   ],
   "links": [
     {
       "source": "フォークリフト 前が見えない",
-      "target": "/contents/articles/koujohaken-forklift-tired",
+      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired",
       "value": 1,
       "tooltip": "フォークリフト 前が見えない > /contents/articles/koujohaken-forklift-tired"
     }

@@ -5,14 +5,14 @@
       "name": "加須市 倉庫 求人"
     },
     {
-      "id": "/kyujin/10682",
-      "name": "/kyujin/10682"
+      "id": "https://www.shigotomo.jp/kyujin/10682",
+      "name": "https://www.shigotomo.jp/kyujin/10682"
     }
   ],
   "links": [
     {
       "source": "加須市 倉庫 求人",
-      "target": "/kyujin/10682",
+      "target": "https://www.shigotomo.jp/kyujin/10682",
       "value": 1,
       "tooltip": "加須市 倉庫 求人 > /kyujin/10682"
     }

@@ -5,14 +5,14 @@
       "name": "文房具 ピッキング"
     },
     {
-      "id": "/kyujin/7168",
-      "name": "/kyujin/7168"
+      "id": "https://www.shigotomo.jp/kyujin/7168",
+      "name": "https://www.shigotomo.jp/kyujin/7168"
     }
   ],
   "links": [
     {
       "source": "文房具 ピッキング",
-      "target": "/kyujin/7168",
+      "target": "https://www.shigotomo.jp/kyujin/7168",
       "value": 1,
       "tooltip": "文房具 ピッキング > /kyujin/7168"
     }

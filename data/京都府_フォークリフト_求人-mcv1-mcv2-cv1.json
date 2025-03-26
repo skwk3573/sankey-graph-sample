@@ -5,14 +5,14 @@
       "name": "京都府 フォークリフト 求人"
     },
     {
-      "id": "/kyujin/8566",
-      "name": "/kyujin/8566"
+      "id": "https://www.shigotomo.jp/kyujin/8566",
+      "name": "https://www.shigotomo.jp/kyujin/8566"
     }
   ],
   "links": [
     {
       "source": "京都府 フォークリフト 求人",
-      "target": "/kyujin/8566",
+      "target": "https://www.shigotomo.jp/kyujin/8566",
       "value": 1,
       "tooltip": "京都府 フォークリフト 求人 > /kyujin/8566"
     }

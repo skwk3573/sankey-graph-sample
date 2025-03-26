@@ -5,14 +5,14 @@
       "name": "フォークリフトの仕事内容"
     },
     {
-      "id": "/contents/articles/koujohaken-forklift-tired",
-      "name": "/contents/articles/koujohaken-forklift-tired"
+      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired",
+      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired"
     }
   ],
   "links": [
     {
       "source": "フォークリフトの仕事内容",
-      "target": "/contents/articles/koujohaken-forklift-tired",
+      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired",
       "value": 1,
       "tooltip": "フォークリフトの仕事内容 > /contents/articles/koujohaken-forklift-tired"
     }

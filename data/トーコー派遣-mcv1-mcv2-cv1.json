@@ -5,14 +5,14 @@
       "name": "トーコー派遣"
     },
     {
-      "id": "/",
-      "name": "/"
+      "id": "https://www.shigotomo.jp/",
+      "name": "https://www.shigotomo.jp/"
     }
   ],
   "links": [
     {
       "source": "トーコー派遣",
-      "target": "/",
+      "target": "https://www.shigotomo.jp/",
       "value": 2,
       "tooltip": "トーコー派遣 > /"
     }

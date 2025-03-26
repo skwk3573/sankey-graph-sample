@@ -5,14 +5,14 @@
       "name": "構内作業 きつい"
     },
     {
-      "id": "/contents/articles/keisagyo-haken-hard",
-      "name": "/contents/articles/keisagyo-haken-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard"
     }
   ],
   "links": [
     {
       "source": "構内作業 きつい",
-      "target": "/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
       "value": 1,
       "tooltip": "構内作業 きつい > /contents/articles/keisagyo-haken-hard"
     }

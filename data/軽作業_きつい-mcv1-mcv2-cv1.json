@@ -5,135 +5,135 @@
       "name": "軽作業 きつい"
     },
     {
-      "id": "/contents/articles/keisagyo-haken-hard",
-      "name": "/contents/articles/keisagyo-haken-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard"
     },
     {
-      "id": "/contents/articles/keisagyo",
-      "name": "/contents/articles/keisagyo"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo"
     },
     {
-      "id": "/zenkoku/MC1",
-      "name": "/zenkoku/MC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1"
     },
     {
-      "id": "/zenkoku/MC1/EC1",
-      "name": "/zenkoku/MC1/EC1"
+      "id": "https://www.shigotomo.jp/apply/535",
+      "name": "https://www.shigotomo.jp/apply/535"
     },
     {
-      "id": "/apply/535",
-      "name": "/apply/535"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1/EC1"
     },
     {
-      "id": "/kyujin/search-detail",
-      "name": "/kyujin/search-detail"
+      "id": "https://www.shigotomo.jp/kyujin/search-detail",
+      "name": "https://www.shigotomo.jp/kyujin/search-detail"
     },
     {
-      "id": "/kyujin/16312",
-      "name": "/kyujin/16312"
+      "id": "https://www.shigotomo.jp/kyujin/16312",
+      "name": "https://www.shigotomo.jp/kyujin/16312"
     },
     {
-      "id": "/kyujin/16981",
-      "name": "/kyujin/16981"
+      "id": "https://www.shigotomo.jp/apply/16312",
+      "name": "https://www.shigotomo.jp/apply/16312"
     },
     {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
+      "id": "https://www.shigotomo.jp/apply/confirm",
+      "name": "https://www.shigotomo.jp/apply/confirm"
     },
     {
-      "id": "/apply/complete",
-      "name": "/apply/complete"
+      "id": "https://www.shigotomo.jp/apply/complete",
+      "name": "https://www.shigotomo.jp/apply/complete"
     }
   ],
   "links": [
     {
       "source": "軽作業 きつい",
-      "target": "/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
       "value": 511,
       "tooltip": "軽作業 きつい > /contents/articles/keisagyo-haken-hard"
     },
     {
       "source": "軽作業 きつい",
-      "target": "/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo",
       "value": 15,
       "tooltip": "軽作業 きつい > /contents/articles/keisagyo"
     },
     {
-      "source": "/contents/articles/keisagyo",
-      "target": "/zenkoku/MC1",
-      "value": 4,
-      "tooltip": "軽作業 きつい > /contents/articles/keisagyo > /zenkoku/MC1"
-    },
-    {
-      "source": "/contents/articles/keisagyo",
-      "target": "/zenkoku/MC1/EC1",
-      "value": 8,
-      "tooltip": "軽作業 きつい > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
-    },
-    {
-      "source": "/contents/articles/keisagyo-haken-hard",
-      "target": "/zenkoku/MC1",
-      "value": 55,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1",
+      "value": 47.41,
       "tooltip": "軽作業 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1"
     },
     {
-      "source": "/contents/articles/keisagyo-haken-hard",
-      "target": "/apply/535",
-      "value": 12,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/apply/535",
+      "value": 15.8,
       "tooltip": "軽作業 きつい > /contents/articles/keisagyo-haken-hard > /apply/535"
     },
     {
-      "source": "/contents/articles/keisagyo-haken-hard",
-      "target": "/zenkoku/MC1/EC1",
-      "value": 138,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "value": 136.97,
       "tooltip": "軽作業 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1"
     },
     {
-      "source": "/zenkoku/MC1",
-      "target": "/kyujin/search-detail",
-      "value": 1,
-      "tooltip": "軽作業 きつい > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/search-detail"
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1",
+      "value": 3.83,
+      "tooltip": "軽作業 きつい > /contents/articles/keisagyo > /zenkoku/MC1"
     },
     {
-      "source": "/zenkoku/MC1",
-      "target": "/kyujin/search-detail",
-      "value": 18,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "value": 9.89,
+      "tooltip": "軽作業 きつい > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
+    },
+    {
+      "source": "https://www.shigotomo.jp/zenkoku/MC1",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 18.96,
       "tooltip": "軽作業 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/search-detail"
     },
     {
-      "source": "/zenkoku/MC1",
-      "target": "/kyujin/16312",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/zenkoku/MC1",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 1.53,
+      "tooltip": "軽作業 きつい > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/search-detail"
+    },
+    {
+      "source": "https://www.shigotomo.jp/zenkoku/MC1",
+      "target": "https://www.shigotomo.jp/kyujin/16312",
+      "value": 3.79,
       "tooltip": "軽作業 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/16312"
     },
     {
-      "source": "/zenkoku/MC1/EC1",
-      "target": "/kyujin/search-detail",
-      "value": 1,
-      "tooltip": "軽作業 きつい > /contents/articles/keisagyo > /zenkoku/MC1/EC1 > /kyujin/search-detail"
-    },
-    {
-      "source": "/zenkoku/MC1/EC1",
-      "target": "/kyujin/search-detail",
-      "value": 20,
+      "source": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 29.14,
       "tooltip": "軽作業 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     },
     {
-      "source": "/zenkoku/MC1/EC1",
-      "target": "/kyujin/16981",
-      "value": 2,
-      "tooltip": "軽作業 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1 > /kyujin/16981"
+      "source": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 2.11,
+      "tooltip": "軽作業 きつい > /contents/articles/keisagyo > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     },
     {
-      "source": "/apply/535",
-      "target": "/apply/confirm",
-      "value": 11,
+      "source": "https://www.shigotomo.jp/kyujin/16312",
+      "target": "https://www.shigotomo.jp/apply/16312",
+      "value": 3.79,
+      "tooltip": "軽作業 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
+    },
+    {
+      "source": "https://www.shigotomo.jp/apply/535",
+      "target": "https://www.shigotomo.jp/apply/confirm",
+      "value": 15.8,
       "tooltip": "軽作業 きつい > /contents/articles/keisagyo-haken-hard > /apply/535 > /apply/confirm"
     },
     {
-      "source": "/apply/confirm",
-      "target": "/apply/complete",
-      "value": 10,
+      "source": "https://www.shigotomo.jp/apply/confirm",
+      "target": "https://www.shigotomo.jp/apply/complete",
+      "value": 11.71,
       "tooltip": "軽作業 きつい > /contents/articles/keisagyo-haken-hard > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]

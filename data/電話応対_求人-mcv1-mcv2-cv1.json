@@ -5,14 +5,14 @@
       "name": "電話応対 求人"
     },
     {
-      "id": "/kyujin/14647",
-      "name": "/kyujin/14647"
+      "id": "https://www.shigotomo.jp/kyujin/14647",
+      "name": "https://www.shigotomo.jp/kyujin/14647"
     }
   ],
   "links": [
     {
       "source": "電話応対 求人",
-      "target": "/kyujin/14647",
+      "target": "https://www.shigotomo.jp/kyujin/14647",
       "value": 1,
       "tooltip": "電話応対 求人 > /kyujin/14647"
     }

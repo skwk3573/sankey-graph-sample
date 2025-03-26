@@ -5,14 +5,14 @@
       "name": "デパ地下バイト"
     },
     {
-      "id": "/kyujin/10534",
-      "name": "/kyujin/10534"
+      "id": "https://www.shigotomo.jp/kyujin/10534",
+      "name": "https://www.shigotomo.jp/kyujin/10534"
     }
   ],
   "links": [
     {
       "source": "デパ地下バイト",
-      "target": "/kyujin/10534",
+      "target": "https://www.shigotomo.jp/kyujin/10534",
       "value": 1,
       "tooltip": "デパ地下バイト > /kyujin/10534"
     }

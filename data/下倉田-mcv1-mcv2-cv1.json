@@ -5,14 +5,14 @@
       "name": "下倉田"
     },
     {
-      "id": "/kyujin/15904",
-      "name": "/kyujin/15904"
+      "id": "https://www.shigotomo.jp/kyujin/15904",
+      "name": "https://www.shigotomo.jp/kyujin/15904"
     }
   ],
   "links": [
     {
       "source": "下倉田",
-      "target": "/kyujin/15904",
+      "target": "https://www.shigotomo.jp/kyujin/15904",
       "value": 1,
       "tooltip": "下倉田 > /kyujin/15904"
     }

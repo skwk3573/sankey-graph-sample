@@ -5,16 +5,26 @@
       "name": "株式会社トーコー 求人"
     },
     {
-      "id": "/",
-      "name": "/"
+      "id": "https://www.shigotomo.jp/",
+      "name": "https://www.shigotomo.jp/"
+    },
+    {
+      "id": "https://www.shigotomo.jp/zenkoku/PC15",
+      "name": "https://www.shigotomo.jp/zenkoku/PC15"
     }
   ],
   "links": [
     {
       "source": "株式会社トーコー 求人",
-      "target": "/",
+      "target": "https://www.shigotomo.jp/",
       "value": 15,
       "tooltip": "株式会社トーコー 求人 > /"
+    },
+    {
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/PC15",
+      "value": 0.61,
+      "tooltip": "株式会社トーコー 求人 > / > /zenkoku/PC15"
     }
   ]
 }

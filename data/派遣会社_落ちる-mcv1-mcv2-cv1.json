@@ -5,25 +5,25 @@
       "name": "派遣会社 落ちる"
     },
     {
-      "id": "/contents/articles/koujohaken-daredemo-ukaru",
-      "name": "/contents/articles/koujohaken-daredemo-ukaru"
+      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-daredemo-ukaru",
+      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-daredemo-ukaru"
     },
     {
-      "id": "/zenkoku/PC27/FW工場　派遣",
-      "name": "/zenkoku/PC27/FW工場　派遣"
+      "id": "https://www.shigotomo.jp/zenkoku/PC27/FW工場　派遣",
+      "name": "https://www.shigotomo.jp/zenkoku/PC27/FW工場　派遣"
     }
   ],
   "links": [
     {
       "source": "派遣会社 落ちる",
-      "target": "/contents/articles/koujohaken-daredemo-ukaru",
+      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-daredemo-ukaru",
       "value": 1,
       "tooltip": "派遣会社 落ちる > /contents/articles/koujohaken-daredemo-ukaru"
     },
     {
-      "source": "/contents/articles/koujohaken-daredemo-ukaru",
-      "target": "/zenkoku/PC27/FW工場　派遣",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/koujohaken-daredemo-ukaru",
+      "target": "https://www.shigotomo.jp/zenkoku/PC27/FW工場　派遣",
+      "value": 0.55,
       "tooltip": "派遣会社 落ちる > /contents/articles/koujohaken-daredemo-ukaru > /zenkoku/PC27/FW工場　派遣"
     }
   ]

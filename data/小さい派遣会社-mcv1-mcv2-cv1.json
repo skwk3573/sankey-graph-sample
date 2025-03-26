@@ -5,14 +5,14 @@
       "name": "小さい派遣会社"
     },
     {
-      "id": "/contents/articles/kojohaken-yametoke",
-      "name": "/contents/articles/kojohaken-yametoke"
+      "id": "https://www.shigotomo.jp/contents/articles/kojohaken-yametoke",
+      "name": "https://www.shigotomo.jp/contents/articles/kojohaken-yametoke"
     }
   ],
   "links": [
     {
       "source": "小さい派遣会社",
-      "target": "/contents/articles/kojohaken-yametoke",
+      "target": "https://www.shigotomo.jp/contents/articles/kojohaken-yametoke",
       "value": 1,
       "tooltip": "小さい派遣会社 > /contents/articles/kojohaken-yametoke"
     }

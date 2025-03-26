@@ -5,14 +5,14 @@
       "name": "派遣を選んだ理由 面接"
     },
     {
-      "id": "/contents/articles/temporary-reasons-applying",
-      "name": "/contents/articles/temporary-reasons-applying"
+      "id": "https://www.shigotomo.jp/contents/articles/temporary-reasons-applying",
+      "name": "https://www.shigotomo.jp/contents/articles/temporary-reasons-applying"
     }
   ],
   "links": [
     {
       "source": "派遣を選んだ理由 面接",
-      "target": "/contents/articles/temporary-reasons-applying",
+      "target": "https://www.shigotomo.jp/contents/articles/temporary-reasons-applying",
       "value": 1,
       "tooltip": "派遣を選んだ理由 面接 > /contents/articles/temporary-reasons-applying"
     }

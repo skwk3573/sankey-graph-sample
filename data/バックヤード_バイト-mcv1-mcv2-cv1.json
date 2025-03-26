@@ -5,14 +5,14 @@
       "name": "バックヤード バイト"
     },
     {
-      "id": "/kyujin/8601",
-      "name": "/kyujin/8601"
+      "id": "https://www.shigotomo.jp/kyujin/8601",
+      "name": "https://www.shigotomo.jp/kyujin/8601"
     }
   ],
   "links": [
     {
       "source": "バックヤード バイト",
-      "target": "/kyujin/8601",
+      "target": "https://www.shigotomo.jp/kyujin/8601",
       "value": 1,
       "tooltip": "バックヤード バイト > /kyujin/8601"
     }

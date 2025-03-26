@@ -5,14 +5,14 @@
       "name": "フォークリフト運転 コツ"
     },
     {
-      "id": "/contents/articles/koujohaken-forklift-tired",
-      "name": "/contents/articles/koujohaken-forklift-tired"
+      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired",
+      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired"
     }
   ],
   "links": [
     {
       "source": "フォークリフト運転 コツ",
-      "target": "/contents/articles/koujohaken-forklift-tired",
+      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-forklift-tired",
       "value": 1,
       "tooltip": "フォークリフト運転 コツ > /contents/articles/koujohaken-forklift-tired"
     }

@@ -5,14 +5,14 @@
       "name": "百貨店 求人 大阪"
     },
     {
-      "id": "/kyujin/16745",
-      "name": "/kyujin/16745"
+      "id": "https://www.shigotomo.jp/kyujin/16745",
+      "name": "https://www.shigotomo.jp/kyujin/16745"
     }
   ],
   "links": [
     {
       "source": "百貨店 求人 大阪",
-      "target": "/kyujin/16745",
+      "target": "https://www.shigotomo.jp/kyujin/16745",
       "value": 1,
       "tooltip": "百貨店 求人 大阪 > /kyujin/16745"
     }

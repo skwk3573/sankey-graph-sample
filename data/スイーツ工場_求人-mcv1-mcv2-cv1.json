@@ -5,14 +5,14 @@
       "name": "スイーツ工場 求人"
     },
     {
-      "id": "/kyujin/638",
-      "name": "/kyujin/638"
+      "id": "https://www.shigotomo.jp/kyujin/638",
+      "name": "https://www.shigotomo.jp/kyujin/638"
     }
   ],
   "links": [
     {
       "source": "スイーツ工場 求人",
-      "target": "/kyujin/638",
+      "target": "https://www.shigotomo.jp/kyujin/638",
       "value": 1,
       "tooltip": "スイーツ工場 求人 > /kyujin/638"
     }

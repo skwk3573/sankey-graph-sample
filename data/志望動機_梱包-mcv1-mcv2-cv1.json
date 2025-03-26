@@ -5,14 +5,14 @@
       "name": "志望動機 梱包"
     },
     {
-      "id": "/contents/articles/keisagyo-shiboudouki",
-      "name": "/contents/articles/keisagyo-shiboudouki"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki"
     }
   ],
   "links": [
     {
       "source": "志望動機 梱包",
-      "target": "/contents/articles/keisagyo-shiboudouki",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-shiboudouki",
       "value": 1,
       "tooltip": "志望動機 梱包 > /contents/articles/keisagyo-shiboudouki"
     }

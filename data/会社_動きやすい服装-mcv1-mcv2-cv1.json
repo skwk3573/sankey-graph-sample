@@ -5,14 +5,14 @@
       "name": "会社 動きやすい服装"
     },
     {
-      "id": "/contents/articles/Factory-dispatch-apparel",
-      "name": "/contents/articles/Factory-dispatch-apparel"
+      "id": "https://www.shigotomo.jp/contents/articles/Factory-dispatch-apparel",
+      "name": "https://www.shigotomo.jp/contents/articles/Factory-dispatch-apparel"
     }
   ],
   "links": [
     {
       "source": "会社 動きやすい服装",
-      "target": "/contents/articles/Factory-dispatch-apparel",
+      "target": "https://www.shigotomo.jp/contents/articles/Factory-dispatch-apparel",
       "value": 1,
       "tooltip": "会社 動きやすい服装 > /contents/articles/Factory-dispatch-apparel"
     }

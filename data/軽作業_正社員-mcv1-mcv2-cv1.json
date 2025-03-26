@@ -5,14 +5,14 @@
       "name": "軽作業 正社員"
     },
     {
-      "id": "/contents/articles/keisagyowork-hard",
-      "name": "/contents/articles/keisagyowork-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyowork-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyowork-hard"
     }
   ],
   "links": [
     {
       "source": "軽作業 正社員",
-      "target": "/contents/articles/keisagyowork-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyowork-hard",
       "value": 1,
       "tooltip": "軽作業 正社員 > /contents/articles/keisagyowork-hard"
     }

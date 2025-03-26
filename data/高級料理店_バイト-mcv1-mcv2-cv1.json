@@ -5,14 +5,14 @@
       "name": "高級料理店 バイト"
     },
     {
-      "id": "/kyujin/14127",
-      "name": "/kyujin/14127"
+      "id": "https://www.shigotomo.jp/kyujin/14127",
+      "name": "https://www.shigotomo.jp/kyujin/14127"
     }
   ],
   "links": [
     {
       "source": "高級料理店 バイト",
-      "target": "/kyujin/14127",
+      "target": "https://www.shigotomo.jp/kyujin/14127",
       "value": 1,
       "tooltip": "高級料理店 バイト > /kyujin/14127"
     }

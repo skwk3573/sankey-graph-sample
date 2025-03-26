@@ -5,36 +5,26 @@
       "name": "川島町 求人"
     },
     {
-      "id": "/kyujin/15017",
-      "name": "/kyujin/15017"
+      "id": "https://www.shigotomo.jp/kyujin/15017",
+      "name": "https://www.shigotomo.jp/kyujin/15017"
     },
     {
-      "id": "/apply/15017",
-      "name": "/apply/15017"
-    },
-    {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
+      "id": "https://www.shigotomo.jp/apply/15017",
+      "name": "https://www.shigotomo.jp/apply/15017"
     }
   ],
   "links": [
     {
       "source": "川島町 求人",
-      "target": "/kyujin/15017",
+      "target": "https://www.shigotomo.jp/kyujin/15017",
       "value": 1,
       "tooltip": "川島町 求人 > /kyujin/15017"
     },
     {
-      "source": "/kyujin/15017",
-      "target": "/apply/15017",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/kyujin/15017",
+      "target": "https://www.shigotomo.jp/apply/15017",
+      "value": 0.67,
       "tooltip": "川島町 求人 > /kyujin/15017 > /apply/15017"
-    },
-    {
-      "source": "/apply/15017",
-      "target": "/apply/confirm",
-      "value": 1,
-      "tooltip": "川島町 求人 > /kyujin/15017 > /apply/15017 > /apply/confirm"
     }
   ]
 }

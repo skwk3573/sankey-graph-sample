@@ -5,345 +5,235 @@
       "name": "派遣会社トーコー"
     },
     {
-      "id": "/",
-      "name": "/"
+      "id": "https://www.shigotomo.jp/",
+      "name": "https://www.shigotomo.jp/"
     },
     {
-      "id": "/zenkoku/PC15/MB1,2",
-      "name": "/zenkoku/PC15/MB1,2"
+      "id": "https://www.shigotomo.jp/zenkoku/DC27210",
+      "name": "https://www.shigotomo.jp/zenkoku/DC27210"
     },
     {
-      "id": "/zenkoku/PC27,28,26,29,25,30",
-      "name": "/zenkoku/PC27,28,26,29,25,30"
+      "id": "https://www.shigotomo.jp/kyujin/search-detail",
+      "name": "https://www.shigotomo.jp/kyujin/search-detail"
     },
     {
-      "id": "/zenkoku/SC18",
-      "name": "/zenkoku/SC18"
+      "id": "https://www.shigotomo.jp/zenkoku/PC15",
+      "name": "https://www.shigotomo.jp/zenkoku/PC15"
     },
     {
-      "id": "/zenkoku/SC16",
-      "name": "/zenkoku/SC16"
+      "id": "https://www.shigotomo.jp/zenkoku/DC25211",
+      "name": "https://www.shigotomo.jp/zenkoku/DC25211"
     },
     {
-      "id": "/zenkoku/DC15222",
-      "name": "/zenkoku/DC15222"
+      "id": "https://www.shigotomo.jp/zenkoku/PC27,28,26,29,25,30",
+      "name": "https://www.shigotomo.jp/zenkoku/PC27,28,26,29,25,30"
     },
     {
-      "id": "/zenkoku/DC27211",
-      "name": "/zenkoku/DC27211"
+      "id": "https://www.shigotomo.jp/zenkoku/SC18",
+      "name": "https://www.shigotomo.jp/zenkoku/SC18"
     },
     {
-      "id": "/zenkoku/DC28202",
-      "name": "/zenkoku/DC28202"
+      "id": "https://www.shigotomo.jp/apply/535",
+      "name": "https://www.shigotomo.jp/apply/535"
     },
     {
-      "id": "/apply/535",
-      "name": "/apply/535"
+      "id": "https://www.shigotomo.jp/keep",
+      "name": "https://www.shigotomo.jp/keep"
     },
     {
-      "id": "/kyujin/search-detail",
-      "name": "/kyujin/search-detail"
+      "id": "https://www.shigotomo.jp/zenkoku/PM156",
+      "name": "https://www.shigotomo.jp/zenkoku/PM156"
     },
     {
-      "id": "/zenkoku/DC28201",
-      "name": "/zenkoku/DC28201"
+      "id": "https://www.shigotomo.jp/zenkoku/DC28201",
+      "name": "https://www.shigotomo.jp/zenkoku/DC28201"
     },
     {
-      "id": "/zenkoku/PM151",
-      "name": "/zenkoku/PM151"
+      "id": "https://www.shigotomo.jp/zenkoku/DC24202",
+      "name": "https://www.shigotomo.jp/zenkoku/DC24202"
     },
     {
-      "id": "/zenkoku/SC21",
-      "name": "/zenkoku/SC21"
+      "id": "https://www.shigotomo.jp/zenkoku/DC25209",
+      "name": "https://www.shigotomo.jp/zenkoku/DC25209"
     },
     {
-      "id": "/keep",
-      "name": "/keep"
+      "id": "https://www.shigotomo.jp/zenkoku/SC16",
+      "name": "https://www.shigotomo.jp/zenkoku/SC16"
     },
     {
-      "id": "/zenkoku/PC10,9,8,13,14,12,11",
-      "name": "/zenkoku/PC10,9,8,13,14,12,11"
+      "id": "https://www.shigotomo.jp/zenkoku/DC26201",
+      "name": "https://www.shigotomo.jp/zenkoku/DC26201"
     },
     {
-      "id": "/zenkoku/SC2",
-      "name": "/zenkoku/SC2"
+      "id": "https://www.shigotomo.jp/zenkoku/DC28109",
+      "name": "https://www.shigotomo.jp/zenkoku/DC28109"
     },
     {
-      "id": "/zenkoku/SC8",
-      "name": "/zenkoku/SC8"
+      "id": "https://www.shigotomo.jp/zenkoku/SC2",
+      "name": "https://www.shigotomo.jp/zenkoku/SC2"
     },
     {
-      "id": "/zenkoku/DC15202",
-      "name": "/zenkoku/DC15202"
+      "id": "https://www.shigotomo.jp/zenkoku/search-result",
+      "name": "https://www.shigotomo.jp/zenkoku/search-result"
     },
     {
-      "id": "/zenkoku/DC27207",
-      "name": "/zenkoku/DC27207"
+      "id": "https://www.shigotomo.jp/zenkoku/DC28219",
+      "name": "https://www.shigotomo.jp/zenkoku/DC28219"
     },
     {
-      "id": "/zenkoku/PC27/MB1,2",
-      "name": "/zenkoku/PC27/MB1,2"
+      "id": "https://www.shigotomo.jp/zenkoku/DC25209,25211,25384",
+      "name": "https://www.shigotomo.jp/zenkoku/DC25209,25211,25384"
     },
     {
-      "id": "/zenkoku/SC17",
-      "name": "/zenkoku/SC17"
+      "id": "https://www.shigotomo.jp/zenkoku/DC24210",
+      "name": "https://www.shigotomo.jp/zenkoku/DC24210"
     },
     {
-      "id": "/zenkoku/SC19",
-      "name": "/zenkoku/SC19"
+      "id": "https://www.shigotomo.jp/apply/confirm",
+      "name": "https://www.shigotomo.jp/apply/confirm"
     },
     {
-      "id": "/zenkoku/search-result",
-      "name": "/zenkoku/search-result"
-    },
-    {
-      "id": "/zenkoku/DC27210",
-      "name": "/zenkoku/DC27210"
-    },
-    {
-      "id": "/zenkoku/PM148",
-      "name": "/zenkoku/PM148"
-    },
-    {
-      "id": "/zenkoku/PC15",
-      "name": "/zenkoku/PC15"
-    },
-    {
-      "id": "/zenkoku/DC26201",
-      "name": "/zenkoku/DC26201"
-    },
-    {
-      "id": "/zenkoku/PM159",
-      "name": "/zenkoku/PM159"
-    },
-    {
-      "id": "/zenkoku/PM150",
-      "name": "/zenkoku/PM150"
-    },
-    {
-      "id": "/zenkoku/DC28204",
-      "name": "/zenkoku/DC28204"
-    },
-    {
-      "id": "/zenkoku/PC23,21,24",
-      "name": "/zenkoku/PC23,21,24"
-    },
-    {
-      "id": "/zenkoku/DC27113",
-      "name": "/zenkoku/DC27113"
-    },
-    {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
-    },
-    {
-      "id": "/apply/complete",
-      "name": "/apply/complete"
+      "id": "https://www.shigotomo.jp/apply/complete",
+      "name": "https://www.shigotomo.jp/apply/complete"
     }
   ],
   "links": [
     {
       "source": "派遣会社トーコー",
-      "target": "/",
+      "target": "https://www.shigotomo.jp/",
       "value": 115,
       "tooltip": "派遣会社トーコー > /"
     },
     {
-      "source": "/",
-      "target": "/zenkoku/PC15/MB1,2",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/PC15/MB1,2"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/PC27,28,26,29,25,30",
-      "value": 3,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/PC27,28,26,29,25,30"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/SC18",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/SC18"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/SC16",
-      "value": 3,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/SC16"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/DC15222",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/DC15222"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/DC27211",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/DC27211"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/DC28202",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/DC28202"
-    },
-    {
-      "source": "/",
-      "target": "/apply/535",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /apply/535"
-    },
-    {
-      "source": "/",
-      "target": "/kyujin/search-detail",
-      "value": 2,
-      "tooltip": "派遣会社トーコー > / > /kyujin/search-detail"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/DC28201",
-      "value": 2,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/DC28201"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/PM151",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/PM151"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/SC21",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/SC21"
-    },
-    {
-      "source": "/",
-      "target": "/keep",
-      "value": 3,
-      "tooltip": "派遣会社トーコー > / > /keep"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/PC10,9,8,13,14,12,11",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/PC10,9,8,13,14,12,11"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/SC2",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/SC2"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/SC8",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/SC8"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/DC15202",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/DC15202"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/DC27207",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/DC27207"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/PC27/MB1,2",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/PC27/MB1,2"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/SC17",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/SC17"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/SC19",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/SC19"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/search-result",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/search-result"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/DC27210",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/DC27210",
+      "value": 1.31,
       "tooltip": "派遣会社トーコー > / > /zenkoku/DC27210"
     },
     {
-      "source": "/",
-      "target": "/zenkoku/PM148",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/PM148"
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 1.51,
+      "tooltip": "派遣会社トーコー > / > /kyujin/search-detail"
     },
     {
-      "source": "/",
-      "target": "/zenkoku/PC15",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/PC15",
+      "value": 4.68,
       "tooltip": "派遣会社トーコー > / > /zenkoku/PC15"
     },
     {
-      "source": "/",
-      "target": "/zenkoku/DC26201",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/DC25211",
+      "value": 0.55,
+      "tooltip": "派遣会社トーコー > / > /zenkoku/DC25211"
+    },
+    {
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/PC27,28,26,29,25,30",
+      "value": 1.96,
+      "tooltip": "派遣会社トーコー > / > /zenkoku/PC27,28,26,29,25,30"
+    },
+    {
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/SC18",
+      "value": 0.67,
+      "tooltip": "派遣会社トーコー > / > /zenkoku/SC18"
+    },
+    {
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/apply/535",
+      "value": 0.71,
+      "tooltip": "派遣会社トーコー > / > /apply/535"
+    },
+    {
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/keep",
+      "value": 1.15,
+      "tooltip": "派遣会社トーコー > / > /keep"
+    },
+    {
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/PM156",
+      "value": 0.51,
+      "tooltip": "派遣会社トーコー > / > /zenkoku/PM156"
+    },
+    {
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/DC28201",
+      "value": 1.06,
+      "tooltip": "派遣会社トーコー > / > /zenkoku/DC28201"
+    },
+    {
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/DC24202",
+      "value": 0.8,
+      "tooltip": "派遣会社トーコー > / > /zenkoku/DC24202"
+    },
+    {
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/DC25209",
+      "value": 1.19,
+      "tooltip": "派遣会社トーコー > / > /zenkoku/DC25209"
+    },
+    {
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/SC16",
+      "value": 1.28,
+      "tooltip": "派遣会社トーコー > / > /zenkoku/SC16"
+    },
+    {
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/DC26201",
+      "value": 0.61,
       "tooltip": "派遣会社トーコー > / > /zenkoku/DC26201"
     },
     {
-      "source": "/",
-      "target": "/zenkoku/PM159",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/PM159"
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/DC28109",
+      "value": 0.58,
+      "tooltip": "派遣会社トーコー > / > /zenkoku/DC28109"
     },
     {
-      "source": "/",
-      "target": "/zenkoku/PM150",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/PM150"
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/SC2",
+      "value": 0.55,
+      "tooltip": "派遣会社トーコー > / > /zenkoku/SC2"
     },
     {
-      "source": "/",
-      "target": "/zenkoku/DC28204",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/DC28204"
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/search-result",
+      "value": 1.25,
+      "tooltip": "派遣会社トーコー > / > /zenkoku/search-result"
     },
     {
-      "source": "/",
-      "target": "/zenkoku/PC23,21,24",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/PC23,21,24"
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/DC28219",
+      "value": 0.87,
+      "tooltip": "派遣会社トーコー > / > /zenkoku/DC28219"
     },
     {
-      "source": "/",
-      "target": "/zenkoku/DC27113",
-      "value": 1,
-      "tooltip": "派遣会社トーコー > / > /zenkoku/DC27113"
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/DC25209,25211,25384",
+      "value": 0.9,
+      "tooltip": "派遣会社トーコー > / > /zenkoku/DC25209,25211,25384"
     },
     {
-      "source": "/apply/535",
-      "target": "/apply/confirm",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/",
+      "target": "https://www.shigotomo.jp/zenkoku/DC24210",
+      "value": 0.67,
+      "tooltip": "派遣会社トーコー > / > /zenkoku/DC24210"
+    },
+    {
+      "source": "https://www.shigotomo.jp/apply/535",
+      "target": "https://www.shigotomo.jp/apply/confirm",
+      "value": 0.71,
       "tooltip": "派遣会社トーコー > / > /apply/535 > /apply/confirm"
     },
     {
-      "source": "/apply/confirm",
-      "target": "/apply/complete",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/apply/confirm",
+      "target": "https://www.shigotomo.jp/apply/complete",
+      "value": 0.52,
       "tooltip": "派遣会社トーコー > / > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]

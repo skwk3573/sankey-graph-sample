@@ -5,14 +5,14 @@
       "name": "パート 検品ミス"
     },
     {
-      "id": "/contents/articles/kenpin-kotsu",
-      "name": "/contents/articles/kenpin-kotsu"
+      "id": "https://www.shigotomo.jp/contents/articles/kenpin-kotsu",
+      "name": "https://www.shigotomo.jp/contents/articles/kenpin-kotsu"
     }
   ],
   "links": [
     {
       "source": "パート 検品ミス",
-      "target": "/contents/articles/kenpin-kotsu",
+      "target": "https://www.shigotomo.jp/contents/articles/kenpin-kotsu",
       "value": 1,
       "tooltip": "パート 検品ミス > /contents/articles/kenpin-kotsu"
     }

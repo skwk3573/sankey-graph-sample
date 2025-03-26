@@ -5,14 +5,14 @@
       "name": "横浜市 倉庫 求人"
     },
     {
-      "id": "/kyujin/6667",
-      "name": "/kyujin/6667"
+      "id": "https://www.shigotomo.jp/kyujin/6667",
+      "name": "https://www.shigotomo.jp/kyujin/6667"
     }
   ],
   "links": [
     {
       "source": "横浜市 倉庫 求人",
-      "target": "/kyujin/6667",
+      "target": "https://www.shigotomo.jp/kyujin/6667",
       "value": 1,
       "tooltip": "横浜市 倉庫 求人 > /kyujin/6667"
     }

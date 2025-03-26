@@ -5,14 +5,14 @@
       "name": "久喜市 フォークリフト 求人"
     },
     {
-      "id": "/kyujin/16156",
-      "name": "/kyujin/16156"
+      "id": "https://www.shigotomo.jp/kyujin/16156",
+      "name": "https://www.shigotomo.jp/kyujin/16156"
     }
   ],
   "links": [
     {
       "source": "久喜市 フォークリフト 求人",
-      "target": "/kyujin/16156",
+      "target": "https://www.shigotomo.jp/kyujin/16156",
       "value": 1,
       "tooltip": "久喜市 フォークリフト 求人 > /kyujin/16156"
     }

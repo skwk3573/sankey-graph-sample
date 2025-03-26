@@ -5,14 +5,14 @@
       "name": "鴻巣市赤城"
     },
     {
-      "id": "/kyujin/15186",
-      "name": "/kyujin/15186"
+      "id": "https://www.shigotomo.jp/kyujin/15186",
+      "name": "https://www.shigotomo.jp/kyujin/15186"
     }
   ],
   "links": [
     {
       "source": "鴻巣市赤城",
-      "target": "/kyujin/15186",
+      "target": "https://www.shigotomo.jp/kyujin/15186",
       "value": 1,
       "tooltip": "鴻巣市赤城 > /kyujin/15186"
     }

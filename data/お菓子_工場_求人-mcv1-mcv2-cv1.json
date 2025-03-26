@@ -5,24 +5,24 @@
       "name": "お菓子 工場 求人"
     },
     {
-      "id": "/kyujin/638",
-      "name": "/kyujin/638"
+      "id": "https://www.shigotomo.jp/kyujin/638",
+      "name": "https://www.shigotomo.jp/kyujin/638"
     },
     {
-      "id": "/kyujin/15195",
-      "name": "/kyujin/15195"
+      "id": "https://www.shigotomo.jp/kyujin/15195",
+      "name": "https://www.shigotomo.jp/kyujin/15195"
     }
   ],
   "links": [
     {
       "source": "お菓子 工場 求人",
-      "target": "/kyujin/638",
+      "target": "https://www.shigotomo.jp/kyujin/638",
       "value": 2,
       "tooltip": "お菓子 工場 求人 > /kyujin/638"
     },
     {
       "source": "お菓子 工場 求人",
-      "target": "/kyujin/15195",
+      "target": "https://www.shigotomo.jp/kyujin/15195",
       "value": 1,
       "tooltip": "お菓子 工場 求人 > /kyujin/15195"
     }

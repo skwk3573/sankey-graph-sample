@@ -5,36 +5,36 @@
       "name": "視察 服装 女性"
     },
     {
-      "id": "/contents/articles/interview-clothes",
-      "name": "/contents/articles/interview-clothes"
+      "id": "https://www.shigotomo.jp/contents/articles/interview-clothes",
+      "name": "https://www.shigotomo.jp/contents/articles/interview-clothes"
     },
     {
-      "id": "/zenkoku/MC1",
-      "name": "/zenkoku/MC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1"
     },
     {
-      "id": "/zenkoku/EC1/FW工場",
-      "name": "/zenkoku/EC1/FW工場"
+      "id": "https://www.shigotomo.jp/kyujin/search-detail",
+      "name": "https://www.shigotomo.jp/kyujin/search-detail"
     }
   ],
   "links": [
     {
       "source": "視察 服装 女性",
-      "target": "/contents/articles/interview-clothes",
+      "target": "https://www.shigotomo.jp/contents/articles/interview-clothes",
       "value": 6,
       "tooltip": "視察 服装 女性 > /contents/articles/interview-clothes"
     },
     {
-      "source": "/contents/articles/interview-clothes",
-      "target": "/zenkoku/MC1",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/interview-clothes",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1",
+      "value": 1.26,
       "tooltip": "視察 服装 女性 > /contents/articles/interview-clothes > /zenkoku/MC1"
     },
     {
-      "source": "/contents/articles/interview-clothes",
-      "target": "/zenkoku/EC1/FW工場",
-      "value": 1,
-      "tooltip": "視察 服装 女性 > /contents/articles/interview-clothes > /zenkoku/EC1/FW工場"
+      "source": "https://www.shigotomo.jp/zenkoku/MC1",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 0.51,
+      "tooltip": "視察 服装 女性 > /contents/articles/interview-clothes > /zenkoku/MC1 > /kyujin/search-detail"
     }
   ]
 }

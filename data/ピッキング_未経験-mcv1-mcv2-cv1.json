@@ -5,62 +5,46 @@
       "name": "ピッキング 未経験"
     },
     {
-      "id": "/contents/articles/temporary-picking-beginner",
-      "name": "/contents/articles/temporary-picking-beginner"
+      "id": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner",
+      "name": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner"
     },
     {
-      "id": "/zenkoku/MC7",
-      "name": "/zenkoku/MC7"
+      "id": "https://www.shigotomo.jp/zenkoku/MC7",
+      "name": "https://www.shigotomo.jp/zenkoku/MC7"
     },
     {
-      "id": "/zenkoku/MC7/EC1",
-      "name": "/zenkoku/MC7/EC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC7/EC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC7/EC1"
     },
     {
-      "id": "/kyujin/search-detail",
-      "name": "/kyujin/search-detail"
-    },
-    {
-      "id": "/kyujin/16532",
-      "name": "/kyujin/16532"
+      "id": "https://www.shigotomo.jp/kyujin/search-detail",
+      "name": "https://www.shigotomo.jp/kyujin/search-detail"
     }
   ],
   "links": [
     {
       "source": "ピッキング 未経験",
-      "target": "/contents/articles/temporary-picking-beginner",
+      "target": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner",
       "value": 17,
       "tooltip": "ピッキング 未経験 > /contents/articles/temporary-picking-beginner"
     },
     {
-      "source": "/contents/articles/temporary-picking-beginner",
-      "target": "/zenkoku/MC7",
-      "value": 9,
+      "source": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner",
+      "target": "https://www.shigotomo.jp/zenkoku/MC7",
+      "value": 10.63,
       "tooltip": "ピッキング 未経験 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7"
     },
     {
-      "source": "/contents/articles/temporary-picking-beginner",
-      "target": "/zenkoku/MC7/EC1",
-      "value": 5,
+      "source": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner",
+      "target": "https://www.shigotomo.jp/zenkoku/MC7/EC1",
+      "value": 2.13,
       "tooltip": "ピッキング 未経験 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7/EC1"
     },
     {
-      "source": "/zenkoku/MC7",
-      "target": "/kyujin/search-detail",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/zenkoku/MC7",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 1.52,
       "tooltip": "ピッキング 未経験 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7 > /kyujin/search-detail"
-    },
-    {
-      "source": "/zenkoku/MC7/EC1",
-      "target": "/kyujin/search-detail",
-      "value": 1,
-      "tooltip": "ピッキング 未経験 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7/EC1 > /kyujin/search-detail"
-    },
-    {
-      "source": "/zenkoku/MC7/EC1",
-      "target": "/kyujin/16532",
-      "value": 1,
-      "tooltip": "ピッキング 未経験 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7/EC1 > /kyujin/16532"
     }
   ]
 }

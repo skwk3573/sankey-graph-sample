@@ -5,14 +5,14 @@
       "name": "食品工場 服装 女性"
     },
     {
-      "id": "/contents/articles/keisagyou-hukusouwoman",
-      "name": "/contents/articles/keisagyou-hukusouwoman"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman"
     }
   ],
   "links": [
     {
       "source": "食品工場 服装 女性",
-      "target": "/contents/articles/keisagyou-hukusouwoman",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
       "value": 1,
       "tooltip": "食品工場 服装 女性 > /contents/articles/keisagyou-hukusouwoman"
     }

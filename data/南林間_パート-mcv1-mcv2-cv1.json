@@ -5,14 +5,14 @@
       "name": "南林間 パート"
     },
     {
-      "id": "/kyujin/15494",
-      "name": "/kyujin/15494"
+      "id": "https://www.shigotomo.jp/kyujin/15494",
+      "name": "https://www.shigotomo.jp/kyujin/15494"
     }
   ],
   "links": [
     {
       "source": "南林間 パート",
-      "target": "/kyujin/15494",
+      "target": "https://www.shigotomo.jp/kyujin/15494",
       "value": 1,
       "tooltip": "南林間 パート > /kyujin/15494"
     }

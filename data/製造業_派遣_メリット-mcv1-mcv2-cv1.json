@@ -5,14 +5,14 @@
       "name": "製造業 派遣 メリット"
     },
     {
-      "id": "/contents/articles/kojohaken-yametoke",
-      "name": "/contents/articles/kojohaken-yametoke"
+      "id": "https://www.shigotomo.jp/contents/articles/kojohaken-yametoke",
+      "name": "https://www.shigotomo.jp/contents/articles/kojohaken-yametoke"
     }
   ],
   "links": [
     {
       "source": "製造業 派遣 メリット",
-      "target": "/contents/articles/kojohaken-yametoke",
+      "target": "https://www.shigotomo.jp/contents/articles/kojohaken-yametoke",
       "value": 1,
       "tooltip": "製造業 派遣 メリット > /contents/articles/kojohaken-yametoke"
     }

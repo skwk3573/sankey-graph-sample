@@ -5,14 +5,14 @@
       "name": "コンビニ 夜勤"
     },
     {
-      "id": "/kyujin/11437",
-      "name": "/kyujin/11437"
+      "id": "https://www.shigotomo.jp/kyujin/11437",
+      "name": "https://www.shigotomo.jp/kyujin/11437"
     }
   ],
   "links": [
     {
       "source": "コンビニ 夜勤",
-      "target": "/kyujin/11437",
+      "target": "https://www.shigotomo.jp/kyujin/11437",
       "value": 3,
       "tooltip": "コンビニ 夜勤 > /kyujin/11437"
     }

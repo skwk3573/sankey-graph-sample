@@ -5,52 +5,42 @@
       "name": "物流 仕分け きつい"
     },
     {
-      "id": "/contents/articles/keisagyo-haken-hard",
-      "name": "/contents/articles/keisagyo-haken-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard"
     },
     {
-      "id": "/contents/articles/keisagyo",
-      "name": "/contents/articles/keisagyo"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo"
     },
     {
-      "id": "/zenkoku/MC1/EC1",
-      "name": "/zenkoku/MC1/EC1"
-    },
-    {
-      "id": "/zenkoku/MC1",
-      "name": "/zenkoku/MC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1/EC1"
     }
   ],
   "links": [
     {
       "source": "物流 仕分け きつい",
-      "target": "/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
       "value": 5,
       "tooltip": "物流 仕分け きつい > /contents/articles/keisagyo-haken-hard"
     },
     {
       "source": "物流 仕分け きつい",
-      "target": "/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo",
       "value": 1,
       "tooltip": "物流 仕分け きつい > /contents/articles/keisagyo"
     },
     {
-      "source": "/contents/articles/keisagyo",
-      "target": "/zenkoku/MC1/EC1",
-      "value": 1,
-      "tooltip": "物流 仕分け きつい > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
-    },
-    {
-      "source": "/contents/articles/keisagyo-haken-hard",
-      "target": "/zenkoku/MC1",
-      "value": 1,
-      "tooltip": "物流 仕分け きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1"
-    },
-    {
-      "source": "/contents/articles/keisagyo-haken-hard",
-      "target": "/zenkoku/MC1/EC1",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "value": 1.34,
       "tooltip": "物流 仕分け きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1"
+    },
+    {
+      "source": "https://www.shigotomo.jp/contents/articles/keisagyo",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1/EC1",
+      "value": 0.66,
+      "tooltip": "物流 仕分け きつい > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
     }
   ]
 }

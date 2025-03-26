@@ -5,14 +5,14 @@
       "name": "倉庫 仕分け きつい"
     },
     {
-      "id": "/contents/articles/keisagyo-haken-hard",
-      "name": "/contents/articles/keisagyo-haken-hard"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard"
     }
   ],
   "links": [
     {
       "source": "倉庫 仕分け きつい",
-      "target": "/contents/articles/keisagyo-haken-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-haken-hard",
       "value": 1,
       "tooltip": "倉庫 仕分け きつい > /contents/articles/keisagyo-haken-hard"
     }

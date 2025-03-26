@@ -5,25 +5,25 @@
       "name": "ピッキング 改善事例"
     },
     {
-      "id": "/contents/articles/temporary-picking-beginner",
-      "name": "/contents/articles/temporary-picking-beginner"
+      "id": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner",
+      "name": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner"
     },
     {
-      "id": "/zenkoku/MC7",
-      "name": "/zenkoku/MC7"
+      "id": "https://www.shigotomo.jp/zenkoku/MC7",
+      "name": "https://www.shigotomo.jp/zenkoku/MC7"
     }
   ],
   "links": [
     {
       "source": "ピッキング 改善事例",
-      "target": "/contents/articles/temporary-picking-beginner",
+      "target": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner",
       "value": 1,
       "tooltip": "ピッキング 改善事例 > /contents/articles/temporary-picking-beginner"
     },
     {
-      "source": "/contents/articles/temporary-picking-beginner",
-      "target": "/zenkoku/MC7",
-      "value": 1,
+      "source": "https://www.shigotomo.jp/contents/articles/temporary-picking-beginner",
+      "target": "https://www.shigotomo.jp/zenkoku/MC7",
+      "value": 0.63,
       "tooltip": "ピッキング 改善事例 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7"
     }
   ]

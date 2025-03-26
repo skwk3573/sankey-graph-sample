@@ -5,14 +5,14 @@
       "name": "販売 海老名"
     },
     {
-      "id": "/kyujin/15696",
-      "name": "/kyujin/15696"
+      "id": "https://www.shigotomo.jp/kyujin/15696",
+      "name": "https://www.shigotomo.jp/kyujin/15696"
     }
   ],
   "links": [
     {
       "source": "販売 海老名",
-      "target": "/kyujin/15696",
+      "target": "https://www.shigotomo.jp/kyujin/15696",
       "value": 1,
       "tooltip": "販売 海老名 > /kyujin/15696"
     }

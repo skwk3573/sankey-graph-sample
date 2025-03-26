@@ -5,14 +5,14 @@
       "name": "工場 女性"
     },
     {
-      "id": "/contents/articles/koujohaken-woman-demerit",
-      "name": "/contents/articles/koujohaken-woman-demerit"
+      "id": "https://www.shigotomo.jp/contents/articles/koujohaken-woman-demerit",
+      "name": "https://www.shigotomo.jp/contents/articles/koujohaken-woman-demerit"
     }
   ],
   "links": [
     {
       "source": "工場 女性",
-      "target": "/contents/articles/koujohaken-woman-demerit",
+      "target": "https://www.shigotomo.jp/contents/articles/koujohaken-woman-demerit",
       "value": 1,
       "tooltip": "工場 女性 > /contents/articles/koujohaken-woman-demerit"
     }

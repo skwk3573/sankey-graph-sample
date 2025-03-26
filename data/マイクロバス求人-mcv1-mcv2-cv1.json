@@ -5,14 +5,14 @@
       "name": "マイクロバス求人"
     },
     {
-      "id": "/kyujin/2404",
-      "name": "/kyujin/2404"
+      "id": "https://www.shigotomo.jp/kyujin/2404",
+      "name": "https://www.shigotomo.jp/kyujin/2404"
     }
   ],
   "links": [
     {
       "source": "マイクロバス求人",
-      "target": "/kyujin/2404",
+      "target": "https://www.shigotomo.jp/kyujin/2404",
       "value": 3,
       "tooltip": "マイクロバス求人 > /kyujin/2404"
     }

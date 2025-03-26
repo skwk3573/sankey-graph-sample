@@ -5,14 +5,14 @@
       "name": "狭山市求人50代"
     },
     {
-      "id": "/kyujin/11110",
-      "name": "/kyujin/11110"
+      "id": "https://www.shigotomo.jp/kyujin/11110",
+      "name": "https://www.shigotomo.jp/kyujin/11110"
     }
   ],
   "links": [
     {
       "source": "狭山市求人50代",
-      "target": "/kyujin/11110",
+      "target": "https://www.shigotomo.jp/kyujin/11110",
       "value": 1,
       "tooltip": "狭山市求人50代 > /kyujin/11110"
     }

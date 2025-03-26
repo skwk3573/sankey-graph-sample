@@ -5,26 +5,16 @@
       "name": "仕事着 女性 動きやすい"
     },
     {
-      "id": "/contents/articles/keisagyou-hukusouwoman",
-      "name": "/contents/articles/keisagyou-hukusouwoman"
-    },
-    {
-      "id": "/keep",
-      "name": "/keep"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman"
     }
   ],
   "links": [
     {
       "source": "仕事着 女性 動きやすい",
-      "target": "/contents/articles/keisagyou-hukusouwoman",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
       "value": 19,
       "tooltip": "仕事着 女性 動きやすい > /contents/articles/keisagyou-hukusouwoman"
-    },
-    {
-      "source": "/contents/articles/keisagyou-hukusouwoman",
-      "target": "/keep",
-      "value": 3,
-      "tooltip": "仕事着 女性 動きやすい > /contents/articles/keisagyou-hukusouwoman > /keep"
     }
   ]
 }

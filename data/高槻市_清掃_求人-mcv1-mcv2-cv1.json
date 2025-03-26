@@ -5,14 +5,14 @@
       "name": "高槻市 清掃 求人"
     },
     {
-      "id": "/kyujin/17114",
-      "name": "/kyujin/17114"
+      "id": "https://www.shigotomo.jp/kyujin/17114",
+      "name": "https://www.shigotomo.jp/kyujin/17114"
     }
   ],
   "links": [
     {
       "source": "高槻市 清掃 求人",
-      "target": "/kyujin/17114",
+      "target": "https://www.shigotomo.jp/kyujin/17114",
       "value": 1,
       "tooltip": "高槻市 清掃 求人 > /kyujin/17114"
     }

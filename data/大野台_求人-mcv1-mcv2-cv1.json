@@ -5,14 +5,14 @@
       "name": "大野台 求人"
     },
     {
-      "id": "/kyujin/11624",
-      "name": "/kyujin/11624"
+      "id": "https://www.shigotomo.jp/kyujin/11624",
+      "name": "https://www.shigotomo.jp/kyujin/11624"
     }
   ],
   "links": [
     {
       "source": "大野台 求人",
-      "target": "/kyujin/11624",
+      "target": "https://www.shigotomo.jp/kyujin/11624",
       "value": 2,
       "tooltip": "大野台 求人 > /kyujin/11624"
     }

@@ -5,46 +5,26 @@
       "name": "動きやすい服装 女性 バイト"
     },
     {
-      "id": "/contents/articles/keisagyo-wear",
-      "name": "/contents/articles/keisagyo-wear"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyo-wear",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyo-wear"
     },
     {
-      "id": "/contents/articles/keisagyou-hukusouwoman",
-      "name": "/contents/articles/keisagyou-hukusouwoman"
-    },
-    {
-      "id": "/keep",
-      "name": "/keep"
-    },
-    {
-      "id": "/zenkoku/MC1/EC1",
-      "name": "/zenkoku/MC1/EC1"
+      "id": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
+      "name": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman"
     }
   ],
   "links": [
     {
       "source": "動きやすい服装 女性 バイト",
-      "target": "/contents/articles/keisagyo-wear",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyo-wear",
       "value": 2,
       "tooltip": "動きやすい服装 女性 バイト > /contents/articles/keisagyo-wear"
     },
     {
       "source": "動きやすい服装 女性 バイト",
-      "target": "/contents/articles/keisagyou-hukusouwoman",
+      "target": "https://www.shigotomo.jp/contents/articles/keisagyou-hukusouwoman",
       "value": 6,
       "tooltip": "動きやすい服装 女性 バイト > /contents/articles/keisagyou-hukusouwoman"
-    },
-    {
-      "source": "/contents/articles/keisagyou-hukusouwoman",
-      "target": "/keep",
-      "value": 1,
-      "tooltip": "動きやすい服装 女性 バイト > /contents/articles/keisagyou-hukusouwoman > /keep"
-    },
-    {
-      "source": "/contents/articles/keisagyo-wear",
-      "target": "/zenkoku/MC1/EC1",
-      "value": 1,
-      "tooltip": "動きやすい服装 女性 バイト > /contents/articles/keisagyo-wear > /zenkoku/MC1/EC1"
     }
   ]
 }

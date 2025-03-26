@@ -5,36 +5,26 @@
       "name": "派遣工場"
     },
     {
-      "id": "/contents/articles/factorytour",
-      "name": "/contents/articles/factorytour"
+      "id": "https://www.shigotomo.jp/contents/articles/factorytour",
+      "name": "https://www.shigotomo.jp/contents/articles/factorytour"
     },
     {
-      "id": "/contents/articles/factory-haken-hard",
-      "name": "/contents/articles/factory-haken-hard"
-    },
-    {
-      "id": "/zenkoku/EC1/FW工場",
-      "name": "/zenkoku/EC1/FW工場"
+      "id": "https://www.shigotomo.jp/contents/articles/factory-haken-hard",
+      "name": "https://www.shigotomo.jp/contents/articles/factory-haken-hard"
     }
   ],
   "links": [
     {
       "source": "派遣工場",
-      "target": "/contents/articles/factorytour",
+      "target": "https://www.shigotomo.jp/contents/articles/factorytour",
       "value": 1,
       "tooltip": "派遣工場 > /contents/articles/factorytour"
     },
     {
       "source": "派遣工場",
-      "target": "/contents/articles/factory-haken-hard",
+      "target": "https://www.shigotomo.jp/contents/articles/factory-haken-hard",
       "value": 5,
       "tooltip": "派遣工場 > /contents/articles/factory-haken-hard"
-    },
-    {
-      "source": "/contents/articles/factory-haken-hard",
-      "target": "/zenkoku/EC1/FW工場",
-      "value": 1,
-      "tooltip": "派遣工場 > /contents/articles/factory-haken-hard > /zenkoku/EC1/FW工場"
     }
   ]
 }

@@ -5,14 +5,14 @@
       "name": "新潟市 求人 50代 女性"
     },
     {
-      "id": "/kyujin/15496",
-      "name": "/kyujin/15496"
+      "id": "https://www.shigotomo.jp/kyujin/15496",
+      "name": "https://www.shigotomo.jp/kyujin/15496"
     }
   ],
   "links": [
     {
       "source": "新潟市 求人 50代 女性",
-      "target": "/kyujin/15496",
+      "target": "https://www.shigotomo.jp/kyujin/15496",
       "value": 2,
       "tooltip": "新潟市 求人 50代 女性 > /kyujin/15496"
     }

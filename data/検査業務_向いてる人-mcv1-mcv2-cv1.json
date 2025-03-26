@@ -5,14 +5,14 @@
       "name": "検査業務 向いてる人"
     },
     {
-      "id": "/contents/articles/kenpin-muiteiru",
-      "name": "/contents/articles/kenpin-muiteiru"
+      "id": "https://www.shigotomo.jp/contents/articles/kenpin-muiteiru",
+      "name": "https://www.shigotomo.jp/contents/articles/kenpin-muiteiru"
     }
   ],
   "links": [
     {
       "source": "検査業務 向いてる人",
-      "target": "/contents/articles/kenpin-muiteiru",
+      "target": "https://www.shigotomo.jp/contents/articles/kenpin-muiteiru",
       "value": 1,
       "tooltip": "検査業務 向いてる人 > /contents/articles/kenpin-muiteiru"
     }

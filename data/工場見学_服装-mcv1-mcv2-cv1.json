@@ -5,92 +5,76 @@
       "name": "工場見学 服装"
     },
     {
-      "id": "/contents/articles/interview-clothes",
-      "name": "/contents/articles/interview-clothes"
+      "id": "https://www.shigotomo.jp/contents/articles/interview-clothes",
+      "name": "https://www.shigotomo.jp/contents/articles/interview-clothes"
     },
     {
-      "id": "/contents/articles/Factory-dispatch-apparel",
-      "name": "/contents/articles/Factory-dispatch-apparel"
+      "id": "https://www.shigotomo.jp/contents/articles/Factory-dispatch-apparel",
+      "name": "https://www.shigotomo.jp/contents/articles/Factory-dispatch-apparel"
     },
     {
-      "id": "/zenkoku/MC1",
-      "name": "/zenkoku/MC1"
+      "id": "https://www.shigotomo.jp/zenkoku/MC1",
+      "name": "https://www.shigotomo.jp/zenkoku/MC1"
     },
     {
-      "id": "/zenkoku/EC1/FW工場",
-      "name": "/zenkoku/EC1/FW工場"
+      "id": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "name": "https://www.shigotomo.jp/zenkoku/EC1/FW工場"
     },
     {
-      "id": "/apply/535",
-      "name": "/apply/535"
+      "id": "https://www.shigotomo.jp/kyujin/search-detail",
+      "name": "https://www.shigotomo.jp/kyujin/search-detail"
     },
     {
-      "id": "/kyujin/search-detail",
-      "name": "/kyujin/search-detail"
+      "id": "https://www.shigotomo.jp/kyujin/16312",
+      "name": "https://www.shigotomo.jp/kyujin/16312"
     },
     {
-      "id": "/apply/confirm",
-      "name": "/apply/confirm"
-    },
-    {
-      "id": "/apply/complete",
-      "name": "/apply/complete"
+      "id": "https://www.shigotomo.jp/apply/16312",
+      "name": "https://www.shigotomo.jp/apply/16312"
     }
   ],
   "links": [
     {
       "source": "工場見学 服装",
-      "target": "/contents/articles/interview-clothes",
+      "target": "https://www.shigotomo.jp/contents/articles/interview-clothes",
       "value": 30,
       "tooltip": "工場見学 服装 > /contents/articles/interview-clothes"
     },
     {
       "source": "工場見学 服装",
-      "target": "/contents/articles/Factory-dispatch-apparel",
+      "target": "https://www.shigotomo.jp/contents/articles/Factory-dispatch-apparel",
       "value": 3,
       "tooltip": "工場見学 服装 > /contents/articles/Factory-dispatch-apparel"
     },
     {
-      "source": "/contents/articles/interview-clothes",
-      "target": "/zenkoku/MC1",
-      "value": 5,
+      "source": "https://www.shigotomo.jp/contents/articles/interview-clothes",
+      "target": "https://www.shigotomo.jp/zenkoku/MC1",
+      "value": 6.32,
       "tooltip": "工場見学 服装 > /contents/articles/interview-clothes > /zenkoku/MC1"
     },
     {
-      "source": "/contents/articles/interview-clothes",
-      "target": "/zenkoku/EC1/FW工場",
-      "value": 3,
+      "source": "https://www.shigotomo.jp/contents/articles/interview-clothes",
+      "target": "https://www.shigotomo.jp/zenkoku/EC1/FW工場",
+      "value": 1.58,
       "tooltip": "工場見学 服装 > /contents/articles/interview-clothes > /zenkoku/EC1/FW工場"
     },
     {
-      "source": "/contents/articles/interview-clothes",
-      "target": "/apply/535",
-      "value": 2,
-      "tooltip": "工場見学 服装 > /contents/articles/interview-clothes > /apply/535"
-    },
-    {
-      "source": "/zenkoku/MC1",
-      "target": "/kyujin/search-detail",
-      "value": 2,
+      "source": "https://www.shigotomo.jp/zenkoku/MC1",
+      "target": "https://www.shigotomo.jp/kyujin/search-detail",
+      "value": 2.53,
       "tooltip": "工場見学 服装 > /contents/articles/interview-clothes > /zenkoku/MC1 > /kyujin/search-detail"
     },
     {
-      "source": "/zenkoku/EC1/FW工場",
-      "target": "/kyujin/search-detail",
-      "value": 1,
-      "tooltip": "工場見学 服装 > /contents/articles/interview-clothes > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
+      "source": "https://www.shigotomo.jp/zenkoku/MC1",
+      "target": "https://www.shigotomo.jp/kyujin/16312",
+      "value": 0.51,
+      "tooltip": "工場見学 服装 > /contents/articles/interview-clothes > /zenkoku/MC1 > /kyujin/16312"
     },
     {
-      "source": "/apply/535",
-      "target": "/apply/confirm",
-      "value": 2,
-      "tooltip": "工場見学 服装 > /contents/articles/interview-clothes > /apply/535 > /apply/confirm"
-    },
-    {
-      "source": "/apply/confirm",
-      "target": "/apply/complete",
-      "value": 2,
-      "tooltip": "工場見学 服装 > /contents/articles/interview-clothes > /apply/535 > /apply/confirm > /apply/complete"
+      "source": "https://www.shigotomo.jp/kyujin/16312",
+      "target": "https://www.shigotomo.jp/apply/16312",
+      "value": 0.51,
+      "tooltip": "工場見学 服装 > /contents/articles/interview-clothes > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
     }
   ]
 }

@@ -5,14 +5,14 @@
       "name": "長沼工場求人伊勢崎"
     },
     {
-      "id": "/kyujin/15731",
-      "name": "/kyujin/15731"
+      "id": "https://www.shigotomo.jp/kyujin/15731",
+      "name": "https://www.shigotomo.jp/kyujin/15731"
     }
   ],
   "links": [
     {
       "source": "長沼工場求人伊勢崎",
-      "target": "/kyujin/15731",
+      "target": "https://www.shigotomo.jp/kyujin/15731",
       "value": 1,
       "tooltip": "長沼工場求人伊勢崎 > /kyujin/15731"
     }
