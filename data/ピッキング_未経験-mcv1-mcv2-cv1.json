@@ -35,25 +35,25 @@
     {
       "source": "/contents/articles/temporary-picking-beginner",
       "target": "/zenkoku/MC7",
-      "value": 10.63,
+      "value": 0.22,
       "tooltip": "ピッキング 未経験 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7"
     },
     {
       "source": "/contents/articles/temporary-picking-beginner",
       "target": "/zenkoku/MC7/EC1",
-      "value": 2.13,
+      "value": 0.04,
       "tooltip": "ピッキング 未経験 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7/EC1"
     },
     {
       "source": "/zenkoku/MC7",
       "target": "/kyujin/search-detail",
-      "value": 1.52,
+      "value": 0.01,
       "tooltip": "ピッキング 未経験 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC7/EC1",
       "target": "/kyujin/16532",
-      "value": 0.35,
+      "value": 0.01,
       "tooltip": "ピッキング 未経験 > /contents/articles/temporary-picking-beginner > /zenkoku/MC7/EC1 > /kyujin/16532"
     }
   ]

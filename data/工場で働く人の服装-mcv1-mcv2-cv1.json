@@ -31,13 +31,13 @@
     {
       "source": "/contents/articles/Factory-dispatch-apparel",
       "target": "/zenkoku/EC1/FW工場",
-      "value": 0.13,
+      "value": 0,
       "tooltip": "工場で働く人の服装 > /contents/articles/Factory-dispatch-apparel > /zenkoku/EC1/FW工場"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/search-detail",
-      "value": 0.03,
+      "value": 0,
       "tooltip": "工場で働く人の服装 > /contents/articles/Factory-dispatch-apparel > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
     },
     {

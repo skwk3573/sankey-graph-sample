@@ -39,37 +39,37 @@
     {
       "source": "/contents/articles/keisagyo",
       "target": "/zenkoku/MC1",
-      "value": 0.26,
+      "value": 0.01,
       "tooltip": "歩き回る仕事 > /contents/articles/keisagyo > /zenkoku/MC1"
     },
     {
       "source": "/contents/articles/keisagyo",
       "target": "/zenkoku/MC1/EC1",
-      "value": 0.66,
+      "value": 0.03,
       "tooltip": "歩き回る仕事 > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/search-detail",
-      "value": 0.1,
+      "value": 0,
       "tooltip": "歩き回る仕事 > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/16312",
-      "value": 0.02,
+      "value": 0,
       "tooltip": "歩き回る仕事 > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/16312"
     },
     {
       "source": "/zenkoku/MC1/EC1",
       "target": "/kyujin/search-detail",
-      "value": 0.14,
+      "value": 0,
       "tooltip": "歩き回る仕事 > /contents/articles/keisagyo > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     },
     {
       "source": "/kyujin/16312",
       "target": "/apply/16312",
-      "value": 0.02,
+      "value": 0,
       "tooltip": "歩き回る仕事 > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
     }
   ]

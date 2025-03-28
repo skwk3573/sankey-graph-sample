@@ -136,8 +136,8 @@ function drawSankeyChart(data, containerId, title) {
             
             // 計算用の値を調整（例：最小値を設定）
             // const calculationValue = Math.sqrt(actualValue, 10); // 最小値を10に設定
-            const calculationValue = Math.sqrt(actualValue) * 3; // 平方根を取って5倍
-            
+            // const calculationValue = Math.sqrt(actualValue) * 10; // 平方根を取って5倍
+            const calculationValue = Math.log(actualValue + 10) * 20;
             return {
                 source: nodeById[link.source],
                 target: nodeById[link.target],

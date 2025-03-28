@@ -45,49 +45,49 @@
     {
       "source": "/contents/articles/temporary-picking-hard",
       "target": "/zenkoku/MC7",
-      "value": 6.67,
+      "value": 0.09,
       "tooltip": "派遣 ピッキング > /contents/articles/temporary-picking-hard > /zenkoku/MC7"
     },
     {
       "source": "/contents/articles/temporary-picking-hard",
       "target": "/zenkoku/MC7/EC1",
-      "value": 8.89,
+      "value": 0.12,
       "tooltip": "派遣 ピッキング > /contents/articles/temporary-picking-hard > /zenkoku/MC7/EC1"
     },
     {
       "source": "/contents/articles/temporary-picking-beginner",
       "target": "/zenkoku/MC7",
-      "value": 1.25,
+      "value": 0.03,
       "tooltip": "派遣 ピッキング > /contents/articles/temporary-picking-beginner > /zenkoku/MC7"
     },
     {
       "source": "/contents/articles/temporary-picking-beginner",
       "target": "/zenkoku/MC7/EC1",
-      "value": 0.25,
+      "value": 0.01,
       "tooltip": "派遣 ピッキング > /contents/articles/temporary-picking-beginner > /zenkoku/MC7/EC1"
     },
     {
       "source": "/zenkoku/MC7",
       "target": "/kyujin/search-detail",
-      "value": 0.95,
+      "value": 0.01,
       "tooltip": "派遣 ピッキング > /contents/articles/temporary-picking-hard > /zenkoku/MC7 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC7",
       "target": "/kyujin/search-detail",
-      "value": 0.18,
+      "value": 0,
       "tooltip": "派遣 ピッキング > /contents/articles/temporary-picking-beginner > /zenkoku/MC7 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC7/EC1",
       "target": "/kyujin/16532",
-      "value": 1.48,
+      "value": 0.01,
       "tooltip": "派遣 ピッキング > /contents/articles/temporary-picking-hard > /zenkoku/MC7/EC1 > /kyujin/16532"
     },
     {
       "source": "/zenkoku/MC7/EC1",
       "target": "/kyujin/16532",
-      "value": 0.04,
+      "value": 0,
       "tooltip": "派遣 ピッキング > /contents/articles/temporary-picking-beginner > /zenkoku/MC7/EC1 > /kyujin/16532"
     }
   ]

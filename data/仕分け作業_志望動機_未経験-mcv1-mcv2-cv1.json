@@ -39,31 +39,31 @@
     {
       "source": "/contents/articles/keisagyo-shiboudouki",
       "target": "/apply/535",
-      "value": 2.08,
+      "value": 0.01,
       "tooltip": "仕分け作業 志望動機 未経験 > /contents/articles/keisagyo-shiboudouki > /apply/535"
     },
     {
       "source": "/contents/articles/keisagyo-shiboudouki",
       "target": "/zenkoku/MC1/EC1",
-      "value": 2.08,
+      "value": 0.01,
       "tooltip": "仕分け作業 志望動機 未経験 > /contents/articles/keisagyo-shiboudouki > /zenkoku/MC1/EC1"
     },
     {
       "source": "/zenkoku/MC1/EC1",
       "target": "/kyujin/search-detail",
-      "value": 0.44,
+      "value": 0,
       "tooltip": "仕分け作業 志望動機 未経験 > /contents/articles/keisagyo-shiboudouki > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     },
     {
       "source": "/apply/535",
       "target": "/apply/confirm",
-      "value": 2.08,
+      "value": 0.01,
       "tooltip": "仕分け作業 志望動機 未経験 > /contents/articles/keisagyo-shiboudouki > /apply/535 > /apply/confirm"
     },
     {
       "source": "/apply/confirm",
       "target": "/apply/complete",
-      "value": 1.54,
+      "value": 0.01,
       "tooltip": "仕分け作業 志望動機 未経験 > /contents/articles/keisagyo-shiboudouki > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]

@@ -1,4 +1,20 @@
 {
-  "nodes": [],
-  "links": []
+  "nodes": [
+    {
+      "id": "新宿 コンビニ バイト",
+      "name": "新宿 コンビニ バイト"
+    },
+    {
+      "id": "/kyujin/15896",
+      "name": "/kyujin/15896"
+    }
+  ],
+  "links": [
+    {
+      "source": "新宿 コンビニ バイト",
+      "target": "/kyujin/15896",
+      "value": 1,
+      "tooltip": "新宿 コンビニ バイト > /kyujin/15896"
+    }
+  ]
 }

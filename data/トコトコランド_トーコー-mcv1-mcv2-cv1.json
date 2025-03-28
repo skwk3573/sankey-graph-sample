@@ -161,103 +161,103 @@
     {
       "source": "/contents/merit/1",
       "target": "/zenkoku/SC16",
-      "value": 0.04,
+      "value": 0.02,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/SC16"
     },
     {
       "source": "/contents/merit/1",
       "target": "/zenkoku/MC12",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/MC12"
     },
     {
       "source": "/contents/merit/1",
       "target": "/zenkoku/MC7",
-      "value": 0.07,
+      "value": 0.04,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/MC7"
     },
     {
       "source": "/contents/merit/1",
       "target": "/zenkoku/MC2",
-      "value": 0.11,
+      "value": 0.07,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/MC2"
     },
     {
       "source": "/contents/merit/1",
       "target": "/zenkoku/MC5",
-      "value": 0.05,
+      "value": 0.03,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/MC5"
     },
     {
       "source": "/contents/merit/1",
       "target": "/zenkoku/MC10",
-      "value": 0.03,
+      "value": 0.02,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/MC10"
     },
     {
       "source": "/contents/merit/1",
       "target": "/zenkoku/MC6",
-      "value": 0.02,
+      "value": 0.01,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/MC6"
     },
     {
       "source": "/contents/merit/1",
       "target": "/zenkoku/MC8",
-      "value": 0.04,
+      "value": 0.02,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/MC8"
     },
     {
       "source": "/contents/merit/1",
       "target": "/zenkoku/MC9",
-      "value": 0.05,
+      "value": 0.03,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/MC9"
     },
     {
       "source": "/contents/merit/1",
       "target": "/zenkoku/SC20",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/SC20"
     },
     {
       "source": "/contents/merit/1",
       "target": "/zenkoku/SC21",
-      "value": 0.02,
+      "value": 0.01,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/SC21"
     },
     {
       "source": "/contents/merit/1",
       "target": "/zenkoku/SC25",
-      "value": 0.02,
+      "value": 0.01,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/SC25"
     },
     {
       "source": "/contents/merit/1",
       "target": "/zenkoku/SC24",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/SC24"
     },
     {
       "source": "/contents/merit/1",
       "target": "/zenkoku/SC27",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/SC27"
     },
     {
       "source": "/contents/merit/1",
       "target": "/zenkoku/SC26",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/SC26"
     },
     {
       "source": "/contents/merit/1",
       "target": "/zenkoku/SC9",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/SC9"
     },
     {
       "source": "/contents/merit/1",
       "target": "/zenkoku/SC19",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/SC19"
     },
     {
@@ -329,19 +329,19 @@
     {
       "source": "/zenkoku/MC2",
       "target": "/kyujin/9842",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/MC2 > /kyujin/9842"
     },
     {
       "source": "/zenkoku/MC2",
       "target": "/kyujin/16722",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/MC2 > /kyujin/16722"
     },
     {
       "source": "/zenkoku/MC2",
       "target": "/kyujin/3195",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/MC2 > /kyujin/3195"
     },
     {
@@ -353,19 +353,19 @@
     {
       "source": "/zenkoku/SC24",
       "target": "/kyujin/13147",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/SC24 > /kyujin/13147"
     },
     {
       "source": "/zenkoku/MC7",
       "target": "/kyujin/search-detail",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/MC7 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC9",
       "target": "/kyujin/search-detail",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /zenkoku/MC9 > /kyujin/search-detail"
     },
     {
@@ -377,7 +377,7 @@
     {
       "source": "/apply/confirm",
       "target": "/apply/complete",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "トコトコランド トーコー > /contents/merit/1 > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]

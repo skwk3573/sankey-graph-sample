@@ -1065,10 +1065,6 @@
       "name": "/zenkoku/FW茨木市豊原"
     },
     {
-      "id": "/zenkoku/FW%2fFKIM32517303",
-      "name": "/zenkoku/FW%2fFKIM32517303"
-    },
-    {
       "id": "/zenkoku/FWHSFY1800359U50",
       "name": "/zenkoku/FWHSFY1800359U50"
     },
@@ -2733,7 +2729,7 @@
     {
       "source": "/",
       "target": "/zenkoku/DC27210",
-      "value": 0.01,
+      "value": 0.02,
       "tooltip": "派遣 トーコー > / > /zenkoku/DC27210"
     },
     {
@@ -2775,13 +2771,13 @@
     {
       "source": "/",
       "target": "/kyujin/search-detail",
-      "value": 0.01,
+      "value": 0.02,
       "tooltip": "派遣 トーコー > / > /kyujin/search-detail"
     },
     {
       "source": "/",
       "target": "/zenkoku/PC15",
-      "value": 0.04,
+      "value": 0.06,
       "tooltip": "派遣 トーコー > / > /zenkoku/PC15"
     },
     {
@@ -2793,7 +2789,7 @@
     {
       "source": "/",
       "target": "/zenkoku/DC25211",
-      "value": 0,
+      "value": 0.01,
       "tooltip": "派遣 トーコー > / > /zenkoku/DC25211"
     },
     {
@@ -2949,7 +2945,7 @@
     {
       "source": "/",
       "target": "/zenkoku/DC27207",
-      "value": 0,
+      "value": 0.01,
       "tooltip": "派遣 トーコー > / > /zenkoku/DC27207"
     },
     {
@@ -2991,7 +2987,7 @@
     {
       "source": "/",
       "target": "/zenkoku/PM156",
-      "value": 0,
+      "value": 0.01,
       "tooltip": "派遣 トーコー > / > /zenkoku/PM156"
     },
     {
@@ -3129,7 +3125,7 @@
     {
       "source": "/",
       "target": "/zenkoku/SC16",
-      "value": 0.01,
+      "value": 0.02,
       "tooltip": "派遣 トーコー > / > /zenkoku/SC16"
     },
     {
@@ -3243,7 +3239,7 @@
     {
       "source": "/",
       "target": "/zenkoku/SC2",
-      "value": 0,
+      "value": 0.01,
       "tooltip": "派遣 トーコー > / > /zenkoku/SC2"
     },
     {
@@ -3681,7 +3677,7 @@
     {
       "source": "/",
       "target": "/zenkoku/DC23228",
-      "value": 0,
+      "value": 0.01,
       "tooltip": "派遣 トーコー > / > /zenkoku/DC23228"
     },
     {
@@ -4271,12 +4267,6 @@
       "target": "/zenkoku/FW茨木市豊原",
       "value": 0,
       "tooltip": "派遣 トーコー > / > /zenkoku/FW茨木市豊原"
-    },
-    {
-      "source": "/",
-      "target": "/zenkoku/FW%2fFKIM32517303",
-      "value": 0,
-      "tooltip": "派遣 トーコー > / > /zenkoku/FW%2fFKIM32517303"
     },
     {
       "source": "/",
@@ -6243,7 +6233,7 @@
     {
       "source": "/zenkoku/DC23228",
       "target": "/kyujin/16260",
-      "value": 0,
+      "value": 0.01,
       "tooltip": "派遣 トーコー > / > /zenkoku/DC23228 > /kyujin/16260"
     },
     {

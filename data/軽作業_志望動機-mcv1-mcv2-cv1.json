@@ -33,37 +33,37 @@
     {
       "source": "軽作業 志望動機",
       "target": "/contents/articles/keisagyo-shiboudouki",
-      "value": 225,
+      "value": 228,
       "tooltip": "軽作業 志望動機 > /contents/articles/keisagyo-shiboudouki"
     },
     {
       "source": "/contents/articles/keisagyo-shiboudouki",
       "target": "/apply/535",
-      "value": 18.75,
+      "value": 0.13,
       "tooltip": "軽作業 志望動機 > /contents/articles/keisagyo-shiboudouki > /apply/535"
     },
     {
       "source": "/contents/articles/keisagyo-shiboudouki",
       "target": "/zenkoku/MC1/EC1",
-      "value": 18.75,
+      "value": 0.13,
       "tooltip": "軽作業 志望動機 > /contents/articles/keisagyo-shiboudouki > /zenkoku/MC1/EC1"
     },
     {
       "source": "/zenkoku/MC1/EC1",
       "target": "/kyujin/search-detail",
-      "value": 3.99,
+      "value": 0.02,
       "tooltip": "軽作業 志望動機 > /contents/articles/keisagyo-shiboudouki > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     },
     {
       "source": "/apply/535",
       "target": "/apply/confirm",
-      "value": 18.75,
+      "value": 0.13,
       "tooltip": "軽作業 志望動機 > /contents/articles/keisagyo-shiboudouki > /apply/535 > /apply/confirm"
     },
     {
       "source": "/apply/confirm",
       "target": "/apply/complete",
-      "value": 13.89,
+      "value": 0.07,
       "tooltip": "軽作業 志望動機 > /contents/articles/keisagyo-shiboudouki > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]

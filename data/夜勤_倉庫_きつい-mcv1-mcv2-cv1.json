@@ -35,25 +35,25 @@
     {
       "source": "/contents/articles/temporary-picking-hard",
       "target": "/zenkoku/MC7",
-      "value": 1.33,
+      "value": 0.02,
       "tooltip": "夜勤 倉庫 きつい > /contents/articles/temporary-picking-hard > /zenkoku/MC7"
     },
     {
       "source": "/contents/articles/temporary-picking-hard",
       "target": "/zenkoku/MC7/EC1",
-      "value": 1.78,
+      "value": 0.02,
       "tooltip": "夜勤 倉庫 きつい > /contents/articles/temporary-picking-hard > /zenkoku/MC7/EC1"
     },
     {
       "source": "/zenkoku/MC7",
       "target": "/kyujin/search-detail",
-      "value": 0.19,
+      "value": 0,
       "tooltip": "夜勤 倉庫 きつい > /contents/articles/temporary-picking-hard > /zenkoku/MC7 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC7/EC1",
       "target": "/kyujin/16532",
-      "value": 0.3,
+      "value": 0,
       "tooltip": "夜勤 倉庫 きつい > /contents/articles/temporary-picking-hard > /zenkoku/MC7/EC1 > /kyujin/16532"
     }
   ]

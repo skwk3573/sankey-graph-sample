@@ -39,37 +39,37 @@
     {
       "source": "/contents/articles/keisagyo",
       "target": "/zenkoku/MC1",
-      "value": 0.77,
+      "value": 0.03,
       "tooltip": "パート 単純作業 > /contents/articles/keisagyo > /zenkoku/MC1"
     },
     {
       "source": "/contents/articles/keisagyo",
       "target": "/zenkoku/MC1/EC1",
-      "value": 1.98,
+      "value": 0.08,
       "tooltip": "パート 単純作業 > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/search-detail",
-      "value": 0.31,
+      "value": 0.01,
       "tooltip": "パート 単純作業 > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/16312",
-      "value": 0.06,
+      "value": 0,
       "tooltip": "パート 単純作業 > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/16312"
     },
     {
       "source": "/zenkoku/MC1/EC1",
       "target": "/kyujin/search-detail",
-      "value": 0.42,
+      "value": 0.01,
       "tooltip": "パート 単純作業 > /contents/articles/keisagyo > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     },
     {
       "source": "/kyujin/16312",
       "target": "/apply/16312",
-      "value": 0.06,
+      "value": 0,
       "tooltip": "パート 単純作業 > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
     }
   ]

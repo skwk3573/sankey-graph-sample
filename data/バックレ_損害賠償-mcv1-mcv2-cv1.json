@@ -43,37 +43,37 @@
     {
       "source": "/contents/articles/koujohaken-bakkure-taisho",
       "target": "/apply/535",
-      "value": 0.33,
+      "value": 0.01,
       "tooltip": "バックレ 損害賠償 > /contents/articles/koujohaken-bakkure-taisho > /apply/535"
     },
     {
       "source": "/contents/articles/koujohaken-bakkure-taisho",
       "target": "/zenkoku/EC1/FW工場",
-      "value": 1,
+      "value": 0.04,
       "tooltip": "バックレ 損害賠償 > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/EC1/FW工場"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/search-detail",
-      "value": 0.21,
+      "value": 0,
       "tooltip": "バックレ 損害賠償 > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/17069",
-      "value": 0.03,
+      "value": 0,
       "tooltip": "バックレ 損害賠償 > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/EC1/FW工場 > /kyujin/17069"
     },
     {
       "source": "/apply/535",
       "target": "/apply/confirm",
-      "value": 0.33,
+      "value": 0.01,
       "tooltip": "バックレ 損害賠償 > /contents/articles/koujohaken-bakkure-taisho > /apply/535 > /apply/confirm"
     },
     {
       "source": "/apply/confirm",
       "target": "/apply/complete",
-      "value": 0.25,
+      "value": 0.01,
       "tooltip": "バックレ 損害賠償 > /contents/articles/koujohaken-bakkure-taisho > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]

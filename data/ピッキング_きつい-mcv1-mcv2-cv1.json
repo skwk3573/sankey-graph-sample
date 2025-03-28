@@ -35,25 +35,25 @@
     {
       "source": "/contents/articles/temporary-picking-hard",
       "target": "/zenkoku/MC7",
-      "value": 98.67,
+      "value": 1.33,
       "tooltip": "ピッキング きつい > /contents/articles/temporary-picking-hard > /zenkoku/MC7"
     },
     {
       "source": "/contents/articles/temporary-picking-hard",
       "target": "/zenkoku/MC7/EC1",
-      "value": 131.56,
+      "value": 1.77,
       "tooltip": "ピッキング きつい > /contents/articles/temporary-picking-hard > /zenkoku/MC7/EC1"
     },
     {
       "source": "/zenkoku/MC7",
       "target": "/kyujin/search-detail",
-      "value": 14.1,
+      "value": 0.08,
       "tooltip": "ピッキング きつい > /contents/articles/temporary-picking-hard > /zenkoku/MC7 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC7/EC1",
       "target": "/kyujin/16532",
-      "value": 21.93,
+      "value": 0.22,
       "tooltip": "ピッキング きつい > /contents/articles/temporary-picking-hard > /zenkoku/MC7/EC1 > /kyujin/16532"
     }
   ]

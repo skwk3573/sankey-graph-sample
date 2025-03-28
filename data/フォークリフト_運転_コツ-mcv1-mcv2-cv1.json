@@ -31,19 +31,19 @@
     {
       "source": "/contents/articles/koujohaken-forklift-tired",
       "target": "/apply/535",
-      "value": 0.33,
+      "value": 0.01,
       "tooltip": "フォークリフト 運転 コツ > /contents/articles/koujohaken-forklift-tired > /apply/535"
     },
     {
       "source": "/apply/535",
       "target": "/apply/confirm",
-      "value": 0.33,
+      "value": 0.01,
       "tooltip": "フォークリフト 運転 コツ > /contents/articles/koujohaken-forklift-tired > /apply/535 > /apply/confirm"
     },
     {
       "source": "/apply/confirm",
       "target": "/apply/complete",
-      "value": 0.25,
+      "value": 0.01,
       "tooltip": "フォークリフト 運転 コツ > /contents/articles/koujohaken-forklift-tired > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]

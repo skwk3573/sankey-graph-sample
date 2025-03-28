@@ -1,4 +1,20 @@
 {
-  "nodes": [],
-  "links": []
+  "nodes": [
+    {
+      "id": "トーコー 枚方",
+      "name": "トーコー 枚方"
+    },
+    {
+      "id": "/policy",
+      "name": "/policy"
+    }
+  ],
+  "links": [
+    {
+      "source": "トーコー 枚方",
+      "target": "/policy",
+      "value": 1,
+      "tooltip": "トーコー 枚方 > /policy"
+    }
+  ]
 }

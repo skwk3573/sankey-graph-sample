@@ -31,19 +31,19 @@
     {
       "source": "/contents/articles/factory-haken-woman",
       "target": "/zenkoku/EC1/FW工場",
-      "value": 0.33,
+      "value": 0.03,
       "tooltip": "派遣 工場 女性 > /contents/articles/factory-haken-woman > /zenkoku/EC1/FW工場"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/search-detail",
-      "value": 0.07,
+      "value": 0,
       "tooltip": "派遣 工場 女性 > /contents/articles/factory-haken-woman > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/17069",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "派遣 工場 女性 > /contents/articles/factory-haken-woman > /zenkoku/EC1/FW工場 > /kyujin/17069"
     }
   ]

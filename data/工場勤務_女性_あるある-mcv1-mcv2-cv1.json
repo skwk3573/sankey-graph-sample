@@ -31,19 +31,19 @@
     {
       "source": "/contents/articles/koujohaken-woman-demerit",
       "target": "/zenkoku/EC1/FW工場",
-      "value": 0.44,
+      "value": 0.05,
       "tooltip": "工場勤務 女性 あるある > /contents/articles/koujohaken-woman-demerit > /zenkoku/EC1/FW工場"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/search-detail",
-      "value": 0.09,
+      "value": 0.01,
       "tooltip": "工場勤務 女性 あるある > /contents/articles/koujohaken-woman-demerit > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/17069",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "工場勤務 女性 あるある > /contents/articles/koujohaken-woman-demerit > /zenkoku/EC1/FW工場 > /kyujin/17069"
     }
   ]

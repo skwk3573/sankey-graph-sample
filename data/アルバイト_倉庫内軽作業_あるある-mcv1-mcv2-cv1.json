@@ -51,55 +51,55 @@
     {
       "source": "/contents/articles/keisagyo-haken-hard",
       "target": "/zenkoku/MC1",
-      "value": 0.93,
+      "value": 0.05,
       "tooltip": "アルバイト 倉庫内軽作業 あるある > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1"
     },
     {
       "source": "/contents/articles/keisagyo-haken-hard",
       "target": "/apply/535",
-      "value": 0.31,
+      "value": 0.02,
       "tooltip": "アルバイト 倉庫内軽作業 あるある > /contents/articles/keisagyo-haken-hard > /apply/535"
     },
     {
       "source": "/contents/articles/keisagyo-haken-hard",
       "target": "/zenkoku/MC1/EC1",
-      "value": 2.68,
+      "value": 0.15,
       "tooltip": "アルバイト 倉庫内軽作業 あるある > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/search-detail",
-      "value": 0.37,
+      "value": 0.01,
       "tooltip": "アルバイト 倉庫内軽作業 あるある > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/16312",
-      "value": 0.07,
+      "value": 0,
       "tooltip": "アルバイト 倉庫内軽作業 あるある > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/16312"
     },
     {
       "source": "/zenkoku/MC1/EC1",
       "target": "/kyujin/search-detail",
-      "value": 0.57,
+      "value": 0.02,
       "tooltip": "アルバイト 倉庫内軽作業 あるある > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     },
     {
       "source": "/kyujin/16312",
       "target": "/apply/16312",
-      "value": 0.07,
+      "value": 0,
       "tooltip": "アルバイト 倉庫内軽作業 あるある > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
     },
     {
       "source": "/apply/535",
       "target": "/apply/confirm",
-      "value": 0.31,
+      "value": 0.02,
       "tooltip": "アルバイト 倉庫内軽作業 あるある > /contents/articles/keisagyo-haken-hard > /apply/535 > /apply/confirm"
     },
     {
       "source": "/apply/confirm",
       "target": "/apply/complete",
-      "value": 0.23,
+      "value": 0.01,
       "tooltip": "アルバイト 倉庫内軽作業 あるある > /contents/articles/keisagyo-haken-hard > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]

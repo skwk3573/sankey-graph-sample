@@ -61,91 +61,91 @@
     {
       "source": "/contents/articles/keisagyo-haken-hard",
       "target": "/zenkoku/MC1",
-      "value": 0.74,
+      "value": 0.04,
       "tooltip": "軽作業 バイト きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1"
     },
     {
       "source": "/contents/articles/keisagyo-haken-hard",
       "target": "/apply/535",
-      "value": 0.25,
+      "value": 0.01,
       "tooltip": "軽作業 バイト きつい > /contents/articles/keisagyo-haken-hard > /apply/535"
     },
     {
       "source": "/contents/articles/keisagyo-haken-hard",
       "target": "/zenkoku/MC1/EC1",
-      "value": 2.14,
+      "value": 0.12,
       "tooltip": "軽作業 バイト きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1"
     },
     {
       "source": "/contents/articles/keisagyo",
       "target": "/zenkoku/MC1",
-      "value": 67.66,
+      "value": 2.62,
       "tooltip": "軽作業 バイト きつい > /contents/articles/keisagyo > /zenkoku/MC1"
     },
     {
       "source": "/contents/articles/keisagyo",
       "target": "/zenkoku/MC1/EC1",
-      "value": 174.79,
+      "value": 6.77,
       "tooltip": "軽作業 バイト きつい > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/search-detail",
-      "value": 0.3,
+      "value": 0.01,
       "tooltip": "軽作業 バイト きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/search-detail",
-      "value": 27.06,
+      "value": 0.49,
       "tooltip": "軽作業 バイト きつい > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/16312",
-      "value": 0.06,
+      "value": 0,
       "tooltip": "軽作業 バイト きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/16312"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/16312",
-      "value": 5.41,
+      "value": 0.1,
       "tooltip": "軽作業 バイト きつい > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/16312"
     },
     {
       "source": "/zenkoku/MC1/EC1",
       "target": "/kyujin/search-detail",
-      "value": 0.46,
+      "value": 0.02,
       "tooltip": "軽作業 バイト きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC1/EC1",
       "target": "/kyujin/search-detail",
-      "value": 37.19,
+      "value": 0.95,
       "tooltip": "軽作業 バイト きつい > /contents/articles/keisagyo > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     },
     {
       "source": "/kyujin/16312",
       "target": "/apply/16312",
-      "value": 0.06,
+      "value": 0,
       "tooltip": "軽作業 バイト きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
     },
     {
       "source": "/kyujin/16312",
       "target": "/apply/16312",
-      "value": 5.41,
+      "value": 0.1,
       "tooltip": "軽作業 バイト きつい > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
     },
     {
       "source": "/apply/535",
       "target": "/apply/confirm",
-      "value": 0.25,
+      "value": 0.01,
       "tooltip": "軽作業 バイト きつい > /contents/articles/keisagyo-haken-hard > /apply/535 > /apply/confirm"
     },
     {
       "source": "/apply/confirm",
       "target": "/apply/complete",
-      "value": 0.18,
+      "value": 0.01,
       "tooltip": "軽作業 バイト きつい > /contents/articles/keisagyo-haken-hard > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]

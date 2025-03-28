@@ -31,13 +31,13 @@
     {
       "source": "/contents/articles/factory-haken-hard",
       "target": "/zenkoku/EC1/FW工場",
-      "value": 0.04,
+      "value": 0,
       "tooltip": "派遣 辛い > /contents/articles/factory-haken-hard > /zenkoku/EC1/FW工場"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/search-detail",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "派遣 辛い > /contents/articles/factory-haken-hard > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
     },
     {

@@ -61,91 +61,91 @@
     {
       "source": "/contents/articles/keisagyo-haken-hard",
       "target": "/zenkoku/MC1",
-      "value": 0.09,
+      "value": 0.01,
       "tooltip": "単純作業 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1"
     },
     {
       "source": "/contents/articles/keisagyo-haken-hard",
       "target": "/apply/535",
-      "value": 0.03,
+      "value": 0,
       "tooltip": "単純作業 きつい > /contents/articles/keisagyo-haken-hard > /apply/535"
     },
     {
       "source": "/contents/articles/keisagyo-haken-hard",
       "target": "/zenkoku/MC1/EC1",
-      "value": 0.27,
+      "value": 0.02,
       "tooltip": "単純作業 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1"
     },
     {
       "source": "/contents/articles/keisagyo",
       "target": "/zenkoku/MC1",
-      "value": 1.53,
+      "value": 0.06,
       "tooltip": "単純作業 きつい > /contents/articles/keisagyo > /zenkoku/MC1"
     },
     {
       "source": "/contents/articles/keisagyo",
       "target": "/zenkoku/MC1/EC1",
-      "value": 3.96,
+      "value": 0.15,
       "tooltip": "単純作業 きつい > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/search-detail",
-      "value": 0.04,
+      "value": 0,
       "tooltip": "単純作業 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/search-detail",
-      "value": 0.61,
+      "value": 0.01,
       "tooltip": "単純作業 きつい > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/16312",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "単純作業 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/16312"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/16312",
-      "value": 0.12,
+      "value": 0,
       "tooltip": "単純作業 きつい > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/16312"
     },
     {
       "source": "/zenkoku/MC1/EC1",
       "target": "/kyujin/search-detail",
-      "value": 0.06,
+      "value": 0,
       "tooltip": "単純作業 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC1/EC1",
       "target": "/kyujin/search-detail",
-      "value": 0.84,
+      "value": 0.02,
       "tooltip": "単純作業 きつい > /contents/articles/keisagyo > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     },
     {
       "source": "/kyujin/16312",
       "target": "/apply/16312",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "単純作業 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
     },
     {
       "source": "/kyujin/16312",
       "target": "/apply/16312",
-      "value": 0.12,
+      "value": 0,
       "tooltip": "単純作業 きつい > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
     },
     {
       "source": "/apply/535",
       "target": "/apply/confirm",
-      "value": 0.03,
+      "value": 0,
       "tooltip": "単純作業 きつい > /contents/articles/keisagyo-haken-hard > /apply/535 > /apply/confirm"
     },
     {
       "source": "/apply/confirm",
       "target": "/apply/complete",
-      "value": 0.02,
+      "value": 0,
       "tooltip": "単純作業 きつい > /contents/articles/keisagyo-haken-hard > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]

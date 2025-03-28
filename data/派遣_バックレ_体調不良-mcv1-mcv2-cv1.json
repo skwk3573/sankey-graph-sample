@@ -43,37 +43,37 @@
     {
       "source": "/contents/articles/koujohaken-bakkure-taisho",
       "target": "/apply/535",
-      "value": 0.5,
+      "value": 0.02,
       "tooltip": "派遣 バックレ 体調不良 > /contents/articles/koujohaken-bakkure-taisho > /apply/535"
     },
     {
       "source": "/contents/articles/koujohaken-bakkure-taisho",
       "target": "/zenkoku/EC1/FW工場",
-      "value": 1.5,
+      "value": 0.05,
       "tooltip": "派遣 バックレ 体調不良 > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/EC1/FW工場"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/search-detail",
-      "value": 0.31,
+      "value": 0.01,
       "tooltip": "派遣 バックレ 体調不良 > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/17069",
-      "value": 0.04,
+      "value": 0,
       "tooltip": "派遣 バックレ 体調不良 > /contents/articles/koujohaken-bakkure-taisho > /zenkoku/EC1/FW工場 > /kyujin/17069"
     },
     {
       "source": "/apply/535",
       "target": "/apply/confirm",
-      "value": 0.5,
+      "value": 0.02,
       "tooltip": "派遣 バックレ 体調不良 > /contents/articles/koujohaken-bakkure-taisho > /apply/535 > /apply/confirm"
     },
     {
       "source": "/apply/confirm",
       "target": "/apply/complete",
-      "value": 0.37,
+      "value": 0.01,
       "tooltip": "派遣 バックレ 体調不良 > /contents/articles/koujohaken-bakkure-taisho > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]

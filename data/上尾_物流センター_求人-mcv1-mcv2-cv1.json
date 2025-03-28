@@ -41,19 +41,19 @@
     {
       "source": "/kyujin/6320",
       "target": "/apply/6320",
-      "value": 0.8,
+      "value": 0.21,
       "tooltip": "上尾 物流センター 求人 > /kyujin/6320 > /apply/6320"
     },
     {
       "source": "/apply/6320",
       "target": "/apply/confirm",
-      "value": 0.8,
+      "value": 0.21,
       "tooltip": "上尾 物流センター 求人 > /kyujin/6320 > /apply/6320 > /apply/confirm"
     },
     {
       "source": "/apply/confirm",
       "target": "/apply/complete",
-      "value": 0.59,
+      "value": 0.11,
       "tooltip": "上尾 物流センター 求人 > /kyujin/6320 > /apply/6320 > /apply/confirm > /apply/complete"
     }
   ]

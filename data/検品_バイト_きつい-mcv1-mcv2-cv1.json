@@ -35,25 +35,25 @@
     {
       "source": "/contents/articles/kenpinsagyo-kitsui",
       "target": "/apply/535",
-      "value": 0.13,
+      "value": 0.01,
       "tooltip": "検品 バイト きつい > /contents/articles/kenpinsagyo-kitsui > /apply/535"
     },
     {
       "source": "/contents/articles/kenpinsagyo-kitsui",
       "target": "/zenkoku/MC5/EC1",
-      "value": 0.13,
+      "value": 0.01,
       "tooltip": "検品 バイト きつい > /contents/articles/kenpinsagyo-kitsui > /zenkoku/MC5/EC1"
     },
     {
       "source": "/apply/535",
       "target": "/apply/confirm",
-      "value": 0.13,
+      "value": 0.01,
       "tooltip": "検品 バイト きつい > /contents/articles/kenpinsagyo-kitsui > /apply/535 > /apply/confirm"
     },
     {
       "source": "/apply/confirm",
       "target": "/apply/complete",
-      "value": 0.09,
+      "value": 0,
       "tooltip": "検品 バイト きつい > /contents/articles/kenpinsagyo-kitsui > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]

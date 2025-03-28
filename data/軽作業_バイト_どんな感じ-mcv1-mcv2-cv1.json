@@ -39,37 +39,37 @@
     {
       "source": "/contents/articles/keisagyo",
       "target": "/zenkoku/MC1",
-      "value": 9.45,
+      "value": 0.37,
       "tooltip": "軽作業 バイト どんな感じ > /contents/articles/keisagyo > /zenkoku/MC1"
     },
     {
       "source": "/contents/articles/keisagyo",
       "target": "/zenkoku/MC1/EC1",
-      "value": 24.4,
+      "value": 0.94,
       "tooltip": "軽作業 バイト どんな感じ > /contents/articles/keisagyo > /zenkoku/MC1/EC1"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/search-detail",
-      "value": 3.78,
+      "value": 0.07,
       "tooltip": "軽作業 バイト どんな感じ > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/16312",
-      "value": 0.76,
+      "value": 0.01,
       "tooltip": "軽作業 バイト どんな感じ > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/16312"
     },
     {
       "source": "/zenkoku/MC1/EC1",
       "target": "/kyujin/search-detail",
-      "value": 5.19,
+      "value": 0.13,
       "tooltip": "軽作業 バイト どんな感じ > /contents/articles/keisagyo > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     },
     {
       "source": "/kyujin/16312",
       "target": "/apply/16312",
-      "value": 0.76,
+      "value": 0.01,
       "tooltip": "軽作業 バイト どんな感じ > /contents/articles/keisagyo > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
     }
   ]

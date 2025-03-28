@@ -47,49 +47,49 @@
     {
       "source": "/contents/articles/koujohaken-daredemo-ukaru",
       "target": "/zenkoku/PC27/FW工場　派遣",
-      "value": 1.09,
+      "value": 0.08,
       "tooltip": "派遣 コミュニケーション能力 低い > /contents/articles/koujohaken-daredemo-ukaru > /zenkoku/PC27/FW工場　派遣"
     },
     {
       "source": "/contents/articles/koujohaken-daredemo-ukaru",
       "target": "/zenkoku/SC8",
-      "value": 0.18,
+      "value": 0.01,
       "tooltip": "派遣 コミュニケーション能力 低い > /contents/articles/koujohaken-daredemo-ukaru > /zenkoku/SC8"
     },
     {
       "source": "/zenkoku/SC8",
       "target": "/kyujin/search-detail",
-      "value": 0.14,
+      "value": 0,
       "tooltip": "派遣 コミュニケーション能力 低い > /contents/articles/koujohaken-daredemo-ukaru > /zenkoku/SC8 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/PC27/FW工場　派遣",
       "target": "/kyujin/search-detail",
-      "value": 0.36,
+      "value": 0.01,
       "tooltip": "派遣 コミュニケーション能力 低い > /contents/articles/koujohaken-daredemo-ukaru > /zenkoku/PC27/FW工場　派遣 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/PC27/FW工場　派遣",
       "target": "/kyujin/16717",
-      "value": 0.09,
+      "value": 0,
       "tooltip": "派遣 コミュニケーション能力 低い > /contents/articles/koujohaken-daredemo-ukaru > /zenkoku/PC27/FW工場　派遣 > /kyujin/16717"
     },
     {
       "source": "/zenkoku/PC27/FW工場　派遣",
       "target": "/kyujin/16875",
-      "value": 0.09,
+      "value": 0,
       "tooltip": "派遣 コミュニケーション能力 低い > /contents/articles/koujohaken-daredemo-ukaru > /zenkoku/PC27/FW工場　派遣 > /kyujin/16875"
     },
     {
       "source": "/zenkoku/PC27/FW工場　派遣",
       "target": "/kyujin/17094",
-      "value": 0.09,
+      "value": 0,
       "tooltip": "派遣 コミュニケーション能力 低い > /contents/articles/koujohaken-daredemo-ukaru > /zenkoku/PC27/FW工場　派遣 > /kyujin/17094"
     },
     {
       "source": "/zenkoku/PC27/FW工場　派遣",
       "target": "/kyujin/9917",
-      "value": 0.09,
+      "value": 0,
       "tooltip": "派遣 コミュニケーション能力 低い > /contents/articles/koujohaken-daredemo-ukaru > /zenkoku/PC27/FW工場　派遣 > /kyujin/9917"
     }
   ]

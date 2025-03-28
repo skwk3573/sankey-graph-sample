@@ -31,19 +31,19 @@
     {
       "source": "/contents/articles/factory-haken-hard",
       "target": "/zenkoku/EC1/FW工場",
-      "value": 0.3,
+      "value": 0.01,
       "tooltip": "派遣 きつい 仕事ばかり > /contents/articles/factory-haken-hard > /zenkoku/EC1/FW工場"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/search-detail",
-      "value": 0.06,
+      "value": 0,
       "tooltip": "派遣 きつい 仕事ばかり > /contents/articles/factory-haken-hard > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/17069",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "派遣 きつい 仕事ばかり > /contents/articles/factory-haken-hard > /zenkoku/EC1/FW工場 > /kyujin/17069"
     }
   ]

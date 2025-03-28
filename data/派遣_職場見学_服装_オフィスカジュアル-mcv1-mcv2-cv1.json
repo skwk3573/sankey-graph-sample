@@ -43,43 +43,43 @@
     {
       "source": "/contents/articles/interview-clothes",
       "target": "/zenkoku/MC1",
-      "value": 2.95,
+      "value": 0.03,
       "tooltip": "派遣 職場見学 服装 オフィスカジュアル > /contents/articles/interview-clothes > /zenkoku/MC1"
     },
     {
       "source": "/contents/articles/interview-clothes",
       "target": "/zenkoku/EC1/FW工場",
-      "value": 0.74,
+      "value": 0.01,
       "tooltip": "派遣 職場見学 服装 オフィスカジュアル > /contents/articles/interview-clothes > /zenkoku/EC1/FW工場"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/search-detail",
-      "value": 1.18,
+      "value": 0,
       "tooltip": "派遣 職場見学 服装 オフィスカジュアル > /contents/articles/interview-clothes > /zenkoku/MC1 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/16312",
-      "value": 0.24,
+      "value": 0,
       "tooltip": "派遣 職場見学 服装 オフィスカジュアル > /contents/articles/interview-clothes > /zenkoku/MC1 > /kyujin/16312"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/search-detail",
-      "value": 0.15,
+      "value": 0,
       "tooltip": "派遣 職場見学 服装 オフィスカジュアル > /contents/articles/interview-clothes > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/17069",
-      "value": 0.02,
+      "value": 0,
       "tooltip": "派遣 職場見学 服装 オフィスカジュアル > /contents/articles/interview-clothes > /zenkoku/EC1/FW工場 > /kyujin/17069"
     },
     {
       "source": "/kyujin/16312",
       "target": "/apply/16312",
-      "value": 0.24,
+      "value": 0,
       "tooltip": "派遣 職場見学 服装 オフィスカジュアル > /contents/articles/interview-clothes > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
     }
   ]

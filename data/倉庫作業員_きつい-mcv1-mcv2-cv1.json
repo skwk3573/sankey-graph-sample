@@ -51,55 +51,55 @@
     {
       "source": "/contents/articles/keisagyo-haken-hard",
       "target": "/zenkoku/MC1",
-      "value": 0.19,
+      "value": 0.01,
       "tooltip": "倉庫作業員 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1"
     },
     {
       "source": "/contents/articles/keisagyo-haken-hard",
       "target": "/apply/535",
-      "value": 0.06,
+      "value": 0,
       "tooltip": "倉庫作業員 きつい > /contents/articles/keisagyo-haken-hard > /apply/535"
     },
     {
       "source": "/contents/articles/keisagyo-haken-hard",
       "target": "/zenkoku/MC1/EC1",
-      "value": 0.54,
+      "value": 0.03,
       "tooltip": "倉庫作業員 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/search-detail",
-      "value": 0.07,
+      "value": 0,
       "tooltip": "倉庫作業員 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/16312",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "倉庫作業員 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/16312"
     },
     {
       "source": "/zenkoku/MC1/EC1",
       "target": "/kyujin/search-detail",
-      "value": 0.11,
+      "value": 0,
       "tooltip": "倉庫作業員 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1/EC1 > /kyujin/search-detail"
     },
     {
       "source": "/kyujin/16312",
       "target": "/apply/16312",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "倉庫作業員 きつい > /contents/articles/keisagyo-haken-hard > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
     },
     {
       "source": "/apply/535",
       "target": "/apply/confirm",
-      "value": 0.06,
+      "value": 0,
       "tooltip": "倉庫作業員 きつい > /contents/articles/keisagyo-haken-hard > /apply/535 > /apply/confirm"
     },
     {
       "source": "/apply/confirm",
       "target": "/apply/complete",
-      "value": 0.05,
+      "value": 0,
       "tooltip": "倉庫作業員 きつい > /contents/articles/keisagyo-haken-hard > /apply/535 > /apply/confirm > /apply/complete"
     }
   ]

@@ -31,19 +31,19 @@
     {
       "source": "/contents/articles/temporary-reasons-applying",
       "target": "/zenkoku/EC1/FW工場",
-      "value": 2.55,
+      "value": 0.02,
       "tooltip": "派遣から正社員 志望動機 工場 > /contents/articles/temporary-reasons-applying > /zenkoku/EC1/FW工場"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/search-detail",
-      "value": 0.52,
+      "value": 0,
       "tooltip": "派遣から正社員 志望動機 工場 > /contents/articles/temporary-reasons-applying > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/17069",
-      "value": 0.07,
+      "value": 0,
       "tooltip": "派遣から正社員 志望動機 工場 > /contents/articles/temporary-reasons-applying > /zenkoku/EC1/FW工場 > /kyujin/17069"
     }
   ]

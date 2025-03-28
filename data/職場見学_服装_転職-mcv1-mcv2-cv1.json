@@ -43,31 +43,31 @@
     {
       "source": "/contents/articles/interview-clothes",
       "target": "/zenkoku/MC1",
-      "value": 0.21,
+      "value": 0,
       "tooltip": "職場見学 服装 転職 > /contents/articles/interview-clothes > /zenkoku/MC1"
     },
     {
       "source": "/contents/articles/interview-clothes",
       "target": "/zenkoku/EC1/FW工場",
-      "value": 0.05,
+      "value": 0,
       "tooltip": "職場見学 服装 転職 > /contents/articles/interview-clothes > /zenkoku/EC1/FW工場"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/search-detail",
-      "value": 0.08,
+      "value": 0,
       "tooltip": "職場見学 服装 転職 > /contents/articles/interview-clothes > /zenkoku/MC1 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/MC1",
       "target": "/kyujin/16312",
-      "value": 0.02,
+      "value": 0,
       "tooltip": "職場見学 服装 転職 > /contents/articles/interview-clothes > /zenkoku/MC1 > /kyujin/16312"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/search-detail",
-      "value": 0.01,
+      "value": 0,
       "tooltip": "職場見学 服装 転職 > /contents/articles/interview-clothes > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
     },
     {
@@ -79,7 +79,7 @@
     {
       "source": "/kyujin/16312",
       "target": "/apply/16312",
-      "value": 0.02,
+      "value": 0,
       "tooltip": "職場見学 服装 転職 > /contents/articles/interview-clothes > /zenkoku/MC1 > /kyujin/16312 > /apply/16312"
     }
   ]

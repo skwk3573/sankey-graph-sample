@@ -41,19 +41,19 @@
     {
       "source": "/contents/articles/Factory-dispatch-apparel",
       "target": "/zenkoku/EC1/FW工場",
-      "value": 0.77,
+      "value": 0.02,
       "tooltip": "動きやすい服装 仕事 > /contents/articles/Factory-dispatch-apparel > /zenkoku/EC1/FW工場"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/search-detail",
-      "value": 0.16,
+      "value": 0,
       "tooltip": "動きやすい服装 仕事 > /contents/articles/Factory-dispatch-apparel > /zenkoku/EC1/FW工場 > /kyujin/search-detail"
     },
     {
       "source": "/zenkoku/EC1/FW工場",
       "target": "/kyujin/17069",
-      "value": 0.02,
+      "value": 0,
       "tooltip": "動きやすい服装 仕事 > /contents/articles/Factory-dispatch-apparel > /zenkoku/EC1/FW工場 > /kyujin/17069"
     }
   ]
