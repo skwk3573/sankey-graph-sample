@@ -58,7 +58,7 @@ function drawSankeyChart(data, containerId, title) {
     controlDiv.append("input")
         .attr("type", "range")
         .attr("min", "500")
-        .attr("max", "2000")
+        .attr("max", "12000")
         .attr("step", "100")
         .attr("value", chartHeight)
         .attr("class", "height-slider")
@@ -174,7 +174,7 @@ function drawSankeyChart(data, containerId, title) {
         stagePositions.sort((a, b) => a - b);
         
         // 段階ラベルを設定（オプション）
-        const stageLabels = ["検索", "調査", "評価", "決定", "コンバージョン"];
+        const stageLabels = ["検索", "情報収集", "評価検討", "意思決定", "mCV1", "mCV2", "CV1"];
         
         // 段階の区切り線と段階ラベルを追加
         if (stagePositions.length > 0) {
